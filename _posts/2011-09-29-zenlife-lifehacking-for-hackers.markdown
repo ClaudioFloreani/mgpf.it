@@ -1,27 +1,12 @@
 --- 
 layout: post
 title: "ZenLife: LifeHacking for Hackers"
-published: true
-meta: 
-  wordbooker_options: "a:11:{s:18:\"wordbook_noncename\";s:10:\"abd018988c\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"2\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"200\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:8:\"BlogPost\";s:24:\"wordbooker_status_update\";s:2:\"on\";s:29:\"wordbooker_status_update_text\";s:26:\": Post :  %title% - %link%\";s:20:\"wordbook_comment_get\";s:2:\"on\";}"
-  wordbooker_thumb: ""
-  _jd_post_meta_fixed: "true"
-  _edit_last: "1"
-  _wp_jd_wp: ""
-  _wp_jd_yourls: ""
-  wordbooker_extract: "Durante l'[ESC][1] di quest'anno ho fatto uno speech un po' particolare: invece di parlare semplicemente di tecnologia mi sono concentrato su una serie di \"cose\" che negli anni ho imparato ed utilizzato per la gestione della mia vita e della produttivi ..."
-  _wp_jd_clig: ""
-  _wp_jd_bitly: ""
-  _jd_twitter: ""
-  _jd_tweet_this: "yes"
-  _jd_wp_twitter: ""
-  _wp_jd_target: ""
-  _wp_jd_url: ""
-tags: 
+meta: {}
+tags:
 - about me
-- MakesMeHope
+- hope
+- zenlife
 type: post
-status: publish
 ---
 Durante l'[ESC][1] di quest'anno ho fatto uno speech un po' particolare: invece di parlare semplicemente di tecnologia mi sono concentrato su una serie di "cose" che negli anni ho imparato ed utilizzato per la gestione della mia vita e della produttività. Ma anche di spiritualità, trucchi, massime.  
 
@@ -30,8 +15,8 @@ Ho cercato di condensare in un'oretta e mezza di conversazione la mia visione di
 Non sono un medico, non sono uno psicologo e soprattutto non sono un docente di meditazione e/o di buddhismo. Centianaia di cose in questo video possono essere (e probabilmente sono) sbagliate, fuorvianti, pericolose o imprecise. Vedetela non come la verità, ma come la mia piccola personale dose di verità. Prendetela come spunto per cercare i VOSTRI valori, le VOSTRE metodologie e le VOSTRE credenze.  
   
 Eccovi l'oretta e mezza di video:  
-  
-<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/EaIG46nClqs?hd=1" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/EaIG46nClqs?hd=1" frameborder="0"></iframe>
 
 Ed ecco le Slide pubblicate a vostra disposizione:  
 

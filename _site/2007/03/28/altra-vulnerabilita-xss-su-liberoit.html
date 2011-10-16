@@ -10,7 +10,7 @@
     <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
     <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
     <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
-    <title>Alex Payne &mdash; Altra Vulnerabilit� XSS su Libero.it</title>
+    <title>Altra Vulnerabilit� XSS su Libero.it  &mdash;  Matteo Flora su mgpf.it</title>
     <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18477555-1']);
@@ -27,74 +27,61 @@
   <body>
     <header>
       <h1 id="title">
-        <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
+        Sono <a href="/about.html" title="About">Matteo Flora</a> e qui <a href="/" title="Home">scrivo</a>.
       </h1>
       <h2 id="subtitle">
-        See also the <a href="/archive.html" title="Archive">archive</a>,
-        <a href="/books_talks.html">books & talks</a>.
+        Da <a href="/archive.html" title="Imprenditore">innovatore</a>, <a href="/video.html" title="Video">imprenditore</a> e
+        <a href="/lifehacking/">lifehacker</a>.
       </h2>
     </header>
     <div id="fusionad">
   <small>advertisement</small>
-  <script type='text/javascript'><!--//<![CDATA[
-     var m3_u = (location.protocol=='https:'?'https://adn.fusionads.net/www/pull/get.php':'http://adn.fusionads.net/www/pull/get.php');
-     var m3_r = Math.floor(Math.random()*99999999999);
-     if (!document.MAX_used) document.MAX_used = ',';
-     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-     document.write ("?zoneid=38&amp;charset=UTF-8&amp;withtext=1");
-     document.write ('&amp;cb=' + m3_r);
-     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-     document.write ('&amp;charset=UTF-8');
-     document.write ("&amp;loc=" + escape(window.location));
-     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-     if (document.context) document.write ("&context=" + escape(document.context));
-     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-     document.write ("'><\/scr"+"ipt>");
-  //]]>--></script>
-  <br />
-  <a href="http://fusionads.net" title="Powered by Fusion Ads">POWERED by FUSION</a>
 </div>
     <div id="wrapper">
-      <h2 id="intro">An individual post follows.</h2>
+      <h2 id="intro">Altra Vulnerabilit� XSS su Libero.it</h2>
 <article class="post">
-Dopo la [vulnerabilità di Rosario Valotta](http://www.lastknight.com/2007/03/27/liberoit-e-xss-pericolo-credenziali/) che avevo segnalato è ora di proporre la mia vulnerabilità **personale** ;)  
-Con un [Advisory](http://www.lastknight.com/xss-libero) su [BugTraq](http://www.securityfocus.com/archive/1/464048/30/0/threaded) e su [Full-Disclosure](http://seclists.org/fulldisclosure/2007/Mar/0492.html) (e ovviamente all'Abuse di Libero.it) la **Proof Of Concept** di una pagina costruita per:  
-  
-*  Mostrare il **Cookie** dell'utente
-*  Mostrare un **testo** in alert evadendo i controlli degli apici
-*  Effettuare **un redirect ad una pagina arbitraria**  
-  
-Ed ecco un paio di immagini della realizzazione pratica:  
+<p>Dopo la <a href="http://www.lastknight.com/2007/03/27/liberoit-e-xss-pericolo-credenziali/">vulnerabilità di Rosario Valotta</a> che avevo segnalato è ora di proporre la mia vulnerabilità <strong>personale</strong> ;)<br />
+Con un <a href="http://www.lastknight.com/xss-libero">Advisory</a> su <a href="http://www.securityfocus.com/archive/1/464048/30/0/threaded">BugTraq</a> e su <a href="http://seclists.org/fulldisclosure/2007/Mar/0492.html">Full-Disclosure</a> (e ovviamente all&rsquo;Abuse di Libero.it) la <strong>Proof Of Concept</strong> di una pagina costruita per:  </p>
 
-*  [Immagine 1](/download/20070328_xss1.jpg): mostro il cookie
-*  [Immagine 2](/download/20070328_xss2.jpg): Mi preparo a redirigere l'utente  
-  
-La vulnerabilità è presente (ma non è la sola) nella pagina di redazione del profilo e consente di inserire un qualunque codice Javascript con l'unica limitazione della impossibilità di **usare apici**.  
-Ma l'evasione di questi filtri è sinceramente una manovra **tanto semplice quanto comune**...  
-  
-Sino a che Libero non eliminerà la pagina incriminata è possibile vedere gli effetti [QUI](http://digiland.libero.it/profilo.phtml?nick=XssForFun&top=1)e comunque nelle immagini presenti in questo Post.  
-  
-E prima che qualcuno dica che l'XSS **non è pericoloso**, come ovviamente hanno sostenuto gli incaricati della PR di Libero, faccio solamente notare le potenzialità di Phishing e di Session Riding che so per certo qualcuno sta valutando ;)  
-  
-E nei prossimi giorni sembra proprio che verranno pubblicate svariate altre vulnerabilità sull'argomento Libero.it...  
-  
-Sarebbe piacevole ricevere contatti dallo **Staff del Portale** per poter coordinare i lavori, ma a parte il Call Center non **risponde mai nessuno** di tecnico...  
-Ben disponibile a **dare una mano**, se possibile, ma per ora l'unica **dimostrazione effettiva** è che l'episodio precedente non è né isolato né tanto meno unico...
-  
-**UPDATE:** Sembra che nella mattinata del 29 il problema da me segnalato sia stato risolto e che quindi il link della POC non sia più funzionante.  Per chi non è riuscito a dare un'occhiata qui di seguito il filmato che mostra il funzionamento della POC.  
-  
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/PMWlCK09C-U"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/PMWlCK09C-U" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object> 
+<ul>
+  <li>Mostrare il <strong>Cookie</strong> dell&rsquo;utente</li>
+  <li>Mostrare un <strong>testo</strong> in alert evadendo i controlli degli apici</li>
+  <li>Effettuare <strong>un redirect ad una pagina arbitraria</strong>  </li>
+</ul>
+
+<p>Ed ecco un paio di immagini della realizzazione pratica:  </p>
+
+<ul>
+  <li><a href="/download/20070328_xss1.jpg">Immagine 1</a>: mostro il cookie</li>
+  <li><a href="/download/20070328_xss2.jpg">Immagine 2</a>: Mi preparo a redirigere l&rsquo;utente  </li>
+</ul>
+
+<p>La vulnerabilità è presente (ma non è la sola) nella pagina di redazione del profilo e consente di inserire un qualunque codice Javascript con l&rsquo;unica limitazione della impossibilità di <strong>usare apici</strong>.<br />
+Ma l&rsquo;evasione di questi filtri è sinceramente una manovra <strong>tanto semplice quanto comune</strong>&hellip;  </p>
+
+<p>Sino a che Libero non eliminerà la pagina incriminata è possibile vedere gli effetti <a href="http://digiland.libero.it/profilo.phtml?nick=XssForFun&amp;top=1">QUI</a>e comunque nelle immagini presenti in questo Post.  </p>
+
+<p>E prima che qualcuno dica che l&rsquo;XSS <strong>non è pericoloso</strong>, come ovviamente hanno sostenuto gli incaricati della PR di Libero, faccio solamente notare le potenzialità di Phishing e di Session Riding che so per certo qualcuno sta valutando ;)  </p>
+
+<p>E nei prossimi giorni sembra proprio che verranno pubblicate svariate altre vulnerabilità sull&rsquo;argomento Libero.it&hellip;  </p>
+
+<p>Sarebbe piacevole ricevere contatti dallo <strong>Staff del Portale</strong> per poter coordinare i lavori, ma a parte il Call Center non <strong>risponde mai nessuno</strong> di tecnico&hellip;<br />
+Ben disponibile a <strong>dare una mano</strong>, se possibile, ma per ora l&rsquo;unica <strong>dimostrazione effettiva</strong> è che l&rsquo;episodio precedente non è né isolato né tanto meno unico&hellip;</p>
+
+<p><strong>UPDATE:</strong> Sembra che nella mattinata del 29 il problema da me segnalato sia stato risolto e che quindi il link della POC non sia più funzionante.  Per chi non è riuscito a dare un&rsquo;occhiata qui di seguito il filmato che mostra il funzionamento della POC.  </p>
+
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/PMWlCK09C-U" /><param name="wmode" value="transparent" /><embed src="http://www.youtube.com/v/PMWlCK09C-U" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350" /></object>
 
 <time class="signoff" datetime="2007-03-28">
-  &mdash;Mar 28, 2007
+  28/03/2007 com i tag: hackingSecurity and Intelligence 
 </time>
 </article>
 
       <footer id="footer">
         <a href="/" title="Home">Home</a> &bull;
-        <a href="/about.html" title="About the author and site">About</a> &bull;
-        <a href="/archive.html" title="Archived writing">Archive</a> &bull;
-        <a href="/books_talks.html" title="Books and talks">Books & Talks</a>
+        <a href="/about.html" title="About the author and site">Chi Sono</a> &bull;
+        <a href="/archive.html" title="Archived writing">Archivio</a> &bull;
+        <a href="/books_talks.html" title="Books and talks">Video & Talks</a>
         <form action="http://www.google.com/cse" id="cse-search-box">
           <div>
             <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />

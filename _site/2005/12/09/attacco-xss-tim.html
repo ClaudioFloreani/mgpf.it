@@ -10,7 +10,7 @@
     <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
     <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
     <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
-    <title>Alex Payne &mdash; Vulnerabilit� XSS dei siti facenti capo a TIM</title>
+    <title>Vulnerabilit� XSS dei siti facenti capo a TIM  &mdash;  Matteo Flora su mgpf.it</title>
     <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18477555-1']);
@@ -27,102 +27,89 @@
   <body>
     <header>
       <h1 id="title">
-        <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
+        Sono <a href="/about.html" title="About">Matteo Flora</a> e qui <a href="/" title="Home">scrivo</a>.
       </h1>
       <h2 id="subtitle">
-        See also the <a href="/archive.html" title="Archive">archive</a>,
-        <a href="/books_talks.html">books & talks</a>.
+        Da <a href="/archive.html" title="Imprenditore">innovatore</a>, <a href="/video.html" title="Video">imprenditore</a> e
+        <a href="/lifehacking/">lifehacker</a>.
       </h2>
     </header>
     <div id="fusionad">
   <small>advertisement</small>
-  <script type='text/javascript'><!--//<![CDATA[
-     var m3_u = (location.protocol=='https:'?'https://adn.fusionads.net/www/pull/get.php':'http://adn.fusionads.net/www/pull/get.php');
-     var m3_r = Math.floor(Math.random()*99999999999);
-     if (!document.MAX_used) document.MAX_used = ',';
-     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-     document.write ("?zoneid=38&amp;charset=UTF-8&amp;withtext=1");
-     document.write ('&amp;cb=' + m3_r);
-     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-     document.write ('&amp;charset=UTF-8');
-     document.write ("&amp;loc=" + escape(window.location));
-     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-     if (document.context) document.write ("&context=" + escape(document.context));
-     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-     document.write ("'><\/scr"+"ipt>");
-  //]]>--></script>
-  <br />
-  <a href="http://fusionads.net" title="Powered by Fusion Ads">POWERED by FUSION</a>
 </div>
     <div id="wrapper">
-      <h2 id="intro">An individual post follows.</h2>
+      <h2 id="intro">Vulnerabilit� XSS dei siti facenti capo a TIM</h2>
 <article class="post">
-Vulnerabilità XSS dei siti facenti capo a TIM
+<p>Vulnerabilità XSS dei siti facenti capo a TIM</p>
 
-La procedura di Log-In di TIM.it e dei domini ad esso correlati (tra cui i.tim.it, il sito www.119.it ed i portali contenenti i dati di fatturazione e le imformazioni sulle chiamate effettuate) presenta problematiche che consentono un attacco di XSS (Cross Site Scripting) per il dirottamento degli utenti verso dominio di terze parti
+<p>La procedura di Log-In di TIM.it e dei domini ad esso correlati (tra cui i.tim.it, il sito www.119.it ed i portali contenenti i dati di fatturazione e le imformazioni sulle chiamate effettuate) presenta problematiche che consentono un attacco di XSS (Cross Site Scripting) per il dirottamento degli utenti verso dominio di terze parti</p>
 
-##Advisor ID
-LKID011
+<h2 id="advisor-id">Advisor ID</h2>
+<p>LKID011</p>
 
-##Data di Rilascio
-2005-12-08
+<h2 id="data-di-rilascio">Data di Rilascio</h2>
+<p>2005-12-08</p>
 
-##Verifica Advisor
-http://lastknight.com/articles/attacco-xss-tim/
+<h2 id="verifica-advisor">Verifica Advisor</h2>
+<p>http://lastknight.com/articles/attacco-xss-tim/</p>
 
-##Criticità
-Medio-Alta (possibilità di raggiro degli utenti)
+<h2 id="criticit">Criticità</h2>
+<p>Medio-Alta (possibilità di raggiro degli utenti)</p>
 
-##Location
-Da remoto
+<h2 id="location">Location</h2>
+<p>Da remoto</p>
 
-##Impatto
-Dirottamento arbitrario utenti registrati
+<h2 id="impatto">Impatto</h2>
+<p>Dirottamento arbitrario utenti registrati</p>
 
-##Siti Coinvolti
+<h2 id="siti-coinvolti">Siti Coinvolti</h2>
 
-* [http://www.tim.it](http://www.tim.it)
-* [http://www.190.it](http://www.119.it)
-* [http://www.i.tim.it](http://www.i.tim.it)
-* [http://privati.tim.it ](http://privati.tim.it)
+<ul>
+  <li><a href="http://www.tim.it">http://www.tim.it</a></li>
+  <li><a href="http://www.119.it">http://www.190.it</a></li>
+  <li><a href="http://www.i.tim.it">http://www.i.tim.it</a></li>
+  <li><a href="http://privati.tim.it">http://privati.tim.it </a></li>
+</ul>
 
-##Half Disclosure
-La procedura unificata di accesso che gestisce in modo unificato l'intero palco servizi Web di TIM (119.it, privati.tim.it, i.tim.it) è stata scoperta positiva alla rilevazione di una problematica di sicurezza che consente ad un utente malintenzionato di dirottare l'utente del servizio in modo arbitrario, sottraendolo al contollo del sito web certificante la navigazione e trasportandolo ad un sito arbitrario.
+<h2 id="half-disclosure">Half Disclosure</h2>
+<p>La procedura unificata di accesso che gestisce in modo unificato l&rsquo;intero palco servizi Web di TIM (119.it, privati.tim.it, i.tim.it) è stata scoperta positiva alla rilevazione di una problematica di sicurezza che consente ad un utente malintenzionato di dirottare l&rsquo;utente del servizio in modo arbitrario, sottraendolo al contollo del sito web certificante la navigazione e trasportandolo ad un sito arbitrario.</p>
 
 <!--adsense-->
 
-Questa problematica, benchè non determini in alcun modo l'esposizione diretta di informazioni in merito agli attuali fruitori dei servizi di TIM, possiede un grado di pericolosità medio-alto per la possibilità da parte di utenti malintenzionati di sfruttare la vulnerabilità per perpetrare efficaci attacchi di Phishing.
-Il reinidirzzamento effettuate le procedure di autentificazione, infatti, portebbe ad esempio trasferire l'ignaro utente che riceve una mail contraffatta ad un sito web creato per sottrarre informazioni relative a codici di accesso, password e/o informazioni riservate.
-La vulnerabilità è stata individuata fortuitamente da Matteo G.P. Flora, esperto di sicurezza informatica Milanese, durante il periodico controllo del  suo conto telefonico di utente Telecom Italia Mobile, ed è stata segnalata a Telecom Italia unitamente  ai dettagli completi sulla riproducibilità e sulle implementazioni necessarie  risolvere la vulnerabilità.  
+<p>Questa problematica, benchè non determini in alcun modo l&rsquo;esposizione diretta di informazioni in merito agli attuali fruitori dei servizi di TIM, possiede un grado di pericolosità medio-alto per la possibilità da parte di utenti malintenzionati di sfruttare la vulnerabilità per perpetrare efficaci attacchi di Phishing.
+Il reinidirzzamento effettuate le procedure di autentificazione, infatti, portebbe ad esempio trasferire l&rsquo;ignaro utente che riceve una mail contraffatta ad un sito web creato per sottrarre informazioni relative a codici di accesso, password e/o informazioni riservate.
+La vulnerabilità è stata individuata fortuitamente da Matteo G.P. Flora, esperto di sicurezza informatica Milanese, durante il periodico controllo del  suo conto telefonico di utente Telecom Italia Mobile, ed è stata segnalata a Telecom Italia unitamente  ai dettagli completi sulla riproducibilità e sulle implementazioni necessarie  risolvere la vulnerabilità.  </p>
 
-##Full Disclosure
-Consegnata a Telecom Italia
+<h2 id="full-disclosure">Full Disclosure</h2>
+<p>Consegnata a Telecom Italia</p>
 
-##Proof Of Concept
-Consegnata a Telecom Italia
+<h2 id="proof-of-concept">Proof Of Concept</h2>
+<p>Consegnata a Telecom Italia</p>
 
-##Soluzioni
-Consegnata a  Telecom Italia
+<h2 id="soluzioni">Soluzioni</h2>
+<p>Consegnata a  Telecom Italia</p>
 
-##Time Frame
-* 2005-12-08: Individuazione della Vulnerabilità
-* 2005-12-09: Segnalazione della vulnerabilità a TIM.it
-* 2005-12-10: Comunicazione alla stampa dell'HALF DISCLOSURE
+<h2 id="time-frame">Time Frame</h2>
+<ul>
+  <li>2005-12-08: Individuazione della Vulnerabilità</li>
+  <li>2005-12-09: Segnalazione della vulnerabilità a TIM.it</li>
+  <li>2005-12-10: Comunicazione alla stampa dell&rsquo;HALF DISCLOSURE</li>
+</ul>
 
-#Informazioni su Matteo G.P. Flora
-Matteo G.P. Flora è Consulente Freelance, titolare della società di sicurezza LKProject e Responsabile della Provincia di Milano di AIP (Associazione Informatici Professionisti). Da tempo si occupa di sicurezza in ambito ICT, è autore di articoli di successo ed un volume sul fenomeno phishing, oltre che Consulente della Procura della Repubblica di Milano, dei Nuclei speciali della Guardia di Finanza e di numerose delle prestigiose aziende nei TOP10 italiani.
-Il suo sito web è raggiungibile all'indirizzo Lastknight.com 
+<h1 id="informazioni-su-matteo-gp-flora">Informazioni su Matteo G.P. Flora</h1>
+<p>Matteo G.P. Flora è Consulente Freelance, titolare della società di sicurezza LKProject e Responsabile della Provincia di Milano di AIP (Associazione Informatici Professionisti). Da tempo si occupa di sicurezza in ambito ICT, è autore di articoli di successo ed un volume sul fenomeno phishing, oltre che Consulente della Procura della Repubblica di Milano, dei Nuclei speciali della Guardia di Finanza e di numerose delle prestigiose aziende nei TOP10 italiani.
+Il suo sito web è raggiungibile all&rsquo;indirizzo Lastknight.com </p>
 
 <time class="signoff" datetime="2005-12-09">
-  &mdash;Dec 09, 2005
+  09/12/2005 com i tag:  
 </time>
 </article>
 
       <footer id="footer">
         <a href="/" title="Home">Home</a> &bull;
-        <a href="/about.html" title="About the author and site">About</a> &bull;
-        <a href="/archive.html" title="Archived writing">Archive</a> &bull;
-        <a href="/books_talks.html" title="Books and talks">Books & Talks</a>
+        <a href="/about.html" title="About the author and site">Chi Sono</a> &bull;
+        <a href="/archive.html" title="Archived writing">Archivio</a> &bull;
+        <a href="/books_talks.html" title="Books and talks">Video & Talks</a>
         <form action="http://www.google.com/cse" id="cse-search-box">
           <div>
             <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />

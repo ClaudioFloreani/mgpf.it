@@ -10,7 +10,7 @@
     <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
     <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
     <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
-    <title>Alex Payne &mdash; Libero.it e XSS: pericolo credenziali!</title>
+    <title>Libero.it e XSS: pericolo credenziali!  &mdash;  Matteo Flora su mgpf.it</title>
     <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18477555-1']);
@@ -27,64 +27,49 @@
   <body>
     <header>
       <h1 id="title">
-        <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
+        Sono <a href="/about.html" title="About">Matteo Flora</a> e qui <a href="/" title="Home">scrivo</a>.
       </h1>
       <h2 id="subtitle">
-        See also the <a href="/archive.html" title="Archive">archive</a>,
-        <a href="/books_talks.html">books & talks</a>.
+        Da <a href="/archive.html" title="Imprenditore">innovatore</a>, <a href="/video.html" title="Video">imprenditore</a> e
+        <a href="/lifehacking/">lifehacker</a>.
       </h2>
     </header>
     <div id="fusionad">
   <small>advertisement</small>
-  <script type='text/javascript'><!--//<![CDATA[
-     var m3_u = (location.protocol=='https:'?'https://adn.fusionads.net/www/pull/get.php':'http://adn.fusionads.net/www/pull/get.php');
-     var m3_r = Math.floor(Math.random()*99999999999);
-     if (!document.MAX_used) document.MAX_used = ',';
-     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-     document.write ("?zoneid=38&amp;charset=UTF-8&amp;withtext=1");
-     document.write ('&amp;cb=' + m3_r);
-     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-     document.write ('&amp;charset=UTF-8');
-     document.write ("&amp;loc=" + escape(window.location));
-     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-     if (document.context) document.write ("&context=" + escape(document.context));
-     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-     document.write ("'><\/scr"+"ipt>");
-  //]]>--></script>
-  <br />
-  <a href="http://fusionads.net" title="Powered by Fusion Ads">POWERED by FUSION</a>
 </div>
     <div id="wrapper">
-      <h2 id="intro">An individual post follows.</h2>
+      <h2 id="intro">Libero.it e XSS: pericolo credenziali!</h2>
 <article class="post">
-![Libero XSS](http://www.lastknight.com//download/20070327_libero.thumbnail.jpg)
->  **Aggiornamento:** Una serie di riflessioni sulle dichiarazioni di Libero in merito al bug sono raccolte [QUI](http://www.lastknight.com/2007/03/28/ancora-su-liberoit/)  
+<p><img src="http://www.lastknight.com//download/20070327_libero.thumbnail.jpg" alt="Libero XSS" />
+&gt;  <strong>Aggiornamento:</strong> Una serie di riflessioni sulle dichiarazioni di Libero in merito al bug sono raccolte <a href="http://www.lastknight.com/2007/03/28/ancora-su-liberoit/">QUI</a>  </p>
 
-Che di italiani in gamba nel panorama mondiale della **web security** ce ne fossero molti non è sicuramente una novità (basti pensare alla Owasp Testing Guide e a profili come Alberto Revelli, Giorgio Fedon, Stefano Di Paola, Matteo Meucci...) ma leggere comunque su Full-Disclosure una segnalazione di XSS su un portale italiano fa comunque impressione...  
-  
-Questa volta l'artefice della scoperta è l'italianissimo [Rosario Valotta](mailto:rosario.valotta_at_gmail.com) che in poche righe [delinea nel suo report](http://seclists.org/fulldisclosure/2007/Mar/0457.html) uno scenario che è il **sogno del phisher di tutto il mondo**. In tre semplici passi abbiamo la possibilità di **rubare le credenziali** di qualunque utente della **Community di Libero**:  
-  
-*  **Fase 1**: la app incriminata
-   Con un semplice link come <http://digiland.libero.it/profilo.phtml?nick=mickey> è possibile accedere alla applicazione che consente il managing dei nick della community.  
-*  **Fase 2**: grabbing del cookie  
-   Un semplicissimo XSS iniettato nel codice consente ad eventuali utenti malicious di recuperare il cookie associato all'utente loggato: un esempio pratico è [questo](http://go.lastknight.com/g) da usare con IE.
-*  **Fase 3**: oltre il danno la beffa  
-   Oltre al vistoso errore di programmazione che determina la presenza di un XSS abbiamo presenti nel cookie entrambe le credenziali: lo username in chiaro e le password in MD5. Considerando che la maggior parte delle password sono di una lunghezza inferiore ai 6 caratteri la loro decifrazione appare alla luce di approcci MD5-rainbowtable un effort decisamente basso.  
-  
-Oltre a questo è possibile **inviare remotamente** il cookie con un paio di altri giochi di prestigio segnalati nel [post di Rosario su FD](http://seclists.org/fulldisclosure/2007/Mar/0457.html).  
-  
-Staremo a vedere **i tempi di risposta** per la correzione di questo bug potenzialmente critico per una community numerosa come quella di Libero.it. 
+<p>Che di italiani in gamba nel panorama mondiale della <strong>web security</strong> ce ne fossero molti non è sicuramente una novità (basti pensare alla Owasp Testing Guide e a profili come Alberto Revelli, Giorgio Fedon, Stefano Di Paola, Matteo Meucci&hellip;) ma leggere comunque su Full-Disclosure una segnalazione di XSS su un portale italiano fa comunque impressione&hellip;  </p>
+
+<p>Questa volta l&rsquo;artefice della scoperta è l&rsquo;italianissimo <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#114;&#111;&#115;&#097;&#114;&#105;&#111;&#046;&#118;&#097;&#108;&#111;&#116;&#116;&#097;&#095;&#097;&#116;&#095;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#082;&#111;&#115;&#097;&#114;&#105;&#111;&#032;&#086;&#097;&#108;&#111;&#116;&#116;&#097;</a> che in poche righe <a href="http://seclists.org/fulldisclosure/2007/Mar/0457.html">delinea nel suo report</a> uno scenario che è il <strong>sogno del phisher di tutto il mondo</strong>. In tre semplici passi abbiamo la possibilità di <strong>rubare le credenziali</strong> di qualunque utente della <strong>Community di Libero</strong>:  </p>
+
+<ul>
+  <li><strong>Fase 1</strong>: la app incriminata
+Con un semplice link come <a href="http://digiland.libero.it/profilo.phtml?nick=mickey">http://digiland.libero.it/profilo.phtml?nick=mickey</a> è possibile accedere alla applicazione che consente il managing dei nick della community.  </li>
+  <li><strong>Fase 2</strong>: grabbing del cookie<br />
+Un semplicissimo XSS iniettato nel codice consente ad eventuali utenti malicious di recuperare il cookie associato all&rsquo;utente loggato: un esempio pratico è <a href="http://go.lastknight.com/g">questo</a> da usare con IE.</li>
+  <li><strong>Fase 3</strong>: oltre il danno la beffa<br />
+Oltre al vistoso errore di programmazione che determina la presenza di un XSS abbiamo presenti nel cookie entrambe le credenziali: lo username in chiaro e le password in MD5. Considerando che la maggior parte delle password sono di una lunghezza inferiore ai 6 caratteri la loro decifrazione appare alla luce di approcci MD5-rainbowtable un effort decisamente basso.  </li>
+</ul>
+
+<p>Oltre a questo è possibile <strong>inviare remotamente</strong> il cookie con un paio di altri giochi di prestigio segnalati nel <a href="http://seclists.org/fulldisclosure/2007/Mar/0457.html">post di Rosario su FD</a>.  </p>
+
+<p>Staremo a vedere <strong>i tempi di risposta</strong> per la correzione di questo bug potenzialmente critico per una community numerosa come quella di Libero.it. </p>
 
 <time class="signoff" datetime="2007-03-27">
-  &mdash;Mar 27, 2007
+  27/03/2007 com i tag: hackingSecurity and Intelligence 
 </time>
 </article>
 
       <footer id="footer">
         <a href="/" title="Home">Home</a> &bull;
-        <a href="/about.html" title="About the author and site">About</a> &bull;
-        <a href="/archive.html" title="Archived writing">Archive</a> &bull;
-        <a href="/books_talks.html" title="Books and talks">Books & Talks</a>
+        <a href="/about.html" title="About the author and site">Chi Sono</a> &bull;
+        <a href="/archive.html" title="Archived writing">Archivio</a> &bull;
+        <a href="/books_talks.html" title="Books and talks">Video & Talks</a>
         <form action="http://www.google.com/cse" id="cse-search-box">
           <div>
             <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />

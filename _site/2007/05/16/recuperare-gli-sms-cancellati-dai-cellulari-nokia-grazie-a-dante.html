@@ -10,7 +10,7 @@
     <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
     <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
     <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
-    <title>Alex Payne &mdash; Recuperare gli SMS cancellati dai cellulari NOKIA grazie a Dante</title>
+    <title>Recuperare gli SMS cancellati dai cellulari NOKIA grazie a Dante  &mdash;  Matteo Flora su mgpf.it</title>
     <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18477555-1']);
@@ -27,77 +27,64 @@
   <body>
     <header>
       <h1 id="title">
-        <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
+        Sono <a href="/about.html" title="About">Matteo Flora</a> e qui <a href="/" title="Home">scrivo</a>.
       </h1>
       <h2 id="subtitle">
-        See also the <a href="/archive.html" title="Archive">archive</a>,
-        <a href="/books_talks.html">books & talks</a>.
+        Da <a href="/archive.html" title="Imprenditore">innovatore</a>, <a href="/video.html" title="Video">imprenditore</a> e
+        <a href="/lifehacking/">lifehacker</a>.
       </h2>
     </header>
     <div id="fusionad">
   <small>advertisement</small>
-  <script type='text/javascript'><!--//<![CDATA[
-     var m3_u = (location.protocol=='https:'?'https://adn.fusionads.net/www/pull/get.php':'http://adn.fusionads.net/www/pull/get.php');
-     var m3_r = Math.floor(Math.random()*99999999999);
-     if (!document.MAX_used) document.MAX_used = ',';
-     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-     document.write ("?zoneid=38&amp;charset=UTF-8&amp;withtext=1");
-     document.write ('&amp;cb=' + m3_r);
-     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-     document.write ('&amp;charset=UTF-8');
-     document.write ("&amp;loc=" + escape(window.location));
-     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-     if (document.context) document.write ("&context=" + escape(document.context));
-     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-     document.write ("'><\/scr"+"ipt>");
-  //]]>--></script>
-  <br />
-  <a href="http://fusionads.net" title="Powered by Fusion Ads">POWERED by FUSION</a>
 </div>
     <div id="wrapper">
-      <h2 id="intro">An individual post follows.</h2>
+      <h2 id="intro">Recuperare gli SMS cancellati dai cellulari NOKIA grazie a Dante</h2>
 <article class="post">
-![Nokia e SMS cancellati](http://www.lastknight.com/download//20070516_nokia.gif)
+<p><img src="http://www.lastknight.com/download//20070516_nokia.gif" alt="Nokia e SMS cancellati" /></p>
 
-E' proprio una di quelle scoperte **destinate a fare scalpore** quella del buon Davide "Dante" Del Vecchio, che con una mail su **BugTraq** e **SecurityFocus** pubblica il risultato di una **imperfezione dei sistemi Nokia** destinata ad avere pesanti ripercussioni non solamente sul panorama della sicurezza informatica, ma anche e soprattutto su quello della **Computer Forensics**.  
-  
-Dante, infatti, è riuscito mediante l'utilizzo della Suite di Nokia a **recuperare i messaggi SMS cancellati** sul terminale sino ad un anno prima e miracolosamente **presenti ancora sul device**.  
+<p>E&rsquo; proprio una di quelle scoperte <strong>destinate a fare scalpore</strong> quella del buon Davide &ldquo;Dante&rdquo; Del Vecchio, che con una mail su <strong>BugTraq</strong> e <strong>SecurityFocus</strong> pubblica il risultato di una <strong>imperfezione dei sistemi Nokia</strong> destinata ad avere pesanti ripercussioni non solamente sul panorama della sicurezza informatica, ma anche e soprattutto su quello della <strong>Computer Forensics</strong>.  </p>
+
+<p>Dante, infatti, è riuscito mediante l&rsquo;utilizzo della Suite di Nokia a <strong>recuperare i messaggi SMS cancellati</strong> sul terminale sino ad un anno prima e miracolosamente <strong>presenti ancora sul device</strong>.<br />
   <!--more-->
-L'advisory completo è disponibile sia in [inglese](http://www.alighieri.org/advisories/retrieving_deleted_sms.txt) che in [italiano](http://www.alighieri.org/advisories/recuperare_sms_cancellati.txt) ed è impressionante notare come l'operazione sia semplice e alla portata di chiunque.  
-Vediamone il dettaglio:  
-  
-*  Scaricare gratuitamente il [Nokia Pc Suite](http://www.nokia.com/pcsuite), ed installarlo.
-*  Scegliere uno dei file ".dat" generati dal programma di backup
-*  mediante l'utility [strings](http://www.microsoft.com/technet/sysinternals/Miscellaneous/Strings.mspx)  è possibile ricavare tutti i messaggi contenuti in chiaro.
-*  Una volta recuperato il testo del messaggio un GREP sui file della directory è in grado di recuperare anche il numero di telefono del destinatario.  
-  
-Citando Dante è **impressionante** la risposta del vendor:
+L&rsquo;advisory completo è disponibile sia in <a href="http://www.alighieri.org/advisories/retrieving_deleted_sms.txt">inglese</a> che in <a href="http://www.alighieri.org/advisories/recuperare_sms_cancellati.txt">italiano</a> ed è impressionante notare come l&rsquo;operazione sia semplice e alla portata di chiunque.<br />
+Vediamone il dettaglio:  </p>
 
-> Ho scritto una mail al supporto Nokia e mi han detto di **non essere
-a conoscenza della vulnerabilità**, mi han chiesto informazioni riguardo
-ulteriori modelli affetti ma hanno affermato di **non voler rilasciare**
-alcun tipo di patch per il problema.  
-> Ho contattato anche Symbian, mi han detto che distribuiscono ai produttori
+<ul>
+  <li>Scaricare gratuitamente il <a href="http://www.nokia.com/pcsuite">Nokia Pc Suite</a>, ed installarlo.</li>
+  <li>Scegliere uno dei file &ldquo;.dat&rdquo; generati dal programma di backup</li>
+  <li>mediante l&rsquo;utility <a href="http://www.microsoft.com/technet/sysinternals/Miscellaneous/Strings.mspx">strings</a>  è possibile ricavare tutti i messaggi contenuti in chiaro.</li>
+  <li>Una volta recuperato il testo del messaggio un GREP sui file della directory è in grado di recuperare anche il numero di telefono del destinatario.  </li>
+</ul>
+
+<p>Citando Dante è <strong>impressionante</strong> la risposta del vendor:</p>
+
+<blockquote>
+  <p>Ho scritto una mail al supporto Nokia e mi han detto di <strong>non essere
+a conoscenza della vulnerabilità</strong>, mi han chiesto informazioni riguardo
+ulteriori modelli affetti ma hanno affermato di <strong>non voler rilasciare</strong>
+alcun tipo di patch per il problema.<br />
+Ho contattato anche Symbian, mi han detto che distribuiscono ai produttori
 direttamente i sorgenti, di seguito modificati direttamente dai produttori
-stessi, per questo motivo non potranno rilasciare alcuna patch.  
-  
-Che dire quindi? Nuove frontiere nella **Computer Forensics** su Nokia, che è appena divenuta estremamente più semplice e nuove preoccupazioni per chi possiede un Nokia usato e lo **vuole vendere**.  
-Che dire, infatti, dei dati che a questo punto sono **recuperabili da un telefono** venduto ad una asta E-Bay?  
-  
-Attenzione e complimenti a Dante!  
-  
-**UPDATE**: Corre voce che una **società a caso** (hint: inizia per K e vuol dire cinque) stia giustappunto realizzando un software per la cancellazione sicura dai terminali Nokia.... A breve news... 
+stessi, per questo motivo non potranno rilasciare alcuna patch.  </p>
+</blockquote>
+
+<p>Che dire quindi? Nuove frontiere nella <strong>Computer Forensics</strong> su Nokia, che è appena divenuta estremamente più semplice e nuove preoccupazioni per chi possiede un Nokia usato e lo <strong>vuole vendere</strong>.<br />
+Che dire, infatti, dei dati che a questo punto sono <strong>recuperabili da un telefono</strong> venduto ad una asta E-Bay?  </p>
+
+<p>Attenzione e complimenti a Dante!  </p>
+
+<p><strong>UPDATE</strong>: Corre voce che una <strong>società a caso</strong> (hint: inizia per K e vuol dire cinque) stia giustappunto realizzando un software per la cancellazione sicura dai terminali Nokia&hellip;. A breve news&hellip; </p>
 
 <time class="signoff" datetime="2007-05-16">
-  &mdash;May 16, 2007
+  16/05/2007 com i tag: ForensicsSecurity and Intelligence 
 </time>
 </article>
 
       <footer id="footer">
         <a href="/" title="Home">Home</a> &bull;
-        <a href="/about.html" title="About the author and site">About</a> &bull;
-        <a href="/archive.html" title="Archived writing">Archive</a> &bull;
-        <a href="/books_talks.html" title="Books and talks">Books & Talks</a>
+        <a href="/about.html" title="About the author and site">Chi Sono</a> &bull;
+        <a href="/archive.html" title="Archived writing">Archivio</a> &bull;
+        <a href="/books_talks.html" title="Books and talks">Video & Talks</a>
         <form action="http://www.google.com/cse" id="cse-search-box">
           <div>
             <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />

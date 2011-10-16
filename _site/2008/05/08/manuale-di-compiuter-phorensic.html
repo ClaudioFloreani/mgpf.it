@@ -10,7 +10,7 @@
     <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
     <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
     <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
-    <title>Alex Payne &mdash; Manuale di Compiuter Phorensics (parte I)</title>
+    <title>Manuale di Compiuter Phorensics (parte I)  &mdash;  Matteo Flora su mgpf.it</title>
     <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18477555-1']);
@@ -27,94 +27,80 @@
   <body>
     <header>
       <h1 id="title">
-        <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
+        Sono <a href="/about.html" title="About">Matteo Flora</a> e qui <a href="/" title="Home">scrivo</a>.
       </h1>
       <h2 id="subtitle">
-        See also the <a href="/archive.html" title="Archive">archive</a>,
-        <a href="/books_talks.html">books & talks</a>.
+        Da <a href="/archive.html" title="Imprenditore">innovatore</a>, <a href="/video.html" title="Video">imprenditore</a> e
+        <a href="/lifehacking/">lifehacker</a>.
       </h2>
     </header>
     <div id="fusionad">
   <small>advertisement</small>
-  <script type='text/javascript'><!--//<![CDATA[
-     var m3_u = (location.protocol=='https:'?'https://adn.fusionads.net/www/pull/get.php':'http://adn.fusionads.net/www/pull/get.php');
-     var m3_r = Math.floor(Math.random()*99999999999);
-     if (!document.MAX_used) document.MAX_used = ',';
-     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-     document.write ("?zoneid=38&amp;charset=UTF-8&amp;withtext=1");
-     document.write ('&amp;cb=' + m3_r);
-     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-     document.write ('&amp;charset=UTF-8');
-     document.write ("&amp;loc=" + escape(window.location));
-     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-     if (document.context) document.write ("&context=" + escape(document.context));
-     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-     document.write ("'><\/scr"+"ipt>");
-  //]]>--></script>
-  <br />
-  <a href="http://fusionads.net" title="Powered by Fusion Ads">POWERED by FUSION</a>
 </div>
     <div id="wrapper">
-      <h2 id="intro">An individual post follows.</h2>
+      <h2 id="intro">Manuale di Compiuter Phorensics (parte I)</h2>
 <article class="post">
-<a href="http://www.flickr.com/photos/59463761@N00/616649762/" title="F*@king monitors!" target="_blank"><img src="http://farm2.static.flickr.com/1121/616649762_9f8ac3dad1.jpg" alt="F*@king monitors!" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/59463761@N00/616649762/" title="tractorpirate" target="_blank">tractorpirate</a></small>  
-  
-No, non è un errore di ortografia, ma proprio quello che penso.  
-  
-Sto leggendo un "sedicente" manuale di Computer Forensics scritto da un "sedicente" esperto ed autoprodotto su un noto sito di stampe on demand.  
-Non faccio nomi, per ora, non ho ancora finito la review.  
-  
-Ma posso iniziare a fare qualche stralcio di qualche paragrafo e fare capire cosa intendo per **Compiuter Phorensics** (d'ora in poi i *corsivi* sono miei per sottolineare alcuni concetti):  
-  
-> Scegliamo il nome del file immagine (es. image.img) e poi nelle opzioni di copia scegliamo lSDD (che è una versione più veloce del famoso DD di Linux), infine scegliamo lhash MD5 per *firmare digitalmente* la copia  
-  
-Ora, a parte che usare [SDD][1] per scopi di Forensics è quantomeno particolare, visto che è più veloce solo ed esclusivamente nel caso in cui IBD e OBS non coincidano (lo dice anche [chi lo ha fatto][1]), anche e soprattutto in virtù del fatto che o si usa lo standard DD oppure il ben più famoso, comodo e soprattutto STANDARD per la Forensics [DCLFDD][2].  
-E, in aggiunta a questo, usare MD5 (noto per collidere) è idiosincratico. E soprattutto dovrebbe essere tolta la facoltà di parola a chi sostiene che MD5 rappresenta una [firma digitale][4], visto che il concetto stesso di firma digitale si basa sulla crittografia forte **associata** ad un Hash. Significa veramente non aver capito un piffero dell'argomento.  
-  
-Poi arrivano le parti ilari, come ad esempio:  
-  
-> Se lhard disk esterno è stato formattato in Ext3, nonostante i driver EXT2FSD per Windows, che permettono la scrittura su HD EXT3 e EXT2 da Windows, conviene *zippare da Linux col gzip*, poichè ho provato che la lettura e scrittura di grosse moli di dati genera errori di lettura dopo un pò di ore...   
- 
-Innanzitutto PERCHE' dovrei avere qualcosa in EXT3 in Windows. Gli strumenti di carving non si sposano poi un gran che bene con una lettura del filesystem fatta da driver terzi...  
-Eppoi la vogliamo commentare 'sta affermazione del GZIP? Io mi stavo rotolando per terra dalle risate, ma magari è solamente una mia opinione...  
-  
-> Dai riferimenti uscenti da Autopsy possiamo salvare i contenuti dei files in rapporti testuali (magari da allegare) e poi *montare limmagine magari con un software come Mount Image Pro* e poi andare a copiare i files da esaminare con software più GUI  
-  
-Perché, ho bisogno di Mount Image Pro ogni volta che devo estrapolare un file da Autopsy? E le comode impostazioni di esportazione che fine hanno fatto? E come posso esportare essendo sicuro di ciò che faccio? E per i file nascosti che faccio, monto Mount Image Pro e lancio un Undelete Pro?  
-  
-> In un esercizio di computer forensics è capitato di ritrovare levidenza in un file ascii senza estensione e solamente guardando il suo contenuto ho visto il suo header che, cercando su Google, ho scoperto essere una codifica base64  
-  
-E da quando valutiamo i file dalla loro ESTENSIONE in Computer Forensics?  
-  
-Anche per quanto riguarda la cifratura ce la caviamo bene:  
-  
-> A questo punto, effettuando un'analisi con un editor esadecimale, potremmo ottenere 80 file conosciuti. Infine potremmo dare in pasto, questi files rimasti, a vari tool di cifratura (AxCrypt, *TrueCrypt*, gnuPGP, PGP, ecc.)  
-  
-Ah si? Bello!  
-E da quando TrueCrypt ha una header distintiva come tipo di File? E, soprattutto, li diamo in pasto e cosa ci facciamo? Truecrypt non HA MODO senza la chiave corretta di dire che si tratta o meno di un filesystem cifrato. Tant'è che il programma da un errore del tipo "Password non corretta o questo non è un file di Treucrypt"....  
-  
-COntinuo ad avere le mier riserve... ma forse forse fossi in un lettore lascerei perdere e comprerei il [manuale edito da Apogeo][3] di Andrea "Pila" Ghirardini...  
-  
-[tags]  forensic, recensione, porkensic, computer forensics, digital forensics  [/tags]
+<p><a href="http://www.flickr.com/photos/59463761@N00/616649762/" title="F*@king monitors!" target="_blank"><img src="http://farm2.static.flickr.com/1121/616649762_9f8ac3dad1.jpg" alt="F*@king monitors!" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/59463761@N00/616649762/" title="tractorpirate" target="_blank">tractorpirate</a></small>  </p>
 
- 
+<p>No, non è un errore di ortografia, ma proprio quello che penso.  </p>
 
+<p>Sto leggendo un &ldquo;sedicente&rdquo; manuale di Computer Forensics scritto da un &ldquo;sedicente&rdquo; esperto ed autoprodotto su un noto sito di stampe on demand.<br />
+Non faccio nomi, per ora, non ho ancora finito la review.  </p>
 
-[1]: http://linux.maruhn.com/sec/sdd.html
-[2]: http://dcfldd.sourceforge.net/
-[3]: http://www.apogeonline.com/libri/88-503-2593-2/scheda
-[4]: http://it.wikipedia.org/wiki/Firma_digitale 
+<p>Ma posso iniziare a fare qualche stralcio di qualche paragrafo e fare capire cosa intendo per <strong>Compiuter Phorensics</strong> (d&rsquo;ora in poi i <em>corsivi</em> sono miei per sottolineare alcuni concetti):  </p>
+
+<blockquote>
+  <p>Scegliamo il nome del file immagine (es. image.img) e poi nelle opzioni di copia scegliamo lSDD (che è una versione più veloce del famoso DD di Linux), infine scegliamo lhash MD5 per <em>firmare digitalmente</em> la copia  </p>
+</blockquote>
+
+<p>Ora, a parte che usare <a href="http://linux.maruhn.com/sec/sdd.html">SDD</a> per scopi di Forensics è quantomeno particolare, visto che è più veloce solo ed esclusivamente nel caso in cui IBD e OBS non coincidano (lo dice anche <a href="http://linux.maruhn.com/sec/sdd.html">chi lo ha fatto</a>), anche e soprattutto in virtù del fatto che o si usa lo standard DD oppure il ben più famoso, comodo e soprattutto STANDARD per la Forensics <a href="http://dcfldd.sourceforge.net/">DCLFDD</a>.<br />
+E, in aggiunta a questo, usare MD5 (noto per collidere) è idiosincratico. E soprattutto dovrebbe essere tolta la facoltà di parola a chi sostiene che MD5 rappresenta una <a href="http://it.wikipedia.org/wiki/Firma_digitale">firma digitale</a>, visto che il concetto stesso di firma digitale si basa sulla crittografia forte <strong>associata</strong> ad un Hash. Significa veramente non aver capito un piffero dell&rsquo;argomento.  </p>
+
+<p>Poi arrivano le parti ilari, come ad esempio:  </p>
+
+<blockquote>
+  <p>Se lhard disk esterno è stato formattato in Ext3, nonostante i driver EXT2FSD per Windows, che permettono la scrittura su HD EXT3 e EXT2 da Windows, conviene <em>zippare da Linux col gzip</em>, poichè ho provato che la lettura e scrittura di grosse moli di dati genera errori di lettura dopo un pò di ore&hellip;   </p>
+</blockquote>
+
+<p>Innanzitutto PERCHE&rsquo; dovrei avere qualcosa in EXT3 in Windows. Gli strumenti di carving non si sposano poi un gran che bene con una lettura del filesystem fatta da driver terzi&hellip;<br />
+Eppoi la vogliamo commentare &lsquo;sta affermazione del GZIP? Io mi stavo rotolando per terra dalle risate, ma magari è solamente una mia opinione&hellip;  </p>
+
+<blockquote>
+  <p>Dai riferimenti uscenti da Autopsy possiamo salvare i contenuti dei files in rapporti testuali (magari da allegare) e poi <em>montare limmagine magari con un software come Mount Image Pro</em> e poi andare a copiare i files da esaminare con software più GUI  </p>
+</blockquote>
+
+<p>Perché, ho bisogno di Mount Image Pro ogni volta che devo estrapolare un file da Autopsy? E le comode impostazioni di esportazione che fine hanno fatto? E come posso esportare essendo sicuro di ciò che faccio? E per i file nascosti che faccio, monto Mount Image Pro e lancio un Undelete Pro?  </p>
+
+<blockquote>
+  <p>In un esercizio di computer forensics è capitato di ritrovare levidenza in un file ascii senza estensione e solamente guardando il suo contenuto ho visto il suo header che, cercando su Google, ho scoperto essere una codifica base64  </p>
+</blockquote>
+
+<p>E da quando valutiamo i file dalla loro ESTENSIONE in Computer Forensics?  </p>
+
+<p>Anche per quanto riguarda la cifratura ce la caviamo bene:  </p>
+
+<blockquote>
+  <p>A questo punto, effettuando un&rsquo;analisi con un editor esadecimale, potremmo ottenere 80 file conosciuti. Infine potremmo dare in pasto, questi files rimasti, a vari tool di cifratura (AxCrypt, <em>TrueCrypt</em>, gnuPGP, PGP, ecc.)  </p>
+</blockquote>
+
+<p>Ah si? Bello!<br />
+E da quando TrueCrypt ha una header distintiva come tipo di File? E, soprattutto, li diamo in pasto e cosa ci facciamo? Truecrypt non HA MODO senza la chiave corretta di dire che si tratta o meno di un filesystem cifrato. Tant&rsquo;è che il programma da un errore del tipo &ldquo;Password non corretta o questo non è un file di Treucrypt&rdquo;&hellip;.  </p>
+
+<p>COntinuo ad avere le mier riserve&hellip; ma forse forse fossi in un lettore lascerei perdere e comprerei il <a href="http://www.apogeonline.com/libri/88-503-2593-2/scheda">manuale edito da Apogeo</a> di Andrea &ldquo;Pila&rdquo; Ghirardini&hellip;  </p>
+
+<p>[tags]  forensic, recensione, porkensic, computer forensics, digital forensics  [/tags]</p>
+
 
 <time class="signoff" datetime="2008-05-08">
-  &mdash;May 08, 2008
+  08/05/2008 com i tag: digital forensicsForensicsporkensicrecensioneSecurity and Intelligence 
 </time>
 </article>
 
       <footer id="footer">
         <a href="/" title="Home">Home</a> &bull;
-        <a href="/about.html" title="About the author and site">About</a> &bull;
-        <a href="/archive.html" title="Archived writing">Archive</a> &bull;
-        <a href="/books_talks.html" title="Books and talks">Books & Talks</a>
+        <a href="/about.html" title="About the author and site">Chi Sono</a> &bull;
+        <a href="/archive.html" title="Archived writing">Archivio</a> &bull;
+        <a href="/books_talks.html" title="Books and talks">Video & Talks</a>
         <form action="http://www.google.com/cse" id="cse-search-box">
           <div>
             <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />

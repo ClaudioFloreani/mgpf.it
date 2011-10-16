@@ -10,7 +10,7 @@
     <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
     <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
     <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
-    <title>Alex Payne &mdash; Advisory: PLURIME vulnerabilit� su Infostrada.it Libero.it</title>
+    <title>Advisory: PLURIME vulnerabilit� su Infostrada.it Libero.it  &mdash;  Matteo Flora su mgpf.it</title>
     <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18477555-1']);
@@ -27,69 +27,54 @@
   <body>
     <header>
       <h1 id="title">
-        <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
+        Sono <a href="/about.html" title="About">Matteo Flora</a> e qui <a href="/" title="Home">scrivo</a>.
       </h1>
       <h2 id="subtitle">
-        See also the <a href="/archive.html" title="Archive">archive</a>,
-        <a href="/books_talks.html">books & talks</a>.
+        Da <a href="/archive.html" title="Imprenditore">innovatore</a>, <a href="/video.html" title="Video">imprenditore</a> e
+        <a href="/lifehacking/">lifehacker</a>.
       </h2>
     </header>
     <div id="fusionad">
   <small>advertisement</small>
-  <script type='text/javascript'><!--//<![CDATA[
-     var m3_u = (location.protocol=='https:'?'https://adn.fusionads.net/www/pull/get.php':'http://adn.fusionads.net/www/pull/get.php');
-     var m3_r = Math.floor(Math.random()*99999999999);
-     if (!document.MAX_used) document.MAX_used = ',';
-     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-     document.write ("?zoneid=38&amp;charset=UTF-8&amp;withtext=1");
-     document.write ('&amp;cb=' + m3_r);
-     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-     document.write ('&amp;charset=UTF-8');
-     document.write ("&amp;loc=" + escape(window.location));
-     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-     if (document.context) document.write ("&context=" + escape(document.context));
-     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-     document.write ("'><\/scr"+"ipt>");
-  //]]>--></script>
-  <br />
-  <a href="http://fusionads.net" title="Powered by Fusion Ads">POWERED by FUSION</a>
 </div>
     <div id="wrapper">
-      <h2 id="intro">An individual post follows.</h2>
+      <h2 id="intro">Advisory: PLURIME vulnerabilit� su Infostrada.it Libero.it</h2>
 <article class="post">
-La saga delle vulnerabilità sul portale di Libero.it sembra destinata dopo il [primo advisory di Rosario Valotta](http://www.lastknight.com/2007/03/27/liberoit-e-xss-pericolo-credenziali/) ed il [mio advisory di ieri](http://www.lastknight.com/2007/03/28/altra-vulnerabilita-xss-su-liberoit/) ad avere altri interessanti risvolti, come accennavo proprio nella giornata di ieri.  
-  
-Libero.it sembra infatti aver adottato la politica del **"fixing silenzioso"** senza contattare gli autori, anche se per più volte **avevo esortato il management** del noto portale a contattare i singoli ricercatori.  
-Non ottenendo alcun tipo di contatto ed essendo quindi **impossibilitati a risolvere** la questione con i gestori dei siti incriminati siamo quindi **obbligati ad utilizzare** il meccanismo della Full-Disclosure per poter comunicare le differenti problematiche rilevate.  
-  
-E così questa volta è ora di un [Advisory](http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html) **congiunto** mio, di Rosario Valotta e di Matteo Carli che si è aggiunto all'allegra combricola con una serie di problematiche.  
-L'[Advisory](http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html), inviato sulla nota lista Full-Disclosure contiene **istanze multiple di problematiche XSS** ma anche interessanti risvolti su **SQL Injection**.  
-  
-Esaminiamo le singole vulnerabilità una ad una, lasciando al [documento](http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html) la spiegazione precisa:
+<p>La saga delle vulnerabilità sul portale di Libero.it sembra destinata dopo il <a href="http://www.lastknight.com/2007/03/27/liberoit-e-xss-pericolo-credenziali/">primo advisory di Rosario Valotta</a> ed il <a href="http://www.lastknight.com/2007/03/28/altra-vulnerabilita-xss-su-liberoit/">mio advisory di ieri</a> ad avere altri interessanti risvolti, come accennavo proprio nella giornata di ieri.  </p>
 
-1. **XSS redirector**: Mediante un opportuna pagina configurata è possibile **redirigere l'utente** ad una pagina arbitraria e carpire al contempo il **nome utente**. In questo modo i tentativi di Phishing sono di sicuro impatto poiché possono facilmente contenere anche la c**redenziale di username** della persona.  (*Rosario*)
-2. **XSS Redirector**: Come sopra ma con **script arbitrari** eseguiti direttamente da **una URL**. Ancora più semplice da utilizzare in modo fraudolento. (*LK*)
-3. **SQL Validation**: Errore di Open Query che conduce agevolmente a **SQL Injection**. Per ovvi problemi legali non è stata approfondita la ricerca ma provate a pensare a che tipo di dati contiene un DB come quello Oracle di Infostrada...  
-   Inoltre l'errore mostrato rivela **importanti informazioni sul sistema** dietro cui il portale gira. (*LK*)
-4. **<s>CSS</s>XSS su pagina HTTPS**: Pericolosa variazione dei temi 1 e 2 che consente di iniettare codice XSS direttamente in **una pagina HTTPS**, sfruttando quindi l'effetto di "sicurezza" che una pagina protetta da in un utente. (*Matteo Carli*)  
-  
-Personalmente attendo con ansia di sapere se **potrò comunicare i prossimi problemi rilevati** a qualcuno che può gestire il portale o se mi vedrò _costretto_ ancora una volta a pubblicare un Full-Disclosure per **mancanza di comunicazione**...  
-  
-Che **tristezza** il panorama italiano!  
-  
-E pensare che un omologo problema rilevato ieri sul **portale del 190** ha subito portato al contatto con uno dei Responsabili della Sicurezza e ad una **immediata notifica** della presa in carico del problema segnalato...  
-Forse per qualche vendor c'è ancora speranza... 
+<p>Libero.it sembra infatti aver adottato la politica del <strong>&ldquo;fixing silenzioso&rdquo;</strong> senza contattare gli autori, anche se per più volte <strong>avevo esortato il management</strong> del noto portale a contattare i singoli ricercatori.<br />
+Non ottenendo alcun tipo di contatto ed essendo quindi <strong>impossibilitati a risolvere</strong> la questione con i gestori dei siti incriminati siamo quindi <strong>obbligati ad utilizzare</strong> il meccanismo della Full-Disclosure per poter comunicare le differenti problematiche rilevate.  </p>
+
+<p>E così questa volta è ora di un <a href="http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html">Advisory</a> <strong>congiunto</strong> mio, di Rosario Valotta e di Matteo Carli che si è aggiunto all&rsquo;allegra combricola con una serie di problematiche.<br />
+L&rsquo;<a href="http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html">Advisory</a>, inviato sulla nota lista Full-Disclosure contiene <strong>istanze multiple di problematiche XSS</strong> ma anche interessanti risvolti su <strong>SQL Injection</strong>.  </p>
+
+<p>Esaminiamo le singole vulnerabilità una ad una, lasciando al <a href="http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html">documento</a> la spiegazione precisa:</p>
+
+<ol>
+  <li><strong>XSS redirector</strong>: Mediante un opportuna pagina configurata è possibile <strong>redirigere l&rsquo;utente</strong> ad una pagina arbitraria e carpire al contempo il <strong>nome utente</strong>. In questo modo i tentativi di Phishing sono di sicuro impatto poiché possono facilmente contenere anche la c<strong>redenziale di username</strong> della persona.  (<em>Rosario</em>)</li>
+  <li><strong>XSS Redirector</strong>: Come sopra ma con <strong>script arbitrari</strong> eseguiti direttamente da <strong>una URL</strong>. Ancora più semplice da utilizzare in modo fraudolento. (<em>LK</em>)</li>
+  <li><strong>SQL Validation</strong>: Errore di Open Query che conduce agevolmente a <strong>SQL Injection</strong>. Per ovvi problemi legali non è stata approfondita la ricerca ma provate a pensare a che tipo di dati contiene un DB come quello Oracle di Infostrada&hellip;<br />
+Inoltre l&rsquo;errore mostrato rivela <strong>importanti informazioni sul sistema</strong> dietro cui il portale gira. (<em>LK</em>)</li>
+  <li><strong><s>CSS</s>XSS su pagina HTTPS</strong>: Pericolosa variazione dei temi 1 e 2 che consente di iniettare codice XSS direttamente in <strong>una pagina HTTPS</strong>, sfruttando quindi l&rsquo;effetto di &ldquo;sicurezza&rdquo; che una pagina protetta da in un utente. (<em>Matteo Carli</em>)  </li>
+</ol>
+
+<p>Personalmente attendo con ansia di sapere se <strong>potrò comunicare i prossimi problemi rilevati</strong> a qualcuno che può gestire il portale o se mi vedrò <em>costretto</em> ancora una volta a pubblicare un Full-Disclosure per <strong>mancanza di comunicazione</strong>&hellip;  </p>
+
+<p>Che <strong>tristezza</strong> il panorama italiano!  </p>
+
+<p>E pensare che un omologo problema rilevato ieri sul <strong>portale del 190</strong> ha subito portato al contatto con uno dei Responsabili della Sicurezza e ad una <strong>immediata notifica</strong> della presa in carico del problema segnalato&hellip;<br />
+Forse per qualche vendor c&rsquo;è ancora speranza&hellip; </p>
 
 <time class="signoff" datetime="2007-03-29">
-  &mdash;Mar 29, 2007
+  29/03/2007 com i tag: hackingSecurity and Intelligence 
 </time>
 </article>
 
       <footer id="footer">
         <a href="/" title="Home">Home</a> &bull;
-        <a href="/about.html" title="About the author and site">About</a> &bull;
-        <a href="/archive.html" title="Archived writing">Archive</a> &bull;
-        <a href="/books_talks.html" title="Books and talks">Books & Talks</a>
+        <a href="/about.html" title="About the author and site">Chi Sono</a> &bull;
+        <a href="/archive.html" title="Archived writing">Archivio</a> &bull;
+        <a href="/books_talks.html" title="Books and talks">Video & Talks</a>
         <form action="http://www.google.com/cse" id="cse-search-box">
           <div>
             <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />

@@ -1,0 +1,13 @@
+--- 
+layout: page
+title: Archivio
+published: true
+meta: 
+  _edit_last: "1"
+  _wp_page_template: archive.php
+tags: []
+
+type: page
+status: publish
+---
+
