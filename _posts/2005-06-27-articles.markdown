@@ -1,0 +1,48 @@
+--- 
+layout: post
+title: Articles
+published: true
+meta: 
+  _wp_page_template: default
+  autometa: ""
+tags: []
+
+type: post
+status: publish
+---
+Here you'll find a list of my articles, both in English and in Italian.  
+For a quick-and-dirty auto-translation of italian articles please follow the [>>BabelFish] link at the end of the abstract.
+
+#English Articles
+
+*  [DotNet Url Rewriting and Caching Engine](/articoli/dotnet-url-rewriting-and-caching-engine/)  
+    I came across URL Rewrite in .NET a little time ago, trying to get rid of the quesrystrings of an old-ASP CMS I deveoped and worked great (see Pitagora / WOE Web Content Management System ) but had the problems that afflict a lot of asp scripts...
+    [>>Read Article](/articoli/dotnet-url-rewriting-and-caching-engine)
+
+*  [Cheating Google](/articoli/cheating-google/)  
+    Ok, youve got your beautiful Website and a beautiful set of Meta keywords and Meta Descriptions, havent you? 
+    And youve created a robots.txt fine in the root of your site, I presume If not you REALLY should go back and search for some META information and come back as soon as you understand what we are talking about
+    [>>Read Article](/articoli/cheating-google/)
+
+#Italian Articles
+
+*  [Introduzione al Phishing](/articoli/introduzione-al-phishing/)  
+    Nel panorama di quella branca del malicious code che prende il nome di  social engineering  (cioè lutilizzo dellinganno verbale o di situazione per perpetrare una frode, anzichè di codice macchina vero e proprio), gli ultimi mesi hanno visto un proliferare ed un espandersi senza precedenti del fenomeno del  Phishing ...  
+    [>> Leggi articolo](/articoli/introduzione-al-phishing/) [>>BabelFish](http://babelfish.altavista.com/babelfish/trurl_pagecontent?lp=it_en&url=http%3A%2F%2Fwww.lastknight.com%2Farticoli%2Fintroduzione-al-phishing)
+
+*  [Sicurezza e Privacy, P2P e formazione](/articoli/sicurezza-e-privacy-p2p-e-formazione/)  
+    Inutile criminalizzare sistemi di file sharing, nati proprio come strumento collaborativo, laddove è assente una politica aziendale improntata alla sicurezza e alla conoscenza.  
+    *(pubblicato sul [Punto Informatico](http://punto-informatico.it/p.asp?i=50226) del 29 Ottobre 2004)*  
+    [>>Leggi Articolo](/articoli/sicurezza-e-privacy-p2p-e-formazione/)[>>BabelFish](http://babelfish.altavista.com/babelfish/trurl_pagecontent?lp=it_en&url=http%3A%2F%2Fwww.lastknight.com%2Farticoli%2Fsicurezza-e-privacy-p2p-e-formazione)
+  
+*  [Vulnerabilità XSS nei siti facenti capo a Poste.it](/articoli/attacco-xss-poste-italiane/)  
+    La procedura di Log-In di Poste.it e dei domini ad esso correlati (tra cui bancopostaonline.poste.it) presenta problematiche che consentono un attacco di XSS (Cross Site Scripting) per il dirottamento degli utenti verso dominio di terze parti...  
+    [>> Leggi articolo](/articoli/attacco-xss-poste-italiane/)[>>BabelFish](http://babelfish.altavista.com/babelfish/trurl_pagecontent?lp=it_en&url=http%3A%2F%2Fwww.lastknight.com%2Farticoli%2Fattacco-xss-poste-italiane)
+  
+*  [Le aste della Procura di Milano e il procedimento Borra](/articoli/aste-online-della-procura-di-milano/)  
+    Per la prima volta in Italia, si è presentata online la possibilità di partecipare virtualmente ad un asta della Procura di Milano e più precisamente quella concernente il Procedimento Penale 31034/03 ed al sequestro datato 17.10.2003 ed eseguito dalla Guardia di Finanza di Milano in data 17.10.2003 nei confronti di BORRA ANGELINO e BORRA CATERINO nei locali siti in Montebello della Battaglia, via per Lungavilla n. 43...
+    [>>Leggi articolo](/articoli/aste-online-della-procura-di-milano/)[>>BabelFish](http://babelfish.altavista.com/babelfish/trurl_pagecontent?lp=it_en&url=http%3A%2F%2Fwww.lastknight.com%2Farticoli%2Faste-online-della-procura-di-milano)
+  
+*  [Introduzione ai SEO, i Search Engine Optimizers](/articoli/seo-e-motori-di-ricerca/)  
+    Durante lultimo periodo, per esigenze di lavoro mi sono trovato ad analizzare nel dettaglio le tecniche utilizzate dalle differenti realtà italiane che si occupano di posizionamento nei motori di ricerca (in inglese SEO - Search Engine Optimizers), ed in dettaglio del funzionamento pratico delle loro strategie...
+    [>>Leggi Articolo](/articoli/seo-e-motori-di-ricerca)[>>BabelFish](http://babelfish.altavista.com/babelfish/trurl_pagecontent?lp=it_en&url=http%3A%2F%2Fwww.lastknight.com%2Farticoli%2Fseo-e-motori-di-ricerca) 

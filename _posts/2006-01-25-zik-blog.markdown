@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Zik Blog...
+published: true
+meta: 
+  autometa: ""
+tags: 
+- Me &amp; The Web
+type: post
+status: publish
+---
+Noto con piacere ed annuncio a chi mi legge che lo stimato amico nonchè competentissimo giurista Prof. [Giovanni Ziccardi](http://www.ziccardi.org) ha rinnovato la veste grafica di "[casa sua](http://www.ziccardi.org)" ed aperto un [Blog](http://ziccardi.typepad.com/) che sono sicuro non mancherà di entusiasmare gli appassionati di Informatica Giuridica... 
+
+Per colori che non lo conoscono, il Prof. [Ziccardi](http://www.ziccardi.org) è <strong>Professore Associato</strong> di <strong>Informatica Giuridica</strong> presso l'Università degli Studi di Milano, membro della Board of Directors dell'Associazione americana IP Justice e chairman di lunghissima data della famosa ICLC (Italian Cyberspace Law Conference).  
+
+Oltretutto è un ottimo musicista =] 

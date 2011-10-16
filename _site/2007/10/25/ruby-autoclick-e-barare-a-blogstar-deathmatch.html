@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="en-us" http-equiv="Content-Language" />
+    <meta content="The online writing of Alex Payne" name="description" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
+    <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
+    <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
+    <title>Alex Payne &mdash; Ruby, Autoclick e barare a BlogStar DeathMatch</title>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18477555-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  </head>
+  <body>
+    <header>
+      <h1 id="title">
+        <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
+      </h1>
+      <h2 id="subtitle">
+        See also the <a href="/archive.html" title="Archive">archive</a>,
+        <a href="/books_talks.html">books & talks</a>.
+      </h2>
+    </header>
+    <div id="fusionad">
+  <small>advertisement</small>
+  <script type='text/javascript'><!--//<![CDATA[
+     var m3_u = (location.protocol=='https:'?'https://adn.fusionads.net/www/pull/get.php':'http://adn.fusionads.net/www/pull/get.php');
+     var m3_r = Math.floor(Math.random()*99999999999);
+     if (!document.MAX_used) document.MAX_used = ',';
+     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+     document.write ("?zoneid=38&amp;charset=UTF-8&amp;withtext=1");
+     document.write ('&amp;cb=' + m3_r);
+     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+     document.write ('&amp;charset=UTF-8');
+     document.write ("&amp;loc=" + escape(window.location));
+     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+     if (document.context) document.write ("&context=" + escape(document.context));
+     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+     document.write ("'><\/scr"+"ipt>");
+  //]]>--></script>
+  <br />
+  <a href="http://fusionads.net" title="Powered by Fusion Ads">POWERED by FUSION</a>
+</div>
+    <div id="wrapper">
+      <h2 id="intro">An individual post follows.</h2>
+<article class="post">
+> Se arrivate qui dal link di [Celebrity Deathmatch](http://paulthewineguy.prohosts.org/) è perchè [Paul The Wine Guy](http://www.paulthewineguy.com/) ha preso mail il Report di cui sotto.
+> Nessun problema... Mettetevi comodi, divertitevi a capire il meccanismo, ed andate in giro a cercare come pazzi a cercare altre vulnerabilità!
+> **Full Disclosure**, we believe in it!
+
+Qui tutti **sembrano sconvolti** all'idea che qualcuno abbia "acarato" il [Blogstar Deathmatch](http://paulthewineguy.prohosts.org/) dei blogger proposto da [Paul The Wine Guy](http://www.paulthewineguy.com/), ma in realtà non credo proprio vi sia la necessità di **acarare** proprio nulla...  
+  
+Vediamo un secondo...  
+L'applicazione **consente** il voto **una volta ogni minuto** da singolo IP. E' una scelta che **io** reputo non corretta a prescindere, ma è la regola del gioco. Lo dice anche una scrittina che appare in bella vista dicendo **"Puoi votare nuovamente tra 1 minuto da adesso."**.  
+  
+Seguire le regole di altro tipo è IMPOSSIBILE, **non essendoci** regole in tutto il sito.  
+Devo cliccare una delle due frecce e lo posso cliccare una volta al minuto per singolo IP. Il che significa che posso fare **60 x 24 = 1440** voti da singolo IP. Moltiplicato per il numero di IP che riesco ad avere.  
+
+<!--more-->
+  
+Ma cliccare a mano è scomodo e da nessuna parte mi dice che non posso cliccare automaticamente. Quindi mi attrezzo del fido Mac, del fido Ruby e dopo un "sudo gem install safariwatir" scrivo un paio di righe in Ruby:  
+  
+  
+[ruby]
+require 'rubygems'
+require 'safariwatir'
+
+startUrl = "http://paulthewineguy.prohosts.org/"
+
+b = Watir::Safari.new
+b.speed = :fast
+
+(1..1000).each do |x|
+  begin
+    sleep 60
+    b.goto(startUrl)
+    begin
+      b.button(:name, 'Vota2').click
+    rescue
+      puts "    ...non ho trovato il bottone..."
+    end
+  rescue
+    puts " barf... error..."
+  end
+end
+[/ruby] 
+  
+Ho *"barato"*? Certo che no!  
+Innanzitutto non sono uno dei concorrenti, in secondo logo lo script ha generato 13/15 click su oltre 90, e **SOPRATTUTTO** da nessuna parte esiste il divieto** dell'utilizzo di sistemi automatici. Mai in tutto il sito. E quindi ciò che non è vietato è consentito senza "intrusione informatica" e/o "accesso abusivo" e/o "sovversione del sistema". E qui il sistema non l'abbiamo visto nemmeno di striscio: abbiamo fatto cliccare da Watir. FullStop.  
+  
+La soluzione? Abbastanza semplice in teoria: **bloccare il numero massimo di click** possibili da singolo IP.  
+  
+Sfortunatamente però il problema non è risolvibile agilmente perché con semplici meccanismo di rotor-proxy (meta proxy che cambia IP ad ogni richiesta prendendoli da una serie predefinita) potrei avere un **sostenuto numero di IP** a disposizione.  
+  
+E a chi dice che *"in questo modo ho rovinato il gioco"* chiedo come fanno a sapere che il gioco non fosse già rovinato precedentemente. Come fanno a sapere che sino ad oggi nessuno l'abbia mai usato.  
+**Full Disclosure**, we believe in it. Solo divulgando il problema si è certi della risoluzione.  
+  
+Quindi? Quindi all'amico  [Paul The Wine Guy](http://www.paulthewineguy.com/) non mi rimane che suggerire un qualunque **meccanismo di captcha** per evitare il click automatico. Facile, semplice e sicuro.  
+E magari **scrivere da qualche** parte a scanso di equivoci che **non sono ammessi link automatici**, tutelandosi così anche in futuro, per lo meno "moralmente". *(NOTA: lo ha fatto...)* 
+E se serve una mano per implementare il captcha sono qui, la do volentieri. :)  
+    
+Oltre a questo forse solo evitare [i commenti](http://twitter.com/PaulTheWineGuy/statuses/360252742) sul **celodurismo** del sottoscritto...   
+Non sono ancora Bossi e, soprattutto, dopo tutti i reminder "enlarge your p3n1s" che mi arrivano in mail potrebbero venirmi dei complessi :) 
+
+<time class="signoff" datetime="2007-10-25">
+  &mdash;Oct 25, 2007
+</time>
+</article>
+
+      <footer id="footer">
+        <a href="/" title="Home">Home</a> &bull;
+        <a href="/about.html" title="About the author and site">About</a> &bull;
+        <a href="/archive.html" title="Archived writing">Archive</a> &bull;
+        <a href="/books_talks.html" title="Books and talks">Books & Talks</a>
+        <form action="http://www.google.com/cse" id="cse-search-box">
+          <div>
+            <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />
+            <input type="hidden" name="ie" value="UTF-8" />
+            <input type="text" name="q" size="40" />
+            <input type="submit" name="sa" value="Search" />
+          </div>
+        </form>
+      </footer>
+    </div>
+  </body>
+</html>

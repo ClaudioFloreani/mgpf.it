@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="en-us" http-equiv="Content-Language" />
+    <meta content="The online writing of Alex Payne" name="description" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
+    <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
+    <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
+    <title>Alex Payne &mdash; Moderazione automatica e redirezione</title>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18477555-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  </head>
+  <body>
+    <header>
+      <h1 id="title">
+        <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
+      </h1>
+      <h2 id="subtitle">
+        See also the <a href="/archive.html" title="Archive">archive</a>,
+        <a href="/books_talks.html">books & talks</a>.
+      </h2>
+    </header>
+    <div id="fusionad">
+  <small>advertisement</small>
+  <script type='text/javascript'><!--//<![CDATA[
+     var m3_u = (location.protocol=='https:'?'https://adn.fusionads.net/www/pull/get.php':'http://adn.fusionads.net/www/pull/get.php');
+     var m3_r = Math.floor(Math.random()*99999999999);
+     if (!document.MAX_used) document.MAX_used = ',';
+     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+     document.write ("?zoneid=38&amp;charset=UTF-8&amp;withtext=1");
+     document.write ('&amp;cb=' + m3_r);
+     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+     document.write ('&amp;charset=UTF-8');
+     document.write ("&amp;loc=" + escape(window.location));
+     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+     if (document.context) document.write ("&context=" + escape(document.context));
+     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+     document.write ("'><\/scr"+"ipt>");
+  //]]>--></script>
+  <br />
+  <a href="http://fusionads.net" title="Powered by Fusion Ads">POWERED by FUSION</a>
+</div>
+    <div id="wrapper">
+      <h2 id="intro">An individual post follows.</h2>
+<article class="post">
+Direi che ora che lo sciame dei grillini è passato posso tornare alla moderazione normale...  
+  
+E forse è anche ora che spieghi come ha funzionato la moderazione in questi giorni.  
+No, non eticamente, ma semplicemente da un punto di vista tecnico...
+  
+<img src="http://www.lastknight.com/download/2008/08/moderazione.jpg" alt="" title="moderazione" class="aligncenter size-full wp-image-914" border=1 /> 
+  
+Il tutto si è sviluppato in due diversi accorgimenti tecnici: l'utilizzo di dei **filtri built in** e l'utilizzo di **.htaccess**.  
+  
+I filtri sono comodi per evitare di LEGGERE per ore messaggi contenenti insulti o non attinenti alla conversazione. Quando arrivano qualche centinaia di commenti all'ora è necessario (se come il sottoscritto si fa altro nella vita) trovare un modo per arginarli senza leggere.  
+Da bravo informatico (e quindi uomo pigro), la soluzione è stata quella di stendere una serie di parole chiave e fare fare il lavoro ai filtri automatici presenti in Wordpress alla voce Settings > Discussion.  
+  
+<img src="http://www.lastknight.com/download/2008/08/moderazione2.jpg" alt="" title="moderazione" class="aligncenter size-full wp-image-914" border=1 /> 
+  
+Certo, in questo modo probabilmente ho preso anche commenti legittimi, ma una buona serie sono stati bloccati. Non li ho nemmeno letti, dopo una prima mezz'ora guardando che non vi fossero TROPPI falsi positivi.  
+Ogni oretta o due passavo per di qui e cancellavo i commenti marcati come SPAM. Fine dei giochi.  
+  
+La seconda strategia era, invece, un semplice "pons asinorum". Buona parte dei contatti, infatti, arrivavano da solamente un paio di indirizzi ed erano gente che non mi piaceva in linea di massima avere sul Blog, visto che venivano infiammati da sacro furore PRIMA di aver letto qualunque cosa.  
+E quindi avere si è effettuata una scrematura per **livello di intelligenza**: se provenivano cliccando dai siti in questione venivano rediretti ad altro sito. Nulla impediva di arrivare digitando l'URL o cercando in un motore di ricerca, ma direttamente dal link nisba ;)  
+  
+Non che sia, tra l'altro, una tecnica nuova: nel mondo è stata spesso usata ed abusata e anche Luttazzi [ha fatto la stessa cosa][1] qualche tempo fa, redirigendo i lettori di Repubblica ad un sito di "cacca d'artista"... :)  
+  
+Implementare con Wordpress anche questa parte è decisamente semplice: basta editare il file .htaccess nella root del sito web ed aggiungere qualche riga:  
+  
+<img src="http://www.lastknight.com/download/2008/08/moderazione3.jpg" alt="" title="moderazione" class="aligncenter size-full wp-image-914" width=520 border=1  /> 
+  
+La tradizione della rete proporrebbe di reindirizzare a Goatse, ma mi sono trattenuto (e se siete deboli di stomaco non andate a cercare su Google cosa sia :P).  
+Gli utenti più determinati sono arrivati lo stesso, con una breve ricerca su Google. Ma sono convinto di essermi eliminato buona parte dello stress a priori :)  
+  
+Ok, tutto qui, spero vi siate tecnicamente divertiti :)  
+  
+Si ritorna alla normale coda di moderazione manuale sino alla prossima volta!  
+  
+[tags] noncyclopedia, byoblu, moderazione, wordpress [/tags]  
+
+
+[1]: http://www.7yearwinter.com/2007/12/i-blog-smascherano-repubblica-e-libero-hanno-linkato-la-merda/ 
+
+<time class="signoff" datetime="2008-08-08">
+  &mdash;Aug 08, 2008
+</time>
+</article>
+
+      <footer id="footer">
+        <a href="/" title="Home">Home</a> &bull;
+        <a href="/about.html" title="About the author and site">About</a> &bull;
+        <a href="/archive.html" title="Archived writing">Archive</a> &bull;
+        <a href="/books_talks.html" title="Books and talks">Books & Talks</a>
+        <form action="http://www.google.com/cse" id="cse-search-box">
+          <div>
+            <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />
+            <input type="hidden" name="ie" value="UTF-8" />
+            <input type="text" name="q" size="40" />
+            <input type="submit" name="sa" value="Search" />
+          </div>
+        </form>
+      </footer>
+    </div>
+  </body>
+</html>

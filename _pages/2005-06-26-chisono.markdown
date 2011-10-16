@@ -1,0 +1,31 @@
+--- 
+layout: page
+title: Chi sono
+published: true
+meta: 
+  _edit_last: "1"
+  _wp_page_template: default
+  autometa: permanente congressi coordinatore membro osservatorio occupa
+tags: []
+
+type: page
+status: publish
+---
+[![Matteo Flora - Photo by Zen](/download/lk_zen.jpg)](http://www.flickr.com/photos/zen0)
+  
+Matteo G.P. Flora, nato nel 1978 è Amministratore Unico e Socio della società di Innovazione The Fool s.r.l., dedicata alla creazione di sistemi informatici ad altissimo valore aggiunto per il Controllo della Navigazione Internet, la Gestione della Comunicazione Online e il Monitoraggio della Rete Internet.  
+  
+Approda a The Fool s.r.l. dopo un trascorso più che decennale di consulenza nelle qualifiche di Security Evangelist, Perito Forense e di Parte, e New Media Consultant, nei quali ruoli ha diretto strategie ad alto livello in contesti in cui era vitale una elevata competenza in campi quali la Computer Forensics, la Programmazione Sicura, la gestione delle problematiche relative alla privacy oltre alla conoscenza delle dinamiche e delle peculiarità del mondo della Comunicazione.
+
+Ha prestato consulenza come Consulente Strategico o Consulente Tecnologie IT in progetti per molte realtà internazionali quali: BNL, MPS, Walt Disney Interactive, Mediaset, CityGroup, 77Agency, Buongiorno Vitaminic, Glaxxo Smith Kline, ENI. Altri progetti curati o realizzati comprendono Gruppo Soa, Mg-Art, Todomodo, AstraZeneca, Aktive Reply, Fiat Auto, TodoMondo.
+
+Nella veste di Security Evangelist ha rilasciato centinaia Vulnerability Reports e Advisories con certa regolarità, e dal 1999 si è impegnato nel ruolo di Security Auditor con clienti del calibro di Poste Italiane S&S, EDS, ENI, Spike Reply, Mediaset, Ospedale San Raffaele e varie Cliniche pubbliche e private.
+
+Ha svolto il ruolo di Perito Forense per la Magistratura, prevalentemente per la Guardia di Finanza, ed in questa veste ha collaborato nelle indagini nello scandalo Cirio/Parmalat e nel famoso caso della Casa di Cura Santa Rita. Come consulente di parte, e tra le ultime cause si annovera una difesa contro Sky ed il famoso contenzioso Mediaset vs. YouTube.
+
+Conferenziere di moderato successo è spesso Relatore a Convegni e Manifestazioni (con oltre 200 conferenze al suo attivo) dove parla di Corporate and Personal Security, Evasione dei Controlli Censori, Anonimato and Privacy.
+Ha tenuto una rubrica settimanale di Sicurezza sul noto quotidiano online Punto informatico dal titolo (in)sicurezza.
+	
+Grazie per aver letto sino a qui **senza addormentarvi**. La vostra pazienza è invidiabile ;).  
+    
+**NOTA BENE:** La fotografia è un regalo di Zen ed è stata scattata Domenica 16 Marzo 2008 a Ferrara, durante il post-conferenza. Se volete vedere altri capolavori di Zen potete vedere il suo [Flickr pool](http://www.flickr.com/photos/zen0). Ne varrà sicuramente la pena... 

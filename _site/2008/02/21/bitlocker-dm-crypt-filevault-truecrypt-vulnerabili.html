@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="en-us" http-equiv="Content-Language" />
+    <meta content="The online writing of Alex Payne" name="description" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
+    <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
+    <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
+    <title>Alex Payne &mdash; BitLocker, Dm-Crypt, Filevault, TrueCrypt vulnerabili...</title>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18477555-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  </head>
+  <body>
+    <header>
+      <h1 id="title">
+        <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
+      </h1>
+      <h2 id="subtitle">
+        See also the <a href="/archive.html" title="Archive">archive</a>,
+        <a href="/books_talks.html">books & talks</a>.
+      </h2>
+    </header>
+    <div id="fusionad">
+  <small>advertisement</small>
+  <script type='text/javascript'><!--//<![CDATA[
+     var m3_u = (location.protocol=='https:'?'https://adn.fusionads.net/www/pull/get.php':'http://adn.fusionads.net/www/pull/get.php');
+     var m3_r = Math.floor(Math.random()*99999999999);
+     if (!document.MAX_used) document.MAX_used = ',';
+     document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+     document.write ("?zoneid=38&amp;charset=UTF-8&amp;withtext=1");
+     document.write ('&amp;cb=' + m3_r);
+     if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+     document.write ('&amp;charset=UTF-8');
+     document.write ("&amp;loc=" + escape(window.location));
+     if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+     if (document.context) document.write ("&context=" + escape(document.context));
+     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+     document.write ("'><\/scr"+"ipt>");
+  //]]>--></script>
+  <br />
+  <a href="http://fusionads.net" title="Powered by Fusion Ads">POWERED by FUSION</a>
+</div>
+    <div id="wrapper">
+      <h2 id="intro">An individual post follows.</h2>
+<article class="post">
+[Sono riusciti][1] a leggere il **contenuto delle DRAM** dopo lo spegnimento del computer.  Cosa significa? Significa che in potenza è possibile, e lo **[hanno fatto][1]** , recuperare dalla memoria la Master Key di uno dei sistemi di cifratura brutalmente disconnettendo la corrente e recuperando il contenuto della memoria, che in quel momento contiene la chiave.  
+In questo modo si ottiene la **Master Key** e sono [riusciti a decifrare BitLocker][1]...  Kudos...  
+ 
+I buontemponi sono <a href="http://www.cs.princeton.edu/%7Ejhalderm">J. Alex Halderman</a>, <a href="http://www.loyalty.org/%7Eschoen/">Seth D. Schoen</a>, <a href="http://www.cs.princeton.edu/%7Enadiah">Nadia Heninger</a>, <a href="http://www.cs.princeton.edu/%7Ewclarkso/">William Clarkson</a>, <a href="mailto:wpaul@windriver.com">William Paul</a>, <a href="http://www.cs.princeton.edu/%7Ejcalandr/">Joseph A. Calandrino</a>, <a href="http://www.cs.princeton.edu/%7Eajfeldma">Ariel J. Feldman</a>, <a href="http://www.appelbaum.net/">Jacob Appelbaum</a>, and <a href="http://www.cs.princeton.edu/%7Efelten">Edward W. Felten</a> della Università di Princeton.  
+  
+Qui sotto il filmato che ne spiega il funzionamento:  
+  
+<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/JDaicPIgn9U&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/JDaicPIgn9U&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
+  
+Qui invece si trova il [Paper in PDF](http://citp.princeton.edu.nyud.net/pub/coldboot.pdf) printo da scaricare. Interessantissima anche la pagina con [i test pratici](http://citp.princeton.edu/memory/exp) per controllare sul proprio computer.  
+  
+Come si diceva via skype con i ragazzi di [USH.it](http://www.ush.it) i metodi esistono da tempo, sia via CardBus che via dumping della memoria, ma questo è probabilmente il modo più spettacolare...  
+  
+[1]: http://citp.princeton.edu/memory/
+
+[tag]bitlocker, dm-crypt, truecrypt, encryption, crittografia, cracking[/tag] 
+
+<time class="signoff" datetime="2008-02-21">
+  &mdash;Feb 21, 2008
+</time>
+</article>
+
+      <footer id="footer">
+        <a href="/" title="Home">Home</a> &bull;
+        <a href="/about.html" title="About the author and site">About</a> &bull;
+        <a href="/archive.html" title="Archived writing">Archive</a> &bull;
+        <a href="/books_talks.html" title="Books and talks">Books & Talks</a>
+        <form action="http://www.google.com/cse" id="cse-search-box">
+          <div>
+            <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />
+            <input type="hidden" name="ie" value="UTF-8" />
+            <input type="text" name="q" size="40" />
+            <input type="submit" name="sa" value="Search" />
+          </div>
+        </form>
+      </footer>
+    </div>
+  </body>
+</html>

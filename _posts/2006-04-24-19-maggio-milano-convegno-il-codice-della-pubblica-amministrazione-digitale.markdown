@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "19  Maggio, Milano: Convegno \"Il Codice della Pubblica Amministrazione Digitale\""
+published: true
+meta: 
+  _aioseop_keywords: pubblica amministrazione, sicurezza pubblica amministrazione, la sicurezza della pubblica amministrazione, legge 196 e pubblica amministrazione, codice amministrazione digitale, pubblica amministrazione digitale, codice della pubblica amministrazione digitale
+tags: 
+- Conferenze
+- Security and Intelligence
+type: post
+status: publish
+---
+[![Locandina](/download/20060424_lra.jpg)](/download/LRACodicePAdigitale.pdf)
+
+Ho il piacere di informarvi che il giorno **19 Maggio 2006** sarò a **Milano** come relatore dell'incontro "**[Il Codice della Pubblica Amministrazione Digitale](http://www.lra.it/web/dettaglioConvegno.do?convegnoId=4224&nome=Il_Codice_della_Pubblica_Amministrazione_Digitale)**: Le novità introdotte dal Codice, le ripercussioni operative e le modalità di applicazione negli Enti locali" organizzato da LRA .  
+
+Ancora una volta mi muoverò nell'argomento della **sicurezza in ambito Corporate** con un intervento dal titolo "**La sicurezza nel trattamento dei dati
+e nei siti web delle PA**" mostrando quanto la legge 196/03 sia solamente la **punta dell'iceberg** del discorso sicurezza...  
+Con me gli amici e stimatissimi professionisti Andrea Lisi, Luca Giacopuzzi, Federica Bertoni e Marco Scialdone.  
+
+L'incontro si terrà a **Milano** il **19 Maggio 2006** presso l'ATA Hotel Executive di Via Sturzo.  
+
+Per informazioni sull'iscrizione (sfortunatamente non gratuita) è possibile scaricare la [brochure](/download/LRACodicePAdigitale.pdf) in PDF , contattare LRA oppure ancora visitare la [pagina relativa](http://www.lra.it/web/dettaglioConvegno.do?convegnoId=4224&nome=Il_Codice_della_Pubblica_Amministrazione_Digitale) del sito web. 
