@@ -2,7 +2,7 @@
 layout: post
 title: "Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?"
 published: true
-meta:
+meta: {}
 tags: 
 - awesome
 type: post

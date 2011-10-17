@@ -1,21 +1,22 @@
 --- 
 layout: post
 title: "ZenLife: LifeHacking for Hackers"
-meta: {}
-tags:
-- about me
+published: true
+meta: 
+tags: 
+- about-me
 - hope
-- zenlife
 type: post
+status: publish
 ---
 Durante l'[ESC][1] di quest'anno ho fatto uno speech un po' particolare: invece di parlare semplicemente di tecnologia mi sono concentrato su una serie di "cose" che negli anni ho imparato ed utilizzato per la gestione della mia vita e della produttività. Ma anche di spiritualità, trucchi, massime.  
 
 Ho cercato di condensare in un'oretta e mezza di conversazione la mia visione di una serie di cose della vita.  
   
-Non sono un medico, non sono uno psicologo e soprattutto non sono un docente di meditazione e/o di buddhismo. Centianaia di cose in questo video possono essere (e probabilmente sono) sbagliate, fuorvianti, pericolose o imprecise. Vedetela non come la verità, ma come la mia piccola personale dose di verità. Prendetela come spunto per cercare i VOSTRI valori, le VOSTRE metodologie e le VOSTRE credenze.  
+Non sono un medico, non sono uno psicologo e soprattutto non sono un docente di meditazione e/o di buddhismo. Centinaia di cose in questo video possono essere (e probabilmente sono) sbagliate, fuorvianti, pericolose o imprecise. Vedetela non come la verità, ma come la mia piccola personale dose di verità. Prendetela come spunto per cercare i VOSTRI valori, le VOSTRE metodologie e le VOSTRE credenze.  
   
 Eccovi l'oretta e mezza di video:  
-
+  
 <iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/EaIG46nClqs?hd=1" frameborder="0"></iframe>
 
 Ed ecco le Slide pubblicate a vostra disposizione:  

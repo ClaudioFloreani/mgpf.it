@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: "Non è Complotto, è semplice Stupidit\xC3\xA0"
+title: "Non \xC3\xA8 Complotto, \xC3\xA8 semplice Stupidit\xC3\xA0"
 published: true
-meta: {}
+meta: 
 tags: 
-- about me
+- about-me
 type: post
 status: publish
 ---

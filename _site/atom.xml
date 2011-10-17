@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Alex Payne</title>
- <link href="http://al3x.net/atom.xml" rel="self"/>
- <link href="http://al3x.net/"/>
- <updated>2011-10-17T00:08:36+02:00</updated>
- <id>http://al3x.net/</id>
+ <title>Matteo Flora</title>
+ <link href="http://mgpf.it/atom.xml" rel="self"/>
+ <link href="http://mgpf.it/"/>
+ <updated>2011-10-17T11:18:30+02:00</updated>
+ <id>http://mgpf.it/</id>
  <author>
-   <name>Alex Payne</name>
-   <email>al3x@al3x.net</email>
+   <name>Matteo Flora</name>
+   <email>io@mgpf.it</email>
  </author>
  
  <entry>
    <title>Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?</title>
-   <link href="http://al3x.net/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html"/>
+   <link href="http://mgpf.it/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html"/>
    <updated>2011-10-07T00:00:00+02:00</updated>
-   <id>http://al3x.net/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio</id>
+   <id>http://mgpf.it/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio</id>
    <content type="html">&lt;iframe src=&quot;http://player.vimeo.com/video/29950141?portrait=0&amp;amp;color=ffffff&quot; width=&quot;600&quot; height=&quot;400&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 </content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
    </author>
  </entry>
  
  <entry>
    <title>Stay hungry, stay foolish</title>
-   <link href="http://al3x.net/2011/10/06/stay-hungry.html"/>
+   <link href="http://mgpf.it/2011/10/06/stay-hungry.html"/>
    <updated>2011-10-06T00:00:00+02:00</updated>
-   <id>http://al3x.net/2011/10/06/stay-hungry</id>
+   <id>http://mgpf.it/2011/10/06/stay-hungry</id>
    <content type="html">&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;http://www.youtube-nocookie.com/embed/oObxNDYyZPs&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Ciao Steve.&lt;/p&gt;
 </content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
    </author>
  </entry>
  
  <entry>
    <title>ZenLife: LifeHacking for Hackers</title>
-   <link href="http://al3x.net/2011/09/29/zenlife-lifehacking-for-hackers.html"/>
+   <link href="http://mgpf.it/2011/09/29/zenlife-lifehacking-for-hackers.html"/>
    <updated>2011-09-29T00:00:00+02:00</updated>
-   <id>http://al3x.net/2011/09/29/zenlife-lifehacking-for-hackers</id>
+   <id>http://mgpf.it/2011/09/29/zenlife-lifehacking-for-hackers</id>
    <content type="html">&lt;p&gt;Durante l&amp;rsquo;&lt;a href=&quot;http://endsummercamp.org&quot;&gt;ESC&lt;/a&gt; di quest&amp;rsquo;anno ho fatto uno speech un po&amp;rsquo; particolare: invece di parlare semplicemente di tecnologia mi sono concentrato su una serie di &amp;ldquo;cose&amp;rdquo; che negli anni ho imparato ed utilizzato per la gestione della mia vita e della produttività. Ma anche di spiritualità, trucchi, massime.  &lt;/p&gt;
 
 &lt;p&gt;Ho cercato di condensare in un&amp;rsquo;oretta e mezza di conversazione la mia visione di una serie di cose della vita.  &lt;/p&gt;
 
-&lt;p&gt;Non sono un medico, non sono uno psicologo e soprattutto non sono un docente di meditazione e/o di buddhismo. Centianaia di cose in questo video possono essere (e probabilmente sono) sbagliate, fuorvianti, pericolose o imprecise. Vedetela non come la verità, ma come la mia piccola personale dose di verità. Prendetela come spunto per cercare i VOSTRI valori, le VOSTRE metodologie e le VOSTRE credenze.  &lt;/p&gt;
+&lt;p&gt;Non sono un medico, non sono uno psicologo e soprattutto non sono un docente di meditazione e/o di buddhismo. Centinaia di cose in questo video possono essere (e probabilmente sono) sbagliate, fuorvianti, pericolose o imprecise. Vedetela non come la verità, ma come la mia piccola personale dose di verità. Prendetela come spunto per cercare i VOSTRI valori, le VOSTRE metodologie e le VOSTRE credenze.  &lt;/p&gt;
 
 &lt;p&gt;Eccovi l&amp;rsquo;oretta e mezza di video:  &lt;/p&gt;
 
@@ -84,16 +84,16 @@
 
 </content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
    </author>
  </entry>
  
  <entry>
    <title>Non è Complotto, è semplice Stupidità</title>
-   <link href="http://al3x.net/2011/08/24/non-e-complotto-e-semplice-stupidita.html"/>
+   <link href="http://mgpf.it/2011/08/24/non-e-complotto-e-semplice-stupidita.html"/>
    <updated>2011-08-24T00:00:00+02:00</updated>
-   <id>http://al3x.net/2011/08/24/non-e-complotto-e-semplice-stupidita</id>
+   <id>http://mgpf.it/2011/08/24/non-e-complotto-e-semplice-stupidita</id>
    <content type="html">&lt;p&gt;Ho trovato qualcun altro che la pensa come me:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -104,16 +104,16 @@
 E penso esattamente la stessa cosa da anni.&lt;/p&gt;
 </content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
    </author>
  </entry>
  
  <entry>
    <title>Ci vediamo al Chaos Communication Camp</title>
-   <link href="http://al3x.net/2011/08/05/ci-vediamo-al-chaos-communication-camp.html"/>
+   <link href="http://mgpf.it/2011/08/05/ci-vediamo-al-chaos-communication-camp.html"/>
    <updated>2011-08-05T00:00:00+02:00</updated>
-   <id>http://al3x.net/2011/08/05/ci-vediamo-al-chaos-communication-camp</id>
+   <id>http://mgpf.it/2011/08/05/ci-vediamo-al-chaos-communication-camp</id>
    <content type="html">&lt;p&gt;Come quattro anni fa ci troveremo all&amp;rsquo;&lt;a href=&quot;http://events.ccc.de/camp/2011/wiki/Italian_Embassy&quot;&gt;Italian Embassy&lt;/a&gt; del &lt;a href=&quot;http://events.ccc.de/camp/2011/wiki/Italian_Embassy&quot;&gt;Chaos Communication Camp&lt;/a&gt; dal 10 al 14 Agosto 2011 a Finowfurt, Germania, Europa, Pianeta Terra, Via Lattea.&lt;br /&gt;
 Assieme agli altri italiani abbiamo organizzato non solamente la permanenza, ma anche le infrastrutture e probabilmente la logistica (grazie Seba!) di cibazione (oltre che l&amp;rsquo;alcool (grazie tutti e Rebus!), come da brava tradizione).&lt;br /&gt;
 Quest&amp;rsquo;anno grazie ai mille volontari anche uno stupendo logo (grande Rita!), tanti cartelloni, uno spazio con tendone  (grazie Naif!) di 90mq e una serie di amenità varie.&lt;/p&gt;
@@ -129,37 +129,37 @@ Vedrò di scrivere qualcosa durante i giorni su qui, sull&amp;rsquo;&lt;a href=&
 
 </content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
    </author>
  </entry>
  
  <entry>
    <title>Blink182 ed il furto più geniale</title>
-   <link href="http://al3x.net/2011/08/05/blink182-ed-il-furto-piu-geniale.html"/>
+   <link href="http://mgpf.it/2011/08/05/blink182-ed-il-furto-piu-geniale.html"/>
    <updated>2011-08-05T00:00:00+02:00</updated>
-   <id>http://al3x.net/2011/08/05/blink182-ed-il-furto-piu-geniale</id>
+   <id>http://mgpf.it/2011/08/05/blink182-ed-il-furto-piu-geniale</id>
    <content type="html">&lt;p&gt;Si parla spesso della pirateria digitale online e dell&amp;rsquo;utilizzo senza permesso di contenuti audiovisivi. L&amp;rsquo;esempio su tutti, non fosse altro per semplici dimensioni di mercato, è sicuramente YouTube, &amp;ldquo;luogo virtuale&amp;rdquo; in cui i filmati che sfruttano abusivamente colonne sonore sono milioni.&lt;/p&gt;
 
 &lt;p&gt;I Blink182 per il lancio del loro nuovo video hanno deciso di far &amp;ldquo;pagare pegno&amp;rdquo; a una serie di video scovati sui Social Network che usavano abusivamente la loro musica&amp;hellip; usandoli abusivamente in un video promozionale!&lt;/p&gt;
 
-&lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;http://www.youtube-nocookie.com/embed/eabtzkY_jNs&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&amp;lt;iframe width=&amp;rdquo;640&amp;rdquo; height=&amp;rdquo;390&amp;rdquo; src=&amp;rdquo;http://www.youtube-nocookie.com/embed/eabtzkY_jNs&amp;rdquo; frameborder=&amp;rdquo;0&amp;rdquo; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
 
 &lt;p&gt;Che dire? Pari e patta?  &lt;/p&gt;
 
 &lt;p&gt;P.S. Grazie a &lt;strong&gt;Morena Ragone&lt;/strong&gt; per la segnalazione sulla lista del Circolo dei Giuristi Telematici&lt;/p&gt;
 </content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
    </author>
  </entry>
  
  <entry>
    <title>Forensics, Timeline e Python</title>
-   <link href="http://al3x.net/2011/08/04/tool-di-computer-forensics-opensource-python.html"/>
+   <link href="http://mgpf.it/2011/08/04/tool-di-computer-forensics-opensource-python.html"/>
    <updated>2011-08-04T00:00:00+02:00</updated>
-   <id>http://al3x.net/2011/08/04/tool-di-computer-forensics-opensource-python</id>
+   <id>http://mgpf.it/2011/08/04/tool-di-computer-forensics-opensource-python</id>
    <content type="html">&lt;p&gt;Questa settimana l&amp;rsquo;articolo del &lt;a href=&quot;http://computer-forensics.sans.org/blog/2011/07/29/digital-forensics-case-leads-python-puts-snakes-on-case&quot;&gt;Blog di Computer Forensics di Sans&lt;/a&gt; riporta un enorme numero di tool per la Computer Forensics realizzati in Python. Alcuno sono veramente notevoli:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -174,16 +174,16 @@ Vedrò di scrivere qualcosa durante i giorni su qui, sull&amp;rsquo;&lt;a href=&
 
 </content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
    </author>
  </entry>
  
  <entry>
    <title>Dove finisce Anonymous ed inizia LulzSec</title>
-   <link href="http://al3x.net/2011/08/04/dove-finisce-anonymous-ed-inizia-lulzsec.html"/>
+   <link href="http://mgpf.it/2011/08/04/dove-finisce-anonymous-ed-inizia-lulzsec.html"/>
    <updated>2011-08-04T00:00:00+02:00</updated>
-   <id>http://al3x.net/2011/08/04/dove-finisce-anonymous-ed-inizia-lulzsec</id>
+   <id>http://mgpf.it/2011/08/04/dove-finisce-anonymous-ed-inizia-lulzsec</id>
    <content type="html">&lt;p&gt;Dopo aver parlato un poco degli attacchi a Vitrociset e CNAIPIC la Novella 2000 del web 2.0 italiano (aka FriendFeed) si è tanto infervorata perchè ho parlato di Anonymous e non di LulzSec come realtà dietro l&amp;rsquo;attacco.  &lt;/p&gt;
 
 &lt;p&gt;E&amp;rsquo; un po&amp;rsquo; che insieme ad altri amici condividiamo una serie di considerazioni su Anonymous ITA e &lt;a href=&quot;https://twitter.com/#!/LulzSecITALY&quot;&gt;LulzSec ITA&lt;/a&gt; e forse potrebbe essere l&amp;rsquo;occasione di mettere nero su bianco qualcuna di queste, senza pretese né di correttezza né tantomeno di esaustività. Una sorta di backup mentale giusto a futura memoria.&lt;br /&gt;
@@ -256,16 +256,16 @@ Ed io continuerò a riferirmi ad una unica identità collettiva: Anonymous. Sbag
 
 </content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
    </author>
  </entry>
  
  <entry>
    <title>Vitrociset sfondata... Di nuovo... :(</title>
-   <link href="http://al3x.net/2011/08/03/vitrociset-sfondata-di-nuovo.html"/>
+   <link href="http://mgpf.it/2011/08/03/vitrociset-sfondata-di-nuovo.html"/>
    <updated>2011-08-03T00:00:00+02:00</updated>
-   <id>http://al3x.net/2011/08/03/vitrociset-sfondata-di-nuovo</id>
+   <id>http://mgpf.it/2011/08/03/vitrociset-sfondata-di-nuovo</id>
    <content type="html">&lt;p&gt;Essere &lt;a href=&quot;http://matteoflora.com/2011/08/anonita-perche-vitrociset-e-cnaipi/&quot;&gt;sfondati una volta&lt;/a&gt; può sicuramente accadere, checchè se ne pensi. Già &lt;a href=&quot;http://matteoflora.com/2011/08/vitrociset-modifica-wikipedia-per-fare-sparire-attacco/&quot;&gt;cercare di vandalizzare la pagina di Wikipedia&lt;/a&gt; che parla dell&amp;rsquo;accesso abusivo non è proprio un gran che&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://matteoflora.com/2011/08/vitrociset-sfondata-di-nuovo/ce5z0/&quot; rel=&quot;attachment wp-att-235&quot;&gt;&lt;img src=&quot;http://matteoflora.com/wp-content/uploads/2011/08/CE5z0-640x631.png&quot; alt=&quot;&quot; title=&quot;CE5z0&quot; width=&quot;640&quot; height=&quot;631&quot; class=&quot;aligncenter size-medium wp-image-235&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -282,16 +282,16 @@ Ed io continuerò a riferirmi ad una unica identità collettiva: Anonymous. Sbag
 
 </content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
    </author>
  </entry>
  
  <entry>
    <title>Gli utenti IE? Un branco di minorati mentali...</title>
-   <link href="http://al3x.net/2011/08/02/gli-utenti-ie-branco-minorati-mentali.html"/>
+   <link href="http://mgpf.it/2011/08/02/gli-utenti-ie-branco-minorati-mentali.html"/>
    <updated>2011-08-02T00:00:00+02:00</updated>
-   <id>http://al3x.net/2011/08/02/gli-utenti-ie-branco-minorati-mentali</id>
+   <id>http://mgpf.it/2011/08/02/gli-utenti-ie-branco-minorati-mentali</id>
    <content type="html">&lt;p&gt;Non lo dico io, ma un &lt;a href=&quot;http://www.infoworld.com/t/cringely/just-how-stupid-are-internet-explorer-users-168610&quot;&gt;prestigioso studio&lt;/a&gt; che ha messo a confronto i test sul quoziente intellettivo di utenti comparandoli con il browser e la versione utilizzata.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -308,8 +308,8 @@ Ora mi aspetto veramente l&amp;rsquo;ondata di Flame, soprattutto se dico che &a
 
 </content>
    <author>
-     <name>Alex Payne</name>
-     <uri>http://al3x.net/about.html</uri>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
    </author>
  </entry>
  
