@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Grazie mille!
-published: true
-meta: 
-  autometa: gremita sopraggiunti videoamatore esaltante svolgimento videoregistrato farebbe intanto
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Intanto che attendo nuove dall'amico Rebus sul filmato videoregistrato (e mi farebbe piacere avere news anche dal videoamatore segreto che si è posizionato vicino alla colonna) volevo cogliere l'occasione per ringraziare tutti i lettori che sono sopraggiunti numerosissimi alla Conferenza a InfoSecurity.  
   

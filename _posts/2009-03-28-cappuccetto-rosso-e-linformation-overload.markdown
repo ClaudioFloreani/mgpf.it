@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Cappuccetto Rosso e l'information overload
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - agumented reality
 - information overload
 - Me &amp; The Web
-type: post
-status: publish
 ---
 <object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/Y54ABqSOScQ&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Y54ABqSOScQ&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
   

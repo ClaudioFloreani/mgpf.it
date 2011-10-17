@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: L'acaro suona sempre due volte...
-published: true
-meta: 
-  autometa: hacking hacker owned lastknight matteo flora sito piratato
+meta: {}
 tags: 
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- forensic
+- security
 ---
 <center>
 <img src="/download/acarus.jpg">

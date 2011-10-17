@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Quando le associazioni spammano...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - associazione
-- Digital Freedom
+- digital-freedom
 - lista di distribuzione
 - spam
 - spam italiano
-type: post
-status: publish
 ---
 ![Spam](http://www.lastknight.com//download/20061012_spam.jpg)
 
@@ -55,8 +51,6 @@ Inoltre vengo diffidato per mail "a non utilizzare più questo canale di comunic
 Full Disclosure: we beleve in that.  
   
   
-[tags] spam, associazione, lista di distribuzione, spam italiano [/tags]
-
 [1]: http://www.lastknight.com/2008/04/06/insicurezza-dove-finisce-la-paura-ed-inizia-internet/
 [2]: http://www.lastknight.com/2006/10/12/il-tuo-indirizzo-e-stato-reperito-su-internet/
 [3]: http://www.garanteprivacy.it/garante/doc.jsp?ID=1289884 

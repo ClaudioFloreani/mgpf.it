@@ -1,20 +1,16 @@
 --- 
 layout: post
 title: "Perch\xC3\xA8 il PM di bergamo fa intercettare gli utenti di ThePirateBay?"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - censura
-- Digital Freedom
+- digital-freedom
 - intercettazione
 - Paranoia
-- Security and Intelligence
-- thepiratebay
-type: post
-status: publish
+- security- thepiratebay
 ---
-<a href="http://www.flickr.com/photos/97438202@N00/231693522/" title="Paranoia 2006" target="_blank"><img src="http://www.lastknight.com/download//2008/08/231693522_bcf8f3c18a.jpg" alt="Paranoia 2006" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/97438202@N00/231693522/" title="barto" target="_blank">barto</a></small>  
+<a href="http://www.flickr.com/photos/97438202@N00/231693522/" title="Paranoia 2006" target="_blank"><img src="http://www.lastknight.com/download//2008/08/231693522_bcf8f3c18a.jpg" alt="Paranoia 2006" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/97438202@N00/231693522/" title="barto" target="_blank">barto</a></small>  
   
 **UPDATE: E' possibile intercettare anche User, password e LOGGARSI COME L'UTENTE. Maggiori informazione [qui](http://www.lastknight.com/2008/08/17/thepiratebay-password-a-rischio/ )**  
   

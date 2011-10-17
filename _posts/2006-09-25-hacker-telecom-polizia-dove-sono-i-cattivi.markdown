@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Hacker, Telecom, Polizia: dove sono i cattivi?"
-published: true
-meta: 
-  autometa: hacker telecom intercettazioni crittografia sicurezza matteo flora hacking pirati giornalisti scandalo tronchetti
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 [![Molly](http://www.lastknight.com/download/20060925_intercetta.jpg)](http://www.girodivite.it/Intercettazioni.html)
 Ha un effetto **straniante**, per certi versi, il tenore di alcuni articoli pubblicati da eminenti voci nel panorama del Diritto e del Giornalismo italiano in queste ultime settimane. Sembra che, tutto d'un tratto, ci si accorga come d'incanto **di avere malgiudicato** (sic!) un fenomeno che si propaga da anni.  

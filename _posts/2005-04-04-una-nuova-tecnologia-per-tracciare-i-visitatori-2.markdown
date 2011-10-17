@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Una nuova tecnologia per tracciare i visitatori
-published: true
 meta: {}
 
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 Alla luce dei dati di <a href="http://www.jupitermedia.com/">Jupiter Research</a>, secondo cui nel 2004 il<a href="http://www.jupitermedia.com/corporate/releases/05.03.14-newjupresearch.html"> 58% dei navigatori web ha cancellato i cookies</a> dalla propria macchina per evitare di essere tracciati, le maggiori società di SEM hanno iniziato a spostarsi verso tecnologie che consentano il tracciamento anche <strong>a fronte della mancanza di cookies</strong>.
 

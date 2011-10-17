@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Porta a Porta, il gioco da Tavolo
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Cazzate
-- Digital Freedom
+- digital-freedom
 - Me &amp; The Web
 - Porta a Porta
 - vespa
-type: post
-status: publish
 ---
 Geniale:  
   

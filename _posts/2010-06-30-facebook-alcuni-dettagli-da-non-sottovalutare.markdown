@@ -1,23 +1,21 @@
 --- 
 layout: post
 title: "Facebook: alcuni dettagli da non sottovalutare"
-published: true
 meta: 
   wordbooker_options: "a:9:{s:18:\"wordbook_noncename\";s:10:\"db1573ee12\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"1\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:7:\"%title%\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";}"
   _edit_last: "1"
   WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
 tags: 
-- Digital Freedom
+- digital-freedom
 - facebook
 - featured
 - privacy
 - Sicurezza e Privacy
-type: post
-status: publish
 ---
 Esistono alcuni side-effects derivanti dall'uso (e dal non uso) di Facebook dei quali si parla poco pur essendo sotto gli occhi di tutti: potenziali rischi per la riservatezza di chi non è iscritto al social network, impostazioni sulla privacy un po' "ambigue" ed effetti collaterali in cui potreste incorrere rifiutando un' amicizia.  
   
-<a href="http://www.flickr.com/photos/23912576@N05/2962194797/" title="James, I think your cover's blown!" target="_blank"><img src="http://farm4.static.flickr.com/3179/2962194797_06b1dc08ac.jpg" alt="James, I think your cover's blown!" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/23912576@N05/2962194797/" title="laverrue" target="_blank">laverrue</a></small>
+<a href="http://www.flickr.com/photos/23912576@N05/2962194797/" title="James, I think your cover's blown!" target="_blank"><img src="http://farm4.static.flickr.com/3179/2962194797_06b1dc08ac.jpg" alt="James, I think your cover's blown!" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/23912576@N05/2962194797/" title="laverrue" target="_blank">laverrue</a></small>
   
 Anche se non siete iscritti, Facebook conosce molte cose sul vostro conto. Non ci credete?  
 [Uno studio condotto da alcuni studenti del MIT][1] ha dimostrato come sia possibile, analizzando la rete di amicizie di una persona, dedurre con buona approssimazione molti particolari sul suo conto quali orientamento sessuale, politico e religioso.  

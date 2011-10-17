@@ -1,17 +1,14 @@
 --- 
 layout: post
 title: "Rivotiamo.it: Qualche piccolo problema..."
-published: true
 meta: 
   article: "1"
   aktt_tweeted: "1"
   autometa: rivotiamo berlusconi forzaitalia forza italia rivotiamo.it matteo flora hacking
 tags: 
-- Digital Freedom
+- digital-freedom
 - hacking
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Sul PuntoInformatico di [oggi](http://punto-informatico.it/p.aspx?i=2119270) è presente una [mia intervista](http://punto-informatico.it/p.aspx?i=2119270) con [Luca Annunziata](https://www.deandreis.it/l/profilo.aspx?n=Luca+Annunziata) in merito al sito <Rivotiamo.it>.  
   

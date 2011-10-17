@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: "C'\xE8 qualcuno di Fineco?"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - banca
 - banca fineco
@@ -11,8 +9,6 @@ tags:
 - fineco
 - fineco bank
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Possibile che aprire un **** di conto corrente serva UN MESE?  
   

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Quando firefox diventa pericoloso...
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Siamo stati abituati a ritenere <a href="http://www.spreadfirefox.com/?q=affiliates&id=24415&t=73">Firefox</a> (probabilmente a ragione) il prodotto per la navigazione web <strong>più sicuro</strong> attualmente disponibile; abituati infatti ai <strong>continui problemi di sicurezza</strong> legati ad Internet Explorer, oltre che ai continui subissamenti di <strong>banner e spyware</strong> correlati allutilizzo smodato di activex, <a href="http://www.spreadfirefox.com/?q=affiliates&id=24415&t=73">Firefox</a> appare sicuramente una soluzione <strong>pulita e gradevole</strong>, oltre che incommensurabilmente più sicura e veloce.
 

@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Su SecondLife sono tutti Terroristi
-published: true
 meta: {}
 
 tags: 
@@ -9,10 +8,7 @@ tags:
 - intelligence
 - Paranoia
 - secondlife
-- Security and Intelligence
-- Sicurezza e Privacy
-type: post
-status: publish
+- security- Sicurezza e Privacy
 ---
 Ritengo molti, molto interessante l'[articolo sul Washington Post][1] che riguarda le attività della IARPA *(Intelligence Advanced Research Projects Activity)* sui [mondi virtuali][1] e le relative problematiche **di anonimato e sicurezza**.  
   

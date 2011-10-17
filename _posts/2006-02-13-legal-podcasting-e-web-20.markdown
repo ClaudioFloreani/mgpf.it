@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Seminario Legal Podcasting e Web 2.0
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 In ritardo come mio solito (ma stavolta non per mia colpa) sono a segnalarvi che domani sarò presente come relatore al Seminario sul **Legal Podcasting** tenuto dall'amico Prof. Giovanni Ziccardi presso l'*Università degli Studi di Milano, Istituto
 di Filosofia e Sociologia del Diritto*.

@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Installa FoolDNS con un click! E proteggi la tua Privacy!
-published: true
 meta: 
   _edit_last: "1"
   WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
@@ -13,10 +12,9 @@ tags:
 - installer
 - The Fool
 - TheFool
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/19702022@N00/2218415080/" title="eee 015" target="_blank"><img src="http://farm3.static.flickr.com/2124/2218415080_1456478bd2.jpg" alt="eee 015" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/19702022@N00/2218415080/" title="Jonathan Assink" target="_blank">Jonathan Assink</a></small>
+<a href="http://www.flickr.com/photos/19702022@N00/2218415080/" title="eee 015" target="_blank"><img src="http://farm3.static.flickr.com/2124/2218415080_1456478bd2.jpg" alt="eee 015" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/19702022@N00/2218415080/" title="Jonathan Assink" target="_blank">Jonathan Assink</a></small>
 
 L'<a href="http://www.repubblica.it/tecnologia/2010/08/13/news/google_spia-6257171/">articolo di Repubblica</a> parlava  chiaro e senza mezze misure:  
 

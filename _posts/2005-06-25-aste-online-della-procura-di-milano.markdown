@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Le aste della Procura di Milano e il procedimento Borra
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 I patiti delle vendite al dettaglio di beni usati, il folto e nutrito gruppo dei seguaci di Ebay & Co, in quest'ultimo periodo sembra avere trovato pane per i suoi denti in un contesto lievemente differente.  
 Infatti, per la prima volta in Italia, si è presentata online la possibilità di partecipare "virtualmente" ad un' asta della Procura di Milano e più precisamente quella concernente il Procedimento Penale 31034/03 ed al sequestro datato 17.10.2003 ed eseguito dalla Guardia di Finanza di Milano in data 17.10.2003 nei confronti di BORRA ANGELINO e BORRA CATERINO nei locali siti in Montebello della Battaglia, via per Lungavilla n. 43.  

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Piccole rivoluzioni in casa Lastknight.com
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Se vedete qualcosa che non va non preoccupatevi: sono solamente le prime lucidature della nuova versione di Lastknight.com.  
   

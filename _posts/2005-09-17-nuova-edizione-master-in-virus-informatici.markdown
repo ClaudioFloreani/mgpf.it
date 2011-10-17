@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Nuova edizione Master in Virus Informatici
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Dopo le passate edizioni eccoci arrivati nuovamente all'appuntamento con il **Master su Virus Informatici e Malicious Code** che ha riscosso così grande popolarità nel corso delle [scorse](http://www.lastknight.com/conferenze/corso-virus-informatici-e-tecniche-di-prevenzione/) [edizioni](http://www.lastknight.com/conferenze/corso-virus-informatici-e-tecniche-di-prevenzione/).  
 

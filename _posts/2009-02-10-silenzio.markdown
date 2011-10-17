@@ -1,12 +1,8 @@
 --- 
 layout: post
 title: Silenzio...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 ... 

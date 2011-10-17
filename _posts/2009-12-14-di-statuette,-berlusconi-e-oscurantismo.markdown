@@ -2,11 +2,9 @@
 layout: post
 title: Di statuette, Berlusconi e oscurantismo
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: []
 
-type: post
 status: draft
 ---
 No, non va bene.  

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: 4chan kills...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 <img src="http://www.lastknight.com/download//2009/02/jokela-school-shooter-294x300.jpg" alt="jokela-school-shooter" title="jokela-school-shooter" width="294" height="300" class="aligncenter size-medium wp-image-1278" />    
   

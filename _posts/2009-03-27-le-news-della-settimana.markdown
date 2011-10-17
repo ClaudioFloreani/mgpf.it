@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Le news della settimana....
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Ancora una volta, se siete a corto di cose da leggere.... ;)  
   

@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Google Earth guarda Milano
-published: true
 meta: {}
 
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Ho avuto modo di dare un'occhiata al nuovo programma di Google, ereditato dalla acquisita KeyHole e ri-brandizzato [Google Earth](http://earth.google.com/). Dire che sono rimasto allibito non rende minimamente l'idea...  
 Innanzitutto il sistema è principalmente una visualizzazione 3D dell'[intero globo](http://earth.google.com/images/earth.jpg) con [planimetrie particolareggiate](http://earth.google.com/images/schools.jpg) e splendidamente curate. Per quanto mi riguarda ho potuto personalmente controllare Milano e [Piazza Duomo](/download/GoogleEarth01.jpg) è talmente nitida da poter contare le guglie del Duomo (si, si vede anche la madonnina dall'alto).  

@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Philarmonica.com il nuovo portale
-published: true
 meta: {}
 
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 ![Philarmonica](/download/20050901.jpg)
 E dopo mille fatiche ecco finlamente online, anche se solamente in versione beta, Philarmonica, la mia ultima creazione.  

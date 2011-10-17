@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Wordpress Security 101 al iWordCamp
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Alla fine mi sono deciso.  
   

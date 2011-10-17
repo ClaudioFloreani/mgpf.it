@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: "PianetaShop.it: una gran brutta storia..."
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bad review
 - causa
@@ -19,11 +17,10 @@ tags:
 - problemi
 - recensione
 - review
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
-<a href="http://www.flickr.com/photos/41894175230@N01/31688828/" title="My IXUS Is Dead" target="_blank"><img src="http://farm1.static.flickr.com/23/31688828_6f01e3f87a.jpg" alt="My IXUS Is Dead" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/41894175230@N01/31688828/" title="JackSim" target="_blank">JackSim</a></small>  
+<a href="http://www.flickr.com/photos/41894175230@N01/31688828/" title="My IXUS Is Dead" target="_blank"><img src="http://farm1.static.flickr.com/23/31688828_6f01e3f87a.jpg" alt="My IXUS Is Dead" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/41894175230@N01/31688828/" title="JackSim" target="_blank">JackSim</a></small>  
   
 [Francesco Bramato](http://www.francescobramato.com) è un amico (oltre che uno dei miei guru personali a cui rompo le scatole su .NET quando mi incastro) e qualche tempo sul suo blog [parlava di un acquisto](http://www.francescobramato.com/2008/03/08/pianetashopit-sda-brutta-storia/) sul sito di E-Commerce [PianetaShop.it](http://www.pianetashop.it).  
   

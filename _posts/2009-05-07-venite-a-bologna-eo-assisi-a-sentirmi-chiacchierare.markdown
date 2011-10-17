@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Venite a Bologna e/o Assisi a sentirmi chiacchierare!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-- The Fool
-type: post
-status: publish
+- digital-freedom
+- security- The Fool
 ---
-<a href="http://www.flickr.com/photos/51487460@N00/144670634/" title="orator" target="_blank"><img src="http://farm1.static.flickr.com/45/144670634_24612a4efb.jpg" alt="orator" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/51487460@N00/144670634/" title="southtyrolean" target="_blank">southtyrolean</a></small>  
+<a href="http://www.flickr.com/photos/51487460@N00/144670634/" title="orator" target="_blank"><img src="http://farm1.static.flickr.com/45/144670634_24612a4efb.jpg" alt="orator" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/51487460@N00/144670634/" title="southtyrolean" target="_blank">southtyrolean</a></small>  
   
 Veloce aggiornamento per dire che nel weekend sarò prima a [Bologna][1] e poi ad [Assisi][2] per riiniziare la stgione di Talk in giro per l'Italia.  
 Gli argomenti saranno estremamente diversi tra di loro: "Facebook Privacy & More" all'[IISFA Forum][1] e FoolDns al convegno [Web 3.0][2] ad Assisi.  

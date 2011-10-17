@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Scusate...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Io piango un secondo.  
 Voi fate finta di niente, vi va?  

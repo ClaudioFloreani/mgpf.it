@@ -1,21 +1,17 @@
 --- 
 layout: post
 title: Ma la postale usa software Craccato?!?!?
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - AntonioMonteleone
 - Antoniomonteleone.it
 - censura
 - danilo
-- Digital Freedom
+- digital-freedom
 - follie
-- Forensics
+- forensic
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Del sequestro di [AntonioMonteleone.it](http://www.antoninomonteleone.it/) ne ha parlato più che a sufficienza il [Punto informatico](http://punto-informatico.it/2314627/PI/News/Sequestrato-un-altro-blog-italiano/p.aspx) ma anche io ieri sera, come il buon [Paolo](http://paolo.evectors.it/italian/2008/06/company-pippo.html) che ne blogga ben prima di me, avevo dato un occhio al sorgente della pagina:  
   

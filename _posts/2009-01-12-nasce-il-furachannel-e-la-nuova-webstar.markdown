@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: Nasce il FuraChannel e la nuova WebStar :)
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - censura
-- Digital Freedom
+- digital-freedom
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Che sia la nascita della nuova "[VideoMarta][2]" o del nuovo meme di [Boxxy][1]?  
 Fura ha deciso di mettere online le sue idee ed i suoi pensieri nel FuraChannel su YouTube...  

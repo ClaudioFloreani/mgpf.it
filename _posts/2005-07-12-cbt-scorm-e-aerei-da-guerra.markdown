@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: CBT, SCORM e Aerei da guerra...
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Eccomi a cambiare ancora lavoro ed a passare ad un ramo completamente differente. Il bello di essere consulente è proprio questo lavoro da "cavalletta" della new economy, saltellante da un'architettura di applicazione ad un'altra...  
 Questa volta si tratta di creare un sistema per [CBT](http://it.wikipedia.org/wiki/E-learning) (Computer Based Training) che sia compilant con [SCORM](http://www.adlnet.org/scorm/index.cfm) (Sharable Content Object Reference Model, il sistema sviluppato in collaborazione con il Ministero della Difesa americano per l'erogazione di contenuti E-Learning) e che sia in grado di erogare contenuti in modo statico o connesso, quindi con integrazione ad un LMS (Learning Management System).  

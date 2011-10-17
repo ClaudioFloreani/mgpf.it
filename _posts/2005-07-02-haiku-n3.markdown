@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Haiku n.3
-published: true
 meta: {}
 
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Piccola ape  
 immobile sul giglio.  

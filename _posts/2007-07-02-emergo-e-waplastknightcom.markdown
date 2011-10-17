@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Emergo e wap.lastknight.com
-published: true
-meta: 
-  autometa: sicu domandavano periodo accordi dicevo rieccomi fossi denso
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 ![http://www.lastknight.com/download/20070701_wap.png](http://www.lastknight.com/download/20070701_wap.thumbnail.png)
 Rieccomi e grazie per i messaggi che mi domandavano dove fossi finito :)  

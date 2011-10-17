@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Mozilla Srl
-published: true
 meta: {}
 
 tags: 
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Posso anche intravederne i vantaggi, ma sinceramente la decisione della Mozilla Foundation di [costituire una Mozilla Corp.](http://business.newsforge.com/business/05/08/03/1258246.shtml?tid=138&tid=3) e di creare un'entità in grado di generare revenues mi spaventa un poco.  
 

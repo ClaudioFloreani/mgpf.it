@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Twitterando...
-published: true
-meta: 
-  autometa: twitter eeepc seguendomi videoblog ache ricordate backtrack suggerimenti
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Vi ricordate, vero, che ho un account su Twitter e che potete vedere cosa sto facendo in quasi tempo reale seguendomi [qui](http://twitter.com/lastknight)?  
   

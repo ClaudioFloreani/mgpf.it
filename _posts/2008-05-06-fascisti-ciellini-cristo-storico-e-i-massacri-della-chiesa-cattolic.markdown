@@ -1,24 +1,10 @@
 --- 
 layout: post
 title: Fascisti Ciellini, Cristo Storico e i Massacri della chiesa...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Cardinale Ruffo
-- catari
-- Digital Freedom
-- Innocenzo III
-- massacro
-- montsegur
-- Pio IX
 - religione
-- stato pontificio
-type: post
-status: publish
 ---
-<center><img src="http://www.lastknight.com/download//montsegur.jpg" alt="" title="montsegur" class="aligncenter size-full wp-image-668" /><center>  
-  
 Se avete qualche minuto e volete farvi qualche sonora ghignata potete iniziare a leggere il commenti al vecchio post "[E se Gesù Cristo non fosse mai esistito][1]"...  
   
 Calcolate che una buona parte dei commenti li sto moderando e sembrano arrivare direttamente da IP facenti capo a domini un po' sospetti di piccoli stati religiosi... :)  
@@ -57,7 +43,5 @@ Boh.
   
 > At the gates and the walls of Montségur, blood on the stones of the citadel.  
   
-[tags]  stato pontificio, religione, massacro, catari, montsegur, Pio IX,  Cardinale Ruffo, Innocenzo III [/tags]
-
 
 [1]: http://www.lastknight.com/2007/12/25/e-se-gesu-cristo-non-fosse-mai-esistito/ 

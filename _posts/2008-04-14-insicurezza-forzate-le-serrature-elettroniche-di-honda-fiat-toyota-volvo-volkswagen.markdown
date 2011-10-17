@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: "(in)sicurezza: Forzate le serrature elettroniche di Honda, Fiat, Toyota, Volvo, Volkswagen..."
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - antifurto
 - antifurto Fiat
@@ -11,11 +9,9 @@ tags:
 - antifurto Toyota
 - antifurto Volkswagen
 - antifurto Volvo
-- Conferenze
+- about-me
 - forzare antifurto
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Consueta anteprima della mia rubrica sul Punto Informatico.  
   

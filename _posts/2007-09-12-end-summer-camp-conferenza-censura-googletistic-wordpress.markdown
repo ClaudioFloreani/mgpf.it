@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: All'ESC di Sabato parlo di Censura, Googletistic e hacking Italian Websites
-published: true
-meta: 
-  autometa: ESC end summer camp censura googletistic wordpress hacking hacker conferenza conference matteo flora lastknight
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 ![Matteo Flora all'ESC 2007](http://www.lastknight.com/download/20070910_esc.png)
 

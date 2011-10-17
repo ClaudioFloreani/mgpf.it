@@ -1,16 +1,13 @@
 --- 
 layout: post
 title: "\"Lasciate che i bambini\": storia di un libro che non esiste"
-published: true
 meta: 
   _wp_old_slug: lasciate-che-i-bambini-stoaria-di-ul-libro-che-non-esiste
   autometa: wumingfoundation wuming luther blisset lutherblisset musti bambini pedopornografia pedo pornografia reati
 tags: 
 - censura
-- Digital Freedom
+- digital-freedom
 - Paranoia
-type: post
-status: publish
 ---
 [![Lascite chi i bambini](http://www.lastknight.com//download/20070201_lasciate.jpg)](http://www.wumingfoundation.com/backpages.zip)
 Mentre continuo a studiare e ristudiare il fenomeno della Pedofilia e Pedopornografia in Italia, dopo i consensi e le varie riflessioni della Conferenza dell'8 Febbraio, mi imbatto nel **Libro che Non Esiste**.  

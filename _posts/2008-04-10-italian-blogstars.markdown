@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Italian BlogStars
-published: true
 meta: 
   _edit_last: "1"
   _wp_page_template: default
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 The **Italian Blogstars** Linkedin Groups represent the will for networking bloggers from around Italy.  
 It was born out of necessity, with more than one hundred bloggers talking toogether and animately discussing and sharing business-cards and contacts.   

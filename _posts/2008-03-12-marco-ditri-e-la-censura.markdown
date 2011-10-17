@@ -1,20 +1,17 @@
 --- 
 layout: post
 title: Marco D'Itri e la Censura
-published: true
 meta: {}
 
 tags: 
 - amms
 - censura
-- Conferenze
-- Digital Freedom
+- about-me
+- digital-freedom
 - gentiloni
 - marco d'itri
 - monopoli
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Bello arrivare **in anticipo di oltre un anno** :)  
   

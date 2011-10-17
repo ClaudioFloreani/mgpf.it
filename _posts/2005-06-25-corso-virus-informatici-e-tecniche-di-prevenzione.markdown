@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Virus informatici: Strategie di infezione e Tecniche di prevenzione"
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 Il **1 Ottobre 2004** si è svolta a Milano la prima edizione del corso "Virus informatici: Strategie di infezione e Tecniche di prevenzione" realizzato da me ed il Maresciallo Gerardo Costabile della GdF in collaborazione con Learning Resource Associates di Milano.
 

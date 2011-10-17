@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: "Ci vediamo Luned\xC3\xAC 7 a Padova?"
-published: true
 meta: 
   wordbooker_options: "a:11:{s:18:\"wordbook_noncename\";s:10:\"8dd00e100a\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"2\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"200\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:8:\"BlogPost\";s:24:\"wordbooker_status_update\";s:2:\"on\";s:29:\"wordbooker_status_update_text\";s:26:\": Post :  %title% - %link%\";s:20:\"wordbook_comment_get\";s:2:\"on\";}"
   wordbooker_thumb: ""
@@ -21,8 +20,6 @@ meta:
 tags: 
 - Business
 - TheFool
-type: post
-status: publish
 ---
 > Lavori molte ore ogni giorno e senti che ti meriti di piu’ ma “mi spiace ma e’ un periodo difficile”.  
 > Stai cercando un’azienda che valorizzi le tue 3 lauree, 2 dottorati e 7 lingue parlate ma “mi spiace ma lei e’ troppo qualificato”. Sin da piccolo hai un hobby meraviglioso e creativo che ti fa felice ma non hai abbastanza tempo perche’  “c’e’ la crisi e mi serve un lavoro!”    

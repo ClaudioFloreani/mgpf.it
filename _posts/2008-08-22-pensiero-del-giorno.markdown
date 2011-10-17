@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Pensiero del giorno
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - hate
 - herman hesse
@@ -11,8 +9,6 @@ tags:
 - Me &amp; The Web
 - odiare
 - odio
-type: post
-status: publish
 ---
 <center>
 <img src="http://www.lastknight.com/download//2008/08/hesse.jpg" alt="" title="hesse" width="413" height="528" class="aligncenter size-full wp-image-967" /></center>

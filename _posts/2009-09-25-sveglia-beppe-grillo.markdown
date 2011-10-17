@@ -1,18 +1,10 @@
 --- 
 layout: post
 title: Sveglia, Beppe!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- coglione
-- Digital Freedom
-- grillo
-- Me &amp; The Web
-- mediaset
-- youtube
-type: post
-status: publish
+- digital-freedom
+- about-me
 ---
 <img src="http://www.lastknight.com/download//2009/09/omabacensurato-498x300.jpg" alt="omabacensurato" title="omabacensurato" width="498" height="300" class="aligncenter size-medium wp-image-1604" />  
   

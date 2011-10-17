@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Oltre 500 iscritti...
-published: true
 meta: {}
 
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 [![Iscriviti](/download/register.png)](/subscribe.php)
 Credo che sia arrivato il momento di dire un sentito **grazie** alle 500 e passa persone (e sono persone vere, visto che dalle statistiche ho escluso i robot automativi) che ogni giorno seguono il [feed rss](/feed/) di Lastknight Dot Com.  

@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: "Censura 1.0: ma quanti IP stanno filtrando?"
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - censura
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 [![Sequestro](/download/thumb-20060212_gdf.jpg)](/download/20060212_gdf.jpg)
 Ne ho già parlato marginalmente nell'artcolo [riguardante tor](/tor/) e citando il bell'[articolo di PuntoInformatico](http://punto-informatico.it/p.asp?i=57671&r=PI), ma la questione **rimane ancora aperta e scottante**.  

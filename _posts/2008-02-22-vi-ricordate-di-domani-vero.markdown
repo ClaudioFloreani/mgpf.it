@@ -1,19 +1,15 @@
 --- 
 layout: post
 title: Vi ricordate di domani, vero?
-published: true
 meta: {}
 
 tags: 
 - barcamp 2008
 - blogging anonimo
 - censura
-- Conferenze
-- Security and Intelligence
-- torino
+- about-me
+- security- torino
 - torinobarcamp2007
-type: post
-status: publish
 ---
 ![Barcamp 2008 Torino](http://barcamp.org/f/logobctorino2008-250.gif)
 Ci ricordo che come dicevo [ad inizio settimana][1] domani, Sabato 23 Febbraio sarò a Torino per il [Torino Barcamp 2008][2] e mi farebbe piacere incontrarvi se passate per di la... I miei recapiti sono disponibili come sempre alla pagina contatti come anche il mio numero di cellulare...  

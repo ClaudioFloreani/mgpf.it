@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Inquietanti analogie...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Qualcuno ha visto [Gordon Freeman](http://www.google.it/search?q=gordon+freeman)?  
   

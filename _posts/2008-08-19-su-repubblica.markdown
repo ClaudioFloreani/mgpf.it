@@ -1,20 +1,15 @@
 --- 
 layout: post
 title: Su Repubblica!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - censura
-- Conferenze
-- Digital Freedom
+- about-me
+- digital-freedom
 - intercettazione
 - matteo flora
 - repubblica
-- Security and Intelligence
-- thepiratebay
-type: post
-status: publish
+- security- thepiratebay
 ---
 Repubblica mi cita e linka [qui](http://www.repubblica.it/2007/09/sezioni/scienza_e_tecnologia/musica-digitale/ip-tracciati/ip-tracciati.html) in merito alla [intercettazione degli IP](http://www.lastknight.com/2008/08/15/thepiratebay-utenti-intercettati/) di ThePirateBay con Link diretto...  
   

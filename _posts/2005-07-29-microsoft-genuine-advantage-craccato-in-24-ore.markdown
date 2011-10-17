@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Microsoft "Genuine Advantage" craccato in 24 ore
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 > Attenzione, aggiornamento!!!  
 > Per quanti cercassero informazioni sulla disabilitazione dei fastidiosi messaggi di avviso di WGA Notifications il post è stato aggiornato alla pagina [Il nuovo nag-screen di Windows Advantage Program](http://www.lastknight.com/2006/06/04/il-nuovo-nag-screen-di-windows-advantage-program/)

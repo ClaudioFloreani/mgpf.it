@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Non c'era pi\xF9 nessuno..."
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 > Prima di tutto vennero a prendere gli zingari e fui contento perchè rubacchiavano.  
 > Poi vennero a prendere gli ebrei e stetti zitto perchè mi stavano antipatici.  

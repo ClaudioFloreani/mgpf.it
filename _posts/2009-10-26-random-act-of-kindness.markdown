@@ -2,11 +2,9 @@
 layout: post
 title: Random Act of Kindness
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
 status: draft
 ---
 Scrivo questo post asserragliato in bagno. Sono le 16.55 di Domenica 25 Ottobre e non è un malanno intestinale che mi chiude qui, ma un proncipio di spaesamento comunemente detto "convivenza" che mi ha un poco spaesato negli spazi di casa mia.  

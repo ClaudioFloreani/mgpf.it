@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Internet NON \xE8 un luogo diverso"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
+- digital-freedom
 - Me &amp; The Web
-type: post
-status: publish
 ---
 <div class="important">
 QUELLE CHE SEGUONO SONO RIGHE SPARSE E NON RAPPRESENTANO IN ALCUN MODO DICHIARAZIONI UFFICIALI NE' DELLA SOCIETA' NE' TANTOMENO DEL CLIENTE. ESSE RIVESTONO IL SOLO SCOPO DI EVITARE CENTINAIA DI MAIL COME L'ULTIMA VOLTA. OK?

@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Matteo Flora nell'Who's Who e Direttore OPSI
-published: true
-meta: 
-  autometa: "nomina orgoglio ospi direttivo alfabetico seguir\xC3\xA0 prestigiosissimo basito"
+meta: {}
 tags: 
-- Conferenze
+- about-me
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Matteo Flora nell'Who's Who 2007](http://www.lastknight.com/download/20060824_who.gif)
 Di ritorno dalle vacanze che mi sono concesso dopo tre anni di defezione da questa sana pratica mi accoglie **un regalo del bentornato** di tutto rispetto: mi è appena giunta infatti la conferma che la **mia biografia** è stata inserita nella **XXIV edizione** del prestigiosissimo "**[Marquis Who's Who](http://www.marquiswhoswho.com/) in the World**".  

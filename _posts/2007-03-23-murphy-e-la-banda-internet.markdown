@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Murphy e la banda internet...
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Come ovvio e come murphy insegna da anni:  
 

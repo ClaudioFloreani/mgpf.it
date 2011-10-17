@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Vista corrompe i vostri video?
-published: true
-meta: 
-  autometa: vista drm crippled HDVD HD content protection filmati windows
+meta: {}
 tags: 
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- forensic
+- security
 ---
 A pochi attimi, pochi giorni dal rilascio ufficiale e prima ancora che sul mio MacBook e il fido Parallels appaia l'installazione di Windows Vista rimango esterrefatto da alcuni articoli ritrovati per la rete che trattano di un problema da molti sentito e poco discusso del nuovo nato di casa Microsoft: la **gestione nazista del DRM e dei contenuti protetti**.  
 

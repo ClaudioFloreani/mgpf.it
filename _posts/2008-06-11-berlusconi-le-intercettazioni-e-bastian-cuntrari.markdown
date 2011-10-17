@@ -1,23 +1,20 @@
 --- 
 layout: post
 title: Berlusconi, le intercettazioni e Bastian Cuntrari
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bastiancuntrari
 - berlusconi
 - censura
-- Digital Freedom
+- digital-freedom
 - intercettazioni
 - Paranoia
 - !binary |
   c2FjY8Og
 
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/15061889@N00/2496586005/" title="essere solo un burattino nelle sue mani.." target="_blank"><img src="http://farm3.static.flickr.com/2090/2496586005_8a18ac6f04.jpg" alt="essere solo un burattino nelle sue mani.." border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/15061889@N00/2496586005/" title="_federico.r" target="_blank">_federico.r</a></small>  
+<a href="http://www.flickr.com/photos/15061889@N00/2496586005/" title="essere solo un burattino nelle sue mani.." target="_blank"><img src="http://farm3.static.flickr.com/2090/2496586005_8a18ac6f04.jpg" alt="essere solo un burattino nelle sue mani.." border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/15061889@N00/2496586005/" title="_federico.r" target="_blank">_federico.r</a></small>  
   
 Leggo spesso i miei lettori assidui. Sono gente sveglia, gente che dice cose interessanti. Talmente interessanti che tante volte mi chiedo cosa ci facciano qui **ad ascoltare me** :)  
   

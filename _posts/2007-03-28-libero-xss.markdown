@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: "Advisory: Libero.it XSS Vulnerability"
-published: true
 meta: 
   _oembed_e8ca828b69f69de0e22e7e271ad7dc26: "{{unknown}}"
   _wp_page_template: default
@@ -12,8 +11,6 @@ meta:
   _oembed_40a3ac3cf2f3c38b4c5f3ef6a652909c: "{{unknown}}"
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 After the report of Rosario Valotta on this ML, another XSS vulnerability
 has been found on Libero.it, one of the most important italian ISP

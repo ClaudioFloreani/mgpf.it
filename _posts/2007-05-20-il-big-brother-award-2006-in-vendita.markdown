@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Il Big Brother Award 2006 in vendita...
-published: true
-meta: 
-  autometa: award vendita premio brother stivale rammaricava percio casse
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 ![BBA Award 2006](http://www.lastknight.com/download/20070520_bba.JPG)
 

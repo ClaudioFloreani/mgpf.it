@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Articles
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 Here you'll find a list of my articles, both in English and in Italian.  
 For a quick-and-dirty auto-translation of italian articles please follow the [>>BabelFish] link at the end of the abstract.

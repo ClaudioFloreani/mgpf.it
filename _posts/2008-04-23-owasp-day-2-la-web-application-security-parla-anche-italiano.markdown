@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "OWASP Day 2: la Web Application Security parla (anche) italiano"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Il 31 Marzo a Roma il panorama della Web Security italiana ha visto in OWASP Day 2 una delle sue massime espressioni. Non solamente esperti italiani, ma esperti di tutto il mondo sono arrivati a ROma per discutere non solamente di tecnicismi e non solamente di procedure, non solamente di visioni Enterprise e non solamente di tecniche di Penetration Testing.  
 Se un aggettivo può essere usato per l'evento, quello è sicuramente onnicomprensivo: sono stati sviscerati problemi e si sono posti interrogativi su molti piani, una collaborazione di competenze ed una unione di mondo veramente peculiare e non certo normale nel panorama della Information Security.  
@@ -73,7 +69,8 @@ Abbiamo sicuramente le basi, ora che manca? Solamente un pizzico di sana buona v
   
 Per chi volesse continuare lo studio e l'approfondimento sono disponibili le [slide dell'intervento]() e qui in coda le interviste a molti dei protagonisti della giornata:  
   
-<object type="application/x-shockwave-flash" width="400" height="299" data="http://www.vimeo.com/moogaloop.swf?clip_id=932018&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=932018&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=" /></object><br /><a href="http://www.vimeo.com/932018/l:embed_932018">Casa LastKnight - Episodio 5</a> from <a href="http://www.vimeo.com/lastknight/l:embed_932018">Matteo G.P. Flora</a> on <a href="http://vimeo.com/l:embed_932018">Vimeo</a>.
+<object type="application/x-shockwave-flash" width="400" height="299" data="http://www.vimeo.com/moogaloop.swf?clip_id=932018&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=932018&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=" /></object>  
+<a href="http://www.vimeo.com/932018/l:embed_932018">Casa LastKnight - Episodio 5</a> from <a href="http://www.vimeo.com/lastknight/l:embed_932018">Matteo G.P. Flora</a> on <a href="http://vimeo.com/l:embed_932018">Vimeo</a>.
   
 Estote Parati.  
   

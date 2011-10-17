@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Going Live?
-published: true
 meta: 
   syndication_permalink: http://thefool.it/2008/12/hello-world/
   syndication_source: The Fool s.r.l.
@@ -13,8 +12,6 @@ meta:
   syndication_source_uri: http://thefool.it
 tags: 
 - The Fool
-type: post
-status: publish
 ---
 <p>It&#8217;s much more difficult than I supposed to be in the first place :)</p>
 

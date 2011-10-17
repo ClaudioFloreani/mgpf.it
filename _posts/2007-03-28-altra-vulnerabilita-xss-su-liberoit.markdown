@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "Altra Vulnerabilit\xE0 XSS su Libero.it"
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: "vulnerabilit\xC3\x83  mostrare controll bugtraq evadendo costruita proporre libero"
 tags: 
 - hacking
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Dopo la [vulnerabilità di Rosario Valotta](http://www.lastknight.com/2007/03/27/liberoit-e-xss-pericolo-credenziali/) che avevo segnalato è ora di proporre la mia vulnerabilità **personale** ;)  
 Con un [Advisory](http://www.lastknight.com/xss-libero) su [BugTraq](http://www.securityfocus.com/archive/1/464048/30/0/threaded) e su [Full-Disclosure](http://seclists.org/fulldisclosure/2007/Mar/0492.html) (e ovviamente all'Abuse di Libero.it) la **Proof Of Concept** di una pagina costruita per:  

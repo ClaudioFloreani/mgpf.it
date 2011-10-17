@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Le basi scientifiche della NEM
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 La NEM è una metodologia di meditazione che **ricalca fedelmente** la Meditazione Trascendentale: utilizza un mantra molto simile (volendo è possibile usare lo stesso mantra utizzato nella MT degli esordi) tralasciando completamente, però, la parte spirituale e settaria che ha influito così pesantemente sulle scuole della MT.  
 Viene inoltre a cadere il vincolo di segretezza richiesto dalla tradizionale MT in favore, al contrario, di un incitamento costante a **diffondere** la REM in qualunque forma e in qualunque lingua.  

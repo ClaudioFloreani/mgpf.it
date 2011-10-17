@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Sentimento del giorno
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - banksy
 - bimbi
@@ -12,8 +10,6 @@ tags:
 - Me &amp; The Web
 - Paranoia
 - pedopornografia
-type: post
-status: publish
 ---
 <center>
 ![Banksy](http://farm2.static.flickr.com/1224/564601303_ef0c7ae618.jpg?v=0)  

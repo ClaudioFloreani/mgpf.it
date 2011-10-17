@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: "Google Flaw: parola di 14enne"
-published: true
 meta: {}
 
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Un ragazzino di **14 anni**, per ora noto solamente per il nome "Anthony" ha scoperto ina **nuova e importante vulnerabilità** del servizio di Google Mail.
 

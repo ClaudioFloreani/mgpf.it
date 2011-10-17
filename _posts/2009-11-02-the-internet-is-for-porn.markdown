@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: The Internet is for Porn...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - fooldns
 - internet is for porn
 - porn
 - porno
 - The Fool
-type: post
-status: publish
 ---
 Una sola riga di comando che farà rotolare dalle risate parecchi utenti Linux:  
   

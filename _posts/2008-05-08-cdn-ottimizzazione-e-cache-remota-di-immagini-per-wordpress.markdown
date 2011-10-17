@@ -1,22 +1,17 @@
 --- 
 layout: post
 title: CDN, ottimizzazione e cache remota di immagini per Wordpress
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Conferenze
+- about-me
 - iwordcamp
 - ottimizzazione
-- Security and Intelligence
-- steadyoffload
+- security- steadyoffload
 - wordcamp
 - wordpress
 - wordpress security
 - wp-offload
 - wp-super-cache
-type: post
-status: publish
 ---
 leggevo con piacere dell'[intervento di Fullo][1] al [WordCamp][2] di Sabato relativo alla ottimizzazione di Wordpress per migliorarne la stabilità e velocità.  
   

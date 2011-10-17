@@ -1,18 +1,13 @@
 --- 
 layout: post
 title: BeppeGrillo e WP-Cache...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - beppegrillo
 - Me &amp; The Web
 - mediaset
-- Security and Intelligence
-- slashdot
+- security- slashdot
 - youtube
-type: post
-status: publish
 ---
 Ok, sono in Home Page di [BeppeGrillo.it](http://www.beppegrillo.it/)...  
   

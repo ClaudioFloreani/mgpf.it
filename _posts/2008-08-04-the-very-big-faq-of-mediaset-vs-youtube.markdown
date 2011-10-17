@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: The Very Big Faq di Google vs. Mediaset
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Credo che sia ora di rassettare la casetta del Blog e tirare qualche somma sul tenore dei commenti dell'ultima settimana.  
 Così, giusto per evitare di continuare a cassare commenti con insulti personali (se vi dipingessero VAFFANCULO sulla porta di casa dubito che lo lascereste) e per chiarire un paio di punti.  

@@ -1,23 +1,19 @@
 --- 
 layout: post
 title: Sono un Buffone?
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Add new tag
 - buffone
 - censura
 - dichiarazione
-- Digital Freedom
+- digital-freedom
 - fimi
 - Me &amp; The Web
-- Security and Intelligence
-- thepiratebay
-type: post
-status: publish
+- security- thepiratebay
 ---
-<a href="http://www.flickr.com/photos/67196253@N00/443712432/" title="juggling jester" target="_blank"><img src="http://farm1.static.flickr.com/170/443712432_3fa56f0f85.jpg" alt="juggling jester" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/67196253@N00/443712432/" title="hans s" target="_blank">hans s</a></small>  
+<a href="http://www.flickr.com/photos/67196253@N00/443712432/" title="juggling jester" target="_blank"><img src="http://farm1.static.flickr.com/170/443712432_3fa56f0f85.jpg" alt="juggling jester" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/67196253@N00/443712432/" title="hans s" target="_blank">hans s</a></small>  
   
 Ecco il comunicato stampa diramato da FIMI (grassetto mio) e ripreso dal bravo [Longo](http://www.alongo.it/?p=666):  
   

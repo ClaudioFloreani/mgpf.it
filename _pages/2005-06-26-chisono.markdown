@@ -1,12 +1,10 @@
 --- 
 layout: page
 title: Chi sono
-published: true
 meta: {}
 tags: []
 
 type: page
-status: publish
 ---
 [![Matteo Flora - Photo by Zen](/download/lk_zen.jpg)](http://www.flickr.com/photos/zen0)
   

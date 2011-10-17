@@ -1,17 +1,13 @@
 --- 
 layout: post
-title: "Pap\xE0, posso avere un pene pi\xF9 grosso?"
-published: true
-meta: 
-  _edit_last: "1"
+title: "Pap\xE0, posso avere un pene più grosso?"
+meta: {}
 tags: 
-- Digital Freedom
+- digital-freedom
 - finanziamento
 - pedopornografia
 - "pubblicit\xC3\xA0 online"
 - The Fool
-type: post
-status: publish
 ---
 Quando vi chiedete cosa vedono i vostri figli Online forse è giunto il momento di pensare anche a che pubblicità vedono. Quella che segue NON è una immagine manipolata, ma uno screenshot di un utente di Reddit:  
   

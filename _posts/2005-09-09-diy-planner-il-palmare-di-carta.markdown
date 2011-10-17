@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "D*I*Y Planner: il palmare di carta"
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - LifeHacking
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 Dopo aver già parlato di PocketMod e del Paper PDA è ora di passare alla **versione professionale**, soprattutto se si parla di utilizzare il Paper PDA come supporto per GTD.  
 

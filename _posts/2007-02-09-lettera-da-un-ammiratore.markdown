@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Lettera da un ammiratore...
-published: true
-meta: 
-  autometa: "insulti giro proponi \xC3\xA2\xC2\x80\xC2\x9Cconferenza\xC3\xA2\xC2\x80? cosi\xC3\xA2\xC2\x80\xC2\x99 ascoltato baggianate ignorare"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 E' normale amministrazione per chi amministra un blog quella di ricevere commenti di insulti e ingiurie. Si potrebbe addirittura dire che è parte del mestiere.  
 La prassi comunque è quella di pubblicare commenti che contengono insulti E argomenti da confutare e ignorare quelli che contengono semplicemente insulti, cestinandoli.  

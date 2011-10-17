@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Il data center che vorrei...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bunker
 - datacenter
 - NOC
 - security
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Forse ho trovato il DataCenter giusto per FoolDns e The Fool :]  
   

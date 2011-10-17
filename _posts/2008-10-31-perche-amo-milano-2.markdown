@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: "Perch\xE8 amo Milano 2"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - ACT2K
 - ACT3K
@@ -13,11 +11,8 @@ tags:
 - Me &amp; The Web
 - milano
 - oregon scientific
-- Security and Intelligence
-- telecamera
+- security- telecamera
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 <object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/v7XVArTojCU&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/v7XVArTojCU&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>
 

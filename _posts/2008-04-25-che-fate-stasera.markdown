@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Che fate stasera?
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - aperitivo
 - Me &amp; The Web
 - milano
-type: post
-status: publish
 ---
 Se siete a Milano e non sapete che fare qui si è organizzato un <b><a href="http://bloggersmilano.pbwiki.com/Aperitivo-il-25-Aprile">aperitivo piu' cena</a></b> a Milano.  
   

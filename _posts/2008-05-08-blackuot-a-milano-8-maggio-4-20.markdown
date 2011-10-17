@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Ore 4:20, Blackout e Milano si spegne
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - blackout
 - Me &amp; The Web
@@ -11,10 +9,9 @@ tags:
 - Paranoia
 - Sicurezza e Privacy
 - ups
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/48105870@N00/1566039370/" title="blackouts are fun" target="_blank"><img src="http://farm3.static.flickr.com/2139/1566039370_7100b1b95d.jpg" alt="blackouts are fun" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/48105870@N00/1566039370/" title="sandcastlematt" target="_blank">sandcastlematt</a></small>  
+<a href="http://www.flickr.com/photos/48105870@N00/1566039370/" title="blackouts are fun" target="_blank"><img src="http://farm3.static.flickr.com/2139/1566039370_7100b1b95d.jpg" alt="blackouts are fun" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/48105870@N00/1566039370/" title="sandcastlematt" target="_blank">sandcastlematt</a></small>  
   
 Bello lavorare alle 4.20 di mattina, dopo un [sonnellino polifasico][1] dalle 12 alle 3, ed ad un bel momento sentire scatenarsi l'Inferno...  
   
@@ -29,6 +26,4 @@ Beh, la luce è tornata alle 4.25 e alle 4.40 Fastweb non è ancora online con l
 Come dite? Sono previdente?  
 No, semplicemente mi è già successo tre estati fa di buttare il lavoro di due notti per un bel colpo di corrente. E 40 euro per un UPS sono sembrati subito una spesa ridicolmente bassa per la mia sicurezza...  
   
-[tags] sicurezza, ups, blackout, milano [/tags]
-
 [1]: www.lastknight.com/2006/05/20/il-sonno-polifasico-una-introduzione/ 

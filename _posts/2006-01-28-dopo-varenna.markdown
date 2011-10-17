@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Dopo Varenna...
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 ![Il mio intervento](/download/20050128_varenna.jpg)  
 <br>

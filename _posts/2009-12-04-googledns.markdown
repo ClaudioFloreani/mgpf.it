@@ -1,14 +1,9 @@
 --- 
 layout: post
 title: GoogleDNS
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Security and Intelligence
-- The Fool
-type: post
-status: publish
+- security- The Fool
 ---
 Ho spiegato [qui][1] un po' di concetti e qui sotto trovate il video di come e perchè Google profila gli utenti.
 

@@ -1,21 +1,17 @@
 --- 
 layout: post
 title: Ho fermato l'Iliad Tour per un mese... :(
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - iliad
 - Me &amp; The Web
 - poste
 - posteitaliane
-- Security and Intelligence
-- simplicissimus
+- security- simplicissimus
 - tour
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/34073445@N00/194190086/" title="iRex iLiad" target="_blank"><img src="http://farm1.static.flickr.com/77/194190086_3735c153ae.jpg" alt="iRex iLiad" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/34073445@N00/194190086/" title="Tscherno" target="_blank">Tscherno</a></small>  
+<a href="http://www.flickr.com/photos/34073445@N00/194190086/" title="iRex iLiad" target="_blank"><img src="http://farm1.static.flickr.com/77/194190086_3735c153ae.jpg" alt="iRex iLiad" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/34073445@N00/194190086/" title="Tscherno" target="_blank">Tscherno</a></small>  
   
 Faccio pubblica ammenda sul Blog per il ritardo con cui l'[Iliad Tour](http://iliad-tour.simplicissimus.it/) dei grandissimi di Simplicissimus si è spostato e colgo l'occasione per raccontarvi Milano di questi giorni...  
   

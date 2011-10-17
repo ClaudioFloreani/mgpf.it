@@ -1,21 +1,17 @@
 --- 
 layout: post
 title: (in)sicurezza/ La politica dell'ignoranza
-published: true
 meta: {}
 
 tags: 
 - (in)sicurezza
-- Conferenze
+- about-me
 - lastknight
 - matteo flora
 - owasp
 - partiti politici
 - punto-informatico
-- Security and Intelligence
-- "vulnerabilit\xC3\xA0"
-type: post
-status: publish
+- security- "vulnerabilit\xC3\xA0"
 ---
 Come ogni Lunedì eccomi sul Punto Informatico con un nuovo articolo ed ecco qui un breve stralcio...  
   

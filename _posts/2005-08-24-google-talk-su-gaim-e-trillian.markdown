@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Google Talk su GAIM e TRILLIAN
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 A pochi minuti dal lancio di Google Talk sorprende l'utilizzo, come già preventivato da alcuni, di Jabber.  
 Per chi come me usa Trillian o (sulle macchine Linux) GAIM, la scelta di Jabber diviene una manna dal cielo: infatti è possibile in modo nativo utilizzare Jabber come sistema di connessione; ecco i passaggi:

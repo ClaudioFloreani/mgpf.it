@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Omaggio a Star Wars a Cappella...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - canto
 - capella
@@ -14,8 +12,6 @@ tags:
 - star wars
 - starwars
 - voce
-type: post
-status: publish
 ---
 Semplicemente geniale:  
   
@@ -23,7 +19,5 @@ Semplicemente geniale:
   
 Qui il [sito dell'autore][1] e nello stesso [i testi completi][2].  
   
-[tags] guerre stellari, star wars, starwars, cappella, capella, canto, voce, parodia [/tags]
-
 [1]: http://www.moosebutter.com
 [2]: http://www.moosebutter.com/lyrics.php?fromstore=1&song=3 

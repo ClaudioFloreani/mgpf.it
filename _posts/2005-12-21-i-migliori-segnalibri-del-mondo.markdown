@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: I migliori segnalibri del mondo...
-published: true
 meta: {}
 
 tags: 
 - LifeHacking
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 ![I segnalibri di Fabio Sirna](/download/20051221_fabiosirna.jpg) State leggendo o studiando? Avete la mania dei libri? 
 Se le risposte sono dei SI allora **non perdetevi** per nessuna ragione al mondo i [meravigliosi segnalibri](http://www.fabiosirna.com/journal/39/diy-paper-bookmarks) realizzati da [Fabio Sirna](http://www.fabiosirna.com) e che sono diventati un MUST in quasi tutti i volumi in casa mia.  

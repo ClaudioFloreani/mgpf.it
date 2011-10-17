@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Di corsa, paure e cambiamenti
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - corsa
 - io
@@ -12,8 +10,6 @@ tags:
 - Me &amp; The Web
 - motivation
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 Ogni tanto, avete imparato a saperlo se siete lettori affezionati, in mezzo alla marea di vaccate ed alle informazioni tecniche di lavoro trovate anche scorci del Matteo che sta dietro a LastKnight. Se ci pensate bene dovreste ricordarne per lo meno due...  
   

@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Se sai leggere questo...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Cazzate
 - geek
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Quanta verità:  
   

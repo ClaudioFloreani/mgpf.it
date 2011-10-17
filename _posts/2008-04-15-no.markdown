@@ -1,12 +1,8 @@
 --- 
 layout: post
 title: no...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 comment. 

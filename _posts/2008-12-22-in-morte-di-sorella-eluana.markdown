@@ -1,20 +1,17 @@
 --- 
 layout: post
 title: In morte di Sorella Eluana
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - alimentazione assistita
-- Digital Freedom
+- digital-freedom
 - eluana
 - eutanasia
 - Me &amp; The Web
 - orientalia4all
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/13582064@N00/2598075659/" title="Unquenched thirst" target="_blank"><img src="http://farm4.static.flickr.com/3210/2598075659_2978bd2b47.jpg" alt="Unquenched thirst" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/13582064@N00/2598075659/" title="HAMED MASOUMI" target="_blank">HAMED MASOUMI</a></small>
+<a href="http://www.flickr.com/photos/13582064@N00/2598075659/" title="Unquenched thirst" target="_blank"><img src="http://farm4.static.flickr.com/3210/2598075659_2978bd2b47.jpg" alt="Unquenched thirst" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/13582064@N00/2598075659/" title="HAMED MASOUMI" target="_blank">HAMED MASOUMI</a></small>
 
 Come vedete negli utlimi tempi non seguo un gran che la Blogosfera e, ancora meno commento notizie, fatti, e **blossip** (*neologismo di mia invenzione per Blog Gossip), ma stavolta farò una eccezione...  
   
@@ -44,6 +41,4 @@ E, come sempre, IMVHO e **chiedendo scusa, ad occhi bassi**, ai genitori della r
   
 **Buonanotte** spero presto, sorella Eluana... **Buona notte**...  
   
-[tags] eluana, alimentazione assistita, orientalia4all, eutanasia [/tags]
-
 [1]: http://orientalia4all.net/post/perche-non-in-silenzio 

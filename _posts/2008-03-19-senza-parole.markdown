@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Senza parole
-published: true
 meta: {}
 
 tags: 
@@ -11,7 +10,7 @@ tags:
 - censura
 - china
 - cina
-- Digital Freedom
+- digital-freedom
 - distruzione
 - free tibet
 - fuck mao
@@ -21,8 +20,6 @@ tags:
 - revolt
 - rivolta
 - tibet
-type: post
-status: publish
 ---
 <center>
 <img src='http://www.lastknight.com/download//free_tibet.jpg' alt='free_tibet.jpg' />

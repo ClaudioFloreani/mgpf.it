@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: "E da quando Repubblica \xE8 un NON COMMERCIAL Site?"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - creative commens
 - creativecommons
 - repubblica
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 <a href='http://www.lastknight.com/download//repubblica_non_commercial.jpg'><img src="http://www.lastknight.com/download//repubblica_non_commercial.jpg" alt="" title="repubblica_non_commercial" width="500" height="465" class="aligncenter size-full wp-image-727" /></a>  
   

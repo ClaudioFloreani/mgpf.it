@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Indice del libro \"Sicurezza e Privacy: dalla carta ai bit\""
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 >**<a href="http://www.expertaedizioni.it/index.php?id=38909">SICUREZZA E PRIVACY: DALLA CARTA AI BIT</a>**  
 >**Manuale per aziende, studi professionali, pubblica amministrazione**  

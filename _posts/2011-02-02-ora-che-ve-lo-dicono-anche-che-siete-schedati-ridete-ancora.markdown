@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Ora che ve lo dicono anche che siete schedati, ridete ancora?
-published: true
 meta: 
   wordbooker_options: "a:11:{s:18:\"wordbook_noncename\";s:10:\"e1c25684a2\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"2\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"200\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:8:\"BlogPost\";s:24:\"wordbooker_status_update\";s:2:\"on\";s:29:\"wordbooker_status_update_text\";s:26:\": Post :  %title% - %link%\";s:20:\"wordbook_comment_get\";s:2:\"on\";}"
   _jd_post_meta_fixed: "true"
@@ -19,8 +18,6 @@ meta:
 tags: 
 - DarkWeb
 - TheFool
-type: post
-status: publish
 ---
 Alle volte mi sento un poco una novella Cassandra dell'IT, e vi assicuro che non è una bella sensazione.  
 Nel 2008 lanciavo FoolDNS Community, un servizio online gratuito (e la relativa estensione FoolDNS Business per le aziende) con la specifica idea di bloccare alla radice il tracciamento degli utenti online e il behavioral advertising che sconfinava nella piena intercettazione degli utenti.  Ovviamente tutti a darmi del paranoico.  

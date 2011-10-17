@@ -2,11 +2,9 @@
 layout: post
 title: Ad ESC il 4 Settembre 2010 gli Stati Generali di Lastknight.com
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
 status: draft
 ---
 Come sapete la mia [ricerca di collaboratori][1] ha portato ad un ottimo staff che sta lavorando dietro al nuovo progetto condiviso di lastKnight.com, con passione e soprattutto tanta competenza.

@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: The Incredible Machine
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
 - Rube Goldberg
 - the incredible machine
-type: post
-status: publish
 ---
 A volte mi ritornano in mente giochi per PC di quando si GIOCAVA ancora...    
   

@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Google presenta "My Search History"
-published: true
 meta: {}
 
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 Probabilmente si tratta della dimostrazione più esplicita di quante informazioni un motore di ricerca può estrapolare dal comportamento degli utenti: <a href="http://www.google.com/searchhistory/">My Search History</a> è infatti un <strong>nuovo servizio</strong> di Google Labs,  in versione beta da oggi, che permette agli utenti di registrarsi (o di effettuare il login, se si è già in possesso di un account Google) e iniziare a far registrare dal motore <strong>tutte le ricerche effettuate</strong> su Google.com da quel momento in poi.
 

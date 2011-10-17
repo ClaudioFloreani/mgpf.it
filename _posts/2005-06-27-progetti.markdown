@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: Progetti
-published: true
 meta: 
   _edit_last: "1"
   _wp_page_template: default
   autometa: "sharpnntp portale philarmonicacom annunci newsgroup philarmonica dall\xC2\x92immobiliare mono"
 tags: []
 
-type: post
-status: publish
 ---
 In questa pagina è presente la lista di progetti e derivati manutenuti o meno (a seconda dell'interesse suscitato e/o della loro diffusione).
 Alcuni progetti sono stati chiusi, altri presentano download e documentazione.

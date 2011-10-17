@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: SharpNNTP .NET Newsgroup Access Library
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 ##What is SharpNNTP.dll?
 

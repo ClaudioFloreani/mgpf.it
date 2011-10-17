@@ -1,18 +1,14 @@
 --- 
 layout: post
 title: "Non dovrai pi\xF9 soffrire, Sig. Zhang"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - censura
 - cina
-- Digital Freedom
+- digital-freedom
 - figuziato
 - "libert\xC3\xA0"
 - zhang
-type: post
-status: publish
 ---
 <img src="http://www.lastknight.com/download//r261332_1089542.jpg" alt="" title="r261332_1089542" width="500" height="333" class="aligncenter size-full wp-image-743" />  
   

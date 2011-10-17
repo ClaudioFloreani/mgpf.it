@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Gabriele Romagnoli, ma vedi di andare *********!
-published: true
-meta: 
-  autometa: gabriele romagnoli giornalista spazzatura
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 > La generazione You Tube non è pericolosa perché usa questo mezzo, ma perché manda un messaggio: "Guardami, sono solo, non ho niente da dire, ma **dedicami la tua attenzione**, ascoltami, leggimi, comprami **o ti sparo** e poi, forse, mi sparo".  
   

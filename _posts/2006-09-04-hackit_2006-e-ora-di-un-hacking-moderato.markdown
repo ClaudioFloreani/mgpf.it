@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "HackIt_2006: \xE8 ora di un Hacking Moderato?"
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 ![hack](http://www.lastknight.com//download/20060904_hack.thumbnail.png)
 Di ritorno dall'HackMeeting devo dire che le mie impressioni sono **decisamente contrastanti**.  

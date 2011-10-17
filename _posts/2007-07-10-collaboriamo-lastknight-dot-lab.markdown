@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Collaboriamo? LastKnight Dot Lab...
-published: true
-meta: 
-  autometa: tempus cassetto ammonticchiano ries perido fugge fugit progetti
+meta: {}
 tags: 
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 **Tempus fugit**, e mai quanto in questo periodo...  
 E quando fugge il tempo i **progetti nel cassetto** si ammonticchiano e non riescono a trovare il loro naturale sfogo...  

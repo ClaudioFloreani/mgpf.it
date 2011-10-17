@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Matt Mullenweg, Wordpress e un po' di fotografie
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 E' un pochetto strano e piuttosto inquietante vedere che invece di essere io a fotografare quell'astro nascente dell'imprenditoria internazionale che è [Matt Mullenweg](http://ma.tt/), il papà di Wordpress, è **lui che fotografa me** e pubblica la foto [nel suo blog](http://ma.tt/2008/05/milan-day-one/mat_7074/)...  
   

@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: "Censura 1.2: La conversione di Nicola Clivio sulla via di Pechino"
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - censura
-- Digital Freedom
+- digital-freedom
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 [![Censura in Italia](http://www.lastknight.com/download/banner_censura.png)](http://www.lastknight.com/category/liberta-digitale/)
 

@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Informativa sulla Privacy
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 Per evitare la solita **tiritera legale** che non legge nessuno, ho riassunto di seguito i punti salienti per la tutela dei tuoi dati personali, sempre restando la possibilità di consultare direttamente la normativa in forma completa la legge n. 196/2003 in materia di tutela dei dati personali dal sito sul [Garante della Privacy](http://www.garanteprivacy.it).  
 Invece per qualsiasi ulteriore informazione sentiti libero di scrivermi in qualsiasi momento ai recapiti della pagina contatti .

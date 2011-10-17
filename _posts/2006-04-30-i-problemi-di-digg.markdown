@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: I problemi di Digg
-published: true
 meta: 
   _aioseop_keywords: digg, digg.com, social software, e-democracy, web 2.0
   autometa: ""
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 In questi ultimi giorni la Blogosfera è stata **scossa vivacemente** dalle discussioni in merito a [Digg.com](http://www.digg.com), l'**aggregatore** di notizie da **milioni di hits al giorno**  che mira nemmeno troppo velatamente a surclassare Slashdot.  
 

@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Biometria e Convegno Reati Informatici e attivit\xE0 di Indagine"
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 ![Reati Informatici e attività di Indagine](/download/20060106_banner.gif)Giusto un commento, in ritardissimo, per annunciare che avrò l'onere e l'onore di <b>partecipare come relatore</b> al convegno "Reati Informatici e attività di Indagine" che si svolgerà a Varenna il prossimo 20 Gennaio 2006 promosso dal Circolo dei Giuristi Telematici e con la collaborazione dell'Unione Avvocati Europei, di Penale.it, del Centro Studi di Diritto Penale Europeo e del Consolato Generale di Svizzera. 
 

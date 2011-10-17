@@ -1,7 +1,6 @@
 --- 
 layout: page
 title: Archivi
-published: true
 meta: 
   _edit_last: "1"
   _wp_page_template: template-archives.php
@@ -9,6 +8,5 @@ meta:
 tags: []
 
 type: page
-status: publish
 ---
 

@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Ci sono cose che valgono...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - gratism thepiratebay
 - grazie
 - Me &amp; The Web
-type: post
-status: publish
 ---
 ...di più di una parcella...  
   

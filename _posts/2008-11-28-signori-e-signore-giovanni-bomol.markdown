@@ -1,18 +1,14 @@
 --- 
 layout: post
 title: "Signori e Signore: Giovanni Bomoll"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - allevi
 - classica
 - einaudi
 - Me &amp; The Web
 - pianoforte
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 <object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/K6Nk5mXJJLI&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/K6Nk5mXJJLI&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
   
@@ -20,6 +16,4 @@ status: publish
   
 Complimenti, [Giovanni][1], e buon ascolto a tutti!  
   
-[tags] allevi, classica, pianoforte, einaudi [/tags]
-
 [1]: http://www.giovannibomoll.com 

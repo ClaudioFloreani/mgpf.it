@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Un radiologo Politically Incorrect
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - centenari
 - Me &amp; The Web
 - ot
 - radiologo
 - "sanit\xC3\xA0"
-type: post
-status: publish
 ---
 A volte se ci vuole ci vuole:  
   

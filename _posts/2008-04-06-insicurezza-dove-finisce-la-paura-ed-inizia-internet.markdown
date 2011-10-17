@@ -1,22 +1,18 @@
 --- 
 layout: post
 title: "(in)sicurezza:  Dove finisce la paura ed inizia Internet"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - abusi
 - censura
-- Conferenze
+- about-me
 - educazione
 - fobia
 - internet
 - lions
 - paura
 - pedofilia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Qualcuno mi ha chiesto perché scrivo sul Punto informatico.  
 Per poter scrivere [cose come questa](http://punto-informatico.it/2247069/PI/Commenti/-in-sicurezza--Dove-finisce-la-paura-ed-inizia-Internet/p.aspx):  

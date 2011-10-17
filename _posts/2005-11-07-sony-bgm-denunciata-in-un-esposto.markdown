@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Sony BGM denunciata in un esposto
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 <strong>Hello [SlashDotters](http://games.slashdot.org/article.pl?sid=05/11/07/1221209&tid=233&tid=207&tid=10)! =) When Webserver is on the knees, [Slashdot](http://games.slashdot.org/article.pl?sid=05/11/07/1221209&tid=233&tid=207&tid=10) is in the air... =)].</strong>
 

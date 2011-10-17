@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "Tor:  Guida all'anonimato web in 30 secondi..."
-published: true
 meta: 
   _aioseop_keywords: come avere ip anonimo, anonimato in rete, avere ip anonimo, anonimizzare, anonimato web, anonymizer, anonimato in rete, navigare protetti e anonimi, betting, betting italia, blocco siti, cambiare ip, modificare ip, avere un altro ip
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 [![TOR:Guida all'anonimato in rete in 30 secondi](http://www.lastknight.com/download/tor_banner.png)](http://www.lastknight.com/tor/)
 Certo non se lo aspettavano i **garantisti del Web** come il sottoscritto, ma alla fine la **doccia fredda** è arrivata anche per noi.  

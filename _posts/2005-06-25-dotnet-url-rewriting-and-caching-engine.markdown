@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: DotNet Url Rewriting and Caching Engine
-published: true
 meta: 
   _wp_page_template: page_eng.php
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 #Playing with URL rewrite
 

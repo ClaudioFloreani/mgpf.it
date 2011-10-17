@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Cos'\xE8 l'Open Source?"
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 Immaginate un lungo, complesso periodo pieno zeppo di incidentali e subordinate. E assolutamente colmo di errori di ortografia.  
 Insieme ad un mucchio di altre persone vi mettete ognuno a correggere un paio di errori di ortografia. Nel frattempo vi accorgete che alcuni dei membri del gruppo sono giornalisti e possono dire la stessa cosa in modo migliore. Così riscrivono delle parti.  

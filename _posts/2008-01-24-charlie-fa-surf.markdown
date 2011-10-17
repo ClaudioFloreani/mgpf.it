@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Charlie fa Surf...
-published: true
-meta: 
-  autometa: youtube
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Baustelle: così grandi da sconfinare nell'immenso.  
   

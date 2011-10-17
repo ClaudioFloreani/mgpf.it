@@ -1,19 +1,15 @@
 --- 
 layout: post
 title: Sabato 23 Febbraio al BarCamp di Torino
-published: true
 meta: {}
 
 tags: 
 - barcamp
 - blogging
 - censura
-- Conferenze
-- Security and Intelligence
-- TOR
+- about-me
+- security- TOR
 - torinobarcamp2008
-type: post
-status: publish
 ---
 ![](http://barcamp.org/f/logobctorino2008-250.gif)
 Era un po' di tempo che causa lavoro non riuscivo a concedermi il lusso di tenere qualche bello speech, ma [Sabato 23][2] cercherò di rifarmi al [Barcamp di Torino 2008][2] con la presentazione di **due speech** differenti che spero interesseranno a qualcuno di voi :)  

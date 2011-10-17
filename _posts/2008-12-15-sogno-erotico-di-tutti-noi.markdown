@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Sogno Erotico di tutti noi
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bush
-- Digital Freedom
+- digital-freedom
 - Me &amp; The Web
 - Paranoia
 - protesta
-type: post
-status: publish
 ---
 <object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/AGCFoBxAd_8"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/AGCFoBxAd_8" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
   

@@ -2,19 +2,16 @@
 layout: post
 title: Di ignoranza, Youtube ed altre sciocchezze...
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - byoblu
 - censura
-- Digital Freedom
+- digital-freedom
 - ignoranza
 - Me &amp; The Web
 - mediaset
 - pressapochismo
-- Security and Intelligence
-- youtube
-type: post
+- security- youtube
 status: draft
 ---
 Ho già parlato della pressoché totale mancanza di criticità del popolo della rete, mostrata soprattutto (ma non in via esclusiva) dal vandalismo della mia macchina da parte di qualche bontempone, ma sorvolando questo punto la maggior parte degli **automi da combattimento** che hanno affollato queste pagine si sono soffermati su una domanda che a mio parere ha dell'incredibile:  

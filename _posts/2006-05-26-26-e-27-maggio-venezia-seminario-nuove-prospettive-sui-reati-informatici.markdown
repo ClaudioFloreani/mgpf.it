@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "26 e 27 Maggio, Venezia: Seminario \"Nuove Prospettive sui Reati Informatici\""
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Con la lungimiranza (=]) che da sempre contraddistingue i miei post su questo blog vi informo bloggando direttamente dall'albergo della conferenza che nel pomeriggio sarò relatore all'incontro promosso dalla [Camera Penale Veneziana](http://www.camerapenaleveneziana.it) in collaborazione con le Camere Penali del Triveneto dal titolo "[Nuove Prospettive sui Reati Informatici](http://www.camerapenaleveneziana.it/doc/908.pdf)".  
 

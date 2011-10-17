@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Matteo Flora al TG3 (parte seconda)
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 ![Matteo Flora al TG3 nazionale nella rubrica Scenari](http://www.lastknight.com//download/20060605_TG3.jpg)
 

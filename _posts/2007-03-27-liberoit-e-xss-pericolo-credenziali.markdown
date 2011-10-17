@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Libero.it e XSS: pericolo credenziali!"
-published: true
-meta: 
-  autometa: owasp libero libero.it xss hacking furto
+meta: {}
 tags: 
 - hacking
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Libero XSS](http://www.lastknight.com//download/20070327_libero.thumbnail.jpg)
 >  **Aggiornamento:** Una serie di riflessioni sulle dichiarazioni di Libero in merito al bug sono raccolte [QUI](http://www.lastknight.com/2007/03/28/ancora-su-liberoit/)  

@@ -2,21 +2,18 @@
 layout: post
 title: Pedofili in coda per essere assunti in aeroporto
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - aeroporti
 - chiesa cattolica
-- Digital Freedom
+- digital-freedom
 - full body scanner
 - "impunit\xC3\xA0"
 - pedofilia
 - pedopornografia
 - pornografia
 - scanner
-- Security and Intelligence
-type: post
-status: private
+- securitystatus: private
 ---
 Dicono che un'immagine valga più di mille parole ed io sono perfettamente daccordo. Quindi vi allego questa (link direttamente al click):  
   

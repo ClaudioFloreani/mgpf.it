@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Online il nuovo sito di The Fool, il nuovo Blog e FoolDns 2.0
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Ed ecco a voi in tutta la sua magnificenza il nuovo sito di The Fool !  
   

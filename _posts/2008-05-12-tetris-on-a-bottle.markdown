@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: Tetris on a bottle...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bottiglia
 - flauto
 - Me &amp; The Web
 - tetris
-type: post
-status: publish
 ---
 Questi sono malati:  
   

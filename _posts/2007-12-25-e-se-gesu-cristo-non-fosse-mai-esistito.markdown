@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "E se Ges\xF9 Cristo non fosse mai esistito?"
-published: true
 meta: 
   _edit_last: "1"
   autometa: "ges\xC3\xB9 cristo non esiste mitra sol invictus culto setta anticristianesimo natale"
 tags: 
-- Digital Freedom
+- digital-freedom
 - Paranoia
-type: post
-status: publish
 ---
 Innanzitutto i miei migliori auguri. Che la morte e resurrezione di... **Mitra** sia con tutti voi.  
 Gà, proprio Mitra, non certo **Gesù Cristo** che non nasce il 25 Dicembre ma **eredita** in una mossa di sincretismo religioso la festa del **Sol Invictus** romana, e cioè l'anniversario della resurrezione di **Mitra**, che muore e resiscita il terzo giorno.  

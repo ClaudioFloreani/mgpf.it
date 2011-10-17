@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "OWASP Testing Guide: la bibbia delle Web Vulnerabilities"
-published: true
-meta: 
-  autometa: owasp testing guide pentesting revelli meucci parata sp0nge iceman pelliccioni merloni lombardini fedon di paola wisec carettoni bregolin matteo flora
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![OWASP Logo](http://www.lastknight.com//download/20070213_owasp.gif)
 Inizia in sordina la mail di Matteo Meucci (che dirige il chapter OWASP Italy) sulla lista OWASP, ma è una delle comunicazioni che **non capita tutti i giorni** di ascoltare:

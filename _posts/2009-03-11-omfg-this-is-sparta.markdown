@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: OMFG this is Sparta
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Cazzate
 - fun
 - Me &amp; The Web
 - sparta
-type: post
-status: publish
 ---
 ...no comment...  
   

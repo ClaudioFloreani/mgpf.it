@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Woooops!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - facebook
 - Me &amp; The Web
 - p0wned
-type: post
-status: publish
 ---
 Sembra che qualche buontempone abbia usato qualcosa su un mio account di Google Mail ed abbia carpito una serie di informazioni...  
 Dubito fortemente abbia indovinato la password, era una trentina di caratteri, ma comunque sia hanno usato l'account per richiedere le password ad una serie di servizi online (facebook, skype, messenger) e cambiare la mail di riferimento, tagliandomi effettivamente fuori dalla possibilità di reimpostare le password...  

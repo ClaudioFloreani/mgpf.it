@@ -1,12 +1,10 @@
 --- 
 layout: post
 title: Facciamo frittelle, non innovazione. E chissene della Privacy!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - articoli
-- Digital Freedom
+- digital-freedom
 - fooldns
 - Garante
 - innovazione
@@ -15,8 +13,6 @@ tags:
 - privacy
 - tecnologia
 - The Fool
-type: post
-status: publish
 ---
 A volte la vita è strana. come ad esempio la giornata di oggi, ricca di soddisfazioni e di incontri dal passato verso potenziale new business e di persone veramente piacevoli, competenti ed attive.  
   

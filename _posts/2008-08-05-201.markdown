@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: 2.0.1
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/7236738@N08/1895996401/" title="iPhone with 420 daimonds $41 000.00" target="_blank"><img src="http://farm3.static.flickr.com/2344/1895996401_cf4c26b7cf.jpg" alt="iPhone with 420 daimonds $41 000.00" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/7236738@N08/1895996401/" title="airgap" target="_blank">airgap</a></small>  
+<a href="http://www.flickr.com/photos/7236738@N08/1895996401/" title="iPhone with 420 daimonds $41 000.00" target="_blank"><img src="http://farm3.static.flickr.com/2344/1895996401_cf4c26b7cf.jpg" alt="iPhone with 420 daimonds $41 000.00" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/7236738@N08/1895996401/" title="airgap" target="_blank">airgap</a></small>  
   
 Aggiornamento dell'Iphone in corso...  
 Incrociate l'incrociabile :)  

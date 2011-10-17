@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: "Evercookie, FoolDNS e Online Tracking: il punto della situazione"
-published: true
 meta: 
   _edit_last: "1"
   WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
@@ -9,7 +8,7 @@ meta:
 tags: 
 - anti-tracking
 - big brother
-- Digital Freedom
+- digital-freedom
 - dont track me
 - featured
 - fooldns
@@ -21,8 +20,6 @@ tags:
 - track me not
 - tracking
 - winstonsmith
-type: post
-status: publish
 ---
 <a href="http://www.lastknight.com/download//2010/09/fdns.png"><img src="http://www.lastknight.com/download//2010/09/fdns-540x246.png" alt="" title="fdns" width="540" height="246" class="aligncenter size-medium wp-image-2181" /></a>  
   

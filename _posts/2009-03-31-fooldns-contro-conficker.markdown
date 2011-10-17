@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: FoolDns contro Conficker
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - conficker
 - fooldns
 - malware
 - The Fool
-type: post
-status: publish
 ---
 Per FoolDns sono stati mesi di fuoco, con il [servizio business][2] finalmente online, la calca di adorabili sciamannati che compone il nostro [Testing Team][3] e più di 5000 utenti sotto la beta. Stiamo parlando di milioni di interrogazioni al giorno e siamo orgogliosi di poter affermare di avere un servizio, ormai, pronto per il passo successivo!  
   

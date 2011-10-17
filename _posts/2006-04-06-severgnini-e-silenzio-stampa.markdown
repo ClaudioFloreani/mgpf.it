@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Severgnini e silenzio stampa...
-published: true
 meta: {}
 
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 Mi ero ripromesso di mantenere il silenzio stampa sulle scadenze politiche di questa settimana.  
 Le trasmissioni regolari riprenderanno tranquillamente con Lunedì prossimo (o forse mezza settimana) e con la decina di articoli che sono rimasti in coda a questo Blog.  

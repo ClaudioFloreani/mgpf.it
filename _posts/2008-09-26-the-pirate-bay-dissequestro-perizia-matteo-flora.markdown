@@ -1,26 +1,22 @@
 --- 
 layout: post
 title: "La baia \xC3\xA8 risorta, lunga vita alla Baia!"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bergamo
 - censura
-- Digital Freedom
+- digital-freedom
 - dissequestro
-- Forensics
+- forensic
 - francesco micozzi
 - giovan battista fallus
 - la baia
 - matteo flora
 - Paranoia
-- Security and Intelligence
-- thepiratebay
-type: post
-status: publish
+- security- thepiratebay
 ---
-<a href="http://www.flickr.com/photos/62223880@N00/361388393/" title="Sunset on Boracay" target="_blank"><img src="http://www.lastknight.com/download//2008/09/361388393_11a5066305.jpg" alt="Sunset on Boracay" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/62223880@N00/361388393/" title="wili_hybrid" target="_blank">wili_hybrid</a></small>  
+<a href="http://www.flickr.com/photos/62223880@N00/361388393/" title="Sunset on Boracay" target="_blank"><img src="http://www.lastknight.com/download//2008/09/361388393_11a5066305.jpg" alt="Sunset on Boracay" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/62223880@N00/361388393/" title="wili_hybrid" target="_blank">wili_hybrid</a></small>  
   
 Ormai lo sapete. Se sparisco lo faccio per tornare. Nel frattempo molti di voi hanno imparato ad immaginarmi, nel delta in cui sono in fase di eclissi, intento ad escogitare la prossima diavoleria di cui altri di voi parleranno, dall'istante in cui la cosa sarà diffusa. Nel bene o nel male questo è un'altra storia.  
   
@@ -55,8 +51,6 @@ Andate, fieri sostenitori della libertà di parole. Fatemi sentire, fateci senti
   
 P.S. Il buon Clodo ha un ottimo servizio che testa [quanti DNS stanno ancora bloccando](http://osiris.kodeware.net/services/nscheck.php) le richieste. Fateci un salto...
   
-[tags] thepiratebay, la baia, dissequestro, bergamo, matteo flora, giovan battista fallus, francesco micozzi [/tags]
-
 [1]: http://www.lastknight.com/2008/08/15/thepiratebay-utenti-intercettati/
 [2]: http://www.lastknight.com/2008/08/17/thepiratebay-password-a-rischio/
 [3]: http://it.wikipedia.org/wiki/Pro_bono

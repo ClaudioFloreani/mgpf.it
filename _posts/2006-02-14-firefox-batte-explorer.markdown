@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Firefox batte Explorer 42 a 36!
-published: true
 meta: {}
 
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 [![Firefox batte Explorer](/download/thumb-20060214_firefox.gif)](/download/20060214_firefox.gif)
 Non che mi arroghi il diritto di asserire che Lastknight Dot Com rappresenti il **vero cuore** del Web italiano e sono inoltre perfettamente conscio che la **stragrande maggioranza** dei lettori di questo blog possiede **skill differenti** dall'utente mainstream.  

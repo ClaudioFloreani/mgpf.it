@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Ho ancora la forza. E al diavolo tutti, \xE8 il MIO blog."
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Mai risistemare la playlist di ITunes. Certi ricordi non devono, non possono tornare. Non si è preparati, a volte, ad affrontare l'impatto mentale, l'impatto emotivo che una canzione, una musica possono scaraventarti addosso.  
   

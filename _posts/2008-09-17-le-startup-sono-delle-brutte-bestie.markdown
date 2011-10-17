@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Le startup sono delle brutte bestie...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - css
 - js
@@ -15,8 +13,6 @@ tags:
 - ruby
 - segretaria
 - "societ\xC3\xA0"
-type: post
-status: publish
 ---
 Se qualcuno mi avesse detto che è più stancante e snervante fare l'amministratore delegato del consulente credo avrei riso un poco e lo avrei mandato, credo, a donnine allegre...  
 Una volta che ci sono i soldi, pensavo, il resto è in discesa....  

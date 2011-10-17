@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Moratti Cybersquatting...
-published: true
 meta: {}
 
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 Che dire, è successo in tantissimo altri campi ed ora sembra proprio che anche nella <strong>politica </strong>sia arrivato il momento del <strong>cybersquatting</strong>.<br>
 E la fautrice dell'ingresso dello squat in politica è proprio la simpatica [sig.ra Moratti](http://www.letiziamoratti.it/), che nella sua frenesia di conoscere le opinioni (sempre favolrevoli, sia chiaro) dei suoi concittadini si è adoperata per **registrare pedissequamente 4000 e rotti domini, uno per ogni via di Milano**. 

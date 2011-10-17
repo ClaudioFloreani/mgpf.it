@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Ancora Varenna...
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Ed oggi sono citato anche anche sul [Punto-Informatico](http://punto-informatico.it/p.asp?i=57679&r=PI) in una [sintesi del convegno](http://punto-informatico.it/p.asp?i=57679&r=PI). 
 

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Il Call Center ruba i dati personali?
-published: true
-meta: 
-  autometa: scam call center carta credito adsl callcenter addetto precario
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 ![Call center Scam](/download/20060107_scam.jpg) Avevo già avuto altre **segnalazioni** da un paio di lettori del Blog (*siete moltissimi, lo sapete? Grazie mille!*) ma **stentavo a crederci**.  
 Poi mi arriva una mail dell'amico **Giorgio Fedon**, venuto recentemente alla ribalta per l'articolo su "Subverting Ajax" scritto in coppia con l'amico Stefano Di Paola.  

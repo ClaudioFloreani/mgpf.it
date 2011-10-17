@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Webdesign per il Web 2.0
-published: true
 meta: {}
 
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 [![LogoNow](/download/thumb-20060213_adr.jpg)](/download/20060213_adr.jpg)
 La mia estrazione di Direttore IT di un'agenzia di pubblicità ha lasciato, sembra, **un segno molto più indelebile di quanto pensassi** di primo acchito.  

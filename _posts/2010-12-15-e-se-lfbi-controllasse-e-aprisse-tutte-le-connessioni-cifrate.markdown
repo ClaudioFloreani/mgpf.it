@@ -1,19 +1,15 @@
 --- 
 layout: post
 title: E se l'FBI controllasse (e aprisse) tutte le connessioni cifrate?
-published: true
 meta: 
   _edit_last: "1"
   _wp_old_slug: ""
   image: http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg
 tags: 
 - controllo
-- Digital Freedom
+- digital-freedom
 - Paranoia
-- Security and Intelligence
-- spionaggio
-type: post
-status: publish
+- security- spionaggio
 ---
 <a href="http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg"><img src="http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg" alt="" title="2962194797_06b1dc08ac" width="500" height="333" class="aligncenter size-full wp-image-2309" /></a>
   

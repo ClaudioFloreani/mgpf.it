@@ -1,18 +1,14 @@
 --- 
 layout: post
 title: Aspettando il Nexus Sei
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - blade runner
 - google
 - intelligenza artificiale
 - Me &amp; The Web
 - phone
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 <a href="http://www.lastknight.com/download//2010/01/roy-e1262734696317.jpg"><img src="http://www.lastknight.com/download//2010/01/roy-e1262734696317.jpg" alt="" title="roy" width="499" height="330" class="aligncenter size-full wp-image-1756" /></a>  
   

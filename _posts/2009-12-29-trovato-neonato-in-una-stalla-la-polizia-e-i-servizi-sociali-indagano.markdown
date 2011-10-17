@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Trovato neonato in una stalla - La polizia e i servizi sociali indagano
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - betlemme
 - falegname
 - Me &amp; The Web
 - "nativit\xC3\xA0"
 - pedofilia
-type: post
-status: publish
 ---
 **"Trovato neonato in una stalla - La polizia e i servizi sociali indagano" - "Arrestati un falegname ed una minorenne"**  
   

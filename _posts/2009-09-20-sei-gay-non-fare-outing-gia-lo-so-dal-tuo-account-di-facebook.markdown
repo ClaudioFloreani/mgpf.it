@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: "Sei Gay? Non fare outing. Gi\xE0 lo so dal tuo account di Facebook."
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
+- digital-freedom
 - facebook
 - gay
 - profiling
 - social network
-type: post
-status: publish
 ---
 *(ndt. Mi dicono che si scriva "outing" quando è sputtanamento da parte di terzi, leggasi lo stimato Boffo, e "coming out" quando l'annuncio è volontario. Sorry, ignoranza mia...)*
 

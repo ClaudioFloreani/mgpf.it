@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: "8 Febbraio, InfoSecurity 2007: come eludere i controlli di polizia"
-published: true
-meta: 
-  autometa: terrorismo pedofilia hacker pirata criminale metodi eludere blocchi aams monopoli gentiloni polizia postale finanza
+meta: {}
 tags: 
 - censura
-- Conferenze
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- digital-freedom
+- security
 ---
 ![Censura](http://www.lastknight.com/download/banner_censura.png)
 Probabilmente le quasi denunce per "*istigazione a delinquere*" della celebre conferenza di Varenna non mi sono bastate o, probabilmente, ancora una volta mi sento **in dovere morale** di mostrare [l'ipocrisia](http://www.lastknight.com/2006/10/16/censura-13-quando-gli-ignoranti-siedono-in-cassazione-e-in-governo/) del Legislatore e della Pubblica Amministrazione di fronte ai temi del **Controllo (o supposto tale) di Internet**.

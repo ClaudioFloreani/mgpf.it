@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Hackers: Santi Criminali, il problema della Disclosure in Italia"
-published: true
-meta: 
-  autometa: matteo flora hacking disclosure santi criminali hackers
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Per chi  <s>domani</s> **oggi** sarà in zona Como segnalo che parlerò alle 11.30 sul tema **"Hackers: Santi Criminali, il problema della Disclosure in Italia"** a nome di OPSI ed AIP.  
 In pratica un discorso di una mezzo'retta su Full/Half disclosure, Ethical Hacking, Pentesting e visioni etico/morali di tutto questo.  

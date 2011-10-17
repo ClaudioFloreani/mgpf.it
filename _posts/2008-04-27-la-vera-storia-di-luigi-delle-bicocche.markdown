@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: La vera storia di Luigi delle Bicocche
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - caparezza
-- Digital Freedom
+- digital-freedom
 - massimo rispetto
 - rispetto
 - sono un eroe
-type: post
-status: publish
 ---
 Signori, fate largo.  
 Passa Caparezza. Abbassate gli occhi. Chinate il capo. E toglietevi il cappello, perchè passa l'**Artista**.  

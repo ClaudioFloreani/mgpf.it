@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Introduzione al Reiki
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 ![Reiki](/download/thumb-reiki_ideogram.jpg)Il **Reiki** (pronunciato Reichi) è il nome associato ad un **sistema filosofico di crescita interiore** ed **un'arte di guarigione** mediante imposizione delle mani e riequilibrio del campo energetico personale sviluppato nei primi anni del 1900 dal Maestro **Mikau Usui** in Giappone.  
 Il Reiki è tramandato da maestro a discepolo in linea diretta.  

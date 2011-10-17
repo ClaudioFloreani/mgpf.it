@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Ancora su Libero.it
-published: true
-meta: 
-  autometa: libero puntiinformatico rassicurazioni riprende suscitato distanza comunica riportato
+meta: {}
 tags: 
 - hacking
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Era chiaro che l'argomento [XSS e Libero](http://www.lastknight.com/2007/03/27/liberoit-e-xss-pericolo-credenziali/) avrebbe suscitato una risposta immediata e che questa sarebbe stata di false rassicurazioni, e ovviamente quanto [PuntoInformatico](http://punto-informatico.it/p.aspx?id=1938288&r=PI) riprende a distanza di 12 ore la news che vi avevo riportato ieri Libero parla e comunica la sia visione dei fatti:
 

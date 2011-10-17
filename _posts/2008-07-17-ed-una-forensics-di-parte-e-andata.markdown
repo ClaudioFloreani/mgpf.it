@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: "Ed una \xE8 andata..."
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Conferenze
-- Forensics
+- about-me
+- forensic
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 <div class="notice">
 Avviso pre commenti caustici: Leggete la <A href="http://www.lastknight.com/2008/08/04/the-very-big-faq-of-mediaset-vs-youtube/">la FAQ</A> relativa. Thanx ;)

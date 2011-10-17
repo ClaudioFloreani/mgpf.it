@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "Il Quarto Reich: USA"
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: "thestar \xC2\x93duro\xC2\x94 worldupdates corpus uniti proibirebbe invocare contempo"
 tags: 
-- Digital Freedom
+- digital-freedom
 - Paranoia
-type: post
-status: publish
 ---
 > l Military Commissions Act of 2006 sempre citando larticolo di The Register permetterebbe  
 >

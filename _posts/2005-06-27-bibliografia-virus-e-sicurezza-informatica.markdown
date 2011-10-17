@@ -1,12 +1,8 @@
 --- 
 layout: post
 title: "Bibliografia: Virus e Sicurezza Informatica"
-published: true
-meta: 
-  _wp_page_template: default
+meta: {}
 tags: []
 
-type: post
-status: publish
 ---
  

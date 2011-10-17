@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Trappola per topi geniale
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - geniale
 - invenzioni
@@ -12,8 +10,6 @@ tags:
 - ratto
 - topo
 - trappola
-type: post
-status: publish
 ---
 <img alt="" src="http://www.uncrate.com/men/images/2008/10/mouse-in-pint.jpg" class="aligncenter" width="470" height="250" />  
 Non letale per intrappolare il "mouse". Semplicemente geniale.  

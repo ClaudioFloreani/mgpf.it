@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: AlVillage S.r.l. Milano
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 **A partire dal mese di Maggio ho lasciato definitivamente la carica di Direttore IT di AlVillage a Milano.**  
 Quello che segue non rappresenta in alcun modo le mie idee odierne, ma permane sul sito per ricordare Al Village del Dicembre 2004, molto differente dall'attuale struttura, quasi un'altra identità...  

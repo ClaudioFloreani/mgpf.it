@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Ottenere il Pagerank di tutte le pagine di un sito
-published: true
-meta: 
-  _aioseop_keywords: pagerank, ottenere pagerank, automatic pagerank, getting pagerank, google pagerank, individuare pagerank
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 [![Visual PageRank](/download/20060420_pagerank.thumbnail.jpg)](/download/20060420_pagerank.jpg)
 Come vi sarete probabilmente accorti dal taglio degli articoli pubblicati ultimamente sono tornato a lavorare a quella **strana branca della sicurezza** informatica che è il SEO .  

@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: One Nation Under CCTV
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bansky
 - controllo
 - grande fratello
 - Me &amp; The Web
 - telecamere
-type: post
-status: publish
 ---
 Semplicemente sublime da Banksy.  
   

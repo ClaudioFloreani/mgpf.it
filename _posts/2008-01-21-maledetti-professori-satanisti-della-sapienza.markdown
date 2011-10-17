@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Maledetti Professori Satanisti della Sapienza
-published: true
-meta: 
-  autometa: youtube chiesa cattolica satanismo
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 <object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/Va533YjJ84I&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Va533YjJ84I&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
   

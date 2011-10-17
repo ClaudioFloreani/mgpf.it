@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Non ci indurre in tentazione...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - (in)sicurezza
 - aeroporto
@@ -12,9 +10,7 @@ tags:
 - libera
 - Paranoia
 - presa di rete
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Aeroporto di Bari.  
 Passo il check-in e mi siedo ad attendere il mio volo, quello che mi porterà da [Trani][1] a Milano di nuovo, dopo [il convegno][2].  

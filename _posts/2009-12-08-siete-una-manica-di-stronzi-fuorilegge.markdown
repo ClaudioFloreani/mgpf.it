@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Siete una manica di stronzi fuorilegge
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - google
 - Me &amp; The Web
 - profiling
-type: post
-status: publish
 ---
 Sarà l'età, sarà il contesto culturale in cui sono cresciuto, ma a me certe affermazioni fanno tremare:  
   

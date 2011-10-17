@@ -1,13 +1,12 @@
 --- 
 layout: post
 title: "(in)sicurezza: Come ti cracco l'abbonamento dell'Autobus"
-published: true
 meta: {}
 
 tags: 
 - abbonamenti
 - autobus
-- Conferenze
+- about-me
 - cracking
 - crypto-1
 - "Henryk Pl\xC3\xB6tz"
@@ -16,9 +15,7 @@ tags:
 - mifare classic
 - ntx
 - rfid
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Normale appuntamento del Lunedì con il Punto Informatico per chi se lo fosse perso:  
   

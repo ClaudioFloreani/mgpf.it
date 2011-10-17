@@ -2,11 +2,9 @@
 layout: post
 title: TheFool presenta LaScalettaDiMilano.com - Alla Scala con meno di 50 euro
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - The Fool
-type: post
 status: private
 ---
 <a href="http://lascalettadimilano.com"><img src="http://thefool.it/wp-content/uploads/2009/05/lascalettadimilano-460x400.jpg" alt="lascalettadimilano" title="lascalettadimilano" width="460" height="400" class="aligncenter size-medium wp-image-70" /></a>  

@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: "Perch\xC3\xA8 Vitrociset e CNAIPIC contano, e molto"
-published: true
 meta: 
   wordbooker_options: "a:11:{s:18:\"wordbook_noncename\";s:10:\"2ea1ac0547\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"2\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"200\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:8:\"BlogPost\";s:24:\"wordbooker_status_update\";s:2:\"on\";s:29:\"wordbooker_status_update_text\";s:26:\": Post :  %title% - %link%\";s:20:\"wordbook_comment_get\";s:2:\"on\";}"
   wordbooker_thumb: http://matteoflora.com/wp-content/uploads/2011/08/cia.png
@@ -21,8 +20,6 @@ meta:
 tags: 
 - DarkWeb
 - Hacking
-type: post
-status: publish
 ---
 Ok, siamo tutti abituati a vedere LulzSec che viola qualunque cosa abbia all'interno della tecnologia, compresa probabilmente la macchinetta del caffè, qualora sia politicizzata, ma comunque sia in questo marasma collettivo di macchine bucate rischia di sparire il fatto che AnonIta si è sfondato i server del CNAIPIC e di Vitrociset. E questo NON va messo nell'ombra.   
   

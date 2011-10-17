@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Stati Uniti, prigione, habeas corpus e dittatura
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: corpus habeas united writ detained 1005 states section
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 qualcuno mi ha spedito una [deliziosa pagina](http://crazytopics.blogspot.com/2007/01/craziest-laws-in-america.html) che contiene una raccolta, non acora verificata, di leggi assurde degli Stati Uniti d'America.  
   

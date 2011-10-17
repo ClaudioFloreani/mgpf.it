@@ -1,16 +1,13 @@
 --- 
 layout: post
 title: Aggiornamento Censura e G8
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: fournier irruzione scuola genova poliziotti imputati accaduti sanguinosa
 tags: 
-- Conferenze
+- about-me
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Dopo averne parlato [qui](www.lastknight.com/2007/05/09/censura-mediatica-lo-stato-condannato-per-genova/ ) leggo [oggi su Repubblica](http://www.corriere.it/Primo_Piano/Cronache/2007/06_Giugno/13/g8_genova_questore.shtml)  
   

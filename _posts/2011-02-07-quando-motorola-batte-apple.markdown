@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: Quando Motorola batte Apple
-published: true
 meta: 
 tags: 
 - Awesome
 - emotion
 - motorola
 - superbowl
-type: post
-status: publish
 ---
 Commercial veramente stupendo passato ieri nel SuperBowl:
 

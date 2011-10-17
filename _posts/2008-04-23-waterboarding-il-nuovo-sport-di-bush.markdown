@@ -1,21 +1,16 @@
 --- 
 layout: post
 title: Waterboarding, il nuovo sport di Bush...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - amnesty
 - bush
 - "crudelt\xC3\xA0"
-- Digital Freedom
+- digital-freedom
 - Paranoia
-- Security and Intelligence
-- tortura
+- security- tortura
 - unsubscrive-me
 - waterboarding
-type: post
-status: publish
 ---
 <center>
 <object type="application/x-shockwave-flash" data="http://unsubscribe-me.org/films/blipesque-sof-480.swf" width="490" height="260" allowfullscreen="true" id="showplayer"><param name="movie" value="http://unsubscribe-me.org/films/blipesque-sof-480.swf" /><param name="quality" value="best" /><param name="bgcolor" value="#000000" /><embed src="http://unsubscribe-me.org/films/blipesque-sof-480.swf" quality="best" width="490" height="260" bgcolor="#000000" name="showplayer" type="application/x-shockwave-flash"></embed></object>  

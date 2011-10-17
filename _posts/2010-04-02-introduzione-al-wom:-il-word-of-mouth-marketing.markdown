@@ -2,8 +2,7 @@
 layout: post
 title: "Introduzione al WOM: il Word Of Mouth Marketing"
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - advertising
 - buzzmarketing
@@ -12,7 +11,6 @@ tags:
 - The Fool
 - wom
 - womm
-type: post
 status: draft
 ---
 Leggo un blog, uno di quelli che leggo sempre e di cui mi fido, e leggo la recensione di un nuovo prodotto. Non ho mai considerato moltissimo quel prodotto, ma il fatto di vedere una delle persone che leggo quasi quotidianamente che ne parla me lo fa apprezzare, scoprire.  

@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Carbo withdrawal
-published: true
 meta: {}
 
 tags: 
@@ -11,8 +10,6 @@ tags:
 - Me &amp; The Web
 - raw food
 - vegan
-type: post
-status: publish
 ---
 **Day 2.**  
 Se mi passate a meno di 30 metri con un pezzo di pane in mano **perdete il braccio**. Fino alla spalla.  

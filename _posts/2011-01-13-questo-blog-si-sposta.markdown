@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: Questo Blog si sposta
-published: true
 meta: 
   _edit_last: "1"
   _wp_old_slug: ""
   image: ""
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Dopo 672 post e oltre 4000 commenti (e 10 anni di onorato servizio), Lastknight.com entra in stato di coma farmacologica controllata in attesa di capire quale sarà il suo destino.  
   

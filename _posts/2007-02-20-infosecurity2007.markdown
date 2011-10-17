@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: InfoSecurity2007
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Nell'edizione del 2007 di InfoSecurity ho avuto il privilegio di poter presentare la conferenza "Eludere i Controlli di Polizia" che verte sulla inutilità  delle misure restrittive e censorie del Web o "Voice Privacy and Insecurity", presentazione flash assieme ad Alessio Pennasilico, Fabio Pietrosanti e Marco Misitano.  
   

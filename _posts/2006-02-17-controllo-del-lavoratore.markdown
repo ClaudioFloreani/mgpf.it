@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: Controllo del Lavoratore
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- digital-freedom
+- security
 ---
 Segnalo con estremo piacere l'[articolo](http://punto-informatico.it/p.asp?i=57919) del caro amico e **competentissimo conoscitore del diritto** dell'informazione Avv. Luca Giacopuzzi che sul [PuntoInformatico](http://punto-informatico.it/p.asp?i=57919) di oggi presenta in modo puntuale e preciso l'argomento del "[Controllo del lavoratore](http://punto-informatico.it/p.asp?i=57919)".  
 

@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Matteo Flora al TG3 nazionale...
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Per quanti **mi hanno chiamato** e per quanti se lo sono chiesti **confermo di essere stato ospite** ieri 2 Giugno all'interno del **TG3 nazionale** delle ore 14:30 con un'intervista rilasciata nel corso dell'ultima [E-Privacy 2006](http://www.lastknight.com/2006/05/18/e-privacy-2006-e-spyware/) assieme all'amico Marco Calamari.  
 Nell'intervista si è discusso di sicurezza online e di possibili pericoli per la navigazione da parte dell'incauto navigante...  

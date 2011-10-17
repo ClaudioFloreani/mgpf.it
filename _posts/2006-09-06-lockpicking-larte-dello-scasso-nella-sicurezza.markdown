@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "LockPicking: L'arte dello scasso nella sicurezza"
-published: true
-meta: 
-  autometa: scasso toool bump lockpicking picklocking tools hacking
+meta: {}
 tags: 
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- forensic
+- security
 ---
 ![LockPicking, l'arte dello scasso](http://www.lastknight.com//download/20060906_lockpick.jpg)
 L'**arte dello scasso** è sempre più **legata a doppia mandata** alla **Sicurezza Informatica**, soprattutto se correlata alla **sicurezza fisica delle strutture** in un ambito di **Penetration Test** (come recitano sia ISO27001 che OSSTMM).  

@@ -1,18 +1,14 @@
 --- 
 layout: post
 title: Mediaset contro Google e Youtube, la mia perizia...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Conferenze
-- Digital Freedom
-- Forensics
+- about-me
+- digital-freedom
+- forensic
 - Me &amp; The Web
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Inutile nascondere l'evidenza:  
   

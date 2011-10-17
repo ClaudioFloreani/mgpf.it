@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Geniale
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - fun theory
 - geniale
 - Me &amp; The Web
-type: post
-status: publish
 ---
 we call it "Fun Theory"  
   

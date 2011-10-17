@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Abbiate. Molta. Paura. MITM-SSL
-published: true
 meta: 
   _edit_last: "1"
   _aioseop_keywords: ssl, mitm, man in the middle
 tags: 
 - man in the middle
 - mitm
-- Security and Intelligence
-- ssl
-type: post
-status: publish
+- security- ssl
 ---
 Brr.  
   

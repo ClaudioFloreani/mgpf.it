@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Introduzione al LifeHacking
-published: true
-meta: 
-  autometa: "lifehacking lifehacker gtd david allen personal productivity sonno polifasico cos'\xC3\xA8 il lifehacking introduzione al hacking hacker"
+meta: {}
 tags: 
 - LifeHacking
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 [![Introduzione al LifeHacking](/download/20061129_LifeHacker.jpg)](http://www.amazon.co.uk/gp/search?ie=UTF8&keywords=http%3A%2F%2Fwww.amazon.co.uk%2FLifehacker-Life-changing-Geek-Tips-Simplify%2Fdp%2F0470050659%2Fsr%3D11-1%2Fqid%3D1164791301%2Fref%3Dsr%5F11%5F1%2F026-5660396-0140469&tag=obscuraluxdar-21&index=blended&linkCode=ur2&camp=1634&creative=6738)
 Ho già parlato di LifeHacking e dei concetti legati al **miglioramento della propria vita** di tutti i giorni tramite semplici trucchi e "scorciatoie". Alcuni di voi ricorderanno sicuramente la mia introduzione a [Getting Things Done](http://www.lastknight.com/2005/09/07/introduzione-a-gtd-getting-things-done/) o anche le indicazioni su [D*I*Y*Planner](http://www.lastknight.com/2005/09/09/diy-planner-il-palmare-di-carta/) e [PocketMod](http://www.lastknight.com/2005/09/07/153/).  

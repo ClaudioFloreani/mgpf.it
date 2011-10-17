@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: "Quando per Google Cristo \xE8 Porco D*o"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bestemmie
 - cristo
@@ -12,8 +10,6 @@ tags:
 - porco dio
 - suggerimenti
 - suggest
-type: post
-status: publish
 ---
 <img src="http://www.lastknight.com/download//2008/11/cristo_related.jpg" alt="" title="cristo_related" width="500" height="178" class="aligncenter size-full wp-image-1151" />  
   

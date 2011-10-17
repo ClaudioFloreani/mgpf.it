@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: "Sabato 7: 10 minuti di censura a Trani"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - abuso di minori
 - censura
@@ -11,8 +9,6 @@ tags:
 - Me &amp; The Web
 - pedofilia
 - wu-ming foundation
-type: post
-status: publish
 ---
 Ancora in **convalescenza** e ringraziando tutti quelli che mi hanno **subissato di mail** e di SMS mentre ero in Ospedale un brave flash per ci si trova **dall'altro lato dell'impero** e vuole venire a sentirmi parlare.  
   

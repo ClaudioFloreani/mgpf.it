@@ -1,21 +1,17 @@
 --- 
 layout: post
 title: Quando me*da fa rima con Fineco
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - customer care gestito da cricieti
 - fineco
 - idiozia
 - Me &amp; The Web
 - partite di bukkake-squash in ufficio
-- Security and Intelligence
-- "teoria della relativit\xC3\xA0"
-type: post
-status: publish
+- security- "teoria della relativit\xC3\xA0"
 ---
-<a href="http://www.flickr.com/photos/86212696@N00/469743172/" title="Foto di M" target="_blank"><img src="http://farm1.static.flickr.com/176/469743172_bcd2c398ae.jpg" alt="Foto di M" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/86212696@N00/469743172/" title="Matteo Avanzini" target="_blank">Matteo Avanzini</a></small>  
+<a href="http://www.flickr.com/photos/86212696@N00/469743172/" title="Foto di M" target="_blank"><img src="http://farm1.static.flickr.com/176/469743172_bcd2c398ae.jpg" alt="Foto di M" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/86212696@N00/469743172/" title="Matteo Avanzini" target="_blank">Matteo Avanzini</a></small>  
   
 Vi avevo già parlato di [Fineco](http://www.lastknight.com/2008/06/12/conto-fineco-lento-e-delusione/). O meglio, di quella cosa che tanto assomiglia ad altro e che si fa chiamare [Fineco](http://www.lastknight.com/2008/06/12/conto-fineco-lento-e-delusione/).  
   

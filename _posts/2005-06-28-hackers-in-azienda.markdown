@@ -6,7 +6,6 @@ meta: {}
 
 tags: 
 - Me &amp; The Web
-type: post
 status: private
 ---
 ##Manuale pratico per la gestione della sicurezza in azienda

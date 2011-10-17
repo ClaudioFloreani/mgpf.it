@@ -17,7 +17,6 @@ meta:
   _wp_jd_url: ""
 tags: []
 
-type: post
 status: draft
 ---
 Rojadirecta è probabilmente uno dei maggiori indici mondiali di trasmissioni is known as one of the world’s major Internet sports broadcast indexes. The site links to broadcasts of many popular soccer matches plus other sporting events including NBA, MLB, NFL, NPB, IPL.

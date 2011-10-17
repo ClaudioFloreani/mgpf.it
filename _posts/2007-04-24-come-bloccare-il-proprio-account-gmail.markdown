@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Come bloccare il proprio account GMail...
-published: true
-meta: 
-  autometa: gmail blocco bloccato lock posta pop3
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 [![Account Gmail Bloccato](/download/20070424_gmaillock.thumbnail.jpg)](http://www.lastknight.com/download/20070424_gmaillock.jpg)  
 Se avete deciso come il sottoscritto di lasciare i vostri messaggi su un account di Gmail e di scaricarli, magari anche solo per avere una copia di backup in caso qualcosa vada storto, beh vi consiglio di procedere **con molta cautela**.  

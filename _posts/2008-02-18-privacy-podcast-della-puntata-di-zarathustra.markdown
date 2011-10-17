@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: "Privacy: podcast della puntata di Zarathustra"
-published: true
 meta: 
   enclosure: |
     http://www.albertomaio.it/Zarathustra/Zara69.mp3
@@ -9,15 +8,13 @@ meta:
     audio/mpeg
 
 tags: 
-- Digital Freedom
+- digital-freedom
 - Garante
 - intercettazioni
 - Paranoia
 - podcast
 - privacy
 - tecnologia
-type: post
-status: publish
 ---
 ![Siurezza e Privacy](http://bp1.blogger.com/_BKK0Jz1oW30/R7douZN__jI/AAAAAAAAANo/zSL7eFf_qZM/s200/DallaCartaAiBit_big.gif)
 Internet e tutela dei dati personali. Tema a metà tra il marketing e la democrazia.  

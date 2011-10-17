@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Debunking InfoSecurityGuard.com Identity
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - flora
 - hunt
@@ -14,10 +12,7 @@ tags:
 - matteoflora
 - notrax
 - phonecrypt
-- Security and Intelligence
-- securstar
-type: post
-status: publish
+- security- securstar
 ---
 <div class="important">
 Hi, non-italian readers! Pleased to have you here around. I'm very sorry but this blog is mostly Italian. You can have some English background (although outdated) info on <a href="http://www.matteoflora.com">matteoflora.com</a>. I've been a Forensic Consultant for over a decade and I'm presently CEO & Partner of The Fool, an Italian start-up dealing with Technology.  

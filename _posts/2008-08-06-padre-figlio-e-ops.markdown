@@ -1,11 +1,9 @@
 --- 
 layout: post
 title: Padre, Figlio e... Ops!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
+- digital-freedom
 - dio
 - ghostbusters
 - Me &amp; The Web
@@ -14,8 +12,6 @@ tags:
 - religione
 - spirito santo
 - xkcd
-type: post
-status: publish
 ---
 Era un pochino che non facevo qualche post che riguardasse Dio & Co :)  
   

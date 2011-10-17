@@ -1,19 +1,15 @@
 --- 
 layout: post
 title: Viral Guerrilla Musical
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - AHIP
-- Digital Freedom
+- digital-freedom
 - guerrilla
 - marketing
 - Me &amp; The Web
 - musical
 - public option annie
-type: post
-status: publish
 ---
 A volte c'è anche chi ha del gusto nel voler manifestare le proprie opinioni.  
 E succede che una manica di geni si ritrovino al Congresso Nazionale della lobby americana che combatte le possibilità del Congresso di votare a favore di una riforma della Sanità e combatte... a suon di musica.

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Lastkight.com si \xE8 spostato... Addio LivingDot!"
-published: true
-meta: 
-  autometa: livingdot mosso mediatemple rackspace livingdot pavel ushakov problems
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Dopo mille peripezie ho deciso di **abbandonare il mio vecchio hosting** con [LivingDot](http://www.livingdot.com). E' stata una decisione ardua, considerato per per la **prima volta** in vita mia avevo la possibilità di ricevere commenti e risposte ai miei ticket in un tempo impressionantemente brave: dai **2 ai 10** minuti.  
   

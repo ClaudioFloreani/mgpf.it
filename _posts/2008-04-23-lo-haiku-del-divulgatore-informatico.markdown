@@ -1,16 +1,11 @@
 --- 
 layout: post
 title: L'haiku del Divulgatore Informatico
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - divulgatore informatico
 - professore
-- Security and Intelligence
-- sw4n
-type: post
-status: publish
+- security- sw4n
 ---
 Ogni tanto, non spesso eh solo **ogni tanto** =], adoro Sw4n.  
   

@@ -1,23 +1,19 @@
 --- 
 layout: post
 title: Mediaset vs. ThePiratebay
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - censura
-- Digital Freedom
-- Forensics
+- digital-freedom
+- forensic
 - Me &amp; The Web
 - mediaset
 - quintarelli
-- Security and Intelligence
-- thepiratebay
+- security- thepiratebay
 - youtube
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/79145585@N00/383476178/" title="gavel" target="_blank"><img src="http://farm1.static.flickr.com/129/383476178_8fe0f5e767.jpg" alt="gavel" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/79145585@N00/383476178/" title="bloomsberries" target="_blank">bloomsberries</a></small>  
+<a href="http://www.flickr.com/photos/79145585@N00/383476178/" title="gavel" target="_blank"><img src="http://farm1.static.flickr.com/129/383476178_8fe0f5e767.jpg" alt="gavel" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/79145585@N00/383476178/" title="bloomsberries" target="_blank">bloomsberries</a></small>  
   
 Cera da aspettarselo, immagino, anche se personalmente credevo che le differenze tra i due soggetti fosserero lapalissiane.  
 Ora che il mio coinvolgimento nella perizia di ThePirateBay è [stato svelato][1] la gente inizia a vociferare sul mio essere, per dirlo come ha detto qualcuno un uomo da tutte le stagioni: quello cioè che da un lato aiuta [Mediaset][2] e dallaltro aiuta [ThePirateBay][1] come se nulla fosse, come se non fossero non solamente due mondi distanti tra loro, ma due universi completamente opposti.  

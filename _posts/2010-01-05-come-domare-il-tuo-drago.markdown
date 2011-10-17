@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Come domare il tuo drago
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - come domare
 - drago
 - dragon
 - dreamworks
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Voglio.  
   

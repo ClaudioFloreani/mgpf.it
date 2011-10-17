@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: ITunes 6.0.4-6 DRM finalmente violato
-published: true
-meta: 
-  autometa: hymn itunes 1553 fairuse4wm project viewtopic sproteggere sproteggere
+meta: {}
 tags: 
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- forensic
+- security
 ---
 ![ITunes 6.0.4-6 DRM finalmente violato](http://www.lastknight.com//download/20060829_ITunes.jpg)
 Per quanti di voi utilizzano ITunes e si ricordano **Hymn** sembra sia ora di festeggiare nuovamente...  

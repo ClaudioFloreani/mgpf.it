@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Lastknight dot Scooter
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - lastknight
 - matteo flora
 - Me &amp; The Web
 - scooter
 - sh125
-type: post
-status: publish
 ---
 <center>
 <a href="http://www.flickr.com/photos/lastknight/2420945981/" class="tt-flickr tt-flickr-Medium"><img src="http://farm3.static.flickr.com/2152/2420945981_889a9c8cda.jpg" alt="Modding the new scooter" width="500" height="375" border="0" /></a>   

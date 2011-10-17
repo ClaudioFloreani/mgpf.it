@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: MOMIS risponde allo splog
-published: true
-meta: 
-  autometa: momis momisit spammer accennavo dicevo eccola wordpress 2007
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 La vicenda dello Splog (spam di commenti a blog) di Momis in cui accennavo nel [post di ieri](http://www.lastknight.com/2007/03/01/momisit-gli-spammer-italiani-di-wordpress/) sembra aver avuto qualche ritorno.  
   

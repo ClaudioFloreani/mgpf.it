@@ -1,12 +1,12 @@
 --- 
 layout: post
 title: C# vs Java 1.5
-published: true
 meta: {}
 
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
- <div style="clear:both;"></div>In un bellissimo <a href="http://it.slashdot.org/article.pl?sid=04/10/11/1454220&tid=108&amp;tid=8">post su Slashdot</a> si dicute di come Java 1.5 assomigli a C# e di come, in realtà, sia ben poca la differenza tra i due linguaggi se la modellazione OOP è fatta con tutti i crismi...<br /> Personalmente ritengo che vistoche C# ha plagiato platealmente divese funzionalità (o forse la stragrande maggioranza di queste) da Java ha introdotto notevoli migliorie dal punto di vista della "vita di ogni giorno" che possono benissimo venir plagiate da Java... ;)<br /> Tornando all'articolo, notevole la comparsa in Java 1.5 dei cicli while estesi (foreach di C#) e dei Generics (C# 2.0).<br /> A voi ulteriori commenti...<div style="clear:both; padding-bottom: 0.25em;"></div> 
+ In un bellissimo <a href="http://it.slashdot.org/article.pl?sid=04/10/11/1454220&tid=108&amp;tid=8">post su Slashdot</a> si dicute di come Java 1.5 assomigli a C# e di come, in realtà, sia ben poca la differenza tra i due linguaggi se la modellazione OOP è fatta con tutti i crismi...  
+ Personalmente ritengo che vistoche C# ha plagiato platealmente divese funzionalità (o forse la stragrande maggioranza di queste) da Java ha introdotto notevoli migliorie dal punto di vista della "vita di ogni giorno" che possono benissimo venir plagiate da Java... ;)  
+ Tornando all'articolo, notevole la comparsa in Java 1.5 dei cicli while estesi (foreach di C#) e dei Generics (C# 2.0).  
+ A voi ulteriori commenti...<div style="clear:both; padding-bottom: 0.25em;"></div> 

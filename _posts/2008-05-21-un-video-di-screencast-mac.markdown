@@ -1,19 +1,14 @@
 --- 
 layout: post
 title: UN video di screencast Mac
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - again and again
 - apple
 - Me &amp; The Web
 - screencast
-- Security and Intelligence
-- video
+- security- video
 - viral
-type: post
-status: publish
 ---
 Non so cosa ne pensiate voi, ma per me è geniale. Lui è [Dennis Liu][1] e [qui][2] trovate la sua intervista.
   

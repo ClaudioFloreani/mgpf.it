@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: A testa di cazzo!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
-<a href="http://www.flickr.com/photos/51035611977@N01/6185140/" title="yellow gaze" target="_blank"><img src="http://farm1.static.flickr.com/4/6185140_ea15779fb0.jpg" alt="yellow gaze" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/51035611977@N01/6185140/" title="fazen" target="_blank">fazen</a></small>  
+<a href="http://www.flickr.com/photos/51035611977@N01/6185140/" title="yellow gaze" target="_blank"><img src="http://farm1.static.flickr.com/4/6185140_ea15779fb0.jpg" alt="yellow gaze" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/51035611977@N01/6185140/" title="fazen" target="_blank">fazen</a></small>  
     
 [BlackCat][1] è la mamma di Alex, un adorabile e giocherellone (con la mamma) bambino autistico. Ha un blog e recconta quel pizzico di rammarico commisto a ironia e coraggio i piccoli episodi quotidiani, senza mai crogiuolarsi nell'autocommiserazione.  
 Questo mi ha fatto scompisciare:  

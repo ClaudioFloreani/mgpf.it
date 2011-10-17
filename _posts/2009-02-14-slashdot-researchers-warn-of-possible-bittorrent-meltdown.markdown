@@ -1,16 +1,13 @@
 --- 
 layout: post
 title: Slashdot | Researchers Warn of Possible BitTorrent Meltdown
-published: true
 meta: 
   _edit_last: "1"
   Image: download/2009/02/piratebay.jpg
 tags: 
-- Digital Freedom
+- digital-freedom
 - thepiratebay
 - tpb
-type: post
-status: publish
 ---
   <a href="http://www.lastknight.com/download//2009/02/piratebay1.jpg"><img src="http://www.lastknight.com/download//2009/02/piratebay1.jpg" alt="piratebay1" title="piratebay1" width="201" height="195" class="alignleft size-full wp-image-1359" /></a>
 

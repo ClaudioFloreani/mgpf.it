@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: "Progetto OSEMINTI: il Carnivore Europeo"
-published: true
-meta: 
-  autometa: oseminti eda Operational Semantic Intelligence Infrastructure intercettazione carnivore italia spagna francia telecom
+meta: {}
 tags: 
-- Digital Freedom
+- digital-freedom
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 > Ciao, **Punto-Informativo.it** (di nuovo...)  
 > Dopo il post precedente sul Video della Conferenza "Eludere i Controlli di Polizia" anche oggi il Punto Informatico cita nel suo articolo "[L'evoluzione genetica del Grande Fratello Europeo](http://punto-informatico.it/p.aspx?id=1920382)" buoni stralci da questo blog. Onorati della stima che ci offre il giornalista Alfonso Maruccia sapete perchè il sito **potrebbe rallentare**...  

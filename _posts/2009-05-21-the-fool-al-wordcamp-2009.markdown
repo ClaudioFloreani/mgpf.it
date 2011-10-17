@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: The Fool al WordCamp 2009!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - barcamp
 - The Fool
 - TheFool
 - wordcamp
-type: post
-status: publish
 ---
 Se volete incontrarci di persona o chiacchierare su FoolDns Community e Business di persona, domani e Sabato sarò al [WordCamp 2009][1].  
   

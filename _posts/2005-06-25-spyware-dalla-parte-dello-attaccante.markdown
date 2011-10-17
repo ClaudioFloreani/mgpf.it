@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Spyware: Dalla parte dell'attaccante"
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 Il **29 Gennaio 2004** il Mensa Lombardia organizzava una giornata di conferenza a tema "**Spyware, Computer Forensic e Pedofilia**" al quale ho partecipato come relatore analizzando in dettaglio le strategie di Business alle spalle del mercato degli Spyware. In questa pagina è possibile recuperare il materiale della serata.
 

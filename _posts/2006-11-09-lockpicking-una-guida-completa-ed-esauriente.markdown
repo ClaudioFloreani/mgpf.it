@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "LockPicking: una guida completa ed esauriente"
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: lockpicking picklocking scasso hacking cracking intrusioni LSI-guide LSI guida manuale istruzioni
 tags: 
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- forensic
+- security
 ---
 ![Attrezzi Scasso](/download/20061109_lockpicking.jpg)  
   

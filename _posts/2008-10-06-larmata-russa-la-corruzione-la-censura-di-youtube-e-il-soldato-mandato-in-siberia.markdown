@@ -1,13 +1,11 @@
 --- 
 layout: post
 title: L'armata russa, la corruzione, la censura di YouTube e il soldato mandato in Siberia
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - armata rossa
 - censura
-- Digital Freedom
+- digital-freedom
 - eminem
 - Paranoia
 - putin
@@ -16,10 +14,9 @@ tags:
 - urss
 - Vitalij
 - youtube
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/59128780@N00/2548752837/" title="bolshakov in army (archive)" target="_blank"><img src="http://farm4.static.flickr.com/3170/2548752837_8838cabba2.jpg" alt="bolshakov in army (archive)" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/59128780@N00/2548752837/" title="bolshakov" target="_blank">bolshakov</a></small>
+<a href="http://www.flickr.com/photos/59128780@N00/2548752837/" title="bolshakov in army (archive)" target="_blank"><img src="http://farm4.static.flickr.com/3170/2548752837_8838cabba2.jpg" alt="bolshakov in army (archive)" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/59128780@N00/2548752837/" title="bolshakov" target="_blank">bolshakov</a></small>
   
 **Vitaly Efremov Alkesandrovic**, tenente dell'esercito della Federazione Russa, gira un video *ironico* in cui, parafrasando lo stile della canzone "Stan" (Eminem), narra il rap delle cattive condizioni in cui vive: salario bloccato ormai da anni e una vita fatta di sacrifici e rinunce. Non si lamenta, per carità, ma manda continue missive, cartacee ed elettroniche, al Ministro della Difesa, [Anatoly Serdyukov][6].  
   

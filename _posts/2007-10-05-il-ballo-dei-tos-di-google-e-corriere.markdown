@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Il ballo dei TOS di Google e Corriere
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: corriere terms of service contratto censura google draconico orwell
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Stamane, giusto per non essere banali, si è parlato in un po' di liste di **Terms of Service** (in gergo TOS) e di come facilmente l'utente medio **rilascia informazioni** su di sè e diritti intollerabili senza nemmeno dare un'occhiata a quello che gli si propone.  
   

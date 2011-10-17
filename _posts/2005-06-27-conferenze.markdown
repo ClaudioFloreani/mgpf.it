@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Conferenze e Corsi
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 Negli ultimi anni ho sempre più spesso presenziato come oratore ad importanti e stimolanti convegni e conferenze dedicate ad argomenti legati alla sicurezza ed al furto di identità.  In occasione della pubblicazione del libro a cui ho collaborato "Sicurezza e Privacy: dalla carta ai bit" le occasioni si sono intensificate.  
 Qui di seguito le slide e gli abstract delle ultime conferenze.

@@ -2,16 +2,15 @@
 layout: post
 title: La Legge Pisanu non c'entra un cazzo
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - carta dei 100
-- Digital Freedom
+- digital-freedom
 - pisanu
-type: post
 status: private
 ---
-<a href="http://www.flickr.com/photos/36645776@N00/2192542713/" title="What's In My Bag" target="_blank"><img src="http://farm3.static.flickr.com/2282/2192542713_5703930501_m.jpg" alt="What's In My Bag" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/36645776@N00/2192542713/" title="Steve Keys" target="_blank">Steve Keys</a></small>  
+<a href="http://www.flickr.com/photos/36645776@N00/2192542713/" title="What's In My Bag" target="_blank"><img src="http://farm3.static.flickr.com/2282/2192542713_5703930501_m.jpg" alt="What's In My Bag" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/36645776@N00/2192542713/" title="Steve Keys" target="_blank">Steve Keys</a></small>  
   
 Mi perdonerà l'amico Roberto Dadda se ancora una volta lo uso come termine di paragone, ma la mia forte convinzione del fatto che sto invecchiando è data dal fatto che proprio con Roberto mi trovo sempre più spesso in accordo ;) Un particolar modo col suo post [Aspettando Godot][1].  
 La Carta dei 100, così [lanciata][2] da molti moltissimi in giro per la rete, nell'ennesima crociata mediatica che mi ricorda tantissimo le altre campagne come "Not In My Name" o le "cento milioni di firme di Repubblica", mi sa sempre più di ricettacolo di fama per chi la propone, più che di una effettiva utilità all'interno della sfera della diffusione di Internet.  

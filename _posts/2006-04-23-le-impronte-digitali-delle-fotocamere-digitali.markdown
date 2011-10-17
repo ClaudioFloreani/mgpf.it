@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: Le "impronte digitali" delle fotocamere digitali
-published: true
 meta: 
   _aioseop_keywords: fotografie digitali, localizzare fotografie digitali, impronte digitali, impronte fotografiche, steganografia, informatica forense, digital forensics
   autometa: ""
 tags: 
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- forensic
+- security
 ---
 Leggo con interesse le ricerche della Binghamton University in merito ai **pattern univoci delle fotografie** registrate dalle **macchine fotografiche digitali**.  
 

@@ -1,19 +1,16 @@
 --- 
 layout: post
 title: "(in)sicurezza: Quando il Garante Insegna"
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Digital Freedom
+- about-me
+- digital-freedom
 - Garante
 - intercettazioni
 - norme
 - privacy
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Seconda punta della mia [collaborazione editoriale con il PuntoInformatico](http://punto-informatico.it/2199142/PI/Commenti/-in-sicurezza--Quando-il-Garante-insegna/p.aspx)...   
 Sappiatemi dare qualche commento a caldo, ok? Eccone il testo:  

@@ -8,10 +8,8 @@ meta:
   autometa: noblogs pretofilia pedofilia operazione ratzinger vaticano cenura censorship molleindustria
 tags: 
 - censura
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: private
+- digital-freedom
+- securitystatus: private
 ---
 ![God Phone](http://www.lastknight.com/download/20070703_godphone.gif)
   

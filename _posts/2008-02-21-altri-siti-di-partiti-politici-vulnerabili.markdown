@@ -1,12 +1,11 @@
 --- 
 layout: post
 title: Altri siti di Partiti Politici vulnerabili...
-published: true
 meta: {}
 
 tags: 
 - bucabile
-- Digital Freedom
+- digital-freedom
 - dol
 - hacking
 - neikos
@@ -14,12 +13,9 @@ tags:
 - partito democratico
 - pd
 - rauti
-- Security and Intelligence
-- sito web
+- security- sito web
 - udeur
 - "vulnerabilit\xC3\xA0"
-type: post
-status: publish
 ---
 Avevo deciso si stare **buono buonino**, visto l'inizio della mia collaborazione col **Punto Informatico**, ma visto che [iniziano loro][1] posso mettermici anche io...  
   

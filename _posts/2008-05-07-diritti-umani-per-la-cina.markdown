@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Diritti umani per la Cina
-published: true
 meta: 
   _edit_last: "1"
   _wp_page_template: default
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Il nuovo video di Amnesty International...  
   

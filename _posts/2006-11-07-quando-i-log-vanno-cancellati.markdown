@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Quando i log vanno cancellati...
-published: true
-meta: 
-  autometa: "log cancellazione bersani terrorismo libert\xC3\xA0 hacking hacker pirati p2p privacy anonimato"
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 ![LogFile](/download/20061107_log.thumbnail.jpg)
 In uno stato sempre più vicino al **controllo globale** ed alla totale distruzione della Privacy Web fa piacere leggere l'articolo di [Slashdot](http://yro.slashdot.org/article.pl?sid=06/11/06/2313251&from=rss) che ci racconta di come il **colosso tedesco T-Mobile** sia stato obbligato a prevedere la **cancellazione dei Log di IP** di navigazione dei propri clienti qualora questi lo richiedano semplicemente.  

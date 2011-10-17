@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Il tuo indirizzo \xE8 stato reperito su Internet?"
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: spam illegittimo garante reperito su internet legge spam
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 ![Il tuo indirizzo è stato reperito su internet](/download/20061012_spam.jpg)
 Quanto spam ricevete in questi giorni? E soprattutto quanto di questo **riporta la fatidica** frase "**il vostro indirizzo è stato reperito da elenchi pubblici"**?  

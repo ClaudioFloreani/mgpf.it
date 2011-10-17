@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Ciao, Victoria (aka Metropolis Part 2)
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Se passate da Via Numa Pompilio stasera e sentite qualcuno che canta a squarciagola di Dream Theatre sono io. E se ho gli occhi pieni di lacrime non preoccupatevi: è normale.  
   

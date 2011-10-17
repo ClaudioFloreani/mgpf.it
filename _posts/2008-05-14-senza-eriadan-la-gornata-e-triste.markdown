@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: "Senza Eriadan la gornata \xE8 triste"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bug
 - eriadan
@@ -11,8 +9,6 @@ tags:
 - Me &amp; The Web
 - screensaver
 - windows
-type: post
-status: publish
 ---
 <img src="http://www.lastknight.com/download//eriadan_pepepe.jpg" alt="" title="eriadan_pepepe" width="500" height="227" class="aligncenter size-full wp-image-694" />
   

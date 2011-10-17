@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Arkangel, la musa del blogger italiano
-published: true
-meta: 
-  autometa: arkangel arkangel musa lettura legato insonne ispiratrice 20060301
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 ![Arkangel.it](http://www.lastknight.com//download/20060924_Arkangel.jpg)No, non c'entra nulla con la **sicurezza informatica** e ancora meno con la **privacy** ma è il blog domenicale, tradizionalmente legato alle altre amenità della vita e che stavolta vi chiede, se avete qualcosa di caro al mondo legato ad un Blog, di acquistare il libro di Arkangel.  
 

@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "Domani 25 Ottobre conferenza a Firenze in Universit\xE0"
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: comsic07 title download lastknight
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Scusate, non mi sono fatto sentire per un poco. Problemi sentimentali di non poco conto e tematiche difficili da affrontare. E talvolta la vita "digitale" passa un poco in secondo piano.
 [![ComSic07](http://www.lastknight.com/download/comsic07.thumbnail.png)](http://www.lastknight.com/download/comsic07.png)  

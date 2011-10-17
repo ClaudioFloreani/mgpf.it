@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Il ricordaBlog della Domenica
-published: true
-meta: 
-  autometa: "cybersquatting cybersquatting\xC2\x85 moratti compravendita sunto ridare persi puri"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Ho pensato, prendendo spunto da Blog sicuramente più eccellenti del sottoscritto, di recuperare dalla storia di questo blog alcuni articoli passati e di farne un sunto per ridare nuova vita a post interessanti che, per varie ragioni, sono finiti nell'archivio che pochi o nessuno sembra guardare...  
 

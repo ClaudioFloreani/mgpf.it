@@ -1,21 +1,17 @@
 --- 
 layout: post
 title: Abbaiando sull'Articolo 24
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - google
 - matteo flora
 - Me &amp; The Web
 - mediaset
 - Paranoia
-- Security and Intelligence
-- youtube
-type: post
-status: publish
+- security- youtube
 ---
-<a href="http://www.flickr.com/photos/48600090482@N01/197153406/" title="Howl" target="_blank"><img src="http://farm1.static.flickr.com/65/197153406_62defb0a8a.jpg" alt="Howl" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/48600090482@N01/197153406/" title="CaptPiper" target="_blank">CaptPiper</a></small>
+<a href="http://www.flickr.com/photos/48600090482@N01/197153406/" title="Howl" target="_blank"><img src="http://farm1.static.flickr.com/65/197153406_62defb0a8a.jpg" alt="Howl" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/48600090482@N01/197153406/" title="CaptPiper" target="_blank">CaptPiper</a></small>
   
   
 Qualcuno sagace e pungente *(in realtà [Cristiano Deana](http://www.flickr.com/people/cristiano_deana/))* mi scrive, riferendosi al [post precedente](http://www.lastknight.com/2008/07/30/matteo-flora-mediaset-contro-google-e-youtube/) un esilarante messaggio che riporto:  

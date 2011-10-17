@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: AAA WebDesigner made in Italy cercasi per Slashdot
-published: true
 meta: 
   _aioseop_keywords: slashdot, layout, concorso layout, concorso slashdot, concorso css, grafica css
   autometa: ""
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Qualche **webdesigner veramente in gamba** che voglia risollevare il **nome del design** "Made In Italy"?  
 

@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Potete baciarle il @ulo
-published: true
 meta: {}
 
 tags: 
@@ -9,11 +8,10 @@ tags:
 - garbo
 - gentilezza
 - graziottin
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
-<a href="http://www.flickr.com/photos/99757245@N00/1816489564/" title="" target="_blank"><img src="http://farm3.static.flickr.com/2389/1816489564_ff9508daff.jpg" alt="" border="0" /></a><br /><small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/obo-bobolina/" title="obo-bobolina" target="_blank">obo-bobolina</a></small>
+<a href="http://www.flickr.com/photos/99757245@N00/1816489564/" title="" target="_blank"><img src="http://farm3.static.flickr.com/2389/1816489564_ff9508daff.jpg" alt="" border="0" /></a>  
+<small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/obo-bobolina/" title="obo-bobolina" target="_blank">obo-bobolina</a></small>
   
   
 Ricevo come commento in merito al Post sulla sig.ra Graziottin e prontamente vi invio:  

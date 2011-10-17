@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "CriticalMass Milano di Gioved\xEC 15 Febbraio 2007"
-published: true
-meta: 
-  autometa: ciritcal mass criticalmass milano mercanti lastknight
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 Ogni tanto mi stacco anche dalla tastiera :)  
 E non solamente per il Reiki ma anche e soprattutto per le CriticalMass del **Giovedì sera a Milano**.  

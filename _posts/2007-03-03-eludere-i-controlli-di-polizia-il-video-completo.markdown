@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: "Eludere i Controlli di Polizia: il video completo"
-published: true
-meta: 
-  autometa: polizia terrorismo pedoporno pedopornografia conferenza infosecurity matteoflora matteo flora lastknight eludere controlli
+meta: {}
 tags: 
 - censura
-- Conferenze
-- Digital Freedom
+- about-me
+- digital-freedom
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 > **Ciao, PuntoInformatico!**  
 >  Quando Lastknight.com si **"siede"** significa sicuramente che qualcuno ha **pubblicato da qualche parte** qualcosa che linka qui... Ed in effetti le statistiche mi hanno informato che il noto quotidiano mi ha addirittura dedicato (troppo buono come sempre) [un articolo](http://punto-informatico.it/p.aspx?id=1913730&r=PI)...   

@@ -1,19 +1,17 @@
 --- 
 layout: post
 title: "La Civilt\xE0 e l'Etica per la questione Tibet"
-published: true
 meta: {}
 
 tags: 
 - "civilt\xC3\xA0"
-- Digital Freedom
+- digital-freedom
 - etica
 - massacro
 - tibet
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/81742845@N00/2339485199/" title="" target="_blank"><img src="http://farm4.static.flickr.com/3231/2339485199_443153e087.jpg" alt="" border="0" /></a><br /><small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/luce_eee/" title="luce_eee" target="_blank">luce_eee</a></small>  
+<a href="http://www.flickr.com/photos/81742845@N00/2339485199/" title="" target="_blank"><img src="http://farm4.static.flickr.com/3231/2339485199_443153e087.jpg" alt="" border="0" /></a>  
+<small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/luce_eee/" title="luce_eee" target="_blank">luce_eee</a></small>  
   
 Ricevo con **preghiera di diffusione** e stavolta volentieri diffondo uno scritto a firma **Andrea Di Terlizzi** e **Walter Ferrero** che offre interessanti spunti di riflessione sulla questione Tibetana e che mi piacerebbe analizzare con voi. Eccolo:  
     

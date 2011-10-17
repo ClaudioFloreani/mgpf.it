@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Feisbuc
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 <a href="http://www.facebook.com/photo.php?pid=1697774&id=502992052" class="tt-facebook-photo tt-facebook-big"><img src="http://photos-g.ak.fbcdn.net/photos-ak-snc1/v766/119/51/502992052/n502992052_1697774_5095.jpg" alt="" border="0" width=540 /></a> 
    

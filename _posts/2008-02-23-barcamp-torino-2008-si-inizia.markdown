@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Barcamp Torino 2008: si inizia!"
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Arrivato, preparato la telecamera e tra poco si parte!  
   

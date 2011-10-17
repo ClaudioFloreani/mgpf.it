@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Domenico dipinge...
-published: true
 meta: {}
 
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 ![Domenico Dipinge...](http://www.lastknight.com/download/20060629_Domenico.thumbnail.jpg)
 

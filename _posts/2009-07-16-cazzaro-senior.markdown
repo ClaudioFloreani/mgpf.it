@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Cazzaro senior!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - The Fool
-type: post
-status: publish
 ---
 > Bla bla bla bla questo è più cazzaro di tutti!  
   

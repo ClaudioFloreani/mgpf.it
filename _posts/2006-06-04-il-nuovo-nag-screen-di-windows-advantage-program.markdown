@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Il nuovo nag-screen di Windows Advantage Program
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 Dopo **l'esclusione dal servizio di WindowsUpdate** online [di cui avevo largamente discusso in precedenza](http://www.lastknight.com/2005/07/29/microsoft-genuine-advantage-craccato-in-24-ore/), Microsoft si è mosso verso una nuova **estensione dei blocchi** verso gli utenti dotati di **copie illegali del suo software**.  
 

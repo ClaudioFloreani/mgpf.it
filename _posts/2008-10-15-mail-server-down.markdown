@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Mail server down...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 **LK:** *"Salve, vorrei cambiare pagamento da Paypal a Carta di Credito"*  
 **KW:** *"Perfetto, le spedisco i moduli al più presto!"*  

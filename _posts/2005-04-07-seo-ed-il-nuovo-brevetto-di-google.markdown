@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: SEO ed il nuovo brevetto di Google
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 C'è aria di novità per i SEO impegnati nell'adeguarsi al nuovo sistema di classificazione pagine di Google. <a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=20050071741&OS=20050071741&RS=20050071741">Information retrieval based on historical data</a> è il titolo di un nuovo <strong>brevetto </strong>depositato da Google che pare essere alla base della nuova piattaforma di classificazione del noto motore di ricerca, destinata a soppiantare il datato PageRank.
 

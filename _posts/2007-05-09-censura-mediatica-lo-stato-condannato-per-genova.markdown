@@ -1,16 +1,13 @@
 --- 
 layout: post
 title: Censura mediatica? Lo stato condannato per Genova
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: spaccini
 tags: 
 - censura
-- Digital Freedom
+- digital-freedom
 - Paranoia
-type: post
-status: publish
 ---
 ![Un ferito del G8](http://www.lastknight.com/download//20070509_g8.gif)
 

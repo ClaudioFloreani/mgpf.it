@@ -1,24 +1,22 @@
 --- 
 layout: post
 title: No, signora, non sono "i tempi che corrono"
-published: true
 meta: 
   wordbooker_options: "a:9:{s:18:\"wordbook_noncename\";s:10:\"e28b0f43a6\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"1\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:7:\"%title%\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";}"
   _edit_last: "1"
   WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
   _thumbnail_id: "2166"
 tags: 
-- Digital Freedom
+- digital-freedom
 - featured
 - Me &amp; The Web
 - Paranoia
 - paura
 - pedofilia
 - Zen &amp; Photo
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/51035611977@N01/15744452/" title="rest" target="_blank"><img src="http://farm1.static.flickr.com/11/15744452_add61b51d8.jpg" alt="rest" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/51035611977@N01/15744452/" title="fazen" target="_blank">fazen</a></small>
+<a href="http://www.flickr.com/photos/51035611977@N01/15744452/" title="rest" target="_blank"><img src="http://farm1.static.flickr.com/11/15744452_add61b51d8.jpg" alt="rest" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/51035611977@N01/15744452/" title="fazen" target="_blank">fazen</a></small>
 
 > Un parola di monito: non sono solo professatamente anti-pedofilo, ma tra le mie consulenze più impegnative vi sono proprio quelle, pro bono, rese ad Associazioni e Enti che si occupano del contrasto alla PedoPornografia. Lo stesso FoolDNS Community e FoolDNS Business offrono sofisticati strumenti integrativi per il contrasto alla diffusione di materiale pedopornografico.  
 > E' una premessa importante per leggere le righe successive con una contestualizzazione corretta e per capire che il bandolo della matassa _non è la pedofilia_ crimine esecrabile ed esecrando, ma piuttosto l'attitudine al farsi plagiare nelle proprie valutazioni da un sentimento di prono piegamento al panico generato da giornali e sentimento comune. Un invito, se volete, ad agire "cum grano salis".  

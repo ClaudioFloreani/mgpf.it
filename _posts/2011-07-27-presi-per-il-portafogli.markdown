@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Presi per il portafogli
-published: true
 meta: 
   wordbooker_options: "a:11:{s:18:\"wordbook_noncename\";s:10:\"e80c8ba291\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"2\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"200\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:8:\"BlogPost\";s:24:\"wordbooker_status_update\";s:2:\"on\";s:29:\"wordbooker_status_update_text\";s:26:\": Post :  %title% - %link%\";s:20:\"wordbook_comment_get\";s:2:\"on\";}"
   wordbooker_thumb: ""
@@ -19,8 +18,6 @@ meta:
   _wp_jd_url: ""
 tags: 
 - Business
-type: post
-status: publish
 ---
 Nemmeno a farlo apposta ne parlavamo ieri sera con il buon [Quintarelli][1]: sembra che l'unico modo possibile per contrastare le attività illecite online di lesione della Proprietà Intellettuale sia proprio andare a congelare il portafogli dei siti canaglia e bloccare in questo modo il flusso monetario. Un po' come [è stato fatto con WikiLeaks](http://www.wired.com/threatlevel/2010/12/paypal-wikileaks/).  
   

@@ -28,7 +28,7 @@
         Sono <a href="/about.html" title="About">Matteo Flora</a> e qui <a href="/" title="Home">scrivo</a>.
       </h1>
       <h2 id="subtitle">
-        Da <a href="/archive.html" title="Imprenditore">innovatore</a>, <a href="/video.html" title="Video">imprenditore</a> e
+        Come <a href="/archive.html" title="Imprenditore">innovatore</a>, <a href="/video.html" title="Video">imprenditore</a> e
         <a href="/lifehacking/">lifehacker</a>.
       </h2>
     </header>
@@ -115,10 +115,12 @@ end function</p>
 	&lsquo; It isn&rsquo;t useful to waste machine time playing with keywords
 	&lsquo; if it isn&rsquo;t&hellip;
   	if isSpider() then
-		spiderContent = ucase(spiderWelcomeText) &amp; &ldquo;<br />&rdquo; &amp;_
+		spiderContent = ucase(spiderWelcomeText) &amp; &ldquo;<br />
+&ldquo; &amp;_
 		lcase(spiderMetaKeys) &amp;_
 		&ldquo;, &ldquo; &amp; ucase(spiderMetaKeys) &amp; &ldquo;&lt;br <br />&rdquo; &amp;_ 
-		ucase(spiderLinksText) &amp; &ldquo;<br />&rdquo; &amp;_
+		ucase(spiderLinksText) &amp; &ldquo;<br />
+&ldquo; &amp;_
 		spiderLinksHtml
 	end if
 end function
@@ -138,8 +140,10 @@ Ok, a little of hands-on code. Let&rsquo;s suppose this is your page:</p>
 		<title>My Little Page</title>
 	</head>
 	<body>
-		Welcome to my page. This is my little page.<br />
-		A lot of stuff<br />
+		Welcome to my page. This is my little page.  
+
+		A lot of stuff  
+
 		<img src="abeautifulimage.gif" />
 	</body>
 </html>
@@ -173,8 +177,10 @@ After the simple &ldquo;restyle&rdquo; it will be something like:
 	</head>
 	<body>
   	&lt; %=spiderContent()%&gt;  
-		Welcome to my page. This is my little page.<br />
-		A lot of stuff<br />
+		Welcome to my page. This is my little page.  
+
+		A lot of stuff  
+
 		<img src="abeautifulimage.gif" />
   	&lt; %=spiderContent()%&gt;  
 	</body>
@@ -215,10 +221,53 @@ What have I done? Well, besically only adding a TABLE for better formatting the 
 <p>Well, now you&rsquo;ve got a powerful way to improve your website. Take it and let me know of improvements and/or good implementation.
 Ah, I almost forgot: all the souce code and the tutorial comes to you subject to GNU Free Documentation License . Tale a look at it befor using the code. Thanx. </p>
 
+
+<h2>Articoli (forse) correlati</h2>
+<ul>
+  
+    <li><a href="/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html">Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?</a></li>
+  
+    <li><a href="/2011/10/06/stay-hungry.html">Stay hungry, stay foolish</a></li>
+  
+    <li><a href="/2011/09/29/zenlife-lifehacking-for-hackers.html">ZenLife: LifeHacking for Hackers</a></li>
+  
+    <li><a href="/2011/08/24/non-e-complotto-e-semplice-stupidita.html">Non è Complotto, è semplice Stupidità</a></li>
+  
+    <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
+  
+</ul>
+
+<h2>Articoli recenti</h2>
+<ul class="posts small">
+	
+    <li><a href="/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html">Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?</a> <i>07/10/2011</i></li>
+	
+    <li><a href="/2011/10/06/stay-hungry.html">Stay hungry, stay foolish</a> <i>06/10/2011</i></li>
+	
+    <li><a href="/2011/09/29/zenlife-lifehacking-for-hackers.html">ZenLife: LifeHacking for Hackers</a> <i>29/09/2011</i></li>
+	
+    <li><a href="/2011/08/24/non-e-complotto-e-semplice-stupidita.html">Non è Complotto, è semplice Stupidità</a> <i>24/08/2011</i></li>
+	
+    <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
+	
+</ul>
+
 <time class="signoff" datetime="2005-06-25">
   25/06/2005 com i tag:  
 </time>
 </article>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'mgpf';
+	var disqus_developer = 1; // developer mode is on
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+
 
       <footer id="footer">
         

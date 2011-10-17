@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Architettura di Lastknight.com
-published: true
 meta: {}
 
 tags: 
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Mi è stato chiesto in un paio di mail di parlare dei **provider** e dei sistemi CMS che utilizzo per amministrare i vari progetti, primo tra tutto lastknight Dot Com.  
 Per quanto riguarda questo sito il sistema di publishing che utilizzo è Wordpress, il database

@@ -1,19 +1,16 @@
 --- 
 layout: post
 title: Il grilletto della Napoletani
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - beppegrillo
 - cocaina
-- Digital Freedom
+- digital-freedom
 - interdipendenze
 - napoleoni
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/79286287@N00/380955535/" title="Technology addicted" target="_blank"><img src="http://farm1.static.flickr.com/184/380955535_706ffa65c4.jpg" alt="Technology addicted" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/79286287@N00/380955535/" title="Giuseppe Bognanni" target="_blank">Giuseppe Bognanni</a></small>  
+<a href="http://www.flickr.com/photos/79286287@N00/380955535/" title="Technology addicted" target="_blank"><img src="http://farm1.static.flickr.com/184/380955535_706ffa65c4.jpg" alt="Technology addicted" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/79286287@N00/380955535/" title="Giuseppe Bognanni" target="_blank">Giuseppe Bognanni</a></small>  
   
 A me Beppe Grillo sta sulle palle. Lo sapete sin dai tempi della mia perizia per Mediaset.  Trovo sia un affabulatore sempre alla ricerca di qualcosa che mastica minimamente per il battage pubblicitario che potrebbe suscitare e creare.  
   

@@ -8,8 +8,7 @@ meta:
   autometa: ratzinger inquisizione pedofilia pedofilo favoreggiamento preti stati uniti violenze bambini
 tags: 
 - censura
-- Digital Freedom
-type: post
+- digital-freedom
 status: private
 ---
 ![Ratzinger e Pedofilia](http://www.lastknight.com/download//20070516_ratzinger.jpg)

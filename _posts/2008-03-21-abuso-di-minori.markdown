@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Abuso di minori
-published: true
-meta: 
-  _wp_old_slug: aboso-di-minori
+meta: {}
 tags: 
 - abusi di minori
 - bambini
 - Me &amp; The Web
 - trauma
 - violenza
-type: post
-status: publish
 ---
 Spesso mi trovo a confrontarmi con persone che sostengono che la mia informazione **anti-censura** (vedi "Eludere i controlli di polizia") sia finalizzata al **simpatizzare con produttori e diffusori** di materiale pedopornografico.  
   

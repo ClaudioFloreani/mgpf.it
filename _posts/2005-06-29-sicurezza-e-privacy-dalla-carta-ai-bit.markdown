@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Sicurezza e Privacy: dalla carta ai bit"
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 ![Sicurezza e Privacy: dalla carta si bit - Matteo Flora](/download/thumb-SICUPRIVA200.gif) La <strong>security aziendale</strong> è una questione di equilibrio, oltre che essere una vera <strong>risorsa da spendere nel mercato</strong>. Una scarsa sicurezza potrà rendere <strong>vulnerabile </strong>l'impresa, mentre al contrario un eccesso di zelo potrebbe<strong> intralciare le opportunità commerciali</strong>, bloccando le nuove opportunità di business nella sempre più serrata corsa lungo quell'autostrada che è la telematica. Il vero problema sarà tendere ad un "giusto" <strong>bilanciamento </strong>tra sicurezza e produttività.  
 

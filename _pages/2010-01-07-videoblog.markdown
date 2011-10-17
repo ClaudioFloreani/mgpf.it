@@ -1,7 +1,6 @@
 --- 
 layout: page
 title: Video
-published: true
 meta: 
   _edit_last: "1"
   _wp_page_template: default
@@ -9,7 +8,6 @@ meta:
 tags: []
 
 type: page
-status: publish
 ---
 # Ecco il Grande fratello Google: ci scheda per la pubblicità
 

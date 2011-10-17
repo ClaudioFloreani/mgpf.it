@@ -1,11 +1,10 @@
 --- 
 layout: post
 title: "Hackers: Santi Criminali"
-published: true
 meta: {}
 
 tags: 
-- Conferenze
+- about-me
 - cracking
 - disclosure
 - full-discloure
@@ -15,9 +14,7 @@ tags:
 - half-disclosure
 - lastknight
 - matteo flora
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 <object type="application/x-shockwave-flash" width="535" height="438" data="http://www.vimeo.com/moogaloop.swf?clip_id=752259&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=752259&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef" /></object>  
   

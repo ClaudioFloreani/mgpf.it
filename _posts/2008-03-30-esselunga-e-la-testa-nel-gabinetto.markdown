@@ -1,20 +1,17 @@
 --- 
 layout: post
 title: Esselunga e la testa nel gabinetto...
-published: true
 meta: {}
 
 tags: 
 - boicottaggio
 - censura
-- Digital Freedom
+- digital-freedom
 - esselunga
 - gabinetto
 - milano
 - mobbing
 - Paranoia
-type: post
-status: publish
 ---
 Io vivo **a fianco** di quel Punto Vendita e nemmeno l'avrei scoperto, non fosse stato per il **volantinaggio** di stamattina.  
   

@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: ASW...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - a small world
 - asmallworld
 - asw
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Finalmente... :)  
   

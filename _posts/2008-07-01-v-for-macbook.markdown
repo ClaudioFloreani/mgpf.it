@@ -1,20 +1,16 @@
 --- 
 layout: post
 title: V for MacBook
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - anonymous
-- Digital Freedom
+- digital-freedom
 - guy fawkes
 - mac
 - macbook
 - Me &amp; The Web
 - v
 - vendetta
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/lastknight/2627998764/" class="tt-flickr tt-flickr-Medium"><img src="http://farm4.static.flickr.com/3027/2627998764_d67d9b1236.jpg" alt="Guy Fawkes MacBook" width="500" height="354" border="0" /></a>  
    

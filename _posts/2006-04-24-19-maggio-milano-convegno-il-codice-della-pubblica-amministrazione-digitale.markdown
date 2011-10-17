@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "19  Maggio, Milano: Convegno \"Il Codice della Pubblica Amministrazione Digitale\""
-published: true
-meta: 
-  _aioseop_keywords: pubblica amministrazione, sicurezza pubblica amministrazione, la sicurezza della pubblica amministrazione, legge 196 e pubblica amministrazione, codice amministrazione digitale, pubblica amministrazione digitale, codice della pubblica amministrazione digitale
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 [![Locandina](/download/20060424_lra.jpg)](/download/LRACodicePAdigitale.pdf)
 

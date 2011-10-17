@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Vulnerabilit\xE0 XSS dei siti facenti capo a TIM"
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 Vulnerabilità XSS dei siti facenti capo a TIM
 

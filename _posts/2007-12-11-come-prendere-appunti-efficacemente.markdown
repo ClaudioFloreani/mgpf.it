@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: Come prendere appunti efficacemente
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: appunti, gtd, prendere appunti, come prendere appunti, come fare a prendere appunti, i miei appunti, fare appunti meglio, gtd, getting things done, moleskine
 tags: 
 - LifeHacking
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 Certo che alle volte siete curiosi come pochi... Domande di qualunque risma e foggia, nemmeno fossi una delle Blog Superstar che costellano Twitter in questo periodo... Io che aggiorno questo blog una volta ogni tanto e voi che leggete e commentate... Ha un che di commovente ;)  
 

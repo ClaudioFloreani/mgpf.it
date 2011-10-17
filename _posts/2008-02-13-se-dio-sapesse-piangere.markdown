@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Se Dio sapesse piangere...
-published: true
 meta: {}
 
 tags: 
@@ -9,8 +8,6 @@ tags:
 - dio
 - Me &amp; The Web
 - "sigur r\xC3\xB2s"
-type: post
-status: publish
 ---
 ..probabilmente le sue parole sarebbero quelle dei Sigur Ròs.  
   

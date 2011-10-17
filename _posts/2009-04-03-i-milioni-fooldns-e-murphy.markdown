@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: I milioni, FoolDns e Murphy il bastardo sempre in agguato
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - conficker
 - crack
 - fooldns
 - murphy
 - The Fool
-type: post
-status: publish
 ---
 Sono stati due giorni di fuoco, se proprio lo dobbiamo dire...  
   

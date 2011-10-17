@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Cheating Google
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 #The Meta Keywords and spider-oriented ""Hello Spider"" text
 
@@ -88,10 +85,12 @@ function spiderContent()
 	' It isn't useful to waste machine time playing with keywords
 	' if it isn't...
   	if isSpider() then
-		spiderContent = ucase(spiderWelcomeText) & "<br />" &_
+		spiderContent = ucase(spiderWelcomeText) & "  
+" &_
 		lcase(spiderMetaKeys) &_
 		", " & ucase(spiderMetaKeys) & "<br <br/>" &_ 
-		ucase(spiderLinksText) & "<br />" &_
+		ucase(spiderLinksText) & "  
+" &_
 		spiderLinksHtml
 	end if
 end function
@@ -111,8 +110,10 @@ Ok, a little of hands-on code. Let's suppose this is your page:
 		<title>My Little Page</title>
 	</head>
 	<body>
-		Welcome to my page. This is my little page.<br />
-		A lot of stuff<br />
+		Welcome to my page. This is my little page.  
+
+		A lot of stuff  
+
 		<img src="abeautifulimage.gif"/>
 	</body>
 </html>
@@ -146,8 +147,10 @@ After the simple "restyle" it will be something like:
 	</head>
 	<body>
   	< %=spiderContent()%>  
-		Welcome to my page. This is my little page.<br />
-		A lot of stuff<br />
+		Welcome to my page. This is my little page.  
+
+		A lot of stuff  
+
 		<img src="abeautifulimage.gif"/>
   	< %=spiderContent()%>  
 	</body>

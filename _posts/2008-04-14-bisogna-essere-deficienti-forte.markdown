@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Bisogna essere deficienti forte...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - darwin awards
 - fotocamere
@@ -11,8 +9,6 @@ tags:
 - repubblica.it
 - seggi elettorali
 - web2.0
-type: post
-status: publish
 ---
 ...per andarsene al seggio e FOTOGRAFARE...  
   

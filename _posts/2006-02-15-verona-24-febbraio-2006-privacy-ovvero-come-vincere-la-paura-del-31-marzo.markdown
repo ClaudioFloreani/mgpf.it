@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Verona 24 Febbraio 2006:  Privacy,  ovvero  come  vincere la  paura  del  31 marzo"
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 [![Locandina](http://www.lastknight.com/download/thumb-20060215_privacy.jpg)](http://www.lastknight.com/download/20060215_privacy.jpg)
 

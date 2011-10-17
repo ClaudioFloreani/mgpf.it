@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Consigli per la lettura della scorsa settimana
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - aggiornamenti
 - andrewhowe
@@ -12,8 +10,6 @@ tags:
 - link
 - Me &amp; The Web
 - rss
-type: post
-status: publish
 ---
 Se siete a corto di cose da leggere vi segnalo un po' di link che potreste gradire molto o poco, a seconda dei punti di vista :)  
 Sono gli articoli della scorsa settimana della redazione di DaringToDo che cura il blog omonimo, con l'aggiunta di un po' di link dei blog che stiamo seguendo con TheFool e dei link presi dal mio Feed Reader :D  

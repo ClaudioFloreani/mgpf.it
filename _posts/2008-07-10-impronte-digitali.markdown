@@ -1,12 +1,10 @@
 --- 
 layout: post
 title: Impronte digitali
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - censura
-- Digital Freedom
+- digital-freedom
 - fuori dai maroni
 - impronte
 - impronte digitali
@@ -15,8 +13,6 @@ tags:
 - rom
 - romania
 - sputi
-type: post
-status: publish
 ---
 <a href='http://www.lastknight.com/download//maggior-sicurezza.jpg'><img src="http://www.lastknight.com/download//maggior-sicurezza.jpg" alt="" title="maggior-sicurezza" width="400" height="571" class="aligncenter size-full wp-image-753" /></a>  
   

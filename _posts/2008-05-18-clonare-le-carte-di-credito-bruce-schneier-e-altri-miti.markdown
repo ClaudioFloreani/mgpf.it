@@ -1,19 +1,15 @@
 --- 
 layout: post
 title: Clonare le carte di credito, Bruce Schneier e altri miti
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - carte di credito
 - furto di dati
 - phishing
-- Security and Intelligence
-- truffe online
-type: post
-status: publish
+- security- truffe online
 ---
-<a href="http://www.flickr.com/photos/37996585435@N01/48062948/" title="The back of the Tesco card skimmer." target="_blank"><img src="http://farm1.static.flickr.com/31/48062948_1e39b1068e.jpg" alt="The back of the Tesco card skimmer." border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/37996585435@N01/48062948/" title="bowbrick" target="_blank">bowbrick</a></small>  
+<a href="http://www.flickr.com/photos/37996585435@N01/48062948/" title="The back of the Tesco card skimmer." target="_blank"><img src="http://farm1.static.flickr.com/31/48062948_1e39b1068e.jpg" alt="The back of the Tesco card skimmer." border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/37996585435@N01/48062948/" title="bowbrick" target="_blank">bowbrick</a></small>  
   
 Ogni due per tre, di solito quando mi chiamano i vari giornalisti per un commento su un furto di identità o l'ultimo hack qui o là, appare la fatidica domanda: "Ma allora è sicuro o no usare la carta di credito su Internet?".  
   
@@ -27,6 +23,4 @@ E quindi, in genere, cito Bruce Schneier che sintetizza [qui egregiamente][1] il
   
 E quindi? E quindi credo proprio che finchè non si configurerà l'ipotesi penale per chi si lascerà scappare  dati dei propri clienti sarà estremamente complesso pensare alla risoluzione delle problematiche... 
   
-[tags] truffe online, phishing, furto di dati, carte di credito [/tags]
-
 [1]:http://freakonomics.blogs.nytimes.com/2007/12/04/bruce-schneier-blazes-through-your-questions/ 

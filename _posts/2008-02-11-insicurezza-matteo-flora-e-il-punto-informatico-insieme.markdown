@@ -1,18 +1,15 @@
 --- 
 layout: post
 title: "(in)sicurezza: Matteo Flora e il Punto-Informatico insieme"
-published: true
 meta: {}
 
 tags: 
 - (in)sicuezza
-- Conferenze
+- about-me
 - exploit
 - fud
 - matteo flora
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![](http://www.lastknight.com/download//20080111.jpg)
 

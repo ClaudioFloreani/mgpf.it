@@ -1,17 +1,14 @@
 --- 
 layout: post
 title: Crittografia e Censura il 27 e 28 Ottobre a Milano al LinuxDay
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: linuxday linux permetterci fratelli chiediamo brenna openlabs registratevi
 tags: 
 - censura
-- Conferenze
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- digital-freedom
+- security
 ---
 ![LinuxDay 2007 Matteo Flora](http://www.lastknight.com/download/20071026_linuxday.png)
 Anche quest'anno l'Associazione Culturale OpenLabs organizza il [Linux Day](http://linuxday.openlabs.it) con diverse novita'.  

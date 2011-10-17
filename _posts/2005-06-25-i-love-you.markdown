@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: I Love You - Serata con Virus
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 L'11 marzo 2004 il **Mensa Lombardia** organizzava una serata a tema "**Sicurezza, Privacy e Virus**" al quale ho partecipato come relazore analizzando in dettaglio il virus **I Love You**. In questa pagina è possibile recuperare il materiale della serata.
 

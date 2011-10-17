@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Lastknight Dot Course...
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 ![Registratore Digitale](/download/20060222_rec.jpg)
 Silenzio stampa dovuto alla mia presenza come **chairman**, oltre che relatore sulle tecnologie RFID in ambito sanitario, al **Congresso di EPR** (Electronic Patient Record) a Milano, di cui seguiranno sicuramente news più estensive e la preparazione per il [convegno](http://www.lastknight.com/2006/02/15/verona-24-febbraio-2006-privacy-ovvero-come-vincere-la-paura-del-31-marzo/) di Venerdì su Privacy e Sicurezza...  

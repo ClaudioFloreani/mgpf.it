@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Autoritratto con terzo occhio...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - d40
 - flickr
@@ -11,8 +9,6 @@ tags:
 - nikon
 - notturna
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 <a href="http://www.flickr.com/photos/lastknight/2527638586/" class="tt-flickr tt-flickr-Medium"><img src="http://farm4.static.flickr.com/3068/2527638586_b621be42e1.jpg" alt="Lust finally satisfied..." width="500" height="333" border="0" /></a>  
   

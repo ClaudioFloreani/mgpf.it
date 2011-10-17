@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: 30 Settembre - Matteo Flora all'OpenExp di Verona
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: intercettazioni tecnologia conferenza matteo flora verona openexp crittografia terrorismo underground tor provacy anonimato
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 ![OpenExp Verona](http://www.lastknight.com//download/20060923_openexp.png)Come da titolo vi informo che nella giornata del **30 Settembre** sarò a Verona su invito del comitato organizzatore dell'OpenExp, la kermesse di Open Source che vedrà affiancarsi alle **maggiore realtà italiane** oltre **100 speech** di argomenti legati alla **sicurezza** informatica, alle tematiche dello **sviluppo** in ambito open source ed a quelle della penetrazione dei software OSS all'interno della **Publica Amministrazione**.  
 

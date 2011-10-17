@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Rilevare e rubare un Notebook in macchina
-published: true
-meta: 
-  autometa: lockpicking picklocking furto furti notebook theft NLJD
+meta: {}
 tags: 
-- Forensics
+- forensic
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Foto Notebook](/download/20070316_furto_notebook.gif)
 Continuo per ricerche collegate al lavoro lavoro ad addentrarmi nei reami del **furto organizzato** e delle tecniche "*underground*". E dopo gli articoli [sul lockpicking](http://www.lastknight.com/2006/11/09/lockpicking-una-guida-completa-ed-esauriente/) pubblicati qualche [settimana fa](http://www.lastknight.com/2006/11/09/lockpicking-una-guida-completa-ed-esauriente/) ecco l'ennesima notizia destinata a [fare rabbrividire](http://www.lastknight.com/2006/12/29/perche-non-si-possono-pertare-liquidi-in-volo-gli-esplosivi-binari/) chi lascia **computer portatili**, telefonini e **navigatori satellitari** in auto, magari anche ben celati in posti non visibili.  

@@ -1,20 +1,17 @@
 --- 
 layout: post
 title: Beppe, la Dieta e lo schifo italiano
-published: true
 meta: {}
 
 tags: 
 - astensione
 - destra
-- Digital Freedom
+- digital-freedom
 - orgoglio italiano
 - Politica
 - rifiuto
 - sinistra
 - vergogna di essere italiano
-type: post
-status: publish
 ---
 [Beppe][1] è un **amico di vecchia data** e una persona che **stimo tantissimo**, da sempre.  
 L'ho incontrato in tempi non sospetti mentre lavoravo ad <s>Al Village</s> era ancora Tisifone e mi ha insegnato in un periodo in cui ero fatto solamente di tracotanza ed entusiasmi giovanili **come si fa a gestire i progetti con un sorriso**, come gestire tutto con **pacatezza, riflessione** e sempre in modo **cordiale e tranquillo**. In tutto.  

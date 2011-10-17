@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Cagliari: uno speech da non perdere..."
-published: true
-meta: 
-  autometa: kikko trusted computing kikko obblighi cagliari talk filtraggio
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 Gli amici Giovanni Battista *"GiBi"* Gallus, e Francesco Paolo *"Kikko"* Micozzi (non fidatevi, sono **avvocati**....=]) mi segnalano che terranno un Talk dal titolo **"Trusted computing e Censura online"** al [Linux Day di Cagliari](http://linuxday.gulch.crs4.it/2006/traccia-base.xml).  
 Il talk riguarderà:

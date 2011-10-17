@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: "LastKnight \xE8 tornato"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - io
 - lastknight
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Avrete notato un cambio direzionale, ancora una volta, nell'impostazione del Blog dalla giornata di oggi.  
 Ancora un volta si cambia direzione, ancora una volta si cambia, forse, impostazione.  

@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Nuovo sito online...
-published: true
 meta: {}
 
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 ...tra magagne e problemi di configurazione ecco online il nuovo Lastknight Dot Com completamente gestito utilizzando Wordpress.  
 La più grande diffivoltà? Utilizzare con coscienza Apache [Mod-Rewrite](http://httpd.apache.org/docs-2.0/misc/rewriteguide.html) per consentire ai vecchi indirizzi del sito web ASP.NET di funcionare correttamente anche sulla nuova piattaforma.  

@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Le linee guida del CNIPA sulla Dematerializzazione Digitale
-published: true
-meta: 
-  _aioseop_keywords: archiviazione sostitutiva, dematerializzazione, archiviazione ottica, archiviazione documentale, legge archiviazione
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 Il CNIPA ha finalmente pubblicato negli scorsi giorni il **[Libro Bianco](http://www.cnipa.gov.it/site/_files/Libro%20BiancoDEM.pdf)** che segnala le corrette **linee guida** in merito alla **dematerializzazione del cartaceo** nell'ottica della Archivizione Ottica Sostitutiva.  
 

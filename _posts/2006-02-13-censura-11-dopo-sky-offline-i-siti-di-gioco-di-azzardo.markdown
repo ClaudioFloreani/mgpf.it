@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "Censura 1.1: Dopo Sky offline i siti di gioco di azzardo..."
-published: true
 meta: {}
 
 tags: 
 - censura
-- Digital Freedom
+- digital-freedom
 - Paranoia
-type: post
-status: publish
 ---
 [![Censura in Italia](http://www.lastknight.com/download/banner_censura.png)](http://www.lastknight.com/category/liberta-digitale/)
 

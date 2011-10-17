@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Forza, Microsoft! Avanti!
-published: true
-meta: 
-  autometa: innovation yahoo microsoft microsoft underlying financial monopolies vomitevole
+meta: {}
 tags: 
 - google
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Non avrei mai pensato di dire una frase come questa, ma "**Avanti, Microsoft! Forza!**" mi sembra l'unica cosa da dire contro l'**arrogante, supponente** e francamente **vomitevole** [statement di Google](http://googleblog.blogspot.com/2008/02/yahoo-and-future-of-internet.html) in merito al possibile Takeover di Yahoo da parte di Microsoft:
 

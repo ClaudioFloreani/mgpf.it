@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Microsoft compera Yahoo!?
-published: true
-meta: 
-  autometa: starei farebbero attento vostre fossi flickr fotografie molto
+meta: {}
 tags: 
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Beh, fossi in voi starei molto, ma molto attento alla fine che farebbero le vostre fotografie su Flickr...   

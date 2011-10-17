@@ -1,20 +1,16 @@
 --- 
 layout: post
 title: Web2Web, il filmato non andato in onda
-published: true
 meta: {}
 
 tags: 
-- Conferenze
+- about-me
 - diretta
 - manfrys
 - matteo flora
-- Security and Intelligence
-- vespa
+- security- vespa
 - web to web
 - web2web
-type: post
-status: publish
 ---
 La diretta di ieri sera su Web2Web **avrebbe dovuto contenere** un mio intervento di approfondimento, ma sembra che **manfrys** abbia avuto qualche difficoltà tecnica assolutamente insormontabile nell'**importare il filmato** da YouTube.  
   

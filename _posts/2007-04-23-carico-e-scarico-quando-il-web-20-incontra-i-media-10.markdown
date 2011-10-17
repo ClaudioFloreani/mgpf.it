@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Carico e Scarico: quando il web 2.0 incontra i media 1.0"
-published: true
-meta: 
-  autometa: allmusic caricoescarico carico e scarico allmusic alessiabellan alessia bellan matteo flora all music televisione web 20 web2 web2.0
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Carico e Scarico](/download/20070423_caricoscarico1.thumbnail.jpg)
 Come sapete Lastknight.com ha anche la funziona di **incubatore** di nuove idee e progetti, soprattutto quando qualcuno mi chiede cosa ne penso di talune iniziative.  

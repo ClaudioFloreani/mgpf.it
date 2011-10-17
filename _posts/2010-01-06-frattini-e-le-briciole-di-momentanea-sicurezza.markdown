@@ -1,20 +1,16 @@
 --- 
 layout: post
 title: Frattini e le briciole di momentanea sicurezza
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - benjamin
 - bodyscanner
-- Digital Freedom
+- digital-freedom
 - dna
 - franklin
 - frattini
 - privacy
 - terahertz
-type: post
-status: publish
 ---
 <a href="http://www.lastknight.com/download//2010/01/445px-Franklin-Benjamin-LOC.jpg"><img src="http://www.lastknight.com/download//2010/01/445px-Franklin-Benjamin-LOC.jpg" alt="" title="445px-Franklin-Benjamin-LOC" width="445" height="599" class="aligncenter size-full wp-image-1761" /></a>  
   

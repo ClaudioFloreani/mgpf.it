@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: L'anonimato e l'autorevolezza di Vecna
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Di Vecna avevo già detto [precedentemente qualcosina][1]. E quando si mette a scrivere, signori, è meglio prepararsi una mezz'oretta, una tazza di the e leggere attentamente quello che ha da dire:  
 

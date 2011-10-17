@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Sicurezza e privacy, P2P e formazione
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Hanno pubblicato il mio primo articolo sul **[Punto Informatico](http://punto-informatico.it/p.asp?i=50226)**!
 Oltretutto in forma integrale in quattro pagine fitte fitte di riflessioni, esempi e farneticazioni ;)

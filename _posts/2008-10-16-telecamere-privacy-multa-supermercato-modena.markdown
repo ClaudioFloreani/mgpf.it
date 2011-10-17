@@ -1,19 +1,16 @@
 --- 
 layout: post
 title: "Telecamere: un supermercato multato a Modena"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
+- digital-freedom
 - Garante
 - Paranoia
 - privacy
 - telecamere
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/97438202@N00/231693522/" title="Paranoia 2006" target="_blank"><img src="http://farm1.static.flickr.com/93/231693522_bcf8f3c18a.jpg" alt="Paranoia 2006" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/97438202@N00/231693522/" title="barto" target="_blank">barto</a></small>  
+<a href="http://www.flickr.com/photos/97438202@N00/231693522/" title="Paranoia 2006" target="_blank"><img src="http://farm1.static.flickr.com/93/231693522_bcf8f3c18a.jpg" alt="Paranoia 2006" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/97438202@N00/231693522/" title="barto" target="_blank">barto</a></small>  
   
 Ogni tanto anche qualche **bella notizia** per le persone che, come me, soffrono di pesante orticaria ogni volta che intravedono una telecamera puntata...  
   

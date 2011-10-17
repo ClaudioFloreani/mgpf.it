@@ -1,7 +1,6 @@
 --- 
 layout: page
 title: Contatti
-published: true
 meta: 
   _edit_last: "1"
   _wp_page_template: default
@@ -10,7 +9,6 @@ meta:
 tags: []
 
 type: page
-status: publish
 ---
 **E-Mail**: mf (at) matteoflora (dot) com  
 **Skype**: [matteo.flora](callto://matteo.flora)  

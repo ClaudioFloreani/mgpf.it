@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "Wireless Gratis in Parco Sempione a Milano: tanto fumo e nulla contenuto"
-published: true
 meta: 
   article: "1"
   autometa: milano wireless moratti parco sempione guglielmo wifi wifi-milano castlewireless castle wireless castello
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 Che la **Moratti** avesse velleità di intascare i 15 e passa milioni di Euro per l'Expo 2015 non è certo una novità.  
   

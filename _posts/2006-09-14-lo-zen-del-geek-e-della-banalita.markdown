@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Lo Zen del Geek e della banalit\xE0..."
-published: true
-meta: 
-  autometa: "sull\xC2\x92elastico attraente colto donna daniele uomo colta bella"
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Leggo con estremo piacere l'articolo del sempre pungente ma perfettamente a tema amico Zen che in un suo [post di qualche giorno fa](http://www.kill-9.it/blog/index.php/2006/09/09/la-bella-il-geek-e-la-banalita/) di commento alla [recente trasmissione](http://www.mediaset.it/brand/italia1/la_pupa_e_il_secchione/schedaprogramma_1818.shtml) e ad un post di [Daniele Medri](http://daniele.wordpress.com/2006/08/27/la-bella-pupa-e-il-secchione/) recita:
 

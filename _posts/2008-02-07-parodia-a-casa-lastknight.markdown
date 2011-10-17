@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Parodia a Casa LastKnight
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 <img src='http://www.lastknight.com/download//20080107_parodia.jpg' alt='20080107_parodia.jpg' />
   

@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: "Typhoid Adware: anche i pc prenderanno il tifo."
-published: true
 meta: 
   wordbooker_options: "a:9:{s:18:\"wordbook_noncename\";s:10:\"cda5a46d23\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"1\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:7:\"%title%\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";}"
   _edit_last: "1"
@@ -10,17 +9,15 @@ tags:
 - adware
 - featured
 - malware
-- Security and Intelligence
-- troyan
+- security- troyan
 - typhoid
 - typhoid adware
 - virus
-type: post
-status: publish
 ---
 Lo scorso maggio il team di ricercatori guidato dal professor [John Aycock][paper-aycock] ha presentato all'EICAR (conferenza annuale sull' IT-Security) un interessante sistema per diffondere adware e malware all'interno di reti poco protette.  
   
-<a href="http://www.flickr.com/photos/99527366@N00/4092671973/" title="Yahoo! & Times Square Alliance Free WiFi" target="_blank"><img src="http://farm3.static.flickr.com/2766/4092671973_1c788caa39.jpg" alt="Yahoo! & Times Square Alliance Free WiFi" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/99527366@N00/4092671973/" title="Yodel Anecdotal" target="_blank">Yodel Anecdotal</a></small>
+<a href="http://www.flickr.com/photos/99527366@N00/4092671973/" title="Yahoo! & Times Square Alliance Free WiFi" target="_blank"><img src="http://farm3.static.flickr.com/2766/4092671973_1c788caa39.jpg" alt="Yahoo! & Times Square Alliance Free WiFi" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/99527366@N00/4092671973/" title="Yodel Anecdotal" target="_blank">Yodel Anecdotal</a></small>
   
 Come tutti ben sappiamo, gli adware sono quei programmi che spesso arrivano sul nostro computer sotto le mentite spoglie di giochini o screen saver e ci infastidiscono durante la navigazione pubblicizzando prodotti di varia natura (e che possiamo eliminare con FoolDNS Community).  
   

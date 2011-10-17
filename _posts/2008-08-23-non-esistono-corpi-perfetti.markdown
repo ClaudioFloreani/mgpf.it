@@ -1,18 +1,14 @@
 --- 
 layout: post
 title: Non esistono corpi perfetti...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bellezza
 - corpi
 - manichini
 - Me &amp; The Web
 - perfezione
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Impressionante documentario  
   

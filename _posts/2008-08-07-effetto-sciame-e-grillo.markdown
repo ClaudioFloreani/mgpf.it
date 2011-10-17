@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Effetto sciame...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 ![Anonymous](http://www.lastknight.com/download/2008/08/anonymousbecause-240x300.jpg)
   

@@ -1,21 +1,11 @@
 --- 
 layout: post
-title: "ThePirateBay: quello non \xE8 un sequestro"
-published: true
-meta: 
-  _edit_last: "1"
+title: "ThePirateBay: quello non è un sequestro"
+meta: {}
 tags: 
-- bergamo
 - censura
-- Digital Freedom
-- fimi
-- Forensics
-- pirate bay
-- riesame
-- Security and Intelligence
-- thepiratebay
-type: post
-status: publish
+- digital-freedom
+- forensic
 ---
   <img src="http://www.lastknight.com/download//2008/10/magritte_pipe-429x300.jpg" alt="" title="magritte_pipe" width="429" height="300" class="aligncenter size-medium wp-image-1082" />
   
@@ -57,7 +47,5 @@ Ora passo la palla al buon Minotti che, sicuramente, <s>spiegherà meglio</s> [s
   
 
  
-[tags] censura, thepiratebay, pirate bay, fimi, bergamo, riesame [/tags]
-
 [1]: http://www.giuristitelematici.it/modules/bdnews/article.php?storyid=1520
 [2]: http://www.minotti.net/2008/10/06/sequestro-the-pirate-bay-le-motivazioni-dellordinanza-di-annullamento/ 

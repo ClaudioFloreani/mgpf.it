@@ -1,18 +1,14 @@
 --- 
 layout: post
 title: "Massacro di Genova: sedetevi e leggete"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bolzaneto
 - censura
-- Digital Freedom
+- digital-freedom
 - g8
 - genova
 - guardian
-type: post
-status: publish
 ---
 <img alt="" src="http://farm4.static.flickr.com/3074/2668708101_a03a482ae4_o.gif" class="aligncenter" width="550" height="534" />
 

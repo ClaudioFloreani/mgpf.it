@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Uno dei massimi esperti...
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 [![L'Articolo del Giorno](/download/20050128_biometria.jpg)  ](http://www.lastknight.com/download/20050128_biometria.png) 
 <br>

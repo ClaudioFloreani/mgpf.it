@@ -1,17 +1,14 @@
 --- 
 layout: post
 title: Denunciare chi non prescrive la pillola del giorno dopo
-published: true
 meta: {}
 
 tags: 
 - aborto
-- Digital Freedom
+- digital-freedom
 - legge
 - obiezione
 - pillola del giorno dopo
-type: post
-status: publish
 ---
 ![Pillola del gorno dopo](http://www.repubblica.it/online/politica/giornodopo2/tar/storico00281dbfcxw200h132c00.jpg)
 Premesso che secondo me, salvo rarissime eccezioni, chi utilizza la **pillola del giorno dopo** è un cretino cerebroleso che nel 2008 non ha ancora capito nulla di **contraccezione** *(e ribadisco vi sono comunque scusanti ed eccezioni, quindi piano con i commenti)*, premesso questo ricordo che siamo in uno **stato di diritto** ed il **diritto del cittadino** non può essere leso in nome di nessuna fantomatica **obiezione di coscienza** se non nei casi esplicitamente previsti dalla legge.  

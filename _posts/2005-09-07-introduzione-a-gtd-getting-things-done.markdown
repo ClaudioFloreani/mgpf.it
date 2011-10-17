@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "Una introduzione a GTD: Getting Things Done di David Allen"
-published: true
 meta: 
   _aioseop_keywords: "David Allen, GTD, Gettings Thing Done, Cos'\xC3\xA8 GTD, usare GTD, introduzione GTD, chi \xC3\xA8 David Allen, GTD italiano, GTD italia"
   autometa: ""
 tags: 
 - LifeHacking
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 Lo ammetto, sono l'ultimo di una [lunga](http://del.icio.us/tag/gtd) [fila](http://www.technorati.com/search/%2522getting+things+done%2522) di [nomi](http://del.icio.us/tag/getting) che si sono <strong>convertiti </strong>al verbo di GTD per migliorare la propria <strong>efficienza personale</strong>.  
 ![GTD](/download/20050908.gif) GTD è un acronimo per Getting Things Done, il tormentone di questi giorni sulla rete e la metodologia di <strong>efficienza personale </strong>sviluppata da David Allen quasi tre anni fa (e già allora un [bestseller](http://1.amazonscan.com/scan/details.php?asin=0142000280&days=90)) ma che che ha riscosso il suo enorme successo in ambito web solo negli ultimi mesi, principalmente grazie al blog di 43 Folders e la community ad esso legata.  Tanto successo da attrarre anche le attenzioni di [Wired](http://www.wired.com/news/print/0,1294,68103,00.html) che la definisce una sorta di "<em>culto</em>".

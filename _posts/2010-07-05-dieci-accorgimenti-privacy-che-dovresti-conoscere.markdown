@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: I dieci accorgimenti per la privacy che dovresti assolutamente conoscere
-published: true
 meta: 
   wordbooker_options: "a:9:{s:18:\"wordbook_noncename\";s:10:\"e3c9653d49\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"1\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:7:\"%title%\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";}"
   _edit_last: "1"
@@ -10,21 +9,20 @@ meta:
 tags: 
 - amicizie
 - classifica
-- Digital Freedom
+- digital-freedom
 - facebook
 - featured
 - privacy
 - proxy
 - Sicurezza e Privacy
 - trucchi
-type: post
-status: publish
 ---
 Nell'ultimo periodo, molte sono state le parole spese per criticare le politiche di default che Facebook applica. [Secondo][2] [alcuni][3] [studi][4], le impostazioni standard sono di molto peggiorate nel corso del tempo, diventando man mano sempre più aggressive e complesse.
 
 Cerchiamo quindi di stilare un elenco di 10 accorgimenti che, pur non rappresentando il "silver bullet" (la "pallottola d'argento" ammazza licantropi), aiutano comunque a controllare meglio cosa rendiamo pubblico di noi stessi.
 
-<a href="http://www.flickr.com/photos/43671424@N00/432126345/" title="List O' Things to do" target="_blank"><img src="http://farm1.static.flickr.com/147/432126345_ffd82e4c71.jpg" alt="List O' Things to do" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/43671424@N00/432126345/" title="A.K. Photography" target="_blank">A.K. Photography</a></small>
+<a href="http://www.flickr.com/photos/43671424@N00/432126345/" title="List O' Things to do" target="_blank"><img src="http://farm1.static.flickr.com/147/432126345_ffd82e4c71.jpg" alt="List O' Things to do" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/43671424@N00/432126345/" title="A.K. Photography" target="_blank">A.K. Photography</a></small>
 
 **1. Valutare quanti e quali dei nostri dati personali sono già pubblici**
 

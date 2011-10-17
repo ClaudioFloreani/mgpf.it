@@ -2,11 +2,9 @@
 layout: post
 title: "Lascaletta.com - Perch\xE8 la Scala \xE8 un diritto di tutti..."
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: []
 
-type: post
 status: draft
 ---
 Amiamo il Teatro Alla Scala. Da buoni Milanesi doc La Scala è un pezzo di casa, un luogo dell'anima, piÃ¹ che un luogo fisico.

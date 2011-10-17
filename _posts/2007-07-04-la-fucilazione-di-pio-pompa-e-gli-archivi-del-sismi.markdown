@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: La fucilazione di Pio Pompa e gli archivi del Sismi
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: pio pompa spionaggio archivi sismi segreti intelligence pollari iraq
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 ![](http://www.lastknight.com/download//20070704_sismi.gif)
 Io rivoglio **la Pena d Morte in Italia**.  

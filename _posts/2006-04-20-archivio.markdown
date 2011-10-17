@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Archivio
-published: true
 meta: 
   _edit_last: "1"
   _wp_page_template: archives.php
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
  

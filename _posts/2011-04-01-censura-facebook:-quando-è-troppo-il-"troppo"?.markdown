@@ -17,7 +17,6 @@ meta:
   _wp_jd_url: ""
 tags: 
 - about me
-type: post
 status: draft
 ---
 Chi come me fa un mestiere che pone molto vicino a soglie sensibili morali deve spesso fermarsi un secondo e dare un rapido test per vedere da che parte della barricata si trova e controllare ogni tanto di essere dalla parte giusta.  

@@ -1,19 +1,16 @@
 --- 
 layout: post
 title: "Potrei picchiare i chiodi con quest\x92ultimo"
-published: true
 meta: {}
 
 tags: 
 - chiodo
 - imballaggio
 - lol
-- Security and Intelligence
-- spam
-type: post
-status: publish
+- security- spam
 ---
-<a href="http://www.flickr.com/photos/7685019@N04/2266401268/" title="" target="_blank"><img src="http://farm3.static.flickr.com/2399/2266401268_c5191649ae.jpg" alt="" border="0" /></a><br /><small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/Lodian/" title="Lodian" target="_blank">Lodian</a></small>
+<a href="http://www.flickr.com/photos/7685019@N04/2266401268/" title="" target="_blank"><img src="http://farm3.static.flickr.com/2399/2266401268_c5191649ae.jpg" alt="" border="0" /></a>  
+<small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/Lodian/" title="Lodian" target="_blank">Lodian</a></small>
   
 Allora...  
 Innanzitutto spero che gli spammer imparino a utilizzare Google Translate... QUi sotto l'ultima prodezza lessicale:  

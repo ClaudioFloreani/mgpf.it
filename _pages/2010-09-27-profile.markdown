@@ -1,14 +1,12 @@
 --- 
 layout: page
 title: About me
-published: true
 meta: 
   _edit_last: "1"
   _wp_page_template: default
 tags: []
 
 type: page
-status: publish
 ---
 Mi chiamo Matteo G.P. Flora (ed il G.P. sta per Giovanni Paolo) e sono figlio del 1978 e Amministratore Unico e Socio Fondatore della società di Innovazione The Fool s.r.l., insieme a Massimo Giacomini, mio partner in questa avventura e molto più che investitore.  
 The Fool si occupa della creazione di sistemi informatici ad altissimo valore aggiunto per il [Controllo della Navigazione Internet](http://fooldns.com), l'[Anti-Profilazione](http://fooldns.org), la Gestione dellaProprietà Intellettuale Online e il Monitoraggio e la [Moderazione della Rete Internet](http://fooldns.org).  

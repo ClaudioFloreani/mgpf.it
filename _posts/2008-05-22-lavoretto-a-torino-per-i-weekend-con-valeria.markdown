@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Lavoretto a Torino per i WeekEnd con Valeria
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - accompagnatrice
 - disabile
 - lavoro
 - Me &amp; The Web
 - torino
-type: post
-status: publish
 ---
 ![Vale](http://www.lastknight.com/download/avatarprova.jpg)
 

@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: "ZenLife: LifeHacking for Hackers"
-published: true
 meta: 
 tags: 
 - about-me
 - hope
-type: post
-status: publish
 ---
 Durante l'[ESC][1] di quest'anno ho fatto uno speech un po' particolare: invece di parlare semplicemente di tecnologia mi sono concentrato su una serie di "cose" che negli anni ho imparato ed utilizzato per la gestione della mia vita e della produttività. Ma anche di spiritualità, trucchi, massime.  
 
@@ -21,7 +18,7 @@ Eccovi l'oretta e mezza di video:
 
 Ed ecco le Slide pubblicate a vostra disposizione:  
 
-<object id="__sse9469430" width="640" height="360"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=matteoflora-zenlifelifehackingforhackers-110929045129-phpapp02&stripped_title=matteo-flora-zen-life-lifehacking-for-hackers&userName=lastknight" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse9469430" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=matteoflora-zenlifelifehackingforhackers-110929045129-phpapp02&stripped_title=matteo-flora-zen-life-lifehacking-for-hackers&userName=lastknight" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object>
+<object id="__sse9469430" width="640" height="400"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=matteoflora-zenlifelifehackingforhackers-110929045129-phpapp02&stripped_title=matteo-flora-zen-life-lifehacking-for-hackers&userName=lastknight" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse9469430" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=matteoflora-zenlifelifehackingforhackers-110929045129-phpapp02&stripped_title=matteo-flora-zen-life-lifehacking-for-hackers&userName=lastknight" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="400"></embed></object>
 
 Inoltre ecco una bibliografia parziale della presentazione:  
   

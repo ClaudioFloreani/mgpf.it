@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: DaringToDo vi porta a spasso nella storia del festival di Sanremo
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - DaringToDo
 - history
@@ -11,8 +9,6 @@ tags:
 - sanremo
 - storia
 - The Fool
-type: post
-status: publish
 ---
 <img src="http://www.lastknight.com/download//2009/10/Sanremo0005.jpg" alt="Sanremo0005" title="Sanremo0005" width="520" height="376" class="aligncenter size-full wp-image-1633" />    
   

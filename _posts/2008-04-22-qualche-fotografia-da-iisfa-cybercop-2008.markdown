@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: QUalche fotografia da IISFA CyberCop 2008
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - alessandro
 - Andrea Ghirardini
@@ -12,8 +10,6 @@ tags:
 - iisfa cybercop
 - matteo flora
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Qualche altro momento fotografico direttamente dal concorso:  
   

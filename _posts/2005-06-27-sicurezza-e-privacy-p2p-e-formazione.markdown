@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Sicurezza e Privacy, P2P e formazione
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 *di Gerardo Costabile e Matteo G.P. Flora* 
 

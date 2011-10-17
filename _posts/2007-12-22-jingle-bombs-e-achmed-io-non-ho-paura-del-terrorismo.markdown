@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Jingle Bombs e Achmed: io non ho paura del terrorismo!"
-published: true
-meta: 
-  autometa: jingle achmed immotivato terrore bells morto variazione arma terrorismo paura
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 Per chi ha apprezzato il [filmato di Achmed il terrorista morto][1] propongo una simpatica variazione sul tema di Jingle Bells...  
   

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Rotta CCC Summer Camp
-published: true
-meta: 
-  autometa: camp summer events autonoleggio speakers fahrplan finowurt attese
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 [![CCC Summer Camp 2007](http://www.lastknight.com/download/20070806_ccc.thumbnail.jpg)](http://www.lastknight.com/download/20070806_ccc.jpg)
 Fervono gli **ultimi preparativi** e le prove tecniche di trasmissione...  

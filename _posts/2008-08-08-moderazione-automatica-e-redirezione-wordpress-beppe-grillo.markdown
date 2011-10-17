@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Moderazione automatica e redirezione
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Direi che ora che lo sciame dei grillini è passato posso tornare alla moderazione normale...  
   

@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: "12 Maggio Milano: Seminario di Introduzione alla Computer Forensics"
-published: true
-meta: 
-  autometa: forensics applicativi mira lkproject seminario approfondire dedicata 99times
+meta: {}
 tags: 
-- Conferenze
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- forensic
+- security
 ---
 [![Logo LkProject](/download/20060320_lkproject.gif)](http://www.lkproject.com)
 Annuncio formalmente che il 1<strong>2 Maggio </strong>2006 sarò in docenza al primo <strong>Seminario di Computer Forensics </strong> (maggiori infrmazioni alla [pagina dedicata](http://www.lkproject.com/0506_seminario_forensics.htm) o nella [brochure PDF](http://www.lkproject.com/download/0506_Forensic.Pdf)) organizzato da LkProject Privacy & Security in collaborazione con l'[Associazione Informatici Professionisti](http://www.aipnet.it) (AIP/ITCS) e [99Times Inc](http://www.99times.com).

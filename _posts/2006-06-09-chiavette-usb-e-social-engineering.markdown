@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Chiavette USB e Social Engineering
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Chiavette USB e Social Engineering](http://www.lastknight.com//download/20060609_Usb.jpg)
 La **nuova frontiera del Social Engineering**, dopo la [barretta di cioccolato](http://news.bbc.co.uk/1/hi/technology/3639679.stm) e le telefonate spacciandosi per belle ragazze sembra essere diventata quello status symbol del Geek moderno che è la **chiavetta USB**.  

@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "Wireless LAN: La guida definitiva alla Normativa"
-published: true
 meta: 
   _edit_last: "1"
   _wp_page_template: default
   autometa: ""
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 ## La normativa per le WiFi
 

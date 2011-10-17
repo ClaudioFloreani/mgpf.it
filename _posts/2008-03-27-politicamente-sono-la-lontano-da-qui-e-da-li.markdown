@@ -1,20 +1,17 @@
 --- 
 layout: post
 title: "Politicamente sono l\xE0, lontano da qui e da l\xEC..."
-published: true
 meta: {}
 
 tags: 
 - apolitica
-- Digital Freedom
+- digital-freedom
 - diverso
 - forca
 - merda
 - non voto
 - partito
 - voi siete qui
-type: post
-status: publish
 ---
 <center>
 <img src='http://www.lastknight.com/download//lk_politica.jpg' alt='lk_politica.jpg' />
@@ -49,8 +46,6 @@ Già, perchè se prima votavi a destra ed ora ti trovi **vicino a Bertinotti** v
 Che tristezza svegliarsi una mattina e ritrovarsi **a sinistra**...  
 Che mondo, gente, **che mondo**!  
   
-[tags] partito, forca, diverso, apolitica, non voto, merda, voi siete qui [/tags]
-
 [1]: http://www.lastknight.com/2008/03/16/beppe-la-dieta-e-lo-schifo-italiano/
 [2]: http://www.voisietequi.it/
 [3]: http://temi.repubblica.it/elezioni2008-homepage/2008/03/26/il-politometro/?com=21 

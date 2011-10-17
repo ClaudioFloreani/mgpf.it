@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Aprire una automobile con una pallina da tennis
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - LifeHacking
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 Dopo i precedenti post sull'[arte del LockPicking](http://www.lastknight.com/2006/09/06/lockpicking-larte-dello-scasso-nella-sicurezza/) e sulla [Guida al Lockpicking](http://www.lastknight.com/2006/11/09/lockpicking-una-guida-completa-ed-esauriente/) esauriente e completa mi sembrava arrivato il momento di parlare anche della **sicurezza delle automobili** con questo simpatico filmato:  
 <embed src="http://www.metacafe.com/fplayer/410981/blondie_unlocks_car.swf" width="450" height="360" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></embed>  

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: InfoSecurity bocciata in Privacy?
-published: true
-meta: 
-  autometa: provacy 675 196 illegale infosecurity errore illecito
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 ![InfoSecurity Bociata in Privacy](http://www.lastknight.com//download/20070202_bocciato.gif)
 

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: The Fool s.r.l. presenta FoolDNS Business 2.0
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - The Fool
-type: post
-status: publish
 ---
 The Fool è fiera di annunciarvi che dalla mezzanotte della giornata di ieri è online la nuova interfaccia per gli utenti di FoolDns Business che implementa tutte le nuove funzionalità di cui abbiamo parlato negli ultimi mesi.  
 L'aggiornamento alla nuova versione è, come di norma in The Fool, assolutamente gratuito per tutti i nostri clienti, che dovrebbero avere ricevuto nelle scorse ore la mail automatica del sistema con le nuove credenziali per l'accesso (se così non fosse [contattateci](http://thefool.it/contacts)!).  

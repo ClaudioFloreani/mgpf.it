@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Nasce la Google Foundation
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Le voci relative and una "Google Foundation", destinata a portare avanti progetti di natura filantropica, corrono da tempo, e il gigante della ricerca sembra aver compiuto il primo passo verso questa direzione.
 

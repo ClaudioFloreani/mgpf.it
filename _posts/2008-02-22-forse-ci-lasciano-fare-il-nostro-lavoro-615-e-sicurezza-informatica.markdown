@@ -1,18 +1,15 @@
 --- 
 layout: post
 title: "Forse ci lasciano fare il nostro lavoro: 615 e Sicurezza Informatica"
-published: true
 meta: {}
 
 tags: 
 - 613-quinques
 - convenzione di Budapest
-- Digital Freedom
+- digital-freedom
 - folena
 - reati informatici
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Sembra che alla fine ci stiamo arrivando ed è grazie a [Pietro Folena](http://www.pietrofolena.net/blog/?p=304) e non solo che in Commissione e passata una modifica al [ddl C. 2807](http://www.senato.it/leg/15/BGT/Schede/Ddliter/28556.htm) sui ciber crimini (ratifica della Convenzione di Budapest).  
 Si tratta, in particolare, dellart. 615-quinques c.p. gia previsto dal nostro Codice, appunto, ma che per necessita di ratifica si vuole/deve modificare: 

@@ -17,7 +17,6 @@ meta:
   _wp_jd_url: ""
 tags: 
 - about me
-type: post
 status: draft
 ---
 Sto seriamente pensando di mettere un forward di una serie di IP direttamente alla Postale, non per altro, ma perchè sembra 

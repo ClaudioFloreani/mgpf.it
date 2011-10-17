@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Io Debora Serracchiani la voterei. Davvero.
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Debora Serracchiani
-- Digital Freedom
+- digital-freedom
 - pd
-type: post
-status: publish
 ---
 <iframe src="http://beta.youdem.tv/witv/Default.aspx?id_video=7d41e695-4803-41ea-8127-f595e2bf1899&amp;isDotTV=true" frameborder="0" height="400" width="425"></iframe>  
   

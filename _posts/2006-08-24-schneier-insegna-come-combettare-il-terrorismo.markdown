@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Schneier insegna come combettare il terrorismo...
-published: true
-meta: 
-  autometa: terrorismo terrore politici terroristi terrorizzati schneier veri saltare
+meta: {}
 tags: 
-- Digital Freedom
+- digital-freedom
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Con un titolo altisonante come quello qdi quest'articolo non sarò certamente io a **dare la soluzione** ad un problema tanto caro ai governi di mezzo mondo.  
   

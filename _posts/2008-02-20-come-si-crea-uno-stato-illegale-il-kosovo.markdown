@@ -1,18 +1,15 @@
 --- 
 layout: post
 title: "Come si crea uno stato illegale: il Kosovo"
-published: true
 meta: {}
 
 tags: 
-- Digital Freedom
+- digital-freedom
 - eccidio
 - genocidio
 - "riconoscimento[/tag] "
 - stato
 - "[tag]kosovo"
-type: post
-status: publish
 ---
 > E quale sarebbe, in tutto questo, il vantaggio delle grandi "potenze" occidentali? Semplice: anzitutto, si è coperto il genocidio serbo (era questa la maggioranza etnica del Kosovo) - del quale la NATO è, se non il mandante, quantomeno complice! - con un intervento militare transnazionale, rivendicando violazioni dei diritti umani costruite ad arte, al solo scopo d'elminare un "mediatore" verso gli Stati Uniti dell'oppio afgano. Due piccioni con una fava, verrebbe da dire.  
   

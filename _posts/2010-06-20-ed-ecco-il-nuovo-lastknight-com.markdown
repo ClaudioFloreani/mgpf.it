@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Ed ecco il nuovo Lastknight.com
-published: true
 meta: 
   _edit_last: "1"
   WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
@@ -12,8 +11,6 @@ tags:
 - lastknight
 - Me &amp; The Web
 - nuovo
-type: post
-status: publish
 ---
 <a href="http://www.lastknight.com/download//2010/06/lk.com_.png"><img src="http://www.lastknight.com/download//2010/06/lk.com_-540x275.png" alt="" title="lk.com" width="540" height="275" class="aligncenter size-medium wp-image-2034" /></a>  
   

@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: Iscriviti a Lastknight Dot Com, formazione scontata!
-published: true
 meta: {}
 
 tags: 
-- Conferenze
+- about-me
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Se volete essere **aggornati sulle ultime novità** di Lastknight Dot Com è sufficiente iscriversi mediante il box in alto a destra nella pagina.  
 I vostri indirizzi verranno **custoditi gelosamente** e secondo le policy espresse nella pagina di [Informativa alla Privacy](/privacy)!

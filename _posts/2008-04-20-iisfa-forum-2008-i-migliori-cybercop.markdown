@@ -1,27 +1,22 @@
 --- 
 layout: post
 title: "IISFA Forum 2008 CyberCop: i vincitori"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Alessandro Clementi
 - Andrea Ghirardini
-- Conferenze
+- about-me
 - cybercop
 - cybercop italiani
 - Davide Gabrini
-- Forensics
+- forensic
 - Gerardo Costabile
 - Giuseppe Mazzaraco
 - iisfa 2008
 - informatica forense
 - matteo flora
 - Me &amp; The Web
-- Security and Intelligence
-- vincitori iisfa
-type: post
-status: publish
+- security- vincitori iisfa
 ---
 Non esiste un modo carino per dirlo senza autocelebrazione, quindi lo dico e basta: **abbiamo stravinto**! ;)  
   

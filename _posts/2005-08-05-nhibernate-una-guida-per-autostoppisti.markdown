@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Nhibernate: una guida per autostoppisti"
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Da qualche giorno sto iniziando ad utilizzare piottosto pesantemente Nhibernate, framework che implementa l'**Object Relational Mapping** (OR/M) in modo diretto in .NET.  
 Non è mio scopo illustrare perchè proprio **Nhibernate** invece di altri sistemi disponibili, ma solamente fornire qualche indicazione su un po' di link che mi hanno decisamente semplificato la vita:

@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Il lato B di Beppe Grillo
-published: true
-meta: 
-  autometa: grillo casalegno beppe lastknight disinformazione
+meta: {}
 tags: 
-- Digital Freedom
+- digital-freedom
 - disinformazione
 - grillo
 - Paranoia
 - Politica
-type: post
-status: publish
 ---
 [Alessandro](http://blogaprogetto.wordpress.com/2008/01/28/beppe-grillo-e/) ogni tanto è un **po' ciacalone** e le sue gigionerie si sentono.  
 Ma [altre volte](http://blogaprogetto.wordpress.com/2008/01/28/beppe-grillo-e/) dice cose che secondo me valgono la pena di essere lette.  

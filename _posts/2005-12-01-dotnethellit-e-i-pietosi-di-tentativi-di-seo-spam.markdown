@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: DotNetHell.it e i pietosi di tentativi di SEO Spam
-published: true
 meta: {}
 
 tags: 
 - hacking
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Dopo qualche anno a parlare di SEO e BlackHatSEO, dopo anni a parlare di indicizzazione naturale e di professionisti, fa veramente male vedere che un sito italiano e per di più di PROFESSiONISTI utilizza bieche e **ignominose strategie di SEO da baraccone**... 
 

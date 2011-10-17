@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: ELAG
-published: true
 meta: 
   _wp_page_template: default
   autometa: allenamenti luglio cronistoria divertimento fotografie buon degli
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 *Allenamenti 17 Luglio*
 

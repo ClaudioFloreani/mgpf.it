@@ -1,18 +1,14 @@
 --- 
 layout: post
 title: I falsi scoop di Repubblica?
-published: true
 meta: {}
 
 tags: 
 - ebay
 - hacking
 - repubblicatv
-- Security and Intelligence
-- truffe
+- security- truffe
 - unmasking
-type: post
-status: publish
 ---
 Su repubblicaTv di oggi un [filmato interessantissimo][1] su un problema di E-Bay noto da qulche tempo alle Forze dell'ordine che consente al proponente un'asta di recuperare i dati dell'account di un bidder.
   

@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Mamma mia li Pirati!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
+- digital-freedom
 - mondo
 - pirateria
 - pirati
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 La pirateria, nel  mondo, ha subito nello scorso anno un [clamoroso +20%](http://www.telegraph.co.uk/news/2021510/Pirate-attacks-around-the-world-rise-by-20pc.html)  con oltre **300 attacchi**.  
   

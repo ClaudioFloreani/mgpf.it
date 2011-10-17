@@ -1,17 +1,12 @@
 --- 
 layout: post
 title: Casa LastKnight - Episodio 1
-published: true
-meta: 
-  autometa: vimo videoblog video blog casa lastknight matteo flora
+meta: {}
 tags: 
 - Casa LastKnight
-- Conferenze
+- about-me
 - crtitografia
-- Security and Intelligence
-- Sicurezza e Privacy
-type: post
-status: publish
+- security- Sicurezza e Privacy
 ---
 Da un po' di tempo solleticavo l'idea di fare partire una sorta di videoblog, sicuramente più **immediato** e **veloce** che non il post sul blog.  
 Mi mancavano, però, **gli strumenti e le capacità** tecniche... Ma con un po' di pazienza si ottiene tutto (*o meglio una buona approssimazione di tutto*), e così mi ritrovo per le mani una copia

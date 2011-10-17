@@ -1,16 +1,13 @@
 --- 
 layout: post
 title: "Censura 1.3: Quando gli ignoranti siedono in Cassazione e in Governo"
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: censura nicola clivio sky calciolibero coolstreaming beppe grillo cassazione art.25 stampa peacelink protesta
 tags: 
 - censura
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 Avevo già estesamente parlato delle problematiche relative alla Libertà di stampa su Web nell'articolo
 [Censura 1.0: ma quanti IP stanno filtrando?](http://www.lastknight.com/2006/02/12/censura-quanti-ip-stanno-filtrando/) e subito a seguito avevamo discusso delle implicazioni nell'articolo

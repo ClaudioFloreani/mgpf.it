@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Se la sicurezza \xE8 fatta di Dottori e Vendor siamo a posto..."
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Ho rimandato di un mesetto circa questo post per evitare che si intuisse di quale convegno sto parlando... Sempre meglio evitare inutili rancori...  Ma ora che non si può desumere di chi parlo è ore di dare fiato alle trombe!  
   

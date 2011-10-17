@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Ruby, Autoclick e barare a BlogStar DeathMatch
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: paulthewineguy deathmatch celebrity blogstar barare truccare barato hacker
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 > Se arrivate qui dal link di [Celebrity Deathmatch](http://paulthewineguy.prohosts.org/) è perchè [Paul The Wine Guy](http://www.paulthewineguy.com/) ha preso mail il Report di cui sotto.
 > Nessun problema... Mettetevi comodi, divertitevi a capire il meccanismo, ed andate in giro a cercare come pazzi a cercare altre vulnerabilità!

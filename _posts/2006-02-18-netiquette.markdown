@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: RFC 1855 - Galateo in rete
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 #Introduzione
 

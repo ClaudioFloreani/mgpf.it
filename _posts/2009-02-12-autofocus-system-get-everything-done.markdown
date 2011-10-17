@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Autofocus System - Get Everything Done
-published: true
 meta: 
   _edit_last: "1"
   Video: http://www.youtube.com/v/qF1ngJAyD_s
@@ -9,8 +8,6 @@ tags:
 - GTD
 - LifeHacking
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 > What can you expect from the system?  
 >This is based purely on my own experience of working the system for a number of weeks, but what I have found is as follows:  

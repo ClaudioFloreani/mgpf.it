@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: The Song of the LastKnight
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 #The Song of the Last Knight
 ##by Stefano Lodi

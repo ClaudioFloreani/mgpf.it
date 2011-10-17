@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: Seminario di Computer Forensics a Roma il 24 Giugno
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- forensic
+- security
 ---
 ![Computer Forensics Roma 2006](/download/20060525_forensics.jpg)
 Rieccomi dopo la [prima edizione a Milano](http://www.lastknight.com/2006/03/21/milano-12-maggio-seminario-di-introduzione-alla-computer-forensics/) a riproporre il  [Seminario di introduzione alla Computer Forensics](http://www.lkproject.com/0624_seminario_forensics.htm) in **una data Romana**, soprattutto in virtù delle numerose domande di partecipazione da parte degli informatici del paese del sole =]. 

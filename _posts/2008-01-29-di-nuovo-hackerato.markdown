@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Di nuovo hackerato ;)
-published: true
-meta: 
-  autometa: hacking hackerato deface lastknight
+meta: {}
 tags: 
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- forensic
+- security
 ---
 **Mea culpa, mea culpa, mea maxima culpa** sembra proprio che mi **abbiano sfondato** il vecchio Wordpress 2.2.3 che non aggiornavo per pigrizia :)  
   

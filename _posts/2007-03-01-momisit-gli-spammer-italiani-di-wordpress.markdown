@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: MOMIS.it gli spammer italiani di Wordpress
-published: true
-meta: 
-  autometa: momis momis.it spammer 196 spam privacy
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 **ATTENZIONE: La risposta ufficiale di MOMIS è raggiungibile [QUI](http://www.lastknight.com/2007/03/02/momis-risponde-allo-splog/)**  
   

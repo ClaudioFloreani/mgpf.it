@@ -1,20 +1,17 @@
 --- 
 layout: post
 title: "La Cortellesi imita la Santanch\xE8"
-published: true
 meta: {}
 
 tags: 
 - destra
-- Digital Freedom
+- digital-freedom
 - fascisti
 - fini
 - parla con me
 - Politica
 - "santanch\xC3\xA8"
 - storace
-type: post
-status: publish
 ---
 Inchino ed immensa stima!  
   

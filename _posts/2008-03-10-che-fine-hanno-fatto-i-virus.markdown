@@ -1,25 +1,21 @@
 --- 
 layout: post
 title: "(in)sicurezza: Che fine hanno fatto i Virus?"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - (in)sicurezza
-- Conferenze
+- about-me
 - ddos
 - form grabber
 - keylogger
-- Security and Intelligence
-- Storm Worm
+- security- Storm Worm
 - troyan
 - virus
-type: post
-status: publish
 ---
 **Per chi se lo fosse perso ecco il mio articolo di questo Lunedì sul Punto Informatico:**  
   
-<a href="http://www.flickr.com/photos/34828812@N00/27216541/" title="" target="_blank"><img src="http://www.lastknight.com/download//2008/03/27216541_240f55d783.jpg" alt="" border="0" /></a><br /><small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/Marcelo Alves/" title="Marcelo Alves" target="_blank">Marcelo Alves</a></small>
+<a href="http://www.flickr.com/photos/34828812@N00/27216541/" title="" target="_blank"><img src="http://www.lastknight.com/download//2008/03/27216541_240f55d783.jpg" alt="" border="0" /></a>  
+<small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/Marcelo Alves/" title="Marcelo Alves" target="_blank">Marcelo Alves</a></small>
 
 E' notizia di qualche giorno fa, apparsa sui principali quotidiani, che il "furto di dati digitale" dell'estate di quest'anno ai danni del Ministero della Difesa americana ha recuperato molti più dati di quelli ipotizzati in un primo momento. Data la natura dei dati l'entità non è stata, ovviamente, divulgata, ma lo stesso annuncio pubblico la dice lunga sulla effettiva mole della manovra.  
   

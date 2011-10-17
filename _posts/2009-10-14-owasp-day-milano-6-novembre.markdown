@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: OWASP Day Milano 6 Novembre
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
 - owasp
 - security
 - web
-type: post
-status: publish
 ---
 Giusto due righe per informarvi che gli amici di OWASP organizzano il prossimo 6 Novembre a Milano la IV edizione dell'OWASP Day.
 Speaker d'eccezione tratteranno le nuove tematiche di Web Application Security per una delle più rinomate

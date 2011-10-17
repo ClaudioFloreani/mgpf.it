@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: La sicurezza non esiste
-published: true
 meta: {}
 
 tags: 
-- Security and Intelligence
-- Sicurezza e Privacy
-type: post
-status: publish
+- security- Sicurezza e Privacy
 ---
 <img src='http://www.lastknight.com/download/20080107.jpg' alt='20080107.jpg' />
   

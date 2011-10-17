@@ -4,7 +4,33 @@ layout: default
 <h2 id="intro">{{ page.title }}</h2>
 <article class="post">
 {{ content }}
+
+<h2>Articoli (forse) correlati</h2>
+<ul>
+  {% for post in site.related_posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2>Articoli recenti</h2>
+<ul class="posts small">
+	{% for post in site.related_posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> <i>{{ post.date | date: "%d/%m/%Y" }}</i></li>
+	{% endfor %}
+</ul>
+
 <time class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
   {{ page.date | date: "%d/%m/%Y" }} com i tag: {{ page.tags }} 
 </time>
 </article>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'mgpf';
+	var disqus_developer = 1; // developer mode is on
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>

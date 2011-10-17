@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: 30 anni...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/12631703@N00/1080905220/" title="Slow down Arthur, Stick to Thirty" target="_blank"><img src="http://farm2.static.flickr.com/1039/1080905220_380a561f6a.jpg" alt="Slow down Arthur, Stick to Thirty" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/12631703@N00/1080905220/" title="bicameral" target="_blank">bicameral</a></small>  
+<a href="http://www.flickr.com/photos/12631703@N00/1080905220/" title="Slow down Arthur, Stick to Thirty" target="_blank"><img src="http://farm2.static.flickr.com/1039/1080905220_380a561f6a.jpg" alt="Slow down Arthur, Stick to Thirty" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/12631703@N00/1080905220/" title="bicameral" target="_blank">bicameral</a></small>  
   
 Non male come uptime...  
   

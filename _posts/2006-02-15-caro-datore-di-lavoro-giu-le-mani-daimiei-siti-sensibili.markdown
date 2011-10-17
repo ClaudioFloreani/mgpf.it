@@ -6,7 +6,6 @@ meta: {}
 
 tags: 
 - Me &amp; The Web
-type: post
 status: private
 ---
 Avrei voluto scrivere qualcosa sull'ultima ordinanza del [Garante della Privacy](http://www.garanteprivacy.it/garante/doc.jsp?ID=1229854) sull'utilizzo dei dati riguardanti la navigazione dei dipendenti ma lascio volentieri la parola all'amica Giulia Ballero che scrive:

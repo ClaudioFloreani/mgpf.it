@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Ma perch\xE8 i sistemi OpenSource sono pi\xF9 sicuri?"
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 La giornata di oggi e l'annuncio del fixing della casa di Redmond di [cinque falle di sicurezza](), alcune delle quali già conosciute da Febbraio di quest'anno ha acceso nella Mailing List di AIP un acceso dibattito sulla **intrinseca insicurezza** dei sistemi ClosedSource.  
 

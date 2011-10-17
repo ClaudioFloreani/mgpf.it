@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Il primo Virus MacOs X?
-published: true
 meta: {}
 
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Sembra che anche gli **utenti MacOs X** siano stati elargiti di quel meraviglioso dono del mondo Windows chiamato Virus. Certe cose sono semplicemente **troppo belle** per non essere esportate=].  
 

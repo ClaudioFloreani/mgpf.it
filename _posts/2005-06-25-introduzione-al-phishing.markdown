@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Introduzione al Phishing
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 Nel panorama di quella branca del "malicious code" che prende il nome di " social engineering " (cioè l'utilizzo dell'inganno verbale o di situazione per perpetrare una frode, anzichè di codice macchina vero e proprio), gli ultimi mesi hanno visto un proliferare ed un espandersi senza precedenti del fenomeno del " Phishing ".
 Iniziamo con il definire un poco più attentamente il Phishing :

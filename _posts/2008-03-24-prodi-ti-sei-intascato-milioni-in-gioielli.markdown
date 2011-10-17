@@ -1,20 +1,18 @@
 --- 
 layout: post
 title: Prodi, ti sei intascato milioni in gioielli?
-published: true
 meta: {}
 
 tags: 
 - chiocci
 - concussione
-- Digital Freedom
+- digital-freedom
 - furto
 - gioielli
 - prodi
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/22832743@N00/94607051/" title="" target="_blank"><img src="http://farm1.static.flickr.com/37/94607051_f52e08412a.jpg" alt="" border="0" /></a><br /><small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/mafic/" title="mafic" target="_blank">mafic</a></small>  
+<a href="http://www.flickr.com/photos/22832743@N00/94607051/" title="" target="_blank"><img src="http://farm1.static.flickr.com/37/94607051_f52e08412a.jpg" alt="" border="0" /></a>  
+<small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/mafic/" title="mafic" target="_blank">mafic</a></small>  
   
 Leggo con sommo sdeglio [questo articolo](http://www.ilgiornale.it/a.pic1?ID=249873) *(grassetti miei)*:  
 

@@ -1,17 +1,14 @@
 --- 
 layout: post
 title: "Un due tr\xE8, Volont\xE8"
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: "molleindustria volont\xC3\xA8 pretofilia pedofilia censura lucavolonte.eu"
 tags: 
 - censura
-- Digital Freedom
+- digital-freedom
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Luca Volontè](http://www.lastknight.com/download//20070705_volonta.jpg)
 

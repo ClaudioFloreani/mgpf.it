@@ -1,16 +1,13 @@
 --- 
 layout: post
 title: Sabato a Verona parlo di Wordpress a "Linux e la Sicurezza Personale III"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
-<a href="http://www.flickr.com/photos/35034351734@N01/46572573/" title="Matt done WordPress style" target="_blank"><img src="http://farm1.static.flickr.com/25/46572573_a37d7792b5.jpg" alt="Matt done WordPress style" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/35034351734@N01/46572573/" title="niallkennedy" target="_blank">niallkennedy</a></small>  
+<a href="http://www.flickr.com/photos/35034351734@N01/46572573/" title="Matt done WordPress style" target="_blank"><img src="http://farm1.static.flickr.com/25/46572573_a37d7792b5.jpg" alt="Matt done WordPress style" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/35034351734@N01/46572573/" title="niallkennedy" target="_blank">niallkennedy</a></small>  
   
 L'amico Mayhem mi fa notare di non avere ancora, colpevolmente, parlato del fatto che Sabato questo sarò a Verona per partecipare come relatore a **"Linux e la Sicurezza Personale III"**.  
   

@@ -1,14 +1,13 @@
 --- 
 layout: post
 title: "Google StreetView: uno sguardo alla spia dentro casa vostra"
-published: true
 meta: 
   wordbooker_options: "a:9:{s:18:\"wordbook_noncename\";s:10:\"2a3e9cf8ff\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"1\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:7:\"%title%\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";}"
   _edit_last: "1"
   WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
   _wp_old_slug: ""
 tags: 
-- Digital Freedom
+- digital-freedom
 - featured
 - google
 - gps
@@ -19,14 +18,13 @@ tags:
 - privacy
 - snooping
 - street view
-type: post
-status: publish
 ---
 Il servizio [Street View][stw] di Google permette di esplorare virtualmente le strade di alcune aree del mondo, attraverso immagini panoramiche a 360°, raccolte da speciali automobili dotate di telecamera. Attualmente le [zone coperte][stwc] si limitano agli Stati Uniti d'America, al Canada, all'Europa e al Giappone.  
   
 In un [post][amm] del 27 aprile, Google ha pubblicamente ammesso di aver immagazzinato dati relativi ai network Wi-Fi rilevati durante i passaggi delle Google Cars, compresi di [MAC Address][mac] (che identifica **univocamente** una scheda di rete, dall'Access Point che utilizzate in ufficio al vostro telefono cellulare, se dotato di wi-fi) e [SSID][ssid] (nome del network, tipicamente assegnato dall'utilizzatore). Il 14 maggio Google, attraverso le [parole][wrds] di Alan Eustace, direttore del reparto di ricerca e sviluppo, ammette di aver immagazzinato anche i payload, ovvero i dati grezzi di traffico non crittografato. Tali dati contengono tutte le informazioni sensibili, quali **la cronologia web, le ricerche effettuate, le email, le conversazioni in VOIP e in chat**.  
   
-<a href="http://www.flickr.com/photos/26953973@N08/2666901841/" title="Google Street View Car in Bristol" target="_blank"><img src="http://farm4.static.flickr.com/3001/2666901841_a16aa6a53b.jpg" alt="Google Street View Car in Bristol" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/26953973@N08/2666901841/" title="byrion" target="_blank">byrion</a></small>
+<a href="http://www.flickr.com/photos/26953973@N08/2666901841/" title="Google Street View Car in Bristol" target="_blank"><img src="http://farm4.static.flickr.com/3001/2666901841_a16aa6a53b.jpg" alt="Google Street View Car in Bristol" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/26953973@N08/2666901841/" title="byrion" target="_blank">byrion</a></small>
   
 Una [class action][clss] in Oregon ha collegato le ammissioni di Google ad un loro [brevetto][pat] ([versione pdf][pdf]) del 2008 relativo ad un sistema di acquisizione dati su reti wireless.  
   

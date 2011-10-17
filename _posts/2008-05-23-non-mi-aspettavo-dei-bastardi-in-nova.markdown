@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: "Non mi aspettavo dei bastardi in N\xF2va..."
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bastardi
 - ladri
@@ -13,8 +11,6 @@ tags:
 
 - retrogradi
 - web 1.0
-type: post
-status: publish
 ---
   
   

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Democrazia e violenza
-published: true
-meta: 
-  autometa: luttazzi professano violente democrazia coloro idee parola consente
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 > "La democrazia consente la parola a tutti coloro che non professano idee violente." 
 > *(Daniele Luttazzi)*

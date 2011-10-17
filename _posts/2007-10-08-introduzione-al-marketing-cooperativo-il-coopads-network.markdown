@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Introduzione al Marketing Cooperativo: il CoopAds Network"
-published: true
-meta: 
-  autometa: marketing cooperativo cooperative adbrite adsense CoopAds Broker advertising reviewme openads marketing sociale cooperativa
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Chiunque abbia mai scritto un **blog** si sarà presto o tardi trovato ad affrontare il problema della **promozione pubblicitaria** della sua piccola realtà.  
 Irrimediabilmente, lo abbiamo fatto tutti, si sarà trovato di fronte alle differenti **strategie** del settore che, alla fine della fiera, si riducono in:  

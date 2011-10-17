@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Zik Blog...
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Noto con piacere ed annuncio a chi mi legge che lo stimato amico nonchè competentissimo giurista Prof. [Giovanni Ziccardi](http://www.ziccardi.org) ha rinnovato la veste grafica di "[casa sua](http://www.ziccardi.org)" ed aperto un [Blog](http://ziccardi.typepad.com/) che sono sicuro non mancherà di entusiasmare gli appassionati di Informatica Giuridica... 
 

@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "NEM: New Era Meditation"
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 Linteresse coltivato negli anni per il Reiki, fino alla formazione e certificazione come Reiki master ha, ovviamente, portato con se una particolare propensione allo studio ed alla pratica della meditazione.  
 In queste pagine son raccolte le informazioni e le tecnologie alla base della NEM, la New Era Meditation che ho creato nel corso degli anni ed applicato con successo nel corso dei vari seminari.  

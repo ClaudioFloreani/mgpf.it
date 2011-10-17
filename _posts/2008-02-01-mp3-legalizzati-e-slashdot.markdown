@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: MP3 legalizzati e Slashdot
-published: true
-meta: 
-  autometa: degraded degraded freely music publish monti slashdot copyright
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 Non capita spesso di vedere l'Italia in prima pagina di Slashdot:  
   

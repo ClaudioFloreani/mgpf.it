@@ -1,19 +1,15 @@
 --- 
 layout: post
 title: Stasera 19/12 a Milano, ore 19 in Corso Como!
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - aperitivo
 - conferenza
-- Conferenze
-- Digital Freedom
+- about-me
+- digital-freedom
 - Me &amp; The Web
 - privacy
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 <a href="http://www.lastknight.com/download//2008/12/locandina.jpg"><img src="http://www.lastknight.com/download//2008/12/locandina.jpg" alt="locandina" title="locandina" width="523" height="740" class="aligncenter size-full wp-image-1229" /></a>  
     

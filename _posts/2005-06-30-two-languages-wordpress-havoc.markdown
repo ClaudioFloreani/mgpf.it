@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Two languages Wordpress havoc
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - Me &amp; The Web
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Trying to maintain a multi-language blog is a continuous struggle between "having a vast audience" and "being prophet in your own country".  
 It's something very frustrating, particularly due to the fact that most Italian DO NOT speak or read English and that press tends to completely ignore English-written on line material. I'm still horrified at the memory of an Italian journalist telling me that he "tried to find my site but only found a US guy Lastknight Dot Com".  

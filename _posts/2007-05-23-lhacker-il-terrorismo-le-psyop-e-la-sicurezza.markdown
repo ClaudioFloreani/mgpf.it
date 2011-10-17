@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: L'Hacker, il Terrorismo, le PSYOP e la Sicurezza
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: "hacker psyop terrorismo sicurezza privacy sismi intelligence psicologia realt\xC3\xA0 vecna agosti claudio delirandom"
 tags: 
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Claudio Agosti Hacker](http://www.lastknight.com/download/20070523_matrix1.jpg)
 

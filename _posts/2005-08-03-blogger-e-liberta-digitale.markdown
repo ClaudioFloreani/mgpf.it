@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "Blogger e Libert\xE0 Digitale"
-published: true
 meta: {}
 
 tags: 
 - censura
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 > Whether you're a newly minted blogger or a relative old-timer,
 > you've been seeing more and more stories pop up every day

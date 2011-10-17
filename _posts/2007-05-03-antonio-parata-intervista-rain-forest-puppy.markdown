@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Antonio Parata intervista Rain Forest Puppy
-published: true
-meta: 
-  autometa: s4t4n antonio parata rain forrest puppy sqlinjection sql injection security owasp
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 [![Rain Forest Puppy](http://www.lastknight.com/download/20070503_rainforest.thumbnail.jpg)](http://www.lastknight.com/download/20070503_rainforest.jpg)
 Uno dei meno conosciuti e **più competenti** siti di hacking e sicurezza italiani, Ush.it, pubblica oggi una [interessantissima intervista a Rain Forest Puppy](http://www.ush.it/2007/05/01/interview-with-rain-forest-puppy/) a nome del conosciuto, italianissimo ed apprezzato [Antonio "S4tan" Parata](http://www.isacaroma.it/html/newsletter/node/282), membro OWASP.  

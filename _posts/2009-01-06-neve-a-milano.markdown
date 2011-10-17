@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Neve a Milano...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 Domani si torna al lavoro, con importanti novità per The Fool e per il servizio di FoolDns, oltre che per una piattaforma di Blogger "particolari"....  
   

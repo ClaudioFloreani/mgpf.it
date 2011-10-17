@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "SMAU 2006, conferenza \"Biometria e Furto di Identit\xE0 Digitale\""
-published: true
-meta: 
-  autometa: smau academy assistere fiera comitato sezione scientifico ottobre biometria conferenza fingerprint dummy finger forging
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 E' stato finalmente completato il programma di interventi sulla sicurezza a **e-Academy**, la sezione seminariale di **SMAU** (*Fiera di Milano, 4-7 ottobre 2006*), quest'anno curata da AIPSI, Associazione Italiana dei Professionisti della Sicurezza Informatica.  
 

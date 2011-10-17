@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Le Regina Rossa del CCC: Italian Grappa!"
-published: true
-meta: 
-  autometa: CCC Camp, CCC2007, italian grappa, CCC, italian embassy, matteo flora, hacker, hacking, pirate, calamari, punto informatico, cassandra crossing, chaos communication camp
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 [![CCC Camp 2007: Italian Grappa!](http://www.lastknight.com/download/zen.thumbnail.jpg)](http://www.lastknight.com/download/zen.thumbnail.jpg)
 

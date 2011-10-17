@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: PocketMod e GTD
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - LifeHacking
 - Zen &amp; Photo
-type: post
-status: publish
 ---
 ![PocketMod](/download/200509082.jpg)
 Per quanti, attratti dal [precedente post](http://www.lastknight.com/2005/09/07/introduzione-a-gtd-getting-things-done/), volessero iniziare a utilizzare GTD con il Moleskine l'unico mio consiglio è di preminursi di un **supporto cartaceo** esterno, microscopico, alternativo e possibilmente "portabile ovunque".  

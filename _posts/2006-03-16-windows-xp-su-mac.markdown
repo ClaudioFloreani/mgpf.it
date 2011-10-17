@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: "Windows XP su Mac: video e conferme"
-published: true
 meta: {}
 
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Sembra che finalmente qualcuno abbia [vinto i $.13.000 in premio](http://onmac.net/) per l'effettivo boot di Windows XP su Mac.  
 

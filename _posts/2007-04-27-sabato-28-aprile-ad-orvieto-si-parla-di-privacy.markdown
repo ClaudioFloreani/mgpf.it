@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: Sabato 28 Aprile ad Orvieto si parla di Privacy
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: orvieto covengo provacy 196
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 ![Convegno Orvieto](/download/20070427_orvieto.jpg)
 Per ci si ritrovasse in zona Orvieto segnalo un interessante convegno a cui parteciperò come relatore.  

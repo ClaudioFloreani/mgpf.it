@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Silvio Berlusconi, le intercettazioni e la privacy di quando ci fa comodo
-published: true
-meta: 
-  autometa: silvio berlusconi intercettazioni hacker privacy matteo flora lastknight
+meta: {}
 tags: 
-- Digital Freedom
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- forensic
+- security
 ---
 ![Silvio Berlusconi](http://www.repubblica.it/2005/i/sezioni/politica/interc2/intercdl/ap_6719269_05020.jpg)
 Ho scritto tanto tempo fa come [bloccare con la privacy chi ci spamma][1] e ho anche parlato di tanto [metodi di protezione][2]. Si sa che sono "paranoico per definizione" e che quindi taluni argomenti mi stanno cari.  

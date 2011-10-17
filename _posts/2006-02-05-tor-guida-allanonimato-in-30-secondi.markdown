@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "TOR: Guida all'anonimato in 30 secondi..."
-published: true
 meta: {}
 
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 [![TOR:Guida all'anonimato in rete in 30 secondi](http://www.lastknight.com/download/tor_banner.png)](http://www.lastknight.com/tor/)
 I fatti di cronaca degli ultimi giorni hanno gettato una serie di **lunghe e profonde ombre** scure sulla libertà digitale italiana e sulla censura a monte e senza esplicitazione dei contenuti web.  

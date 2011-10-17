@@ -1,18 +1,13 @@
 --- 
 layout: post
 title: Wordpress e SQLite...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - dal
 - data abstraztion layer
 - oracle
-- Security and Intelligence
-- sqlite
+- security- sqlite
 - wordpress
-type: post
-status: publish
 ---
 La mia domanda a Matt durante l'iWordCampo verteva sulla possibilità di integrare in Wordpress un meccanismo di DAL (Data Abstraction Layer) in modo da supportare differenti basi dati (come Oracle o Postgress o anche il _male_ comunemente dello MSSQL) o addirittura SQLite.  
   

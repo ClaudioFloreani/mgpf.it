@@ -1,24 +1,19 @@
 --- 
 layout: post
 title: "FoolDns: il cappello del Mago di Internet..."
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - adblock
 - advertising
 - censura
-- Conferenze
-- Digital Freedom
+- about-me
+- digital-freedom
 - dns
 - fooldns
 - Me &amp; The Web
 - Paranoia
 - privacy
-- Security and Intelligence
-- The Fool
-type: post
-status: publish
+- security- The Fool
 ---
 Inutile stare quieti, visto che Google diffonde già un centinaio di risultati alla voce FoolDns.  
 Ebbene sì, parte un nuovo servizio.  

@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Wardriving a Milano: WarBiking nella metropoli"
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: wardriving kismac netsutmbler warbiking web wpa ssid milano wireless wan lan accesspoint access point wardrive warbike macosx kismet cantenna wep
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![](http://www.lastknight.com/download/20071003_01.jpg)
   

@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: Paradiso e Inferno
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - inferno
 - io
@@ -13,8 +11,6 @@ tags:
 - rishi
 - samurai
 - zen
-type: post
-status: publish
 ---
 > Un samurai grande e grosso va da un saggio e gli dice: parlami della natura del paradiso e dellinferno.  
 >  

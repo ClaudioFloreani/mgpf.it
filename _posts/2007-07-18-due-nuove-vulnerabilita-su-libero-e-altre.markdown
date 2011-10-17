@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: "Due nuove vulnerabilit\xE0 su Libero e altre..."
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: "advisory vulnerabilit\xC3\xA0 libero wind arianna adserver"
 tags: 
 - hacking
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Come qualcuno ha già notato sono apparsi su **Full Disclosure** due nuovi advisory che riguardano il motore di ricerca di **Arianna** e l'**Ad Server di Libero,** entrambi XSS e Open Redirectors... Entrambe risolte in accordo con Libero/Wind e l'ottima guida della Direzione Sicurezza, ora **cooperativa, competente e veloce**...  
   

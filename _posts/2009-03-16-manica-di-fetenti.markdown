@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: Manica di fetenti...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - c25k
 - corsa
 - Me &amp; The Web
 - nike+
-type: post
-status: publish
 ---
 ...che avete chiamato per sapere se ho corso... Prima di farlo aspettate almeno le 10 e controllate l'Account Nike+ o l'Account Runner+,  no? :D  
 Stamattina dalle 7:40 alle 8:10 sono passato direttamente alle seconda settimana di C25K.  

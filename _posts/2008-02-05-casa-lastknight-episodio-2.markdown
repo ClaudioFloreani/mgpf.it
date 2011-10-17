@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Casa LastKnight - Episodio 2
-published: true
-meta: 
-  autometa: 120mb scarica formato filmato
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 E dopo il primo episodio ecco un secondo episodio tutto da vedere *(e di durata certamente più contenuta)* del videoblog di Casa LastKnight.  
 Questa volta si parla di **tracciamento delle fotocopie** e delle **stampe ad alta risoluzione** digitale, con un gadget tutto da vedere per **svelarne i segreti**...  

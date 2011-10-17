@@ -1,21 +1,18 @@
 --- 
 layout: post
 title: "Al prossimo giro attacco Esselunga... Chi \xE8 con me?"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
+- digital-freedom
 - esselunga
 - fidelizzazione
 - Garante
 - Paranoia
 - privacy
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
-<a href="http://www.flickr.com/photos/7721839@N04/2166831933/" title="slunga on the highway" target="_blank"><img src="http://farm3.static.flickr.com/2418/2166831933_ebda16548c.jpg" alt="slunga on the highway" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/7721839@N04/2166831933/" title="mangabanane" target="_blank">mangabanane</a></small>  
+<a href="http://www.flickr.com/photos/7721839@N04/2166831933/" title="slunga on the highway" target="_blank"><img src="http://farm3.static.flickr.com/2418/2166831933_ebda16548c.jpg" alt="slunga on the highway" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/7721839@N04/2166831933/" title="mangabanane" target="_blank">mangabanane</a></small>  
   
 Qualcosa si muove contro le tessere punti e il Garante si è [espresso sulla fidelizzazione](http://www.repubblica.it/2008/05/sezioni/cronaca/supermercati-spiano/supermercati-spiano/supermercati-spiano.html). A farne le spese, stavolta, GS.  *(grassetto mio)* :  
   

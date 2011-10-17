@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "6 Maggio, S.Margherita Ligure: Identit\xE0 ed Identificazione"
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 [![Locandina](http://www.convegnosmligure.giuristitelematici.it/images/half_banner.gif)](http://www.convegnosmligure.giuristitelematici.it)
 

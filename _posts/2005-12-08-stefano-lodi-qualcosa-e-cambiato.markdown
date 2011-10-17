@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: "Qualcosa \xE8 cambiato"
-published: true
 meta: {}
 
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 No, non mi sono sposato, non sono diventato buddhista, non ho nemmeno preso i voti di sacerdozio o smesso di tessere trame. 
 

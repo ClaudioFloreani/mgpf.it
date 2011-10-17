@@ -6,8 +6,7 @@ meta:
   _edit_last: "1"
   autometa: vaticano ior scandalo morte assassinio luciani fondi neri fiorani
 tags: 
-- Digital Freedom
-type: post
+- digital-freedom
 status: private
 ---
 <center>

@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Un'Ira(n) di Dio
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - censorship
 - Me &amp; The Web
 - sorshipiran
-type: post
-status: publish
 ---
 Un [paio di post][1] [estremamente interessanti][2]  
   

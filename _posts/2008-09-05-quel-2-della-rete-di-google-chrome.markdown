@@ -1,23 +1,19 @@
 --- 
 layout: post
 title: Quel 2% della rete di Google Chrome
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - 2%
-- Conferenze
-- Digital Freedom
+- about-me
+- digital-freedom
 - fooldns
 - google
 - google chrome
 - Me &amp; The Web
-- Security and Intelligence
-- tracciamento
-type: post
-status: publish
+- security- tracciamento
 ---
-<a href="http://www.flickr.com/photos/7324309@N07/1757232681/" title="Let there be Light" target="_blank"><img src="http://farm3.static.flickr.com/2149/1757232681_0310c9dfe8.jpg" alt="Let there be Light" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/7324309@N07/1757232681/" title="jalalspages" target="_blank">jalalspages</a></small>  
+<a href="http://www.flickr.com/photos/7324309@N07/1757232681/" title="Let there be Light" target="_blank"><img src="http://farm3.static.flickr.com/2149/1757232681_0310c9dfe8.jpg" alt="Let there be Light" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/7324309@N07/1757232681/" title="jalalspages" target="_blank">jalalspages</a></small>  
   
 Mmm.. Forse dovrei imparare ad avere un po' più di tatto...  
     

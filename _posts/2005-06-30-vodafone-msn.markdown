@@ -1,13 +1,10 @@
 --- 
 layout: post
 title: Vodafone + MSN = !!!
-published: true
 meta: {}
 
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Sembra proprio che la moda dell'utilizzo di messneger sia veramente scoppiata un poco ovinque anche nel nostro caro "vecchio continente". E' di oggi infatti la notizia che Vodafone ha stretto un accorso con MSN per l'integrazione delle piattaforma di messaggistica web e SMS così da fondere le due funzionalità.  
 Se ne parla in [comunicato](http://www.vodafone.com/article_with_thumbnail/0,3038,OPCO%253D40000%2526CATEGORY_ID%253D210%2526MT_ID%253Dpr%2526LANGUAGE_ID%253D0%2526CONTENT_ID%253D261956,00.html) siglato con Redmond.   

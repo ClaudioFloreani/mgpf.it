@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Aiutami a correre: quando il Web 2.0 fa bene"
-published: true
-meta: 
-  autometa: aiutami a correre visitaortopedica V. "aiutami a correre"
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Molto spesso ci ritroviamo nelle nostre caselle di posta elettronica email dal contenuto non veritiero: casi di persone colpite da rare malattie e bambini affetti da gravi patologie; molto spesso ma non sempre!  
   

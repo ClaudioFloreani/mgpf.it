@@ -1,19 +1,16 @@
 --- 
 layout: post
 title: "Verona, 20 Maggio: Conferenza di Computer Forensics"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - computer forensic
 - conferenza
-- Conferenze
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- forensic
+- security
 ---
-<a href="http://www.flickr.com/photos/34754790@N00/11943599/" title="Forensics Scene" target="_blank"><img src="http://farm1.static.flickr.com/8/11943599_90198d93ed.jpg" alt="Forensics Scene" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/34754790@N00/11943599/" title="Andrew Mason" target="_blank">Andrew Mason</a></small>  
+<a href="http://www.flickr.com/photos/34754790@N00/11943599/" title="Forensics Scene" target="_blank"><img src="http://farm1.static.flickr.com/8/11943599_90198d93ed.jpg" alt="Forensics Scene" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/34754790@N00/11943599/" title="Andrew Mason" target="_blank">Andrew Mason</a></small>  
   
 Sono lieto di invitarvi alla seguente manifestazione al quale come vedete **partecipo come relatore**:  
   

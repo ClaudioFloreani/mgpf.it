@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Apre www.OTemporaOMores.com, seguitelo!
-published: true
 meta: 
   _edit_last: "1"
   WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
@@ -13,8 +12,6 @@ tags:
 - omores
 - otempora
 - personali
-type: post
-status: publish
 ---
 <a href="http://www.lastknight.com/download//2010/05/OTempora.png"><img src="http://www.lastknight.com/download//2010/05/OTempora-414x300.png" alt="" title="OTempora" width="414" height="300" class="aligncenter size-medium wp-image-1974" /></a>  
   

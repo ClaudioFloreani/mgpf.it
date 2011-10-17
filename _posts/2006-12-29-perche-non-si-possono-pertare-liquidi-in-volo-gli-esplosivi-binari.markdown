@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Perch\xE8 non si possono portare liquidi in volo? Gli esplosivi binari."
-published: true
-meta: 
-  autometa: binari binari esplosivi TATP ANFO FIXOR terroristi liquidi aeroporto checkin
+meta: {}
 tags: 
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Perchè non si possono portare liquidi in volo](http://www.lastknight.com//download/No-Liquid_news_1.jpg)
 Se siete stati ultimamente in aeroporto vi sarete sicuramente meravigliati delle nuove misure di sicurezza che obbligano a **non portare a bordo alcun tipo di sostanza liquida**. Sicuramente lo avrete preso come l'ennesimo **attacco alla libertà personale** e vi sarete chiesti il motivo per cui ci si ostini a proibire qualunque cosa, come se tutti viaggiassero con della *nitroglicerina*.  

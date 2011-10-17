@@ -1,15 +1,12 @@
 --- 
 layout: post
 title: Recuperare gli SMS cancellati dai cellulari NOKIA grazie a Dante
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: dante dante nokia imperfezione destinate scoperte cancell securityfocus
 tags: 
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- forensic
+- security
 ---
 ![Nokia e SMS cancellati](http://www.lastknight.com/download//20070516_nokia.gif)
 

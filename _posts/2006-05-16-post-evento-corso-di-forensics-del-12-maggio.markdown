@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: "Post-Evento: Corso di Forensics del 12 Maggio"
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Conferenze
-- Forensics
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- forensic
+- security
 ---
 ![I corsisti del Corso di Computer Forensics del 12 Maggio a Milano](/download/CIMG0344.JPG) Solo dopo qualche giorno riesco a scrivere in merito al [Corso di Computer Forensics](http://www.lastknight.com/2006/03/21/milano-12-maggio-seminario-di-introduzione-alla-computer-forensics/) di Milano del 12 Maggio 2006.  
 La **qualità degli studenti** iscritti ed il tenore delle domande sono stati decisamente invidiabili e penso che l'evento sia stato un **punto di incontro importante** tra realtà differenti e spesso in contrasto tra loro.  

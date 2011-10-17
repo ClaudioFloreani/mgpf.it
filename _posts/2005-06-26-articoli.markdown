@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Articoli
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 Gli articoli qui proposti sono stati redatti in differenti mesi e per differenti finalità.  
 Trattano principalmente temi legati alla Sicurezza Informatica ed alla programmazione, non tralasciando importanti considerazioni legate al mondo dei SEO ed alle tecnologie ad esso correlate.  

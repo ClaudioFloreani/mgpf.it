@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Il ritorno del re...?
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Lastknight Dot Monk](/download/20060420_ultimocavaliere.jpg)
 Dalle alte steppe e dalla solitaria **valle Monzese** arriva l'Urlo di battaglia del **prode [Vichingo](http://www.jomsvikings.com/)** che sferra ancora **parole come magli e ironie come asce da guerra** scagliate contro il nemico di sempre...  

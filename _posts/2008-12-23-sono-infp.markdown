@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Sono INFP
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - io
 - jung
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Ecco ir risultati del test secondo il test di Meyers Briggs.  
 Mai nella vita ho visto un profilo così attinente...  

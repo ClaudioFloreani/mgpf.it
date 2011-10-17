@@ -1,15 +1,11 @@
 --- 
 layout: post
 title: Censura? Basta togliere "www."!
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - censura
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 Mi segnalano alcuni lettori che oltre ad aggiungere ".nyud.net:8080" è sufficiente in moltissimi casi semplicemente **eliminare dall'indirizzo** web "**www.**" per riuscire a contattare **gli stessi siti web**...  
 

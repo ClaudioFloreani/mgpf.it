@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: La "prostituzione virtuale" di Alessandra Graziottin
-published: true
 meta: {}
 
 tags: 
@@ -11,11 +10,8 @@ tags:
 - droga
 - Porta a Porta
 - prostituzione
-- Security and Intelligence
-- sesso
+- security- sesso
 - violenza
-type: post
-status: publish
 ---
 Fermatevi due secondi. Se possedete un Blog e lo aggiornate anche saltuariamente fatemi una cortsia e nascondete tutti gli **oggetti contundenti** che potete avere a fianco.  
   

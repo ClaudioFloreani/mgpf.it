@@ -7,12 +7,12 @@ meta:
   WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
 tags: 
 - Me &amp; The Web
-type: post
 status: draft
 ---
 La Mailing List di Lastknight.com, dopo il Sito Web, cambia di gestore nell'ambito di quella vasta manovra di pulizia e di razionalizzazione che ha invaso il dominio negli ultimi giorni :)  
   
-<a href="http://www.flickr.com/photos/39513725@N02/4589012502/" title="Beyond words" target="_blank"><img src="http://farm5.static.flickr.com/4060/4589012502_76188dd3c6.jpg" alt="Beyond words" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-sa/2.0/" title="Attribution-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/39513725@N02/4589012502/" title="Juanedc" target="_blank">Juanedc</a></small>
+<a href="http://www.flickr.com/photos/39513725@N02/4589012502/" title="Beyond words" target="_blank"><img src="http://farm5.static.flickr.com/4060/4589012502_76188dd3c6.jpg" alt="Beyond words" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-sa/2.0/" title="Attribution-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/39513725@N02/4589012502/" title="Juanedc" target="_blank">Juanedc</a></small>
   
 Gli utenti registrati negli anni con la piattaforma **Nouri.sh** sono stati rimossi e trasferiti a [MailChimp][1] dopo che il primo gestiore ha iniziato una aggressiva politica di spam e viene sempre più catalogato dai vari gestori come host non sicuro.  
 [MailChimp][1], dal canto suo, è il servizio con maggiori recensioni, con un approccio altamente inttollerante allo Spam ed utilizzato da moltissime grandi realtà opensource, una su tutte le Mozilla Foundation.  

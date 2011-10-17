@@ -2,20 +2,19 @@
 layout: post
 title: Abbiamo regalato 25 milioni di euro al Vaticano in bollette non pagate...
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - acea
 - acqua non pagata
-- Digital Freedom
+- digital-freedom
 - finanziaria
 - soldi
 - sprechi
 - vaticano
-type: post
 status: private
 ---
-<a href="http://www.flickr.com/photos/90683535@N00/2271760435/" title="" target="_blank"><img src="http://farm3.static.flickr.com/2259/2271760435_1e0439d02e.jpg" alt="" border="0" /></a><br /><small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/[ Sue ]/" title="[ Sue ]" target="_blank">[ Sue ]</a></small>
+<a href="http://www.flickr.com/photos/90683535@N00/2271760435/" title="" target="_blank"><img src="http://farm3.static.flickr.com/2259/2271760435_1e0439d02e.jpg" alt="" border="0" /></a>  
+<small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/[ Sue ]/" title="[ Sue ]" target="_blank">[ Sue ]</a></small>
 
 A partire dal 1929, con la firma dei Patti Lateranensi, lo stato italiano si fa carico della **dotazione di acqua** per lo Stato Vaticano, in virtù dell'articolo n. 6, che al primo comma dice che:  
 

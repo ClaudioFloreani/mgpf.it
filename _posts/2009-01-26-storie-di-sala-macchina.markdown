@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Storie di Sala Macchina
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Mi ero dimenticato [quanto amassi quest'uomo][1]:  
   

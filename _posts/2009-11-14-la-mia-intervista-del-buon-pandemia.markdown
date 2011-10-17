@@ -2,11 +2,9 @@
 layout: post
 title: La mia intervista del buon Pandemia
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: []
 
-type: post
 status: draft
 ---
 E dopo l'[altra intervista][1] il buon [Luca Conti][2] pubblica l'intervista sul web:  

@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: BitLocker, Dm-Crypt, Filevault, TrueCrypt vulnerabili...
-published: true
 meta: {}
 
 tags: 
@@ -10,11 +9,8 @@ tags:
 - crittografia
 - dm-crypt
 - encryption
-- Forensics
-- Security and Intelligence
-- truecrypt
-type: post
-status: publish
+- forensic
+- security- truecrypt
 ---
 [Sono riusciti][1] a leggere il **contenuto delle DRAM** dopo lo spegnimento del computer.  Cosa significa? Significa che in potenza è possibile, e lo **[hanno fatto][1]** , recuperare dalla memoria la Master Key di uno dei sistemi di cifratura brutalmente disconnettendo la corrente e recuperando il contenuto della memoria, che in quel momento contiene la chiave.  
 In questo modo si ottiene la **Master Key** e sono [riusciti a decifrare BitLocker][1]...  Kudos...  

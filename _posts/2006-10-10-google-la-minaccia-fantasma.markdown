@@ -1,16 +1,13 @@
 --- 
 layout: post
 title: "Google: La Minaccia Fantasma"
-published: true
 meta: 
   aktt_tweeted: "1"
   autometa: google minaccia fantasma LMF tracciamento privacy segretezza riservatezza cookie
 tags: 
-- Digital Freedom
+- digital-freedom
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Evil Google](/download/20061010_Google_Evil.jpg)
 Nei giorni di acquisizione di YouTube (è su tutti i principali quotidiani di informazione del Web) la **predominanza** nel settore del "**web di consumo**" di quel colosso che è Google diviene lampante ai più.

@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: "Italians Do It Better: Truecrypt su MAC grazie a OsxCrypt"
-published: true
-meta: 
-  autometa: bamboccioni paese siamo vero
+meta: {}
 tags: 
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Italians Do It Better](http://www.lastknight.com/download/italiansdoitbetter.jpg)
 E' vero, siamo un paese di Bamboccioni. Ci lamentiamo sempre, siamo sempre scontenti e siamo pasticcioni. **A volte**.  

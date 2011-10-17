@@ -1,23 +1,18 @@
 --- 
 layout: post
 title: "Perch\xE8 il PM di Bergamo permette che si RUBINO le PASSWORD di ThePirateBay?"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - censura
 - credenziali
-- Digital Freedom
+- digital-freedom
 - furto
 - hacking
 - Paranoia
 - passowrd
 - password
 - pericolo
-- Security and Intelligence
-- thepiratebay
-type: post
-status: publish
+- security- thepiratebay
 ---
 Eravami rimasti al gravissimo fatto del dirottamento [degli IP di ThePirateBay][1]  su un sito facente capo all'[industria discografica][1], fatto di per sè già gravissima e di cui hanno parlato in moltissimi tra cui Minotti [qui][2] e Mantellini [qui][3], facendo notare come sia **pericoloso** dare i dati di navigazione ad una **parte terza estera** che li usa prevalentemente per **denunciare**.  
   
@@ -56,6 +51,4 @@ C'è veramente **di che vergognarsi** stavolta.
   
 **P.S.S. Non è che dovete PROPRIO hijackare la MIA sessione, eh!?!? :) Qualcuno posta a mio nome in giro... Please, don't. :)**  
   
-[tags] password, furto, thepiratebay, pericolo, credenziali, hacking, passowrd [/tags]
-
  

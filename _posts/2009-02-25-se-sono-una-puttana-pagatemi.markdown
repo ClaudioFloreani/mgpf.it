@@ -2,17 +2,16 @@
 layout: post
 title: Se sono una puttana pagatemi...
 published: false
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - "assurdit\xC3\xA0"
 - Me &amp; The Web
 - pr
 - viral
-type: post
 status: draft
 ---
-<a href="http://www.flickr.com/photos/49503201029@N01/317573437/" title="" target="_blank"><img src="http://farm1.static.flickr.com/136/317573437_6bd65d52ae.jpg" alt="" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/49503201029@N01/317573437/" title="brndnprkns" target="_blank">brndnprkns</a></small>
+<a href="http://www.flickr.com/photos/49503201029@N01/317573437/" title="" target="_blank"><img src="http://farm1.static.flickr.com/136/317573437_6bd65d52ae.jpg" alt="" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/49503201029@N01/317573437/" title="brndnprkns" target="_blank">brndnprkns</a></small>
   
 La "sottigliezza" delle agenzie di PR  odierne mi lascia sempre più spesso esterefatto...  
 Un Viral che si rispetta è accattivante, è diffondibile e si "viralizza" perché veramente lo merita, per un tam tam condiviso, una sorta di "selezione naturale" che mantiene vivo il "migliore", sia che lo si voglia classificare come "il più bello" sia che invece sia semplicemente il "miglior filmato di nicchia".  

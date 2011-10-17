@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: E-Privacy 2007, Google e Caramanico...
-published: true
-meta: 
-  autometa: "importantissima ictpark pescara disertare sommo anzich\xC3\xA8 dispiacere inpegni"
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Con estremo dispiacere mi ritrovo a dover **disertare** la importantissima manifestazione di E-Privacy 2007 a cui avevo avuto il sommo piacere di essere invitato come relatore. Pressanti impegni in seno ad AIP ed al convegno di ICTPark mi obbligano ad essere presente in quel di Pescara anziché nella bella Firenze.  
   

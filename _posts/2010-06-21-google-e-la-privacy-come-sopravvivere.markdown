@@ -1,20 +1,18 @@
 --- 
 layout: post
 title: "Google e la Privacy: 6 consigli per sopravvivere"
-published: true
 meta: 
   _edit_last: "1"
   WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
 tags: 
-- Digital Freedom
+- digital-freedom
 - featured
 - google
 - privacy
 - profiling
-type: post
-status: publish
 ---
-<a href="http://www.flickr.com/photos/48889079811@N01/8182590/" title="Google Cookie" target="_blank"><img src="http://farm1.static.flickr.com/6/8182590_98f030bc01.jpg" alt="Google Cookie" border="0" /></a><br /><small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/48889079811@N01/8182590/" title="massless" target="_blank">massless</a></small>
+<a href="http://www.flickr.com/photos/48889079811@N01/8182590/" title="Google Cookie" target="_blank"><img src="http://farm1.static.flickr.com/6/8182590_98f030bc01.jpg" alt="Google Cookie" border="0" /></a>  
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/48889079811@N01/8182590/" title="massless" target="_blank">massless</a></small>
   
 E' inutile negarlo, Google con i suoi servizi ci coccola come mai nessun servizio web ha fatto finora: se ci serve trovare una strada c'è Google, se dobbiamo condividere dei documenti con colleghi c'è Google, se siamo alla ricerca di qualsiasi cosa sul web c'è sempre Google!  
   

@@ -1,9 +1,7 @@
 --- 
 layout: post
 title: "Un paese senza Arte \xE8 un paese morto"
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - arte
 - bernardo bertolucci
@@ -18,8 +16,6 @@ tags:
 - mgart
 - piazza duomo
 - settimana della moda
-type: post
-status: publish
 ---
 **DISCLAIMER**: *DaringToDo, il circuito DaringToDo, la Casa D'Arte Mg-Art e la Testata Giornalistica fanno parte della stessa holding, la Giacomini Investimenti, a cui fa capo The Fool. Così, giusto per sapere che parlo di fratelli in casa e non di semplici sconosciuti.*  
   

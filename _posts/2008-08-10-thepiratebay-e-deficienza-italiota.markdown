@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: ThePirateBay e deficienza italiota
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - censura
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 Il sito di ThePirateBay è stato censurato in Italia.  
   

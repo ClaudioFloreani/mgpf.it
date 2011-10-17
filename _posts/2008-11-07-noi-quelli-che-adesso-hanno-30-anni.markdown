@@ -1,17 +1,13 @@
 --- 
 layout: post
 title: Noi, quelli che adesso hanno 30 anni
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - 30 anni
 - 30enni
 - billy
 - Me &amp; The Web
 - noi
-type: post
-status: publish
 ---
 Happy Days, Bim Bum Bam, che si poteva andare in giro e non era pericoloso, che di notte vedevi il segnale di interruzione pubblicità...  
   

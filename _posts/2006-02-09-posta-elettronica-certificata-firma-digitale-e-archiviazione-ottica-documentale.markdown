@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Posta Elettronica Certificata, Firma Digitale e Archiviazione Ottica Documentale
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 [![Posta Elettronica Certificata, Firma Digitale e Archiviazione Ottica Documentale](/download/20060809_pec.gif)](/download/20050209_pec_e_archiviazione.pdf)
 Di ritorno dal Convegno **Posta Elettronica Certificata, Firma Digitale e Archiviazione Ottica Documentale** organizzato da LRA a Milano l'8 Febbraio 2006 in cui ho parlato di **Posta Elettronica Certificata** e di **Archiviazione Ottica Sostitutiva e DMS** (vedi alla pagina conferenze ) volevo cogliere l'occasione per un paio di appunti...  

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Se state guardando Vespa...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
-- Digital Freedom
-type: post
-status: publish
+- digital-freedom
 ---
 <img src="http://www.lastknight.com/download//2009/09/trovale.jpg" alt="trovale" title="trovale" width="536" height="217" class="aligncenter size-full wp-image-1555" />  
   

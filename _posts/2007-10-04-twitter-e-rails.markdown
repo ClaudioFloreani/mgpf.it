@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Twitter e Rails...
-published: true
-meta: 
-  autometa: twitter lastknight ruby cookbook beginning carniero hardy orsini apress
+meta: {}
 tags: 
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Twitter](http://www.lastknight.com/download/twitter.thumbnail.png)  
 Accidentaccio a Delymyth e alle sue manie da Geek... Qualla ragazza mi spinge sempre alle peggio cose ;)  

@@ -1,16 +1,11 @@
 --- 
 layout: post
 title: Tre, 78KB al secondo dal treno...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - connessione
-- Security and Intelligence
-- tre
+- security- tre
 - treno
-type: post
-status: publish
 ---
 <code>
 pebble:~ lk$ scp xxxxx@foo.lastknight.com:/home/users/.home/sub.tgz .

@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: "Perch\xE8 amo Milano..."
-published: true
-meta: 
-  autometa: bicicletta bike milano milan video youtube music duomo via-torino biking atmosfere
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 [![Bicicletta LK](/download/20061102_Bici-01.thumbnail.jpg)](/download/20061102_Bici-01.jpg) In attesa dei messaggi riguardanti le prossime conferenze (di cui anticipo le date del **15 e 16 Novembre a Firenze**) che verteranno sui temi "*Crittografia: sopravvivere ad uno stato di Polizia*" e "*Ma l'OpenSource è veramente comunista?*", oltre che qualche novità in merito alla **crittografia GSM e Mail**, volevo rendervi partecipi di un piccolo filmato fatto nella bella Milano e con la compagna di mille avventure, la mia bicicletta :)
   

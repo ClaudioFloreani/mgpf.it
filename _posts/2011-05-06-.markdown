@@ -16,7 +16,6 @@ meta:
   _wp_jd_url: ""
 tags: 
 - about me
-type: post
 status: draft
 ---
 

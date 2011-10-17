@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Consigli per la navigazione
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Un po' di siti consigliati da Matteo (*beta*):
 <ul>

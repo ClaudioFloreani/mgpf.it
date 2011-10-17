@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: Ho fatto il mio dovere...
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - hofattoilmiodovere
 - Me &amp; The Web
 - Politica
 - voto
-type: post
-status: publish
 ---
 <a href="http://flickr.com/photos/lastknight/2409325945/"><img src='http://farm3.static.flickr.com/2297/2409325945_4fcac918f4.jpg?v=0' alt='Ho fatto il io dovere' class='aligncenter' /></a>  
   

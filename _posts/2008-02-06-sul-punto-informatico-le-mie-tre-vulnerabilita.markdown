@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Sul Punto Informatico le mie tre vulnerabilit\xE0"
-published: true
 meta: {}
 
 tags: 
 - hacking
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 E sul Punto Informatico di [oggi](http://punto-informatico.it/p.aspx?i=2181007&p=1), facendo Auting, comunico [che le vulnerabilità le ho segnalate io](http://punto-informatico.it/p.aspx?i=2181007&p=1):  
   

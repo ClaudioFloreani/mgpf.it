@@ -1,7 +1,6 @@
 --- 
 layout: post
 title: Repubblica, la Profilazione di Google e FoolDNS
-published: true
 meta: 
   wordbooker_options: "a:9:{s:18:\"wordbook_noncename\";s:10:\"96f40a483e\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"1\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:7:\"%title%\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";}"
   _edit_last: "1"
@@ -14,8 +13,6 @@ tags:
 - Me &amp; The Web
 - privacy
 - repubblica
-type: post
-status: publish
 ---
 E in mezzo alla calura estiva un bell'[articolo di Repubblica][2] intervista il vostro Matteo Flora, CEO di The Fool, parlando chiaro e senza mezze misure:  
   

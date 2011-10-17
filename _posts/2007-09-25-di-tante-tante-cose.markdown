@@ -1,13 +1,9 @@
 --- 
 layout: post
 title: Di tante tante cose...
-published: true
-meta: 
-  autometa: ""
+meta: {}
 tags: 
 - Me &amp; The Web
-type: post
-status: publish
 ---
 Carissimi,  
   

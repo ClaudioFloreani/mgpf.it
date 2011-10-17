@@ -1,16 +1,12 @@
 --- 
 layout: post
 title: Save the f*cking planet?
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - ambiente
 - humor
 - Me &amp; The Web
 - natura
-type: post
-status: publish
 ---
 Scusate, <s>non l'ho trovato sottotitolato in italiano</s> )grazie a [Giuliano](http://firewalker.iobloggo.com/) per avermi trovato i sottotitoli), ma sono 20 minuti che rido.  
   

@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: In aereo senza liquidi ma con un coltello da macellaio
-published: true
-meta: 
-  autometa: esplosivi binari terrorismo volo lame coltelli ceramica controlli polizia inefficienza
+meta: {}
 tags: 
 - Paranoia
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 ![Coltello in ceramica](http://www.lastknight.com//download/20070202_coltello.jpeg)
 Avevo già accennato al divieto di [portare liquidi in volo](http://www.lastknight.com/2006/12/29/perche-non-si-possono-pertare-liquidi-in-volo-gli-esplosivi-binari/) nel mio post relativo agli [esplosivi binari](http://www.lastknight.com/2006/12/29/perche-non-si-possono-pertare-liquidi-in-volo-gli-esplosivi-binari/) e quindi sapete che **non potete salire** a bordo del nuovo 747 con la vostra **bottiglietta di acqua** in mano (nemmeno se data per gioco ad una [bimba treenne](http://www.lastknight.com/2006/12/29/perche-non-si-possono-pertare-liquidi-in-volo-gli-esplosivi-binari/)).  

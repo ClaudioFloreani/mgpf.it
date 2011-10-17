@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: "Seminario Libert\xE0 Digitali 27 Marzo a Cagliari"
-published: true
 meta: {}
 
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Il [GULCh](http://www.gulch.crs4.it/) (Gruppo Utenti Linux Cagliari), in collaborazione con il Dipartimento di Ingegneria Elettrica ed Elettronica (DIEE) della Facoltà di Ingegneria e l'amico **Giovanni Battista Gallus**, organizza a **Cagliari il 27 Marzo 2006** un seminario intitolato "[Libertà Digitali: Censure e DRM vs libertà dell'utente](http://www.gulch.crs4.it/soci/pbusilacchi/seminariolibertadigitali)" che consiglio vivamente a quanti avranno la possibilità di partecipare.
 

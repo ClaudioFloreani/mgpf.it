@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Intervista a Raoul Chiesa e citazione...
-published: true
-meta: 
-  autometa: multimedia idalbum idmsezione 3820 raoul lastampa hacker chiesa
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 Per chi ha qualche minuto e vuole approfondire i temi di [Profilo Hacker]() il libro di Raoul Chiesa è disponibile una bella [video intervista](http://www.lastampa.it/multimedia/multimedia.asp?IDmsezione=29&IDalbum=3820&tipo=VIDEO) di Raoul sulla [Stampa](http://www.lastampa.it/multimedia/multimedia.asp?IDmsezione=29&IDalbum=3820&tipo=VIDEO).  
 Raoul parla dei differenti tipi di hacker, dell'ethical hacking e degli ultimi temi di **digital warfare**, come ad esempio l'intervento della NATO per gli attacchi informatici dell'Estonia.  

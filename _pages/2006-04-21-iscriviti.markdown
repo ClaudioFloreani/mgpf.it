@@ -1,7 +1,6 @@
 --- 
 layout: page
 title: Iscriviti!
-published: true
 meta: 
   _edit_last: "1"
   _wp_page_template: default
@@ -9,7 +8,6 @@ meta:
 tags: []
 
 type: page
-status: publish
 ---
 Se volete essere **aggiornati sulle ultime novità** di LastKnight Dot Com è **sufficiente iscriversi** compilando il form che trovate qui sotto.  
 I vostri indirizzi **verranno custoditi gelosamente** e secondo le policy espresse nella pagina di [Informativa alla Privacy](/privacy)!  

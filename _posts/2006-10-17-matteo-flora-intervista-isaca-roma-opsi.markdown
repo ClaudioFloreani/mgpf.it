@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Intervista su ISACARoma
-published: true
-meta: 
-  autometa: revelli isaca intervista matteo flora sicurezza opsi
+meta: {}
 tags: 
-- Conferenze
-- Security and Intelligence
-type: post
-status: publish
+- about-me
+- security
 ---
 ![Intervista di ISACA a Matteo Flora](http://www.lastknight.com//download/20061017_isaca.jpg)
 Il [capitolo romano](http://www.isacaroma.it/html/newsletter/node/300) della notissima ISACA [pubblica](http://www.isacaroma.it/html/newsletter/node/300) oggi una **[intervista](http://www.isacaroma.it/html/newsletter/node/300) con il sottoscritto** in merito agli scottanti argomenti della **Sicurezza Informatica**, ad OPSI e alle future **minacce alla sicurezza** che la IT Society dovrà affrontare nei prossimi anni.  

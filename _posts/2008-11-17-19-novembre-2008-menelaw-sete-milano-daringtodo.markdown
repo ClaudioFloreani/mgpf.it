@@ -1,22 +1,17 @@
 --- 
 layout: post
 title: 19 Novembre, Milano - Una serata con Menelaw Sete tra Arte e Cultura
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - censura
 - contemporary art
 - daring to do
 - DaringToDo
-- Digital Freedom
+- digital-freedom
 - Me &amp; The Web
 - menelaw sete
-- Security and Intelligence
-- The Fool
+- security- The Fool
 - tortona
-type: post
-status: publish
 ---
 <img src="http://www.lastknight.com/download//2008/11/thumbphp.jpeg" alt="" title="thumbphp" width="500" height="180" class="aligncenter size-full wp-image-1180" />  
   
@@ -66,6 +61,4 @@ E' richiesta la gentile conferma della presenza.
   
 A Mercoledì!  
   
-[tags] daringtodo, daring to do, menelaw sete, contemporary art, tortona [/tags]
-
 [1]: http://maps.google.com/maps?f=q&hl=en&geocode=&q=via+Tortona,+27,++Milano,+Milano+(Lombardia),+Italy&sll=37.0625,-95.677068&sspn=44.52365,93.164063&ie=UTF8&ll=45.452093,9.165215&spn=0.009679,0.022745&z=16&iwloc=addr 

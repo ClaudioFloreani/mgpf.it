@@ -1,20 +1,16 @@
 --- 
 layout: post
 title: Hitler e Google
-published: true
-meta: 
-  _edit_last: "1"
+meta: {}
 tags: 
 - bigbrother
 - censorship
-- Digital Freedom
+- digital-freedom
 - google
 - grandefratello
 - hitler
 - privacy
-- Security and Intelligence
-type: post
-status: publish
+- security
 ---
 Mi fanno notare che la frase del CEO di Google:  
   

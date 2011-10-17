@@ -1,14 +1,10 @@
 --- 
 layout: post
 title: Achmed, il terrorista morto
-published: true
-meta: 
-  autometa: censura terrorismo privacy melica "estote parati" luttazzi satira
+meta: {}
 tags: 
-- Digital Freedom
-- Security and Intelligence
-type: post
-status: publish
+- digital-freedom
+- security
 ---
 <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/G-M2N9lbme4&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/G-M2N9lbme4&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>  
   

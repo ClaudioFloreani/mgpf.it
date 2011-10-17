@@ -1,14 +1,11 @@
 --- 
 layout: post
 title: Curriculum Vitae
-published: true
 meta: 
   _wp_page_template: default
   autometa: ""
 tags: []
 
-type: post
-status: publish
 ---
 ![Matteo Flora](/download/io.jpg) 
 Mi chiamo Matteo G.P. Flora e  svolgo attività di:  

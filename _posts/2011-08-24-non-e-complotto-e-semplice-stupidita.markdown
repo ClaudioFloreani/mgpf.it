@@ -1,12 +1,9 @@
 --- 
 layout: post
 title: "Non \xC3\xA8 Complotto, \xC3\xA8 semplice Stupidit\xC3\xA0"
-published: true
 meta: 
 tags: 
 - about-me
-type: post
-status: publish
 ---
 Ho trovato qualcun altro che la pensa come me:
 
