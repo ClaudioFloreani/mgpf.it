@@ -7,10 +7,10 @@
 body {
   background-color: #ffffff;
   color: #222;
-  font-family: "Georgia","Times New Roman",serif;
+  font-family: "Palatino", "Georgia","Times New Roman",serif;
   font-size: 1.1em;
   line-height: 1.5em;
-  letter-spacing:0.05em;
+  letter-spacing:0.03em;
   text-align:justify;
   margin: 20px auto 18px 25%;
 }
@@ -75,7 +75,7 @@ ul, ol {
   margin-left: 2em;
 }
 
-ul { list-style-type: square; }
+ul { list-style-type: disc; font-size:1.15em }
 
 /* html5 */
 header, footer, nav, article { display: block; }
@@ -103,7 +103,7 @@ header h2 {
 .post p {
   font-size: 1.15em;
   line-height: 1.5em;
-  letter-spacing:0.05em;
+  letter-spacing:0.03em;
   text-align:justify;
 }
 
@@ -133,7 +133,7 @@ header h2 {
 }
 
 #intro {
-  color: #333;
+  color: #666;
   font-size: 2em;
   margin-bottom: 24pt;
   margin-top: 24pt;
