@@ -7,9 +7,10 @@
 body {
   background-color: #ffffff;
   color: #222;
-  font-family: "Georgia","Times New Roman",serif;
+  font-family: "Palatino","Georgia","Times New Roman",serif;
   line-height: 1.4em;
-  margin: 20px auto 18px 25%;
+  margin: 20px auto 18px auto;
+  text-align:justify;
 }
 
 a:link {
@@ -77,6 +78,11 @@ ul { list-style-type: square; }
 /* html5 */
 header, footer, nav, article { display: block; }
 
+header {
+  margin: 0 auto;
+  width: 640px;
+}
+
 header h2 {
 	margin-bottom: 50px;
 }
@@ -98,8 +104,9 @@ header h2 {
 }
 
 .post p {
-  font-size: 1.1em;
+  font-size: 1.2em;
   line-height: 26px;
+  line-height: 1.6em;	
 }
 
 .post .signoff {
@@ -146,4 +153,5 @@ header h2 {
 
 #wrapper {
   width: 640px;
+  margin:0 auto;
 }
