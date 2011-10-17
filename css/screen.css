@@ -5,23 +5,23 @@
 }
 
 body {
-  background-color: #edf1f3;
+  background-color: #ffffff;
   color: #222;
-  font-family: 'Times New Roman', 'Times', serif;
+  font-family: "Georgia","Times New Roman",serif;
   line-height: 1.4em;
   margin: 20px auto 18px 25%;
 }
 
 a:link {
-  color: #336699;
+  color: #e91e23;
   text-decoration: none;
 }
 a:visited {
-  color: #660000;
+  color: #e91e23;
   text-decoration: none;
 }
 a:hover {
-  color: #336699;
+  color: #e91e23;
   text-decoration: underline;
 }
 
@@ -55,7 +55,7 @@ h1 {
 
 h2 {
   font-size: 24px;
-  line-height: 22px;
+  line-height: 26px;
   margin-bottom: 18px;
 }
 
@@ -77,6 +77,10 @@ ul { list-style-type: square; }
 /* html5 */
 header, footer, nav, article { display: block; }
 
+header h2 {
+	margin-bottom: 50px;
+}
+
 /* classes */
 .book-cover {
   float: left;
@@ -94,7 +98,7 @@ header, footer, nav, article { display: block; }
 }
 
 .post p {
-  font-size: 13pt;
+  font-size: 1.1em;
   line-height: 26px;
 }
 
@@ -120,11 +124,12 @@ header, footer, nav, article { display: block; }
   font-size: 10pt;
   text-align: center;
   width: 150px;
+  display:none;
 }
 
 #intro {
-  color: #666;
-  font-size: 22pt;
+  color: #333;
+  font-size: 2em;
   margin-bottom: 24pt;
   margin-top: 24pt;
 }
@@ -140,7 +145,5 @@ header, footer, nav, article { display: block; }
 }
 
 #wrapper {
-  max-width: 40em;
-  min-width: 30em;
-  width: 32em;
+  width: 640px;
 }
