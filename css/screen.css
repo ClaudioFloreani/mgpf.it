@@ -8,7 +8,10 @@ body {
   background-color: #ffffff;
   color: #222;
   font-family: "Georgia","Times New Roman",serif;
-  line-height: 1.4em;
+  font-size: 1.1em;
+  line-height: 1.5em;
+  letter-spacing:0.05em;
+  text-align:justify;
   margin: 20px auto 18px 25%;
 }
 
@@ -30,7 +33,7 @@ a img { border-width: 0; }
 blockquote {
   border-left: 1px solid #222;
   line-height: 18px;
-  font-size: 11pt;
+  font-size: 1em;
   font-style: italic;
   margin: 20px;
   padding-left: 10px;
@@ -98,8 +101,10 @@ header h2 {
 }
 
 .post p {
-  font-size: 1.1em;
-  line-height: 26px;
+  font-size: 1.15em;
+  line-height: 1.5em;
+  letter-spacing:0.05em;
+  text-align:justify;
 }
 
 .post .signoff {
