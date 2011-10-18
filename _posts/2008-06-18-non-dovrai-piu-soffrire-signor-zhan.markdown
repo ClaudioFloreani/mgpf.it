@@ -17,4 +17,4 @@ Era un perseguitato politico che aveva cercato rifugio in Australia dopo essere 
   
 Non dovrà più soffrire: piuttosto che tornare in patria come rimpatriato [si è suicidato](http://www.abc.net.au/news/stories/2008/06/16/2275279.htm).  
   
-[tags] cina, libertà, figuziato, zhang [/tags] 
+ 

@@ -31,4 +31,4 @@ Buon divertimento (e nel caso preparate il sacchetto di carta)... :)
 *P.S. Ho scoperto oggi, all'alba dei 30 anni, di aver sempre scritto "innaugurazione" con due N anziché la corretta forma con una N solamente. Doh!*  
 *P.P.S. Se avete suggerimenti mandatemeli in privato alla pagina contatti e non come commento: ci sarà il vostro nome nella rubrica ed eviteremo di avere 10 segnalazioni in un unico articolo!*  
   
-[tags] devotee, marcio, peggio della rete, PDR, worst of web, wow [/tags] 
+ 

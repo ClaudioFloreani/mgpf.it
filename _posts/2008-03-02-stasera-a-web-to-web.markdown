@@ -17,4 +17,4 @@ Nel frattempo se volete potete dare un occhio alla precedente puntata:
   
 <object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/Dw3DB_HF_OU&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Dw3DB_HF_OU&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
   
-[tags] webtoweb, mogulus, diretta TV [/tags] 
+ 

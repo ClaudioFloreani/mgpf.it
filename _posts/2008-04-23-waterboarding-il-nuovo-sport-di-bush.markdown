@@ -29,4 +29,4 @@ Ma arrivano gli Yenkees:
   
 *(maggiori approfondimento su Wikipedia alla voce [waterboarding](http://it.wikipedia.org/wiki/Waterboarding))*  
   
-[tags]  tortura, amnesty, waterboarding, crudeltà, bush, unsubscribe-me  [/tags] 
+ 

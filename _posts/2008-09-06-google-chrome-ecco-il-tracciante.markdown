@@ -25,4 +25,4 @@ Richieste successive nei giorni hanno medesimo **wrkey** se partono da medesima 
   
 Buon divertimento.  
   
-[tags] google chrome, google, tracciamento, privacy, fooldns [/tags] 
+ 

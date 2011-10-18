@@ -20,4 +20,4 @@ E anche le mie [fotografie di Trani][1] su Flickr...
   
 [1]: http://farm3.static.flickr.com/2139/2391690095_8e7a31f4ca.jpg  
   
-[tags] trani, cattedrale, fotografie, cartolina [/tags] 
+ 

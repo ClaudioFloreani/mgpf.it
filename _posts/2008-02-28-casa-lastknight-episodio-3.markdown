@@ -15,5 +15,5 @@ tags:
 Ecco la terza puntata del videoblog, un poco **OT** rispetto alle altre, trattando di Web e non di sicurezza, in particolar modo delle affermazioni di Alessandra Graziottin a Porta a Porta...  
 Fatemi sapere le vostre opinionie se, soprattutto, preferite che rimanga pienamente nel target della Sicurezza Informatica o che spazi tra altri argomenti.  
   
-[tags] Alessandra Graziottin, Porta a Porta, Casa Lastknight, lastknight [/tags]
+
  

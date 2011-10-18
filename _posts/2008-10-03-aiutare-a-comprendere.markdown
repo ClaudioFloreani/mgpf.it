@@ -13,4 +13,4 @@ tags:
   
 A volte è facile capire da che parte stare...  
   
-[tags] america, terrorism [/tags] 
+ 

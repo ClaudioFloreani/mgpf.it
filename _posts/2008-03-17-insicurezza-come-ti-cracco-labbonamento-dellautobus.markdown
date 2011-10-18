@@ -63,4 +63,4 @@ Ancora una volta Estote Parati.
 [4]: http://www2.ru.nl/media/pressrelease.pdf
 [5]: http://www.garanteprivacy.it/garante/doc.jsp?ID=1339692
 
-[tags] mifare classic, ntx, mifare, rfid, cracking, crypto-1, autobus, abbonamenti, Karsten Nohl, Henryk Plötz [/tags] 
+ 

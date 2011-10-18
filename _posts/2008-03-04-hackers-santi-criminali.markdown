@@ -33,4 +33,4 @@ Ed inoltre eccovi le slide:
 
 [1]: http://www.lastknight.com/2007/12/15/hackers-santi-criminali-il-problema-della-disclosure-in-italia/
 
-[tags] hacking, disclosure, hacker's manifesto, cracking, full-discloure, half-disclosure, hacker santi criminali, lastknight, matteo flora [/tags] 
+ 

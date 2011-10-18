@@ -16,4 +16,4 @@ Come [oggi qui](http://sw4n.net/2008/04/22/professione-divulgatore-informatico-1
   
 Immenso.... ;)  
   
-[tags]  sw4n, divulgatore informatico, professore  [/tags] 
+ 

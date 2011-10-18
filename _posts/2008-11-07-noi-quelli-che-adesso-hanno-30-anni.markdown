@@ -15,4 +15,4 @@ Che nostalgia pensare che i nostri figli non sapranno nemmeno che cosìè la cab
   
 <object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/6Sruw0Wr5zI&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/6Sruw0Wr5zI&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
   
-[tags] noi, 30 anni, 30enni, billy [/tags] 
+ 

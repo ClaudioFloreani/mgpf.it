@@ -18,4 +18,4 @@ Sicuramente sono io che non capisco **una star del suo calibro** che, come ha de
 
 <object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/HSs9bc0OyFY&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/HSs9bc0OyFY&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>
   
-[tags] loredana bertè, bestemmie, extracomunitari, razzismo, maleducazione [/tags] 
+ 

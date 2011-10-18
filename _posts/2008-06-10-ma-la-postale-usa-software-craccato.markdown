@@ -29,5 +29,5 @@ Cheddire? Complimentoni!
   
 **UPDATE** Sempre dal sito di [Paolo](http://paolo.evectors.it/italian/2008/06/company-pippo.html)  scopro anche che l'immagine della Repubblica è... presa da altro sito sequestrato dai colleghi :) In particolare <http://www.cosilinum.it/stellone.gif> che rimane del sorgente.... **LOL!**  
   
-[tags] forensics, follie, danilo, AntonioMonteleone, Antoniomonteleone.it [/tags]
+
  

@@ -33,4 +33,4 @@ Diffondete.
   
 [1]: http://www.securityfocus.com/bid/29386/info  
   
-[tags] symantec, swf, adobe, flash, zero-day [/tags] 
+ 

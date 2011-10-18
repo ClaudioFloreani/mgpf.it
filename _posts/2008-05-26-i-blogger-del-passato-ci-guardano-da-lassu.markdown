@@ -13,4 +13,4 @@ tags:
   
 XKCD. Semplicemente [geniale](http://xkcd.com/428/).  
   
-[tags] striscia, fumetto, xkcd, blogger [/tags] 
+ 

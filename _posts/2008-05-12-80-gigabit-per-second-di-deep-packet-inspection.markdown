@@ -25,4 +25,4 @@ Resta da capire se la device sia anche Calea Compliant:
   
 > Service providers are required by various governments around the world and their agencies to allow lawful intercept capabilities. This had been previously met by creating a traffic access point (TAP) using an intercepting proxy server that connects to the government's surveillance equipment. Now that this functionality can be included in the DPI, DPI products that are "CALEA-compliant" can be used as a TAP to collect a user's datastream.
   
-[tags]  DPI, deep packet inspection, skype, calea compliant  [/tags] 
+ 

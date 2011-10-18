@@ -14,4 +14,4 @@ Mi sembra un **modo comodo e veloce** per poter dare l'opportunita di usufruire 
   
 **P.S.: Come avrete visto in spalla appare solamente ora il banner per non appesantire la navigazione. Che ne pensate? E' una scelta corretta o preferivate i filmati?**  
   
-[tags] matteo flora, videoblog, casa lastknight [/tags] 
+ 

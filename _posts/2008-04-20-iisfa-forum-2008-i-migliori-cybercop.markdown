@@ -53,4 +53,4 @@ Attendiamo il materiale audio/visivo e quindi nel frattempo.... nanna e meritato
   
 **INCIDENTALMENTE 2:** Tre quarti della compagine di squadra (lk, pila, rebus) sono [Mensani](http://www.mensa.it). Non serve per essere migliori, ma solamente a generare più **entropia** nella squadra! :)
   
-[tags] cybercop, cybercop italiani, vincitori iisfa, iisfa 2008, computer forensics, informatica forense, Gerardo Costabile, Matteo Flora, Andrea Ghirardini, Davide Gabrini, Alessandro Clementi, Giuseppe Mazzaraco [/tags] 
+ 

@@ -17,4 +17,4 @@ Io lo adoro. Veramente. E' uno dei top5 rss del giorno.
 E mai una volta che faccia qualcosa di meno che scompisciante :)  
 [Seguitelo!](http://www.shockdom.com/eriadan/?p=3024)
 
-[tags] eriadan, fumetti, screensaver, bug, windows [/tags] 
+ 

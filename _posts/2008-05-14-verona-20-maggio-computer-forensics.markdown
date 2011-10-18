@@ -67,4 +67,4 @@ L'abstract completo degli interventi e le istruzioni sul come arrivare, oltre al
 
 Per ulteriori informazioni: Davide Quaglia, tel. +39 045 8027811, davide.quaglia@univr.it  
   
-[tags] forensic, computer forensic, conferenza [/tags] 
+ 

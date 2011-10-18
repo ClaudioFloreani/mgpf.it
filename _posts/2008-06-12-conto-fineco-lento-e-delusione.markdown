@@ -19,4 +19,4 @@ Mi sembra francamente assurdo e, ad oggi, la mia esperienza non può che essere 
   
 Questo non è Web 2.0: è 0.2 volte la carta...  
   
-[tags] banca, fineco, fineco bank, conto fineco, banca fineco [/tags] 
+ 

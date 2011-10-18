@@ -23,4 +23,4 @@ sanzione che potrà variare dai 3000 ai 18000 euro.
   
 Che dire? Tutti a caccia di cartelli e, dove non esposti, tutti a sporgere denunzia! :)  
   
-[tags] privacy, telecamere, garante, 196 [/tags] 
+ 

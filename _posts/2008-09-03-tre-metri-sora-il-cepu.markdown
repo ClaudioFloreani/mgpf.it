@@ -32,4 +32,4 @@ Ecco la descrizione della trasmissione:
   
 Ci sentiamo in diretta più tardi!  Partecipa numeroso! ;)  
   
-[tags] radio popolare, disma, tre metri sopra il cepu, trasmissione, diretta [/tags] 
+ 

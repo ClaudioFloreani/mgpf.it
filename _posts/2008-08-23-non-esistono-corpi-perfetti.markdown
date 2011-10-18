@@ -16,4 +16,4 @@ Impressionante documentario
   
 *P.S. Sto lentamente rientrando nel set of mind del ritorno dalle vacanze... Aspettatevi fiumi di scritto :)*  
   
-[tags] corpi, bellezza, manichini, perfezione [/tags] 
+ 

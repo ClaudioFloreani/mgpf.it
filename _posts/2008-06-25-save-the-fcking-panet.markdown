@@ -16,4 +16,4 @@ Scusate, <s>non l'ho trovato sottotitolato in italiano</s> )grazie a [Giuliano](
   
 Lui è [George Carlin](http://www.georgecarlin.com/). O forse è meglio dire ERA, visto che è morto proprio ieri...  
   
-[tags] george carlin, ambientalisti, comico, satira [/tags] 
+ 

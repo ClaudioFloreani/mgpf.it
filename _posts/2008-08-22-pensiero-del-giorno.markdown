@@ -23,4 +23,4 @@ tags:
   
 *P.S. Mi è arrivata in mail. Se scoprite di chi è la foto ditemelo che metto i credits! Saluti da Praga...*  
   
-[tags] herman hesse, hesse, hate, odio, odiare [/tags] 
+ 

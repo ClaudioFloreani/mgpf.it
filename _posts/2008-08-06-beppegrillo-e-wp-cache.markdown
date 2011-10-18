@@ -20,4 +20,4 @@ Se trovate il sito Off-Line sapere chi mi ha [slashdottato](http://en.wikipedia.
    
 **P.S. Sono l'unico che pensa che seguire i commenti ai post di beppe grillo sia come cercare di stare a leggere /b su 4chan? :P**  
   
-[tags] beppegrillo, mediaset, youtube, slashdot [/tags] 
+ 

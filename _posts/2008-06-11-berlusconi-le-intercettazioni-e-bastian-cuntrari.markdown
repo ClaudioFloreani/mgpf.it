@@ -37,4 +37,4 @@ Hands down respect ;)
   
 P.S. Ricordo che un blog [che vale la pena di seguire](http://sednonsatiata.wordpress.com/) ed un altro [assolutamente da non perdere](http://www.securitywhispers.net/). Ovviamente IMVVVHO...  
 
-[tags] bastiancuntrari, intercettazioni, berlusconi, saccà [/tags] 
+ 

@@ -15,4 +15,4 @@ tags:
 Non letale per intrappolare il "mouse". Semplicemente geniale.  
 Direttamente da [Uncreate](http://www.uncrate.com/men/gear/misc-gadgets/mouse-in-a-pint/)
   
-[tags] geniale, invenzioni, mouse, topo, ratto, trappola [/tags] 
+ 

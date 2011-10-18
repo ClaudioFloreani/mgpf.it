@@ -13,4 +13,4 @@ Io ci sarò sicuramente dalle 19 alle 21:30, poi non so :)
   
 Se volete maggiori dettagli: <http://bloggersmilano.pbwiki.com/Aperitivo-il-25-Aprile>  
   
-[tags]  milano, aperitivo  [/tags] 
+ 

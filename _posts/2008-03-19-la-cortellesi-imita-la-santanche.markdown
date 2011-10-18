@@ -19,4 +19,4 @@ Inchino ed immensa stima!
   
 [preso [qui](http://www.nondiremaivideo.com/2008/03/paola-cortellesi-imita-daniela-santanche-a-parla-con-me.html)]  
   
-[tags] politica, destra, santanchè, fascisti, storace, fini, parla con me [/tags] 
+ 

@@ -29,4 +29,4 @@ Quindi attendiamo sino alla giornata odierna:
   
 Ma vaffanculo, va...  
   
-[tags] fineco, idiozia, customer care gestito da cricieti, partite di bukkake-squash in ufficio, teoria della relatività [/tags] 
+ 

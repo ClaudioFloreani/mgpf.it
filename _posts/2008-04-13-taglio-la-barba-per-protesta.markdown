@@ -16,4 +16,4 @@ Accettasi commenti/insulti...
 <img src='http://farm4.static.flickr.com/3129/2410159246_568c5b9a70.jpg?v=0' alt='Matteo Flora' class='alignnone' />
 </center>  
   
-[tags] matteo flora, bianco e nero, autoritratto [/tags] 
+ 

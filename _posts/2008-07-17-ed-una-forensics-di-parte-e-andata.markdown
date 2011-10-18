@@ -36,4 +36,4 @@ Per me, ora, è tempo di riemergere dal luculo degli ultimi 90 giorni, fare la b
   
 Quando leggerete la notizia sui giornali tra qualche settimana pensatemi da sotto gli ombrelloni!!
   
-[tags] forensics, cf, perizia di parte, consulenza [/tags] 
+ 

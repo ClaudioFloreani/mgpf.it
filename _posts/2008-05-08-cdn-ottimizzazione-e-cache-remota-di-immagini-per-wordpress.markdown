@@ -37,4 +37,4 @@ E, tra parentesi, ricordatevi di farmi gli auguri se mi vedete, visto che il 10 
 [6]: http://wordpress.org/extend/plugins/wp-offload/
 [8]: http://www.lastknight.com/2008/01/29/di-nuovo-hackerato/  
   
-[tags]  wordpress, ottimizzazione, wp-super-cache, wp-offload, wordpress security, steadyoffload, iwordcamp, wordcamp  [/tags] 
+ 

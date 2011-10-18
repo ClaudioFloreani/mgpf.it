@@ -21,4 +21,4 @@ Qualche altro momento fotografico direttamente dal concorso:
 <a href="http://www.flickr.com/photos/lastknight/2430070807/" class="tt-flickr tt-flickr-Medium"><img src="http://farm3.static.flickr.com/2162/2430070807_4b740cf6ba.jpg" alt="ceralacca 2" width="500" height="343" border="0" /></a> 
 </center>  
   
-[tags]  iisfa cybercop, cybercop 2008, matteo flora, andrea ghirardini, davide gabrini, alessandro  [/tags] 
+ 

@@ -15,4 +15,4 @@ E non credo sia merito della **Disney**.
   
 <img src="http://www.lastknight.com/download//pirates-large_673762a.gif" alt="" title="pirates-large_673762a" width="500" height="363" class="aligncenter size-full wp-image-723" />  
   
-[tags] pirati, pirateria, mondo [/tags] 
+ 

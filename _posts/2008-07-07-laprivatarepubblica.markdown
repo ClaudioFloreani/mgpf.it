@@ -27,4 +27,4 @@ Ah, la mamma dei cretini...
 *P.S. Mi dice un collega non informatico che probabilmente non è comprensibile... Allora: il sito è stato registrato in Italia, risiede in Italia con la società Aruba s.p.a. Di Arezzo. Punto. Qualche cerebroleso in AdnKronos ha letto da qualche parte Aruba e ha pensato alla capitale delle Antille Olandesi.* 
 **No, non scherzo. Davvero.**  
   
-[tags] laprivatarepubblica, intercettazioni, berlusconi, antille, aruba, deficienti[/tags] 
+ 

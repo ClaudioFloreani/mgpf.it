@@ -29,4 +29,4 @@ Matteo.
 
 [1]: http://oltreilponte.blogspot.com/2008/05/e-per-una-volta-lappello-per-me.html  
   
-[tags] lavoro, torino, accompagnatrice, disabile [/tags] 
+ 

@@ -15,4 +15,4 @@ Se mi conoscete e vi fa piacere addatemi =].
   
 *P.S. L'immagine non c'entra nulla con il contenuto. Mi sembrava solamente bellissima*  
   
-[tags] facebook, social network [/tags] 
+ 

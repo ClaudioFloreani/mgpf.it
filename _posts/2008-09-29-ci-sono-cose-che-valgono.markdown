@@ -15,4 +15,4 @@ Non so chi sia, ma **grazie**...
   
 P.S. Lo scooter era sotto casa mia e [facilmente riconoscibile](http://flickr.com/photos/lastknight/2421759912/).  
   
-[tags] grazie, gratism thepiratebay [/tags] 
+ 

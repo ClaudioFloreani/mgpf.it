@@ -22,4 +22,4 @@ E la descrizione corrisponde a quelle dell'[intossicazione da metalli pesanti](h
   
 Buffo, no?  
   
-[tags] armonica a vetro, armonica a cristallo, pazzia, depressione, musicisti, strumenti musicali [/tags] 
+ 

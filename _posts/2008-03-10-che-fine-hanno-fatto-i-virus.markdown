@@ -56,4 +56,4 @@ MgpF
 
 NB: nel corso di questo articolo ho utilizzato il termine virus in senso lato. Il termine corretto per la definizione di malware propagantesi in modo autonomo sul web è Worm ed un Worm è anche lo Storm citato. Ho semplicemente ritenuto che l'utilizzo del termine Virus fosse più intuibile all'utente medio del termine "Codice Malevolo". 
   
-[tags] (in)sicurezza, virus, Storm Worm, ddos, troyan, keylogger, form grabber [/tags] 
+ 

@@ -52,7 +52,7 @@ E, quindi, riassumendo:
 Ci vediamo [su FaceBook][1]!   
   
   
-[tags] mgart, mg-art, daringtodo, daring to do, thefool, the fool, menelaw sete, facebook, gruppo facebook [/tags]  
+  
   
 [1]: http://www.facebook.com/group.php?gid=98739020516  
 [2]: http://thefool.it   

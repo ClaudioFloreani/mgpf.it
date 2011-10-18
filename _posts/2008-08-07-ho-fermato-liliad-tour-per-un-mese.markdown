@@ -55,4 +55,4 @@ Che belle le Poste, vero?
   
 Scusate il ritardo e al ritorno posto il Tracking Code!  
   
-[tags] iliad, tour, simplicissimus, poste, posteitaliane [/tags] 
+ 

@@ -25,5 +25,5 @@ Dobbiamo passare a prenderla e portarla a casa tutte le sere in cui esce.
   
 Dove **lo stato manca** inizia **la violenza**. No, non è **giusto**, è semplicemente così.   
   
-[tags] violenza, cittadini, protezione, pistola, omicidio, autodifesa [/tags]
+
  

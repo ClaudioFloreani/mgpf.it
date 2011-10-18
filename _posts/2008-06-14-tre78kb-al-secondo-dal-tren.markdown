@@ -30,4 +30,4 @@ Se volete info anche voi o volete sottoscriverlo e siete di Milano vi do l'indir
   
 Ditegli che **vi manda LK**. E no, non ho una provvigione... Al massimo mi faccio offrire un caffè :)  
   
-[tags] tre, connessione, treno [/tags] 
+ 

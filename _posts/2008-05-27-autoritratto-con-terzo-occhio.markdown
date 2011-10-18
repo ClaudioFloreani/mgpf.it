@@ -22,4 +22,4 @@ Come queste:
   
 P.S. FlickrStream [qui](http://www.flickr.com/photos/lastknight/).  
   
-[tags] fotografia, nikon, d40, flickr, notturna [/tags] 
+ 

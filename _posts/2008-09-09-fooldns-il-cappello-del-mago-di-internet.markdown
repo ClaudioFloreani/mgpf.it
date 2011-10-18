@@ -61,4 +61,4 @@ Uff! Finito il post!
 **P.S.** Onde evitare che [Luca](http://www.cs.berkeley.edu/~luca/) continui a sfracellarmi i maròni nei commenti (e ad essere cassato dal plugin antispam (e all'accusarmi di essere censore blabla)) andate a leggervi [qui](http://osiris.kodeware.net/forums/index.php?showtopic=655&st=0&p=4044&#entry4044) le orrende cose che può fare alla vostra incolumità FoolDns. Poi, pensateci e capirete. Spero. O per lo meno leggerete le faq :)  
 **P.S.** Due colpi di regexp e i commenti sono tornati comodo comodi da moderare... Devo decidermi a mettere giù il plugin di individuazone dei doppi con un minimo di tolleranza... per ora andrà così...  
 
-[tags] privacy, fooldns, advertising, adblock, dns, censura [/tags] 
+ 

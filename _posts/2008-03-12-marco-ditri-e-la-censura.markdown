@@ -26,4 +26,4 @@ Vi ripropongo, nel caso ve lo foste persi, il filmato:
   
 Estote Parati  
   
-[tags] marco d'itri, censura, gentiloni, amms, monopoli [/tags] 
+ 

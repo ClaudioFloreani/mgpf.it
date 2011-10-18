@@ -64,7 +64,7 @@ Sempre tentando, con il mio lavoro, di non attaccarsi a pretestuosi cavilli ma c
 Niente trucchi e niente inganni da chi, ancora, crede che la Legge, una volta adeguatamente argomentate e chiaramente spiegate le parti, saprà prendere la giusta decisione.  
   
   
-[tags] mediaset, youtube, thepiratebay, forensic, quintarelli [/tags]  
+  
   
 [1]: http://www.lastknight.com/2008/09/26/the-pirate-bay-dissequestro-perizia-matteo-flora/
 [2]: http://www.lastknight.com/2008/08/04/the-very-big-faq-of-mediaset-vs-youtube/

@@ -21,4 +21,4 @@ Se qualcuno parte da Milano e vuole fare la strada con me io sono sul treno dell
   
 A domani!  
   
-[tags] wordpress, sicurezza, linux, voip, wireless, hacking [/tags] 
+ 

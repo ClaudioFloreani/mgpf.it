@@ -63,4 +63,4 @@ Ma stiamo scherzando? Il mondo è pieno di negozianti: cercatene uno che sappia 
   
 **P.S. Vediamo se il PR di LastKnight.com vale ancora qualcosa e dove finiremo sull'amico Google con questo post.... :D **  
   
-[tags] Mar.Pag., marpag, pianetashop.it, pianetashop, problemi, causa, legale, review, recensione, pacco non arrivato, customer care, bad review, problematiche, problematico [/tags] 
+ 

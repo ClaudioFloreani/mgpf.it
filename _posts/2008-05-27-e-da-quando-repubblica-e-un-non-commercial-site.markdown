@@ -19,5 +19,5 @@ E tutti quei bei **link a pagamento** delle pagine? E i milioni per la sponsoriz
   
 Suggerirei una bella [rilettura della licenza](http://creativecommons.org/licenses/by-nc-nd/2.5/deed.it).  
    
-[tags] creativecommons, creative commens, repubblica [/tags]
+
  

@@ -25,4 +25,4 @@ Complimentoni!  **Pollice vorso** a Nòva e pollice in alto, invece, al buon Beg
   
 Ma che Beggi sia un gentiluomo non è una novità...  
   
-[tags] nòva, bastardi, ladri, web 1.0, retrogradi [/tags] 
+ 

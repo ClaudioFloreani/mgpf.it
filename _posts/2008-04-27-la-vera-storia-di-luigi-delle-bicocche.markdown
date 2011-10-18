@@ -28,4 +28,4 @@ Sarò anche qualunquista, non dico di no, ma permettetemelo.
   
 Massimo rispetto, signor Caparezza.  
   
-[tags]  caparezza, sono un eroe, rispetto, massimo rispetto  [/tags] 
+ 

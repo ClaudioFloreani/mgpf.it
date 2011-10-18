@@ -35,4 +35,4 @@ A Lunedì!
   
 [1]: http://www.hackthis.info/  
 
-[tags] hacking, meeting, ccc, hat, hat2008 [/tags] 
+ 

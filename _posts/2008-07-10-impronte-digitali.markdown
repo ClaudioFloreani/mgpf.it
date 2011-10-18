@@ -18,4 +18,4 @@ tags:
   
 Via [Autistici](http://cavallette.autistici.org/2008/07/1901). E già che ci siete, perchè non [dare una mano](http://www.autistici.org/it/who/costs.html)?  
   
-[tags] maroni, maròni, fuori dai maroni, rom, sputi, romania, impronte digitali, impronte [/tags] 
+ 

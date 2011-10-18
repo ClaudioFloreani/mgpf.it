@@ -16,4 +16,4 @@ Se mi passate a meno di 30 metri con un pezzo di pane in mano **perdete il bracc
   
 *Giuro.*  
   
-[tags] carbo withdrawal, carbo addiction, vegan, raw food, crudismo [/tags] 
+ 

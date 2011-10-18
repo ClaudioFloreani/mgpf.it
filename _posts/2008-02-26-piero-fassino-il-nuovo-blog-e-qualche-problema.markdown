@@ -31,4 +31,4 @@ E quindi? E quindi uscire con delle vulnerabilità mi da fastidio... Facciamo co
   
 Ma **porcapaletta ragazzi**! Anche voi? :(  
   
-[tags] fassino, sito web, blog, cannocchiale [/tags] 
+ 

@@ -24,4 +24,4 @@ Grazie a tutti quelli che hanno seguito (almeno una decina) la diretta di staser
   
 Alla prossima!  
   
-[tags] vespa, matteo flora, web2web, web to web, diretta, manfrys [/tags] 
+ 

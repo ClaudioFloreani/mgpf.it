@@ -17,4 +17,4 @@ Non so cosa ne pensiate voi, ma per me è geniale. Lui è [Dennis Liu][1] e [qui
 [1]: http://www.dennisaliu.com
 [2]: http://www.tuaw.com/2008/05/15/tuaw-interview-filmmaker-dennis-liu/
 
-[tags] apple, viral, again and again, video, screencast [/tags] 
+ 

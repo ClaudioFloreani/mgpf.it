@@ -75,4 +75,4 @@ E, soprattutto, leggetevi quanti [diritti date gratuitamente](http://it.youtube.
   
 E diffidate sempre dai **diritti perpetui e irrevocabili**.  
   
-[tags] ignoranza, youtube, mediaset, byoblu, pressapochismo [/tags] 
+ 

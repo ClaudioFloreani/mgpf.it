@@ -18,4 +18,4 @@ Se vi appare una [pagina strana](http://www.lastknight.com/access_log.php) sapet
   
 Se trovate qualcosa di interessante fatemelo sapere... Non sono del tutto convinto...  
   
-[tags] security, web application firewall, htaccess, IPS [/tags]  
+  

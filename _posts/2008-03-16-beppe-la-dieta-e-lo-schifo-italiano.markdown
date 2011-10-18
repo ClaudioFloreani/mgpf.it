@@ -48,4 +48,4 @@ Non posso fare altro che [concordare con Beppe][2] ed arrivare alle medesime sue
 [2]: http://www.bragiu.net/index.php/2008/03/11/la-dieta/
 [3]: http://www.cyphersec.com/?p=268
 
-[tags] politica, destra, sinistra, astensione, rifiuto, vergogna di essere italiano, orgoglio italiano [/tags] 
+ 

@@ -27,6 +27,6 @@ Il filmato è invece accelerato, letterboxato e binacoenerato utilizzando il fid
 
 Ora al via con un po' di sano, buon, vecchio [hacking](http://www.paraglidingforum.com/viewtopic.php?t=14227)...  
   
-[tags] telecamera, milano, filmato, emozioni, macchina, oregon scientific, ACT2K, ACT3K [/tags]
+
 [1]: http://www.lastknight.com/2006/11/02/perche-amo-milano/  
 [2]: http://www.oregonscientificstore.it/index.php?SID=02d326a94af7541413a513ac7f4314&section=m_actioncam& 

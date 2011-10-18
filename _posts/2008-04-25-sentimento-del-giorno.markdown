@@ -18,4 +18,4 @@ tags:
   
 Non so, mi sembrava adeguato per il cima di terrore pedopornofobico che regna....  
   
-[tags] pedopornografia, caccia alle streghe, bimbi, banksy, follia [/tags] 
+ 

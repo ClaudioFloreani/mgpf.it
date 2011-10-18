@@ -15,4 +15,4 @@ tags:
 <a href="http://www.flickr.com/photos/lastknight/2421759912/" class="tt-flickr tt-flickr-Medium"><img src="http://farm3.static.flickr.com/2314/2421759912_b67c2b7b00.jpg" alt="Modding the new scooter" width="500" height="375" border="0" /></a>
 </center>  
   
-[tags]  scooter, sh125, lastknight, matteo flora  [/tags] 
+ 

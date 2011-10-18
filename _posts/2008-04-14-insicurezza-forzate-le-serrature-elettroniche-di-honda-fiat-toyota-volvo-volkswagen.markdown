@@ -54,4 +54,4 @@ Estote Parati.
 [6]: http://www.cosic.esat.kuleuven.be/keeloq/keeloq-rump.pdf
 [7]: http://www.cosic.esat.kuleuven.be/keeloq/
   
-[tags] antifurto, forzare antifurto, antifurto Honda, antifurto Fiat, antifurto Toyota, antifurto Volvo, antifurto Volkswagen [/tags] 
+ 

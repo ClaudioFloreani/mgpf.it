@@ -14,4 +14,4 @@ Non scherzo.
   
 Richiedo semplicemente **cittadinanza** e di poter rinunciare a **quella Italiana**.  
   
-[tags]  cittadinanza, italiana, cercasi cittadinanza, mi trasferisco  [/tags] 
+ 

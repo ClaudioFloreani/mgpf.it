@@ -14,4 +14,4 @@ tags:
   
 Giusto [per non dimenticare](http://it.wikipedia.org/wiki/Strage_di_Capaci)  
   
-[tags] strage, capaci, falcone, mafia [/tags] 
+ 

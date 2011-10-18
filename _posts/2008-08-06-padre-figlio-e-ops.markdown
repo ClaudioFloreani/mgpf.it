@@ -25,5 +25,5 @@ Assolutamente grandioso :)
   
 P.S. In Inglese fa più ridere: Spirito Santo, infatti, si traduce con Holy Ghost, letteramente Santo Fantasma.  
   
-[tags] dio, ghostbusters, xkcd, ratzinger, religione, papa, spirito santo [/tags]
+
  

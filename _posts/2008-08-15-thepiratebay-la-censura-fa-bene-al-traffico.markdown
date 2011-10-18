@@ -25,4 +25,4 @@ Però lo trovo divertente, **da un punto di vista di efficacia** delle norme e d
   
 <s>Interessante anche la **seconda installazione** della board di "Colombo-BT" in altro dominio *(me lo sono dimenticato... hemmm...)*, che conferma che anche il provvedimento contro Colombo ha lasciato il tempo che trova... </s> (colpa mia... E' un Forum di spporto...)   
   
-[tags] censura, censorship, thepiratebay, the pirate bay [/tags] 
+ 

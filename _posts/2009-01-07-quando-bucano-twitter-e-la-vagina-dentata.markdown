@@ -28,4 +28,4 @@ In pratica: Twitter stesso si è fatto bucare uno dei tool che internamente gest
 [2]: http://blog.twitter.com/2009/01/monday-morning-madness.html
 [3]: http://www.notspeakinginmyname.com/  
   
-[tags] hacking, twitter [/tags] 
+ 

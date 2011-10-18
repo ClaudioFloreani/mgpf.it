@@ -29,4 +29,4 @@ La fonte? un noto quotidiano che inizia per R ma che **non linko** visto che sem
 [1]: http://www.napolux.com/2008/04/14/qualcuno-me-lo-deve-spiegare/
 [2]: http://www.ansa.it/opencms/export/site/notizie/rubriche/daassociare/visualizza_new.html_46764298.html  
   
-[tags] repubblica.it, web2.0, seggi elettorali, darwin awards, fotocamere [/tags] 
+ 

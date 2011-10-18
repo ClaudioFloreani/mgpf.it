@@ -23,6 +23,6 @@ Per chi dubita il completo screenshot prima che venga rimosso:
   
 Che ne diciamo di questo **Google bestemmiante**? :D  
   
-[tags] google, porco dio, bestemmie, cristo, suggest, suggerimenti [/tags]  
+  
 
 [1]: http://www.alain.it/2008/09/17/litalia-vista-con-gli-occhi-di-google/    

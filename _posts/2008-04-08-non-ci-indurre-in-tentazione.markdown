@@ -27,4 +27,4 @@ Non avessi dovuto [scrivere l'articolo][3]...
 [2]: http://www.lastknight.com/2008/04/03/sabato-7-10-minuti-di-censura-a-trani/
 [3]: http://www.lastknight.com/2008/04/06/insicurezza-dove-finisce-la-paura-ed-inizia-internet/  
   
-[tags] presa di rete, libera, aeroporto, insicurezza, hacking, aeroporto, bari [/tags] 
+ 

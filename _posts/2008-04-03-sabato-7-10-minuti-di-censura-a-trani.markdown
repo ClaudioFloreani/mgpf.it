@@ -25,6 +25,6 @@ Tra i temi dell'intervento:
 Ovviamente il tutto farà parte del prossimo episodio di Casa LastKnight...  
 Sempre che mi lascino domattina prendere il mio aereo da Linate col Manfrotto al seguito ;)  
   
-[tags] pedofilia, abuso di minori, censura, ibld, wu-ming foundation [/tags] 
+ 
 
 [1]: http://www.temadistudionazionalelions.org/index.php?option=com_content&task=view&id=13&Itemid=1 

@@ -17,6 +17,6 @@ Pregevoli alcune delle novità, [qui][1] un riassunto.
   
 Per il resto si lavora pesantemente su varie Forensics, su BloggerMafia, su Ncrypt.it e tante altre cosine interessanti... Soprattutto, devo dire, su RoR...  
   
-[tags] wordpress, 2.6 [/tags]  
+  
   
 [1]: http://wordpress.org/development/2008/07/wordpress-26-tyner/ 

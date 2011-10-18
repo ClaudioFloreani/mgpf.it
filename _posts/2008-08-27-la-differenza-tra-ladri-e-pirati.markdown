@@ -22,6 +22,6 @@ Tanto da ricrearne una versione in italiano che trovate qui sotto e che, se vole
   
 Credo che sia **necessario** ribadire taluni concetti digitali quando qualcuno continua ad **abbaiare alla luna** su presunti furti e controfurti, che ne dite?  
   
-[tags] furto, pirateria digitale, pirateria, firto digitale, the pirate bay, tpb [/tags]  
+  
   
  

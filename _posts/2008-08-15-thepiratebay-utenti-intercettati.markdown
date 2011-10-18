@@ -40,4 +40,4 @@ Io l'ho detto...
 **P.S. [Dario Salvelli](http://www.dariosalvelli.com/) mi indica che sono arrivato per qualche minuto secondo: ne parla anche [TPB](http://blog.brokep.com/2008/08/15/explain-plz/) nel loro blog...**  
 
   
-[tags] intercettazione, thepiratebay, censura [/tags] 
+ 

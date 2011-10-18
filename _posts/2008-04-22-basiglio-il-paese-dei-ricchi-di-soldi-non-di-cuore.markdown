@@ -30,4 +30,4 @@ Si sa mai che sia troppo povero e che qualcuno, al campo di Basiglio, mi infili 
   
 Già. **Andate le piattole**. Rimangono le **tr*ie**?  
   
-[tags]  razzismo, basiglio, mobbing, povertà, disegno  [/tags] 
+ 

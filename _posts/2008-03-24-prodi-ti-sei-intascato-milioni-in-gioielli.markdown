@@ -25,4 +25,4 @@ Irrilevante un c***o...
   
 Prodi, dove sono finiti i gioielli?  
   
-[tags] prodi, gioielli, furto, concussione, chiocci [/tags] 
+ 

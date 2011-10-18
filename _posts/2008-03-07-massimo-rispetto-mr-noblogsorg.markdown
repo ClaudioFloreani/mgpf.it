@@ -36,5 +36,5 @@ Che forse chi utilizza sistemi di tracciatura su dei server **per definizione no
   
 Forza ragazzi, **avanti così**. E chi vuole può [dare una mano](http://www.autistici.org/it/join/donate.html).
   
-[tags] autistici, inventati, libertà, noblogs, tracciamento, paranoia [/tags]
+
  

@@ -18,4 +18,4 @@ tags:
 Quindi... Ci si lamenta del fatto che Maroni vuole espellere i Rumeni e il ministro Rumeno dice che dovevamo dare fuoco agli accampamenti e sbatterli fuori prima?  
 Qualcuno mi da un sottotitolo, per favore?  
   
-[tags]  romania, rumeni, rom, maroni, pacchetto sicurezza  [/tags] 
+ 

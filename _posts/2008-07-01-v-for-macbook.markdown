@@ -42,4 +42,4 @@ E ancora
   
 E non dimenticate, vi prego, gli ultimi 2 minuti dell'Overture 1812 di Tchaikovsky.  
   
-[tags] mac, macbook, anonymous, guy fawkes, v, vendetta [/tags] 
+ 

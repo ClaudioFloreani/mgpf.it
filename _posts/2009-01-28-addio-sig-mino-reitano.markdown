@@ -22,4 +22,4 @@ E sappi che ogni volta che qualcuno farà il tuo nome qui ci sarà qualcuno che 
 Ciao, Signor Reitano.  
 Un abbraccio.  
   
-[tags] Collegio S.Antonio, busnago, reitani, mino reitano [/tags] 
+ 

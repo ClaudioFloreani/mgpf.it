@@ -17,4 +17,4 @@ tags:
 Si riferisce alla [bimba che tengo in braccio](http://www.lastknight.com/2008/02/24/che-meraviglia-il-torino-barcamp-2008/) sul mio post di [riepilogo del Barcamp](http://www.lastknight.com/2008/02/24/che-meraviglia-il-torino-barcamp-2008/).  
 E che dire? Semplicemente, forse, che ha ragione.  
   
-[tags] blanca, donne, geek girl dinner, GDD, crescere [/tags] 
+ 

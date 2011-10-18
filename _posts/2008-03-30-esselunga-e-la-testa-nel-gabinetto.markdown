@@ -33,4 +33,4 @@ Per ora il PAM dietro all'angolo torna ad essere la **meta preferita**.
 Non voglio colpevolizzare nessuno, voglio solamente **un po' di chiarezza** e delle **dichiarazioni formali**.  
 Tutto qui.  
   
-[tags] esselunga, gabinetto, mobbing, milano, boicottaggio [/tags] 
+ 

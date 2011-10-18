@@ -38,4 +38,4 @@ E per ora 20 minuti de **Lo Zen e l'Arte della Manutenzione del Serpente**!
   
 Che dire, piaciuto?  
   
-[tags] lampropeltis, casa lastknight, elaphe, matteo flora, videoblog [/tags] 
+ 

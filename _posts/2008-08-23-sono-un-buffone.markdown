@@ -36,4 +36,4 @@ E non si capisce proprio per quale motivo la pagina di sequestro dovesse stare s
   
 Detto questo, fate vobis :] ...  
   
-[tags] thepiratebay, buffone, fimi, dichiarazione [/tags] 
+ 

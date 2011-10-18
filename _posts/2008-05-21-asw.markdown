@@ -15,4 +15,4 @@ Finalmente... :)
 **UPDATE:** Non so quanti altri sono entrati in ASW e dopo 16 minuti hanno spedito un Advisory per un XSS di Cookie Stealing al reparto tecnico :) Sembrano simpatici...  
   
 
-[tags] a small world, asmallworld, asw, social network [/tags] 
+ 

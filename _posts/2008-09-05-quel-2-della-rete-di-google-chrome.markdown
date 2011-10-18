@@ -22,4 +22,4 @@ Mmm.. Forse dovrei imparare ad avere un po' più di tatto...
   
 Forse perchè sto lavorando come un pazzo a [questo](http://fooldns.com)?  
   
-[tags] google chrome, google, fooldns, tracciamento, 2% [/tags] 
+ 

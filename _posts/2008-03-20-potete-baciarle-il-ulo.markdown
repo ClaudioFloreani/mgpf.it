@@ -25,4 +25,4 @@ Io personalmente credo che non seguirò il **consiglio illuminato** ma voi liber
   
 Ah, notate prego l'**asterisco sull'indirizzo** e-mail: l'ho messo appositamente per **tutelare la privacy** di questo insolito ammiratore...  
   
-[tags] eleganza, gentilezza, garbo, graziottin [/tags] 
+ 

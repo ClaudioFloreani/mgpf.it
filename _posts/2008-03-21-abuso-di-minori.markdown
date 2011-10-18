@@ -23,4 +23,4 @@ Guardatelo e forse **capirete cosa significa**, almeno in parte, sia per **chi s
 E se qualcuno ancora è titubante rispondo: no, la censura non è la risposta.    
   
 
-[tags] abusi di minori, violenza, bambini, trauma [/tags] 
+ 

@@ -21,4 +21,4 @@ PdR di Oggi: [Become an Hero](http://www.google.com/search?hl=en&q=an+hero).
   
 Buon divertimento (e nel caso preparate il sacchetto di carta)... :)  
   
-[tags] an hero, marcio, peggio della rete, PDR, worst of web, wow [/tags] 
+ 

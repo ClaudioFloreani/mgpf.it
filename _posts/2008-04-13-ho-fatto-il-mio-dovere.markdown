@@ -17,4 +17,4 @@ Anche oggi **ho fatto il mio dovere**.
   
 Aspetto le fotografie di altri blogger su Flickr e Technorati con tag **"hofattoilmiodovere"**...  
   
-[tags] politica, voto, hofattoilmiodovere [/tags] 
+ 

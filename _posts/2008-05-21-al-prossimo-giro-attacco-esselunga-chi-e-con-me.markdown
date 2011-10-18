@@ -22,4 +22,4 @@ Ora spiegatemi, invece, perchè per il SalvaTempo dell'Esselunga devo lasciare a
   
 Siete proprio sicuri di volere regalare la vostra privacy per **10 euro massimo al mese** di sconti Esselunga?  
   
-[tags] esselunga, privacy, garante, fidelizzazione [/tags] 
+ 

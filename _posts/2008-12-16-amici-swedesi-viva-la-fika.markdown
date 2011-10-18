@@ -22,6 +22,6 @@ Vi confermiamo che è così anche in Italia.
 **PS:** Quando mi vedete fare un abnorme numero di post decisamente faceti significa, avete ormai capito, che qualcosa di grosso bolle in pentola... Avete guardato FoolDns e il sito web di The Fool?
   
 
-[tags] fika, caffè, istituzione [/tags]  
+  
 [1]: http://en.wikipedia.org/wiki/Fika 
 [2]: http://www.fooldns.com/statistiche.html 

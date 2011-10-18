@@ -29,4 +29,4 @@ Ricevo con **preghiera di diffusione** e stavolta volentieri diffondo uno scritt
 > E tutto ciò non è riferibile solo allEtica cristiana, poiché esiste unEtica umana che prescinde dalle fedi e dalle convinzioni religiose, e dovrebbe rappresentare anche la bandiera di un umanesimo laico, giacché laicità non significa certo assenza di un cuore e mancanza di valori profondi.  
 > È luomo e la sua stessa essenza  in ultima analisi  che è posto al vaglio dalla vita, messo alla prova nei momenti che contano. Di fronte a questo grande bivio, abbiamo sbagliato spesso strada e, ancora oggi, stiamo per mancare lopportunità di mostrare che la civiltà occidentale può rappresentare un faro per tutto il mondo.  
 
-[tags] etica, civiltà, tibet, massacro [/tags] 
+ 

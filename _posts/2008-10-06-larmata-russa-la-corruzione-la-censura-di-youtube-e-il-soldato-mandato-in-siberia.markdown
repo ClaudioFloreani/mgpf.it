@@ -42,4 +42,4 @@ Vitalij ha un [blog][4], il post più recente è una lettera, indirizzata al tan
 [5]: http://it.wikipedia.org/wiki/Il_cavaliere_di_bronzo
 [6]: http://en.wikipedia.org/wiki/Anatoliy_Serdyukov  
   
-[tags] Vitalij, russia, urss, armata rossa, censura, youtube, putin, rap, eminem [/tags] 
+ 

@@ -47,4 +47,4 @@ Sia chiaro, non ce l'ho con Grillo ed, anzi, appoggio tutta una serie di iniziat
 Ma non fateci caso, forse è solo la fatica del destreggiarmi tra le centinaia di messaggi di insulti :)   
   
 
-[tags] grillo, beppegrillo, grillini, anonymous [/tags] 
+ 

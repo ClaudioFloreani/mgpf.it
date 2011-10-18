@@ -19,4 +19,4 @@ Nel caso non fosse chiaro, il bambino, il poliziotto e la scritta sono un Graffi
  
 **EDIT:** [Qui](http://www.flickr.com/photos/herschell/2412494935/) si vede meglio.  
   
-[tags] banksy, telecamere, grande fratello, controllo [/tags] 
+ 

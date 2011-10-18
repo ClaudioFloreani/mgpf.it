@@ -22,4 +22,4 @@ Oltretutto esattamente sotto alle telecamere che hanno inquadrato. Non ho guarda
   
 Questione di principio...   
   
-[tags]  rose, milano, furto, assurdità  [/tags] 
+ 

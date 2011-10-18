@@ -31,4 +31,4 @@ Massì Ratzinger , parla quando li avranno ammazzati tutti questi bastardi di bu
   
 Dio lo vuole!  
   
-[tags] china, cina, free tibet, tibet, revolt, boycot olimpics, murder, fuck mao, omicidio, barbarie, morte, distruzione, caos, rivolta [/tags] 
+ 

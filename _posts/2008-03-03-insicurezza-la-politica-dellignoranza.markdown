@@ -21,4 +21,4 @@ Come ogni Lunedì eccomi sul Punto Informatico con un nuovo articolo ed ecco qui
   
 [...continua a leggere](http://punto-informatico.it/2207686/PI/Commenti/-in-sicurezza--La-politica-dell-ignoranza/p.aspx)...
 
-[tags] (in)sicurezza, matteo flora, lastknight, punto-informatico, partiti politici, vulnerabilità, owasp [/tags] 
+ 
