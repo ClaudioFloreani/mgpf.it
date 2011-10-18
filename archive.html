@@ -12,13 +12,3 @@ title: Archivio dei Post
   {% endfor %}
   </ul>
 </div>
-<h2 id="intro">La lista di tutti i {{ site.tags.keys.size }} tags in archivio</h2>
-<div class="post">
-  <ul>
-  {% for tag in site.tags.keys.each %}
-  <li>
-    <a href="/tags/{{ tag }}">{{ tag }}</a>
-  </li>
-  {% endfor %}
-  </ul>
-</div>
