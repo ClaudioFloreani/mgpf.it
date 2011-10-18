@@ -18,7 +18,7 @@ Avevo 21 anni, imbecille come pochi. Cone tutti.
   
 E mentre Guccini al Forum cantava io urlavo a suqarciagola, lì davanti. Non avevo le lacrime agli occhi, semplicemente non avevo più lacrime. Ho urlato tutta la voce che avevo, una catarsi di fronte ad una canzone. E finita la canzone sono caduto in ginocchio e ho pianto tutte le lacrime che avrei potuto piangere. E ho capito un po' di cose...   
   
-{% yuoutube VkzxJAHMvtg %}  
+{% youtube VkzxJAHMvtg %}  
   
 > "Ho ancora la forza che serve a camminare, picchiare ancora contro per non lasciarmi stare. Ho ancora quella forza che ti serve quando dici 'si comincia'.  
 > E ho ancora la forza di guardarmi attorno, misciando le parole con due pacchetti al giorno, di farmi trovar lì, da chi mi vuole, sempre nella mia camicia."  

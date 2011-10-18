@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="en-us" http-equiv="Content-Language" />
+    <meta content="Home di Matteo Flora, innovatore, imprenditore e lifehacker" name="description" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Matteo Flora - Atom" href="/atom.xml" />
+    <title>Advisory - PLURIME vulnerabilità su Infostrada.it Libero.it  &mdash;  Matteo Flora su mgpf.it</title>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-74632-8']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  </head>
+  <body>
+    <header>
+      <h1 id="title">
+        Sono <a href="/about.html" title="About">Matteo Flora</a> e qui <a href="/" title="Home">scrivo</a>.
+      </h1>
+      <h2 id="subtitle">
+        Come <a href="/archive.html" title="/video.html">innovatore</a>, <a href="http://thefool.it" title="Video">imprenditore</a> e <a href="/tags/lifehacking/">lifehacker</a>.
+      </h2>
+    </header>
+    <div id="fusionad">
+  <small>advertisement</small>
+</div>
+    <div id="wrapper">
+      <h2 id="intro">Advisory - PLURIME vulnerabilità su Infostrada.it Libero.it</h2>
+<article class="post">
+<p>La saga delle vulnerabilità sul portale di Libero.it sembra destinata dopo il <a href="http://www.lastknight.com/2007/03/27/liberoit-e-xss-pericolo-credenziali/">primo advisory di Rosario Valotta</a> ed il <a href="http://www.lastknight.com/2007/03/28/altra-vulnerabilita-xss-su-liberoit/">mio advisory di ieri</a> ad avere altri interessanti risvolti, come accennavo proprio nella giornata di ieri.  </p>
+
+<p>Libero.it sembra infatti aver adottato la politica del <strong>&ldquo;fixing silenzioso&rdquo;</strong> senza contattare gli autori, anche se per più volte <strong>avevo esortato il management</strong> del noto portale a contattare i singoli ricercatori.<br />
+Non ottenendo alcun tipo di contatto ed essendo quindi <strong>impossibilitati a risolvere</strong> la questione con i gestori dei siti incriminati siamo quindi <strong>obbligati ad utilizzare</strong> il meccanismo della Full-Disclosure per poter comunicare le differenti problematiche rilevate.  </p>
+
+<p>E così questa volta è ora di un <a href="http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html">Advisory</a> <strong>congiunto</strong> mio, di Rosario Valotta e di Matteo Carli che si è aggiunto all&rsquo;allegra combricola con una serie di problematiche.<br />
+L&rsquo;<a href="http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html">Advisory</a>, inviato sulla nota lista Full-Disclosure contiene <strong>istanze multiple di problematiche XSS</strong> ma anche interessanti risvolti su <strong>SQL Injection</strong>.  </p>
+
+<p>Esaminiamo le singole vulnerabilità una ad una, lasciando al <a href="http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html">documento</a> la spiegazione precisa:
+1. <strong>XSS redirector</strong>: Mediante un opportuna pagina configurata è possibile <strong>redirigere l&rsquo;utente</strong> ad una pagina arbitraria e carpire al contempo il <strong>nome utente</strong>. In questo modo i tentativi di Phishing sono di sicuro impatto poiché possono facilmente contenere anche la c<strong>redenziale di username</strong> della persona.  (<em>Rosario</em>)
+2. <strong>XSS Redirector</strong>: Come sopra ma con <strong>script arbitrari</strong> eseguiti direttamente da <strong>una URL</strong>. Ancora più semplice da utilizzare in modo fraudolento. (<em>LK</em>)
+3. <strong>SQL Validation</strong>: Errore di Open Query che conduce agevolmente a <strong>SQL Injection</strong>. Per ovvi problemi legali non è stata approfondita la ricerca ma provate a pensare a che tipo di dati contiene un DB come quello Oracle di Infostrada&hellip;<br />
+   Inoltre l&rsquo;errore mostrato rivela <strong>importanti informazioni sul sistema</strong> dietro cui il portale gira. (<em>LK</em>)
+4. <strong><s>CSS</s>XSS su pagina HTTPS</strong>: Pericolosa variazione dei temi 1 e 2 che consente di iniettare codice XSS direttamente in <strong>una pagina HTTPS</strong>, sfruttando quindi l&rsquo;effetto di &ldquo;sicurezza&rdquo; che una pagina protetta da in un utente. (<em>Matteo Carli</em>)  </p>
+
+<p>Personalmente attendo con ansia di sapere se <strong>potrò comunicare i prossimi problemi rilevati</strong> a qualcuno che può gestire il portale o se mi vedrò <em>costretto</em> ancora una volta a pubblicare un Full-Disclosure per <strong>mancanza di comunicazione</strong>&hellip;  </p>
+
+<p>Che <strong>tristezza</strong> il panorama italiano!  </p>
+
+<p>E pensare che un omologo problema rilevato ieri sul <strong>portale del 190</strong> ha subito portato al contatto con uno dei Responsabili della Sicurezza e ad una <strong>immediata notifica</strong> della presa in carico del problema segnalato&hellip;<br />
+Forse per qualche vendor c&rsquo;è ancora speranza&hellip; </p>
+
+<h2>Articoli (forse) correlati</h2>
+<ul>
+  
+    <li><a href="/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html">Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?</a></li>
+  
+    <li><a href="/2011/10/06/stay-hungry.html">Stay hungry, stay foolish</a></li>
+  
+    <li><a href="/2011/09/29/zenlife-lifehacking-for-hackers.html">ZenLife - LifeHacking for Hackers</a></li>
+  
+    <li><a href="/2011/08/24/non-e-complotto-e-semplice-stupidita.html">Non è Complotto, è semplice Stupidità</a></li>
+  
+    <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
+  
+</ul>
+<h2>Articoli recenti</h2>
+<ul class="posts small">
+	
+    <li><a href="/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html">Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?</a> <i>07/10/2011</i></li>
+	
+    <li><a href="/2011/10/06/stay-hungry.html">Stay hungry, stay foolish</a> <i>06/10/2011</i></li>
+	
+    <li><a href="/2011/09/29/zenlife-lifehacking-for-hackers.html">ZenLife - LifeHacking for Hackers</a> <i>29/09/2011</i></li>
+	
+    <li><a href="/2011/08/24/non-e-complotto-e-semplice-stupidita.html">Non è Complotto, è semplice Stupidità</a> <i>24/08/2011</i></li>
+	
+    <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
+	
+</ul>
+<time class="signoff" datetime="2007-03-29">
+  29/03/2007 con tag:
+	
+		<a href="/tags/hacking">hacking</a>
+	
+		<a href="/tags/security">security</a>
+	
+		<a href="/tags/about-me">about-me</a>
+	
+		<a href="/tags/talk">talk</a>
+	
+</time>
+</article>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'mgpf';
+	var disqus_developer = 1; // developer mode is on
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+      <footer id="footer">
+        
+        <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">
+        
+        <a href="/" title="Home">Home</a> &bull;
+        <a href="/about.html" title="Chi è Matteo Flora e cosa fa">Chi Sono</a> &bull;
+        <a href="/archive.html" title="Archivio dei contenuti">Archivio</a> &bull;
+        <a href="/video.html" title="Viceo e Talk">Video & Talks</a>
+      </footer>
+    </div>
+  </body>
+</html>

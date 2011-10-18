@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="en-us" http-equiv="Content-Language" />
+    <meta content="Home di Matteo Flora, innovatore, imprenditore e lifehacker" name="description" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Matteo Flora - Atom" href="/atom.xml" />
+    <title>Ma perché i sistemi OpenSource sono più sicuri?  &mdash;  Matteo Flora su mgpf.it</title>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-74632-8']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  </head>
+  <body>
+    <header>
+      <h1 id="title">
+        Sono <a href="/about.html" title="About">Matteo Flora</a> e qui <a href="/" title="Home">scrivo</a>.
+      </h1>
+      <h2 id="subtitle">
+        Come <a href="/archive.html" title="/video.html">innovatore</a>, <a href="http://thefool.it" title="Video">imprenditore</a> e <a href="/tags/lifehacking/">lifehacker</a>.
+      </h2>
+    </header>
+    <div id="fusionad">
+  <small>advertisement</small>
+</div>
+    <div id="wrapper">
+      <h2 id="intro">Ma perché i sistemi OpenSource sono più sicuri?</h2>
+<article class="post">
+<p>La giornata di oggi e l&rsquo;annuncio del fixing della casa di Redmond di <a href="">cinque falle di sicurezza</a>, alcune delle quali già conosciute da Febbraio di quest&rsquo;anno ha acceso nella Mailing List di AIP un acceso dibattito sulla <strong>intrinseca insicurezza</strong> dei sistemi ClosedSource.<br />
+In questo scenario ho pensato di riassumere in due parole la mia posizione in materia, che tendo a sottolineare ogni qual volta il problema si pone.<br />
+Onde evitare di essere accusato di <strong>oscurità e di tecnicismi</strong> ho pensato di scrivere un piccolo Post che mostri la situazione in una ottica <strong>agevole da leggere e comprendere</strong>, così da poter dare l&rsquo;opportunità anche a persone non addentro alle problematiche di sicurezza di comprendere il mio punto di vista&hellip;<br />
+Scusate la banalità di alcuni passaggi, servono più che altro a me per costruire il sillogismo ;)<br />
+Credo che il punto di base da sottolineare è il seguente: se possiedi software OpenSource <strong>possiedi (da definizione) i codici sorgenti</strong>.<br />
+Se qualche <strong>problema di sicurezza</strong> viene riscontrato nell&rsquo;applicazione o nel sistema operativo che possiedi hai puoi seguire <strong>tre vie</strong> per ovviare all&rsquo;inconveniente:
+1. Aspettare che il <strong>maintainer</strong> del pacchetto <strong>elabori e ti fornisca un FIX</strong>.
+2. <strong>Fixare tu stesso</strong> in modo eccellente il problema ed inviare il tuo codice al mainteiner perché sia incluso nella prossima versione e <strong>fruibile da tutti gli utenti</strong> con un semplice Update.
+3. Provvedere a creare <strong>tu stesso una &ldquo;patch&rdquo;</strong>, un fix <em>provvisorio</em> che risolva il problema temporaneamente in attesa della perfetta patch del maintainer.<br />
+In ciascuno dei casi la risposta ad alcune problematiche è praticamente immediata poichè se è vero che forse <strong>non si è personalmente</strong> in grado di seguire la strada 2), moltissimi altri delle <strong>migliaia di utilizzatori</strong> dello stesso pacchetto saranno in grado di farlo, di fatto <strong>&ldquo;tamponando&rdquo; alle problematiche in modo corale e pressochè immediato</strong>.<br />
+Inoltre c&rsquo;è una buona probabilità, se si è abbastanza in gamba, che <strong>si possa autonomamente affrontare</strong> per lo meno lo scenario 3 e provvedere alla sicurezza del nostro ambiente <strong>almeno temporaneamente</strong>.<br />
+In un contesto di <strong>sistema operativo proprietario</strong> e &ldquo;monolitico&rdquo; (come di fatto è Windows), al contrario, si è sempre e comunuque <strong>obbligati ad attendere</strong> che l&rsquo;&ldquo;autority&rdquo; in questione prenda atto del problema, studi una soluzione, la faccia realizzare e la diffonda.<br />
+In nessun modo è possibile per l&rsquo;utente <strong>fixare autonomamente</strong> il problema oppure rivolgersi alla community (peraltro altrettanto estesa che quella Open) di sviluppatori: nessuno infatti può fare nulla <strong>non avendo la fisica possibilità</strong> di mettere le mani sul codice e correggere il problema.<br />
+Scusatemi l&rsquo;esempio stupido, ma supponiamo che l&rsquo;oggetto delle nostre speculazioni non siano software ma <strong>automobili</strong>.<br />
+In questo caso, allora, lo scenario del software Closed equivarrebbe allo scenario in cui <strong>per qualunque guasto</strong> si è obbligati ad <strong>andare in casa madre</strong>. Non solamente questo: non saremmo autorizzati ad andare da un <strong>QUALUNQUE meccanico</strong> competente o certificato (ad es. un competente MCSD!), ma ci troveremmo a dover passare per forza <strong>dalla sede centrale della casa automobilistica</strong>.<br />
+Arrivati lì normalmente dopo aver percorso 2500 km, viste che esiste una sola sede centrale per il mondo, ovviamente <strong>troveremmo innumerevoli colli di bottigia</strong> e così per sostituire le pastiglie del freno (ed ovviare ad un problema di sicurezza) ci troveremmo di fronte <strong>altre 8.000 persone con problemi di altra natura</strong> ma giunti prima di noi. In questo modo attenderemmo, ovviamente e giustamente, <strong>circa 8 mesi</strong> per risolvere un inconveniente che altrimenti un meccanico preparato (anche volendo certificato) <strong>avrebbe risolto in 10 minuti</strong>.<br />
+Questo perché il meccanico in questione, in un contesto OpenSource, AVREBBE AVUTO la possibilità <strong>non solamente di osservare</strong> e diagnosticare il problema, ma <strong>anche di fixarlo</strong>&hellip;<br />
+Lasciatemi aggiungere, inoltre, una piccola postilla: il meccanico OpenSource avrebbe anche potuto <strong>occasionalmente notare</strong> che alcune viti del radiatore erano allentate e <strong>avvisare la casa</strong> che esisteva un potensiale problema su quel tipo di vettura. In questo modo con 1.000.000 di meccanici al mondo che <strong>regolarmente squadrano un motore da capo a piedi</strong> per vedere cosa non funziona, il meccanismo di <strong>rilevazione di &ldquo;vulnerabilità&rdquo;</strong> e di segnalazione delle medesime (oltre che di patch) sarebbe sicuramente <strong>ordini di magnitudo più efficiente</strong> e razionale.<br />
+Cosa succede agli utenti di autovetture ClosedSource, invece? Beh, le anomalie <strong>non vengono segnalate</strong> e probabilmente vengono fixate al primo <strong>service-tagliando-pack</strong>. E finchè qualcuno <strong>non si fa del male</strong> per una anomalia molto spesso la stessa <strong>non viene nemmeno divulgata</strong> se non a posteriori.
+Quando si parla di <strong>intrinseca insicurezza dei sistemi closed</strong>, e quindi anche del sistema operativo di casa Redmond, se non si è degli &ldquo;<em>oltranzisti</em>&rdquo; (cosa che peraltro non sono) ci si rivolge proprio a <strong>problematiche di questo tipo</strong>.<br />
+Un fix di qualunque tipo impiega <strong>di norma pochi giorni per applicazioni Open</strong> e <strong>pochi mesi per applicazione Closed</strong>. E spesso questo non è dato dalla intrinseca incapacità del vendor, ma per contingenti necessità organizzative e di priorità.<br />
+Ecco perché, nell&rsquo;ambiente, si parla di <strong>maggior &ldquo;sicurezza&rdquo; dei sistemi OpenSource</strong>: principalmente per il tempo di risposta e per la POSSIBILITA&rsquo; di non essere in balia di un vendor ma di essere, invece, in potenza autonomi di congeniare una soluzione anche solamente &ldquo;tampone&rdquo; (è chiaro che il vendor studierà una soluzione migliore!) a <strong>qualunque tipo di falla</strong> e di problematica.<br />
+Si parla di <strong>poterci sostituire</strong> l&rsquo;acqua del lavavetri, le lampadine dei fanali e le pastiglie dei freni.<br />
+O anche, più semplicemente, di <strong>poterlo fare fare a 1.000.000 di persone</strong> invece che ad una unica entità di vendor&hellip;  </p>
+
+
+<h2>Articoli (forse) correlati</h2>
+<ul>
+  
+    <li><a href="/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html">Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?</a></li>
+  
+    <li><a href="/2011/10/06/stay-hungry.html">Stay hungry, stay foolish</a></li>
+  
+    <li><a href="/2011/09/29/zenlife-lifehacking-for-hackers.html">ZenLife - LifeHacking for Hackers</a></li>
+  
+    <li><a href="/2011/08/24/non-e-complotto-e-semplice-stupidita.html">Non è Complotto, è semplice Stupidità</a></li>
+  
+    <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
+  
+</ul>
+<h2>Articoli recenti</h2>
+<ul class="posts small">
+	
+    <li><a href="/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html">Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?</a> <i>07/10/2011</i></li>
+	
+    <li><a href="/2011/10/06/stay-hungry.html">Stay hungry, stay foolish</a> <i>06/10/2011</i></li>
+	
+    <li><a href="/2011/09/29/zenlife-lifehacking-for-hackers.html">ZenLife - LifeHacking for Hackers</a> <i>29/09/2011</i></li>
+	
+    <li><a href="/2011/08/24/non-e-complotto-e-semplice-stupidita.html">Non è Complotto, è semplice Stupidità</a> <i>24/08/2011</i></li>
+	
+    <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
+	
+</ul>
+<time class="signoff" datetime="2006-07-12">
+  12/07/2006 con tag:
+	
+		<a href="/tags/digital-freedom">digital-freedom</a>
+	
+</time>
+</article>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'mgpf';
+	var disqus_developer = 1; // developer mode is on
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+      <footer id="footer">
+        
+        <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">
+        
+        <a href="/" title="Home">Home</a> &bull;
+        <a href="/about.html" title="Chi è Matteo Flora e cosa fa">Chi Sono</a> &bull;
+        <a href="/archive.html" title="Archivio dei contenuti">Archivio</a> &bull;
+        <a href="/video.html" title="Viceo e Talk">Video & Talks</a>
+      </footer>
+    </div>
+  </body>
+</html>

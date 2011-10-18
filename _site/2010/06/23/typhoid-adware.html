@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="en-us" http-equiv="Content-Language" />
+    <meta content="Home di Matteo Flora, innovatore, imprenditore e lifehacker" name="description" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link rel="alternate" type="application/atom+xml" title="Matteo Flora - Atom" href="/atom.xml" />
+    <title>Typhoid Adware: anche i pc prenderanno il tifo.  &mdash;  Matteo Flora su mgpf.it</title>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-74632-8']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  </head>
+  <body>
+    <header>
+      <h1 id="title">
+        Sono <a href="/about.html" title="About">Matteo Flora</a> e qui <a href="/" title="Home">scrivo</a>.
+      </h1>
+      <h2 id="subtitle">
+        Come <a href="/archive.html" title="/video.html">innovatore</a>, <a href="http://thefool.it" title="Video">imprenditore</a> e <a href="/tags/lifehacking/">lifehacker</a>.
+      </h2>
+    </header>
+    <div id="fusionad">
+  <small>advertisement</small>
+</div>
+    <div id="wrapper">
+      <h2 id="intro">Typhoid Adware: anche i pc prenderanno il tifo.</h2>
+<article class="post">
+<p>Lo scorso maggio il team di ricercatori guidato dal professor [John Aycock][paper-aycock] ha presentato all&rsquo;EICAR (conferenza annuale sull&rsquo; IT-Security) un interessante sistema per diffondere adware e malware all&rsquo;interno di reti poco protette.  </p>
+
+<p><a href="http://www.flickr.com/photos/99527366@N00/4092671973/" title="Yahoo! &amp; Times Square Alliance Free WiFi" target="_blank"><img src="http://farm3.static.flickr.com/2766/4092671973_1c788caa39.jpg" alt="Yahoo! &amp; Times Square Alliance Free WiFi" border="0" /></a><br />
+<small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/99527366@N00/4092671973/" title="Yodel Anecdotal" target="_blank">Yodel Anecdotal</a></small></p>
+
+<p>Come tutti ben sappiamo, gli adware sono quei programmi che spesso arrivano sul nostro computer sotto le mentite spoglie di giochini o screen saver e ci infastidiscono durante la navigazione pubblicizzando prodotti di varia natura (e che possiamo eliminare con FoolDNS Community).  </p>
+
+<p>&ldquo;Typhoid adware&rdquo; è il nome di questo nuovo tipo di infezione che è mutuato dal nome della prima paziente identificata negli Stati Uniti come portatrice sana di febbre tifoide, Mary Mallon altrimenti detta Typhoid Mary. Questa signora contagiò 47 vittime prima di capire di essere malata.  </p>
+
+<p>L&rsquo;idea dei ricercatori Canadesi è abbastanza semplice: un attacco &ldquo;Man in the middle&rdquo; in cui un PC già infetto, fingendo di essere un gateway, eroga agli altri utenti di una rete pagine web, script e video modificati ad hoc. L&rsquo;attacco è subdolo perché il vettore del contagio (il finto gateway) non noterà anomalie, mentre le altre vittime (inondate dagli ads) cercheranno invano programmi malevoli sui propri computer.</p>
+
+<p>Perchè vale la pena approfondire questo argomento?<br />
+Perchè si tratta di una minaccia di semplice realizzazione con la quale probabilmente ci dovremo confrontare.  </p>
+
+<p>Mentre saremo nel nostro internet cafè preferito (o in qualsiasi altro luogo abbastanza affollato), potremmo notare layer piuttosto invadenti che si sovrappongono alle pagine che visitiamo, o video pubblicitari che precedono i filmati di youtube.  </p>
+
+<p>[Il lavoro del professor Aycock e dei suoi collaboratori][paper-aycock] si è soffermato su un solo (seppur abbastanza frequente) scenario: ARP spoofing e modifica dei contenuti web su reti non protette.  </p>
+
+<p>Come molti sapranno, l&rsquo;[ARP][arp-wikipedia] (Address Resolution Protocol) è quel protocollo a cui è demandato il compito di effettuare una corrispondenza tra gli IP ed i MAC address in una rete locale.<br />
+L&rsquo; ARP cache poisoning (letteralmente &ldquo;avvelenamento della cache ARP&rdquo;) è una tecnica che consiste nell&rsquo;inviare messaggi forgiati in modo da confondere gli apparati di rete, che inoltreranno presso l&rsquo;attaccante il traffico destinato ad altri.  </p>
+
+<p>I tool utilizzati dai ricercatori Canadesi per realizzare questo &ldquo;proof of concept&rdquo; sono alla portata di tutti:<br />
+* arpspoof (package dsniff nei repository Debian/Ubuntu), per avvelenare le tabelle ARP;
+* TinyProxy, semplice proxy HTTP scritto in Python all&rsquo;interno del quale si possono implementare le funzioni per la modifica dei contenuti web;
+* iptables, per redirigere il traffico verso i reali destinatari.</p>
+
+<p>Ovviamente l&rsquo;ARP spoofing è solo uno dei possibili modi di implementare un typhoid adware.<br />
+Esistono molti altri attacchi della categoria &ldquo;Man in the middle&rdquo; (come lo switch port stealing, icmp redirect, evil twin) applicabili o meno a seconda della topologia della rete e tutti [ampiamente documentati][oilpj-mitm].  </p>
+
+<p>A questo proposito, è interessante notare come una nuova feature di Windows 7, il [Virtual Wi-fi][vwifi], ben si presti ad un attacco &ldquo;Evil twin&rdquo;, in cui l&rsquo; ignaro &ldquo;portatore sano&rdquo; potrebbe esporre una propria rete &ldquo;fasulla&rdquo; con lo stesso SSID della rete legittima. </p>
+
+<p>L&rsquo;overhead dovuto all&rsquo;intercettazione del traffico, modifica dei contenuti ed inoltro verso i reali destinatari è tutto sommato accettabile: nei test effettuati dai ricercatori si aggira intorno ai 3 secondi nel caso in cui l&rsquo;attaccante voglia modificare un video richiesto su youtube, molto meno, invece, se ci si limita ad iniettare testo nelle pagine HTML [1].  </p>
+
+<p><strong>Come possiamo difenderci?</strong>  </p>
+
+<p>In reti  dove vi siano una buona cultura della sicurezza ed amministratori competenti, il typhoid adware ha poche speranze.<br />
+Esistono diversi tool che consentono di rilevare buona parte delle tipologie di attacco note, ma spesso gli amministratori di rete non approfondiscono queste tematiche (sigh!): stiamo parlando di reti spesso improvvisate, per cui resta una larga fetta di luoghi a rischio che probabilmente frequentiamo.  </p>
+
+<p>Nel caso specifico dell&rsquo;ARP poisoning, l&rsquo;utilizzo di [tabelle statiche][contromisure-arp] vanificherebbe l&rsquo;attacco, ma in reti grandi con un elevato turnover di utenti questa contromisura è impraticabile.<br />
+L&rsquo;utilizzo di un buon firewall è utile per non divenire vettori inconsapevoli del contagio, ma è completamente inutile nel caso in cui dobbiamo difenderci dagli ads.<br />
+Prestiamo attenzione agli access point &ldquo;aperti&rdquo;, nei quali spesso ci fiondiamo senza pensarci neanche mezza volta e nei luoghi affollati, facciamo caso alla potenza del segnale, che non può essere &ldquo;Ottimo&rdquo; se l&rsquo;access point è lontano!
+In attesa che i produttori di antivirus prendano in seria considerazione questo tipo di minaccia non ci resta che alzare un po&rsquo; il livello di allerta, quindi prudenza e buon senso! Siete stati avvertiti ;-)  </p>
+
+<p><i> Articolo in collaborazione con <strong>Giuseppe Saviano</strong></i></p>
+
+<p>[1] : i pc &ldquo;vittima&rdquo; ed &ldquo;attaccante inconsapevole&rdquo; usati per i test sono rispettivamente:
+* 1.5 GHz Intel Celeron, 2 Gb RAM, Ubuntu Linux 8.04, 100 Mbps Ethernet, 802.11g wireless.
+* 1.8 GHz Intel Core2 Duo, 3 Gb RAM, Ubuntu Linux 9.04, 100 Mbps Ethernet, 802.11b/g wireless.
+* Maggiori dettagli su test e metriche sono riportati nel [paper][paper-aycock] oggetto dell&rsquo;articolo.
+[paper-aycock]: http://pages.cpsc.ucalgary.ca/~aycock/papers/eicar10.pdf
+[arp-wikipedia]: http://it.wikipedia.org/wiki/Address_Resolution_Protocol
+[vwifi]: http://www.istartedsomething.com/20090516/windows-7-native-virtual-wifi-technology-microsoft-research/
+[contromisure-arp]: http://it.wikipedia.org/wiki/ARP_poisoning#Contromisure
+[oilpj-mitm]: http://www.oilproject.org/EVENT188 </p>
+
+<h2>Articoli (forse) correlati</h2>
+<ul>
+  
+    <li><a href="/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html">Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?</a></li>
+  
+    <li><a href="/2011/10/06/stay-hungry.html">Stay hungry, stay foolish</a></li>
+  
+    <li><a href="/2011/09/29/zenlife-lifehacking-for-hackers.html">ZenLife - LifeHacking for Hackers</a></li>
+  
+    <li><a href="/2011/08/24/non-e-complotto-e-semplice-stupidita.html">Non è Complotto, è semplice Stupidità</a></li>
+  
+    <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
+  
+</ul>
+<h2>Articoli recenti</h2>
+<ul class="posts small">
+	
+    <li><a href="/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html">Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?</a> <i>07/10/2011</i></li>
+	
+    <li><a href="/2011/10/06/stay-hungry.html">Stay hungry, stay foolish</a> <i>06/10/2011</i></li>
+	
+    <li><a href="/2011/09/29/zenlife-lifehacking-for-hackers.html">ZenLife - LifeHacking for Hackers</a> <i>29/09/2011</i></li>
+	
+    <li><a href="/2011/08/24/non-e-complotto-e-semplice-stupidita.html">Non è Complotto, è semplice Stupidità</a> <i>24/08/2011</i></li>
+	
+    <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
+	
+</ul>
+<time class="signoff" datetime="2010-06-23">
+  23/06/2010 con tag:
+	
+		<a href="/tags/hacking">hacking</a>
+	
+</time>
+</article>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'mgpf';
+	var disqus_developer = 1; // developer mode is on
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+      <footer id="footer">
+        
+        <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">
+        
+        <a href="/" title="Home">Home</a> &bull;
+        <a href="/about.html" title="Chi è Matteo Flora e cosa fa">Chi Sono</a> &bull;
+        <a href="/archive.html" title="Archivio dei contenuti">Archivio</a> &bull;
+        <a href="/video.html" title="Viceo e Talk">Video & Talks</a>
+      </footer>
+    </div>
+  </body>
+</html>
