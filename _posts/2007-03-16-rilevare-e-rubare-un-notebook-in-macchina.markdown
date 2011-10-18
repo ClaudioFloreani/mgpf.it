@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Rilevare e rubare un Notebook in macchina
 meta: {}
 tags: 

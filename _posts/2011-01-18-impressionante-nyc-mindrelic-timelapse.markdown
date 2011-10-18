@@ -1,8 +1,8 @@
 --- 
 layout: post
 status: ok
-title: Impressionante: NYC - Mindrelic Timelapse
-meta: 
+title: Impressionante NYC - Mindrelic Timelapse
+meta: {}
 tags: 
 - awesome
 ---

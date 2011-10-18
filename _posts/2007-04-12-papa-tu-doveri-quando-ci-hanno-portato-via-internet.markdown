@@ -1,14 +1,12 @@
 --- 
 layout: post
-title: "Papà, tu dov'eri quando ci hanno portato via Internet?"
+title: Papà, tu dov'eri quando ci hanno portato via Internet?
 meta: 
-  aktt_tweeted: "1"
-  autometa: "venerd\xC3\x83 riproporvela malaugurante hackday organizza leggera perso lombardia"
 tags: 
-- censura
 - about-me
 - digital-freedom
 - security
+- talk
 ---
 ![HackDay 2007](/download/20070412_hackday.thumbnail.gif)
 Per chi si fosse perso la conferenza a InfoSecurity 2007 eccomi a riproporvela in una sede un poco meno istituzionale e un poco più "leggera".  

@@ -12,15 +12,16 @@ module Jekyll
     end
   end
   class TagGenerator < Generator
-    safe true
-    
+    safe false
     def generate(site)
       if site.layouts.key? 'tag_index'
         dir = 'tag'
         site.tags.keys.each do |tag|
+          puts "building tags archives: '#{tag}' start..."
           write_tag_index(site, File.join(dir, tag), tag)
         end
       end
+      puts "done with tagging! Hurray!"
     end
   
     def write_tag_index(site, dir, tag)
@@ -28,6 +29,7 @@ module Jekyll
       index.render(site.layouts, site.site_payload)
       index.write(site.dest)
       site.pages << index
+      puts "building tags archives: '#{tag}' done!"
     end
   end
 end

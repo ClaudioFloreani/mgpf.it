@@ -1,10 +1,9 @@
 --- 
 layout: post
 status: ok
-title: "Wireless Gratis in Parco Sempione a Milano: tanto fumo e nulla contenuto"
+title: Wireless Gratis in Parco Sempione a Milano - tanto fumo e nulla contenuto
 meta: 
 tags: 
-- digital-freedom
 - security
 ---
 Che la **Moratti** avesse velleità di intascare i 15 e passa milioni di Euro per l'Expo 2015 non è certo una novità.  

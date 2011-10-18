@@ -1,9 +1,10 @@
 --- 
 layout: post
-title: "Aiutami a correre: quando il Web 2.0 fa bene"
+status: ok
+title: Aiutami a correre - quando il Web 2.0 fa bene
 meta: {}
 tags: 
-- security
+- social-media
 ---
 Molto spesso ci ritroviamo nelle nostre caselle di posta elettronica email dal contenuto non veritiero: casi di persone colpite da rare malattie e bambini affetti da gravi patologie; molto spesso ma non sempre!  
   

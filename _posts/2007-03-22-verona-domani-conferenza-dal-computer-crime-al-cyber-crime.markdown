@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: "Verona domani: conferenza \"Dal Computer Crime al Cyber Crime\""
+title: Verona domani - conferenza "Dal Computer Crime al Cyber Crime"
 meta: {}
 tags: 
 - about-me
-- security
+- talk
 ---
 ![Converenza Cybercrime Verona](http://www.lastknight.com//download/20070322_uni.gif)
 Una breve annotazione per informare che grazie al cortese invito del **Prof.Avv. Lorenzo Picotti** sarò a  Verona nella giornata di domani 23 Marzo 2007 come relatore presso la conferenza "Dal Computer Crime al CuberCrime: le nuove minacce delle tecnologie informatiche" organizzata dalla Facoltà di Giurisprudenza dell'Università di Verona.  Qui la [locandina](http://www.giurisprudenza.univr.it/documenti/Iniziativa/dall/dall078015.pdf) dell'evento e la [pagina relativa](http://www.giurisprudenza.univr.it/fol/main?ent=iniziativa&id=1155).  

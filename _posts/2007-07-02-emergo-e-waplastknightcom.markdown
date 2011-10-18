@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Emergo e wap.lastknight.com
 meta: {}
 tags: 

@@ -1,9 +1,8 @@
 --- 
 layout: post
+status: ok
 title: La fucilazione di Pio Pompa e gli archivi del Sismi
 meta: 
-  aktt_tweeted: "1"
-  autometa: pio pompa spionaggio archivi sismi segreti intelligence pollari iraq
 tags: 
 - digital-freedom
 - security

@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Libero.it e XSS: pericolo credenziali!"
+title: Libero.it e XSS - pericolo credenziali!
 meta: {}
 tags: 
 - hacking

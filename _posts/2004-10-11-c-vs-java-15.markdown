@@ -1,7 +1,7 @@
 --- 
 layout: post
 status: ok
-title: C# vs Java 1.5
+title: C sharp vs Java 1.5
 meta: {}
 tags: 
 - develop

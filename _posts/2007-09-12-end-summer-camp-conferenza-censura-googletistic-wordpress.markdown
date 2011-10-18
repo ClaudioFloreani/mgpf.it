@@ -1,10 +1,11 @@
 --- 
 layout: post
+status: ok
 title: All'ESC di Sabato parlo di Censura, Googletistic e hacking Italian Websites
 meta: {}
 tags: 
 - about-me
-- security
+- talk
 ---
 ![Matteo Flora all'ESC 2007](http://www.lastknight.com/download/20070910_esc.png)
 Parlando di censura non si può fare a meno di ricordare **che questo weekend**, dal 14 al 16 Settembre, **sarò ospite** all' ESC, l'End Summer Camp che si tiene a San Donà di Piave e che vedrà relatori di eccezione tra cui l'umile servo vostro (non certo di eccezione, ma pur sempre relatore)...  

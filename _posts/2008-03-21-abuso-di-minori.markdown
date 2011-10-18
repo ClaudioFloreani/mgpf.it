@@ -13,7 +13,7 @@ E' anche complesso parlare di **come ci si relaziona** e come ho dovuto in passa
   
 Mi aiuta a farlo capire Napolux, che oggi linka il seguente video:  
   
-{% yotube pwZET_O2m5s %}  
+{% youtube pwZET_O2m5s %}  
   
 Guardatelo e forse **capirete cosa significa**, almeno in parte, sia per **chi subisce** che per chi **si relaziona a posteriori**...  
   

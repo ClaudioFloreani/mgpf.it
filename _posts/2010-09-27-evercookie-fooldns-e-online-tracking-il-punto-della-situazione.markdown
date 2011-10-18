@@ -5,7 +5,7 @@ title: "Evercookie, FoolDNS e Online Tracking: il punto della situazione"
 meta: 
 tags: 
 - digital-freedom
-- parania
+- paranoia
 - the-fool
 ---
 <a href="http://www.lastknight.com/download//2010/09/fdns.png"><img src="http://www.lastknight.com/download//2010/09/fdns-540x246.png" alt="" title="fdns" width="540" height="246" class="aligncenter size-medium wp-image-2181" /></a>  

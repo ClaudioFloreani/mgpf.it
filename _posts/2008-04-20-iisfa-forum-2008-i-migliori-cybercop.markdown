@@ -4,7 +4,7 @@ title: "IISFA Forum 2008 CyberCop: i vincitori"
 meta: {}
 tags: 
 - about-me
-- forensics
+- forensic
 - talk
 ---
 Non esiste un modo carino per dirlo senza autocelebrazione, quindi lo dico e basta: **abbiamo stravinto**! ;)  

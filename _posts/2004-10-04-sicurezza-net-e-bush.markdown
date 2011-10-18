@@ -1,7 +1,7 @@
 --- 
 layout: post
 status: ok
-title: Sicurezza, .NET e Bush...
+title: Sicurezza, dot net e Bush
 meta: {}
 tags: 
 - weird

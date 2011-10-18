@@ -2,8 +2,6 @@
 layout: post
 title: Aggiornamento Censura e G8
 meta: 
-  aktt_tweeted: "1"
-  autometa: fournier irruzione scuola genova poliziotti imputati accaduti sanguinosa
 tags: 
 - about-me
 - paranoia

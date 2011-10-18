@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Non dimenticate i Feed Rss...
 meta: {}
 tags: 

@@ -3,7 +3,7 @@ layout: post
 title: Digg, il Web 2.0, la community e 09 f9 11 02 9d 74 e3 5b d8 41-56 c5 63 56 88 c0
 meta: {}
 tags: 
-- security
+- hacking
 ---
 ![Digg and HDDVD](http://www.lastknight.com/download/digg.png)
 > **Per chi arriva da ZioBudda:** C'è stata [qualche lamentela](http://www.lastknight.com/2007/05/02/digg-il-web-20-la-community-e-09-f9-11-02-9d-74-e3-5b-d8-41-56-c5-63-56-88-c0/#comment-53106) da parte di un paio di lettori su presunti plagi di questo post che sinceramente non me la sento di confermare. Ne scrive proprio ZioBudda in una [news](http://www.ziobudda.net/punto_informatico_ancora_e_come_sempre_a_copiare_dai_blogger) a cui Paolo De Andreis ha risposto [qui nei commenti](http://www.ziobudda.net/punto_informatico_ancora_e_come_sempre_a_copiare_dai_blogger).  

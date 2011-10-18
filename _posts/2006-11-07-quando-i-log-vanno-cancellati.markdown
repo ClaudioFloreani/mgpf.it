@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Quando i log vanno cancellati...
 meta: {}
 tags: 

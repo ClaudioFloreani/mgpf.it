@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: MOMIS risponde allo splog
 meta: {}
 tags: 
@@ -11,11 +12,11 @@ La vicenda dello Splog (spam di commenti a blog) di Momis in cui accennavo nel [
 Come dicevo nel post infatti **ero stato contattato** dai vertici della MOMIS per una risposta ufficiale ed eccola a voi integralmente come preannunciato e come richiesto dalla stessa MOMIS :
 > *Egregio Dr Flora,*  
 >  
-> *come da contattti telefonici intercorsi in data odierna Le riporto di seguito la spiegazione dellaccaduto che Le chiedo di voler pubblicare in risposta alla vostra azione:*  
+> *come da contattti telefonici intercorsi in data odierna Le riporto di seguito la spiegazione dell'accaduto che Le chiedo di voler pubblicare in risposta alla vostra azione:*  
 >  
-> Momis srl è una società seria che opera nel territorio nazionale offrendo i propri servizi in modo trasparente.   > La pubblicazione di un testo su alcuni blog presenti in rete è stata unazione occasionale ed isolata posta in essere in assenza di consapevolezza di offendere i titolari dei blog o altri.  
-> Lazione è stata immediatamente ritirata. Per qualunque ulteriore chiarimento si ritenesse necessario potete contattarci ed avrete risposta in tempi brevi.  
-> Grazie per lattenzione dedicata e cordiali saluti.  
+> Momis srl è una società seria che opera nel territorio nazionale offrendo i propri servizi in modo trasparente.   > La pubblicazione di un testo su alcuni blog presenti in rete è stata un'azione occasionale ed isolata posta in essere in assenza di consapevolezza di offendere i titolari dei blog o altri.  
+> L'azione è stata immediatamente ritirata. Per qualunque ulteriore chiarimento si ritenesse necessario potete contattarci ed avrete risposta in tempi brevi.  
+> Grazie per l'attenzione dedicata e cordiali saluti.  
 > Momis srl  
   
 Ringraziando per questa assicurazione siamo **felici** di apprendere che trattasi si una azione "**occasionale ed isolata**".  

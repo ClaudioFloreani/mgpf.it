@@ -5,7 +5,6 @@ title: "Il sonno polifasico: una introduzione"
 meta: 
 tags: 
 - lifehacking
-- Zen &amp; Photo
 ---
 L'essenza del **sonno polifasico** è la possibilità di **ridurre le ore di sonno** durante il giorno ad un minimo che varia (a seconda dei metodi) dalle **6 alle 2 ore giornaliere complessive**. Certo una affermazione di questo tipo spaventa e va corredata dalla necessaria conclusione "senza **distruggere il proprio fisico** e senza itercorrere in problemi di alcun tipo né fisiologici né di **attenzione**".  
 L'essenza delle varie metodologie che vengono utilizzate nel mondo è quella di frazionare il sonno in **molti micro-sonni** durante il corso del giorno, di entità e durata differenti secondo le metodologie applicate.  

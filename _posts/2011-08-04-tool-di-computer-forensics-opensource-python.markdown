@@ -4,7 +4,7 @@ status: ok
 title: Forensics, Timeline e Python
 meta: 
 tags: 
-- forensics
+- forensic
 ---
 Questa settimana l'articolo del [Blog di Computer Forensics di Sans][1] riporta un enorme numero di tool per la Computer Forensics realizzati in Python. Alcuno sono veramente notevoli:
 

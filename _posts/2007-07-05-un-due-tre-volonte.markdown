@@ -1,11 +1,8 @@
 --- 
 layout: post
-title: "Un due trè, Volontè"
+title: Un due trè, Volontè
 meta: 
-  aktt_tweeted: "1"
-  autometa: "molleindustria volontè pretofilia pedofilia censura lucavolonte.eu"
 tags: 
-- censura
 - digital-freedom
 - paranoia
 - security

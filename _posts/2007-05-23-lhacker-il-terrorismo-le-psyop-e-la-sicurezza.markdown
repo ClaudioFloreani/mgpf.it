@@ -1,12 +1,12 @@
 --- 
 layout: post
+status: ok
 title: L'Hacker, il Terrorismo, le PSYOP e la Sicurezza
 meta: 
-  aktt_tweeted: "1"
-  autometa: "hacker psyop terrorismo sicurezza privacy sismi intelligence psicologia realtà vecna agosti claudio delirandom"
 tags: 
 - paranoia
 - security
+- awesome
 ---
 ![Claudio Agosti Hacker](http://www.lastknight.com/download/20070523_matrix1.jpg)
 Non ho mai fatto mistero della mia immensa stima verso Claudio "Vecna" Agosti e verso le idee che riesce a creare da un qualunque argomento, ma mai prima d'ora ho avuto la netta sensazione di vedere il **vero profilo psicologico di un hacker**. 

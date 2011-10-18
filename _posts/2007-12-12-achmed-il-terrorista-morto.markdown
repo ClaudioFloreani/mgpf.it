@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Achmed, il terrorista morto
 meta: {}
 tags: 

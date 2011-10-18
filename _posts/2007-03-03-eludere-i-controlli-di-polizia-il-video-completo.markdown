@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Eludere i Controlli di Polizia: il video completo"
+title: Eludere i Controlli di Polizia - il video completo
 meta: {}
 tags: 
-- censura
+- talk
 - about-me
 - digital-freedom
 - paranoia

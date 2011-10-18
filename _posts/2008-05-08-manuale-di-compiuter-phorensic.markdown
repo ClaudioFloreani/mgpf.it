@@ -4,7 +4,7 @@ status: ok
 title: Manuale di Compiuter Phorensics (parte I)
 meta: {}
 tags: 
-- forensics
+- forensic
 - weird
 ---
 <a href="http://www.flickr.com/photos/59463761@N00/616649762/" title="F*@king monitors!" target="_blank"><img src="http://farm2.static.flickr.com/1121/616649762_9f8ac3dad1.jpg" alt="F*@king monitors!" border="0" /></a>  

@@ -1,11 +1,8 @@
 --- 
 layout: post
-title: "\"Lasciate che i bambini\": storia di un libro che non esiste"
+title: Lasciate che i bambini - storia di un libro che non esiste
 meta: 
-  _wp_old_slug: lasciate-che-i-bambini-stoaria-di-ul-libro-che-non-esiste
-  autometa: wumingfoundation wuming luther blisset lutherblisset musti bambini pedopornografia pedo pornografia reati
 tags: 
-- censura
 - digital-freedom
 - paranoia
 ---

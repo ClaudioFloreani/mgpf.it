@@ -1,9 +1,10 @@
 --- 
 layout: post
-title: "8 Febbraio, InfoSecurity 2007: come eludere i controlli di polizia"
+status: ok
+title: 8 Febbraio, InfoSecurity 2007 - come eludere i controlli di polizia
 meta: {}
 tags: 
-- censura
+- talk
 - about-me
 - digital-freedom
 - security

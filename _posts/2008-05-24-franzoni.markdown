@@ -4,7 +4,6 @@ status: ok
 title: Franzoni...
 meta: {}
 tags: 
-- condanna
 - digital-freedom
 ---
 <a href="http://www.flickr.com/photos/40646519@N00/305410323/" title="Lego People" target="_blank"><img src="http://farm1.static.flickr.com/117/305410323_effd579e8f.jpg" alt="Lego People" border="0" /></a>  

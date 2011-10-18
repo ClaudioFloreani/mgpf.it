@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Il Call Center ruba i dati personali?
 meta: {}
 tags: 

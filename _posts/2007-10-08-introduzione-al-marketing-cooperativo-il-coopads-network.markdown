@@ -1,9 +1,13 @@
 --- 
 layout: post
-title: "Introduzione al Marketing Cooperativo: il CoopAds Network"
+status: ok
+title: Introduzione al Marketing Cooperativo - il CoopAds Network
 meta: {}
 tags: 
-- security
+- social-media
+- about-me
+- startup
+- progetti
 ---
 Chiunque abbia mai scritto un **blog** si sarà presto o tardi trovato ad affrontare il problema della **promozione pubblicitaria** della sua piccola realtà.  
 Irrimediabilmente, lo abbiamo fatto tutti, si sarà trovato di fronte alle differenti **strategie** del settore che, alla fine della fiera, si riducono in:  
@@ -19,8 +23,8 @@ I servizi di Review hanno la particolarità di essere percepiti da molti *(in ge
 Questo processo fa in modo che la stragrande maggioranza dei blogger (e non solo) siano **irrimediabilente legati** alla piattaforma di AdSense che, nel bene e nel male, da la possibilità di avere **piccoli guadagni** con una difficoltà di utilizzo prossima allo zero e sorpattutto senza alcun tipo di necessita di followup.  
 Certo, questo si riduce, nella realtà dei fatti, ad avere una revenue di modestissima entità, che raramente supera i 30 cents per click e che porta non già ad un guadagno vero e proprio ma ad una sorta di compensazione delle spese sostenute per la gestione del sito web e dei costi fissi come possono essere hosting, tempi di restyle e poc'altro.  
   
-  
-#Troppo piccoli per camminare da soli  
+# Troppo piccoli per camminare da soli  
+
 La cosa da tenere presente in questa mia piccola analisi  che Google non guadagna MAI 30 centesimi a click, ma una cifra nettamente superiore che per definizione fa si che possano rilasciare **"le briciole"** al publisher. La quota richiesta, infatti, ad un inserzionista per singolo click supera **di gran lunga **quella pagata all'utente, talvolta sfiorano le 10 volte nette il controvalore ricevuto.  
   
 Ma, ovviamente, nessuno di noi piccoli blogger è in grado *(salvo rarità)* di generare abbastanza traffico per essere **un bersaglio appetibile **per gli inserzionisti, una realtà, cioè, in grado di **vendere direttamente **pubblicità e di generare utili "saltando" il ruolo di prezzolato intermediario di Google.  
@@ -31,7 +35,6 @@ Queste realtà, però, hanno la difficoltà (e l'inapplicabilità, a volte) di e
 Personalmente trovo questa via **inaccettabile** per un blog come LastKnight.com e tra i vari progetti e le** varie idee **sono mesi che ipotizzo un percorso differente che mi piacerebbe condividere con quanti di voi lo trovassero interessante: è un **progetto cooperativo**, è un progetto di <s>e-democracy</s> e-meritocracy e, soprattutto, è un piacevole esercizio di **privilege escalation** verso una lobby, quella pubblicitaria, che forse è giusto venga una volta tanto "lobbata" a sua volta =].  
   
 Seguitemi nei miei vaneggiamenti per qualche minuto e vi assicura una **interessante alternativa** :)  
-  
   
 #Introduzione al Marketing Cooperativo  
   
@@ -54,7 +57,6 @@ Alla fine di tutta la fiera il panorama blog italiano è una **risorsa preziosa 
 Semplice: perché **non abbiamo scelta**.  
   
 Bene :) Io darò a voi** la scelta che a me non fu data** *(ho scritto pagine su pagine di appunti, lasciatemi almeno qualche citazione e battuta...)*  
-  
   
 #Come si crea una Lobby: il CoopAds Network  
   
@@ -132,6 +134,7 @@ Che dire di altro?
 **Stay tuned** e se volete saltare sulla barca di questa impresa (o dare una mano), fatevi vivi (alla pagina contatti) e, se raccoglieremo abbastanza adesione, partiremo col progetto.  
   
 Altrimenti rimarrà solamente un **esercizio di stile** =]  
+
 [1]: http://www.zanox.it
 [2]: http://www.tradedoubler.it
 [3]: http://www.adbrite.com

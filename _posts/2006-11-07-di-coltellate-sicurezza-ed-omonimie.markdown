@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Di coltellate, sicurezza ed omonimie...
 meta: {}
 tags: 

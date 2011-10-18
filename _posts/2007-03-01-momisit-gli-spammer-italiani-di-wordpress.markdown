@@ -1,9 +1,10 @@
 --- 
 layout: post
+status: ok
 title: MOMIS.it gli spammer italiani di Wordpress
 meta: {}
 tags: 
-- security
+- social-media
 ---
 **ATTENZIONE: La risposta ufficiale di MOMIS è raggiungibile [QUI](http://www.lastknight.com/2007/03/02/momis-risponde-allo-splog/)**  
   

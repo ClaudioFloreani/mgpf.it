@@ -4,7 +4,7 @@ title: E-Privacy 2007, Google e Caramanico...
 meta: {}
 tags: 
 - about-me
-- security
+- talk
 ---
 Con estremo dispiacere mi ritrovo a dover **disertare** la importantissima manifestazione di E-Privacy 2007 a cui avevo avuto il sommo piacere di essere invitato come relatore. Pressanti impegni in seno ad AIP ed al convegno di ICTPark mi obbligano ad essere presente in quel di Pescara anziché nella bella Firenze.  
   

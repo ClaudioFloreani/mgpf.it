@@ -1,12 +1,12 @@
 --- 
 layout: post
 status: ok
-title: "Rivotiamo.it: Qualche piccolo problema..."
+title: Rivotiamo.it - Qualche piccolo problema...
 meta: 
 tags: 
-- digital-freedom
 - hacking
-- security
+- about-me
+- talk
 ---
 Sul PuntoInformatico di [oggi](http://punto-informatico.it/p.aspx?i=2119270) è presente una [mia intervista](http://punto-informatico.it/p.aspx?i=2119270) con [Luca Annunziata](https://www.deandreis.it/l/profilo.aspx?n=Luca+Annunziata) in merito al sito <Rivotiamo.it>.  
   
@@ -63,9 +63,7 @@ end
 Cosa **genera** questo script?  
 Semplicemente **voti spuri** che vengono conteggiati normalmente dal sistema. Eccone qui sotto la dimostrazione pratica:  
   
-  
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/xCUiXyQqUR0&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/xCUiXyQqUR0&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
-  
+{% youtube xCUiXyQqUR0 %}
   
 Certo che i voti generati in questo modo sono assolutamente **semplici da individuare** (*ed era esattamente l'obiettivo*), ma basterebbe anche semplicemente **acquistare** qualche decina di migliaia di indirizzi "spuri" ma plausibili ad un sito come <http://www.fakenamegenerator.com> e lo script genererebbe voti che non sono distinguibili da quelli reali.  
   

@@ -1,9 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Di tante tante cose...
 meta: {}
 tags: 
 - about-me
+- talk
 ---
 Carissimi,  
   

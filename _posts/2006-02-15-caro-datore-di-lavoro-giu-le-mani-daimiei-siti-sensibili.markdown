@@ -1,8 +1,7 @@
 --- 
 layout: post
 status: ok
-title: "Caro datore  di lavoro giù le mani dai..miei "siti sensibili"
-published: false
+title: Caro datore  di lavoro giù le mani dai..miei siti sensibili
 meta: {}
 tags: 
 - about-me
@@ -10,7 +9,7 @@ status: private
 ---
 Avrei voluto scrivere qualcosa sull'ultima ordinanza del [Garante della Privacy](http://www.garanteprivacy.it/garante/doc.jsp?ID=1229854) sull'utilizzo dei dati riguardanti la navigazione dei dipendenti ma lascio volentieri la parola all'amica Giulia Ballero che scrive:
 
-> Anche se per un momento ho trematoripensando a quante paginette mi erano capitate sotto gli occhi solo nelle ultime settimane   
+> Anche se per un momento ho tremato ripensando a quante paginette mi erano capitate sotto gli occhi solo nelle ultime settimane   
 > E ho sudato freddo al pensiero che si rivelasse cosa si celava dietro lo schermo quando il capo mi parlava dallaltra parte e io.. annuivo sapiente..  
 > E ho avuto un certo senso dansia rivedendomi prendere attento appunti di fronte al cliente mentrediscutevo dellultimo goal!!  
 > Ora tiro un sospiro di sollievo: Provvidenziale .questo provvedimento del Garante!!!!  

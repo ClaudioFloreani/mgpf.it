@@ -1,6 +1,7 @@
 --- 
 layout: post
-title: "Perchè non si possono portare liquidi in volo? Gli esplosivi binari."
+status: ok
+title: Perchè non si possono portare liquidi in volo? Gli esplosivi binari.
 meta: {}
 tags: 
 - paranoia

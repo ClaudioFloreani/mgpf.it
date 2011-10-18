@@ -1,11 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Crittografia e Censura il 27 e 28 Ottobre a Milano al LinuxDay
 meta: 
 tags: 
 - about-me
-- digital-freedom
-- security
+- talk
 ---
 ![LinuxDay 2007 Matteo Flora](http://www.lastknight.com/download/20071026_linuxday.png)
 Anche quest'anno l'Associazione Culturale OpenLabs organizza il [Linux Day](http://linuxday.openlabs.it) con diverse novita'.  

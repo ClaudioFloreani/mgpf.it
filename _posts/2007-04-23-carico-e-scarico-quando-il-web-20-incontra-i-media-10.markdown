@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Carico e Scarico: quando il web 2.0 incontra i media 1.0"
+title: Carico e Scarico -  quando il web 2.0 incontra i media 1.0
 meta: {}
 tags: 
 - security

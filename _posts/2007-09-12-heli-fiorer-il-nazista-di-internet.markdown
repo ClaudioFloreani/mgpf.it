@@ -1,9 +1,8 @@
 --- 
 layout: post
-title: "Heil, Fr\xC3\xB6hrer! Quando Frattini prende a modello il Reich"
+status: ok
+title: "Heil, Fruhrer! Quando Frattini prende a modello il Reich"
 meta: 
-  aktt_tweeted: "1"
-  autometa: frattini censura hitler terzo reich libri bruciare frattini
 tags: 
 - digital-freedom
 - paranoia

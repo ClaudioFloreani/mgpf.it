@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Rotta CCC Summer Camp
 meta: {}
 tags: 

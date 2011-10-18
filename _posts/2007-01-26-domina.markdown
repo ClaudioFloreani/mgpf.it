@@ -1,9 +1,8 @@
 --- 
 layout: post
+status: ok
 title: Domina
 meta: 
-  _wp_page_template: default
-  autometa: domina padrona anima movimentofisso chaingang respiri colei signora
 tags: 
 - about-me
 ---

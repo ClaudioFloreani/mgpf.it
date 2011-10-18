@@ -1,12 +1,13 @@
 --- 
 layout: post
+status: ok
 title: Intervista a Raoul Chiesa e citazione...
 meta: {}
 tags: 
 - about-me
-- security
+- talk
 ---
-Per chi ha qualche minuto e vuole approfondire i temi di [Profilo Hacker]() il libro di Raoul Chiesa è disponibile una bella [video intervista](http://www.lastampa.it/multimedia/multimedia.asp?IDmsezione=29&IDalbum=3820&tipo=VIDEO) di Raoul sulla [Stampa](http://www.lastampa.it/multimedia/multimedia.asp?IDmsezione=29&IDalbum=3820&tipo=VIDEO).  
+Per chi ha qualche minuto e vuole approfondire i temi di Profilo Hacker il libro di Raoul Chiesa è disponibile una bella [video intervista](http://www.lastampa.it/multimedia/multimedia.asp?IDmsezione=29&IDalbum=3820&tipo=VIDEO) di Raoul sulla [Stampa](http://www.lastampa.it/multimedia/multimedia.asp?IDmsezione=29&IDalbum=3820&tipo=VIDEO).  
 Raoul parla dei differenti tipi di hacker, dell'ethical hacking e degli ultimi temi di **digital warfare**, come ad esempio l'intervento della NATO per gli attacchi informatici dell'Estonia.  
 Non solamente, ma si chiacchiera anche di diritto d'autore, 
   

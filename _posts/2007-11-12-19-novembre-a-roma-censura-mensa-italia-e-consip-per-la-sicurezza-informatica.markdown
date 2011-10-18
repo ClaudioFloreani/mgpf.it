@@ -1,11 +1,11 @@
 --- 
 layout: post
 status: ok
-title: "19 Novembre a Roma: Censura, Mensa Italia e Consip per la sicurezza informatica"
+title: 19 Novembre a Roma - Censura, Mensa Italia e Consip per la sicurezza informatica
 meta: {}
 tags: 
 - about-me
-- security
+- talk
 ---
 Siamo sulla prima pagina di Punto Informatico e sulle homepage del Mensa e di Consip, su diversi blog come e siamo stati annunciati nelle mailing list di OPSI-AIP e Sikurezza.Org, si spera addirittura in un servizio di Repubblica e a momenti mi scordo di dare l'annuncio qui.  
   

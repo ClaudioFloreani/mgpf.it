@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Vista corrompe i vostri video?
 meta: {}
 tags: 

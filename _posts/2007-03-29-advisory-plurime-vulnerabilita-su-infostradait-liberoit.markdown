@@ -1,12 +1,12 @@
 --- 
 layout: post
-title: "Advisory: PLURIME vulnerabilità su Infostrada.it Libero.it"
+title: Advisory - PLURIME vulnerabilità su Infostrada.it Libero.it
 meta: 
-  aktt_tweeted: "1"
-  autometa: "advisory ieri libero silenzioso adottato vulnerabilit\xC3\x83  risvolti saga"
 tags: 
 - hacking
 - security
+- about-me
+- talk
 ---
 La saga delle vulnerabilità sul portale di Libero.it sembra destinata dopo il [primo advisory di Rosario Valotta](http://www.lastknight.com/2007/03/27/liberoit-e-xss-pericolo-credenziali/) ed il [mio advisory di ieri](http://www.lastknight.com/2007/03/28/altra-vulnerabilita-xss-su-liberoit/) ad avere altri interessanti risvolti, come accennavo proprio nella giornata di ieri.  
   

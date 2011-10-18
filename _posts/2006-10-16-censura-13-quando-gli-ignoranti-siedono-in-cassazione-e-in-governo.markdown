@@ -1,9 +1,8 @@
 --- 
 layout: post
 status: ok
-title: "Censura 1.3: Quando gli ignoranti siedono in Cassazione e in Governo"
-meta: 
-protesta
+title: Censura 1.3 - Quando gli ignoranti siedono in Cassazione e in Governo
+meta: {}
 tags: 
 - digital-freedom
 ---

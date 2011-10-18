@@ -1,7 +1,7 @@
 --- 
 layout: post
 status: ok
-title: Problemi Software? Niente colpa ai programmatori...
+title: Problemi Software? Niente colpa ai programmatori
 meta: {}
 tags: 
 - develop

@@ -1,9 +1,12 @@
 --- 
 layout: post
-title: "OWASP Testing Guide: la bibbia delle Web Vulnerabilities"
+status: ok
+title: OWASP Testing Guide - la bibbia delle Web Vulnerabilities
 meta: {}
 tags: 
 - security
+- about-me
+- talk
 ---
 ![OWASP Logo](http://www.lastknight.com//download/20070213_owasp.gif)
 Inizia in sordina la mail di Matteo Meucci (che dirige il chapter OWASP Italy) sulla lista OWASP, ma è una delle comunicazioni che **non capita tutti i giorni** di ascoltare:
@@ -22,7 +25,7 @@ Ma cos'è la OWASP Testing Guide? Eccone il breve sunto direttamente dalle pagin
 Una lettura dobbligo quindi sia per **sviluppatori e manager** di progetti Web, sia soprattutto per chi fa dell'**application/penetration testing** la sua scelta professionale.  
   
 Sorprendente poi che un documento **dello spessore e della precisione** di questa guida sia stato realizzato in modo completamente collaborativo utilizzando [un Wiki](http://www.owasp.org/index.php/OWASP_Testing_Guide_v2_Table_of_Contents). Certo è che senza il **prezioso contributo** di Matteo Meucci, che guida il progetto OWASP Testing Guide dal lontano 2005, il documento probabilmente non sarebbe mai giunto a termine ;)  
-Ah, e se per caso trovate il nome "Matteo G.P. Flora" [tra i reviewer](http://www.owasp.org/index.php/Testing_Guide_Frontispiece#Reviewers) non fateci caso, trattasi **semplicemente di un rifuso** ;)  
+Ah, e se per caso trovate il nome "Matteo G.P. Flora" [tra i reviewer](http://www.owasp.org/index.php/Testing_Guide_Frontispiece#Reviewers) non fateci caso, trattasi **semplicemente di un refuso** ;)  
   
 Quindi **buona lettura** con la versione Wiki, con la [versione DOC scaricabile](http://www.owasp.org/index.php/Image:OWASP_Testing_Guide_v2_doc.zip) oppure nella comoda [versione PDF](http://www.owasp.org/index.php/Image:OWASP_Testing_Guide_v2_pdf.zip).  
 E se proprio non ne avete abbastanza è anche possibile visitare direttamente il sito di OWASP per **altri documenti** dello stesso livello editoriale e altri impressionanti applicazioni di Sicurezza. 

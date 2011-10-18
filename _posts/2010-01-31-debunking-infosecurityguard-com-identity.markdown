@@ -5,7 +5,6 @@ title: Debunking InfoSecurityGuard.com Identity
 meta: {}
 tags: 
 - hacking
-- debunking
 ---
 <div class="important">
 Hi, non-italian readers! Pleased to have you here around. I'm very sorry but this blog is mostly Italian. You can have some English background (although outdated) info on <a href="http://www.matteoflora.com">matteoflora.com</a>. I've been a Forensic Consultant for over a decade and I'm presently CEO & Partner of The Fool, an Italian start-up dealing with Technology.  

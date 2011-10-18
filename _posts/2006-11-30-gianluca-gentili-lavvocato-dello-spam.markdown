@@ -1,9 +1,8 @@
 --- 
 layout: post
+status: ok
 title: Gianluca Gentili , l'avvocato dello SPAM
 meta: 
-  aktt_tweeted: "1"
-  autometa: virgilio invii gentili xxxx worm soci soci continuare
 tags: 
 - digital-freedom
 ---

@@ -1,6 +1,7 @@
 --- 
 layout: post
-title: "LockPicking: una guida completa ed esauriente"
+status: ok
+title: LockPicking -una guida completa ed esauriente
 meta: 
   aktt_tweeted: "1"
   autometa: lockpicking picklocking scasso hacking cracking intrusioni LSI-guide LSI guida manuale istruzioni

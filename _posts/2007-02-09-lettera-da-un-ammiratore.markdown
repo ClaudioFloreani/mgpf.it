@@ -11,16 +11,18 @@ La prassi comunque è quella di pubblicare commenti che contengono insulti E arg
 Un lettore, però, è stato particolarmente assiduo negli ultimi mesi a pubblicare commenti per quasi ogni post del blog, ma non pubblicando mai una mail dove rispondere non ho mai potuto avere il piacere di argomentare.  
 Ho deciso di farlo qui: per chi come me crede infatti nella condivisione delle impressioni e dei commenti credo sia il posto più adeguato:
 > IP: 217.200.200.54  (Antonello Venditti)  
-> dai, suvvia. Finiscila di dire baggianate. Oltretutto ho ascoltato la tua conferenza. A dir poco penosa. Come mai ti proponi cosi in giro?  
+> dai, suvvia. Finiscila di dire baggianate. Oltretutto ho ascoltato la tua 'conferenza'. A dir poco penosa. Come mai ti proponi cosi in giro?  
 >  
->  ah, cancella pure questo commento.. magari poi nel tuo prossimo m1s3x-progetto un blog anonimo sulla sicurezza .. blablabla avro piu spazio per prenderti in giro. ;-)
+>  ah, cancella pure questo commento.. magari poi nel tuo prossimo m1s3x-progetto 'un blog anonimo sulla sicurezza .. blablabla' avro' piu' spazio per prenderti in giro. ;-)
 >  
 >  g00dbai
 >  P.S.: ho in cantiere di creare un blog con tutte le stron^H^H^ cose che dici alle birrate di m1s3c ed alle tue conferenze. ;-)
+
 Se me lo consentite risponderei per punti...
+
 > dai, suvvia. Finiscila di dire baggianate. Oltretutto ho ascoltato la tua conferenza. A dir poco penosa. Come mai ti proponi cosi in giro?  
   
-Hai ragione, sai? Tecnicamente parlando mi sono vergognato non poche volte durante il corso dell'utlima tre giorni: tanti e tali sono stati gli interventi tecnici, a partire da quelli di Zen, passando per quelli di Alberto "Iceman" Revelli e anche del buon Marco Calamari (e di Mayhem, Zanero, Raoul e chi più ne ha...) che mi son chiesto veramente cosa ci facessi in quel compendio.  
+Hai ragione, sai? Tecnicamente parlando mi sono vergognato non poche volte durante il corso dell'ultima tre giorni: tanti e tali sono stati gli interventi tecnici, a partire da quelli di Zen, passando per quelli di Alberto "Iceman" Revelli e anche del buon Marco Calamari (e di Mayhem, Zanero, Raoul e chi più ne ha...) che mi son chiesto veramente cosa ci facessi in quel compendio.  
   
 Ma vedi, ognuno ha la sua fascia di competenza. Se la mia non è tecnica in alcuni punti come quella di altri non posso continuare a vergognarmi, soprattutto in visione del fatto che vi saranno SEMPRE persone più preparate di me in QUALCOSA.  
 Anni fa mi sono deciso e ho scelto di conoscere una pletora di argomenti (hacking, seo, privacy, leggi, forensics, iso varie, pentesting, .NET, etc...) ad un BUON LIVELLO anzichè approfondirne uno solo, così da poterli correlare e da poter dare una visione d'insieme.  
@@ -32,6 +34,7 @@ Il conoscere a livello medio-approfondito una quindicina di argomenti di campi d
   
 Talvolta mi chiedono di riscrivere un CFP, di capire come mettere giù meglio qualcosa e talvolta addirittura mi dicono "Ci sarebbe da parlare di questo" e quando io faccio presente che X è molto più competente di me sulla materia è lo stesso X che mi dice "Probabilmente sì, ma tu sai parlare alla gente". Boh. Hacking People?!?!  
 Perchè mi presento così spesso? Forse perché quando parlo la gente capisce. Capisce anche che io non sono un "guru" o un "Dio"? Beh, non è una cosa difficile da capire, posso anche metterlo di default come disclaimer ;)
+
 >  ah, cancella pure questo commento.. magari poi nel tuo prossimo m1s3x-progetto un blog anonimo sulla sicurezza .. blablabla avro piu spazio per prenderti in giro. ;-)
   
 non preoccuparti, non sono favorevole alla censura, come ben sai, visto che mi segui così assiduamente...  
@@ -44,6 +47,7 @@ Mi batterò fino alla morte per la tua libertà di dirmi ciò che ti pare in ano
 Bastava un semplice "non credo che la tua Conf sia abbastanza tecnica per presentarla" ed avremmo argomentato volentieri...  
   
 >  P.S.: ho in cantiere di creare un blog con tutte le stron^H^H^ cose che dici alle birrate di m1s3c ed alle tue conferenze. ;-)
+
 Sono onorato! Vuol dire che mi ritieni talmente importante da spendere il tuo tempo per costriure una cosa del genere! Guarda, di baggianate probabilmente ne dico abbastanza già qui, ma se vuoi puoi segnalarmele ed apro una nuova rubrica...  
   
 Con un po' di tristezza ti mando i miei saluti.

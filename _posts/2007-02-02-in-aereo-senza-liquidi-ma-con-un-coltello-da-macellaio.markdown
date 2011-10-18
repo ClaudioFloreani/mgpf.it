@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: In aereo senza liquidi ma con un coltello da macellaio
 meta: {}
 tags: 

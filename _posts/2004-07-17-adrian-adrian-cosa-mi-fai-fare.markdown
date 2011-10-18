@@ -1,7 +1,7 @@
 --- 
 layout: post
 status: ok
-title: Adrian, Adrian, cosa mi fai fare?!?!?
+title: Adrian, Adrian, cosa mi fai fare?
 meta: {}
 tags: 
 - about-me

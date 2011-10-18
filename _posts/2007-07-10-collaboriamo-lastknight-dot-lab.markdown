@@ -1,10 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Collaboriamo? LastKnight Dot Lab...
 meta: {}
 tags: 
 - about-me
-- security
+- progetti
 ---
 **Tempus fugit**, e mai quanto in questo periodo...  
 E quando fugge il tempo i **progetti nel cassetto** si ammonticchiano e non riescono a trovare il loro naturale sfogo...  

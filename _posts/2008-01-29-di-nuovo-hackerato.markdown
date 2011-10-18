@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - about-me
 - forensic
-- p0wn
+- p0wned
 ---
 **Mea culpa, mea culpa, mea maxima culpa** sembra proprio che mi **abbiano sfondato** il vecchio Wordpress 2.2.3 che non aggiornavo per pigrizia :)  
   

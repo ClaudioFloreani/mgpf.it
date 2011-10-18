@@ -1,12 +1,12 @@
 --- 
 layout: post
-title: "L'Italia e la Censura: una guida per capire qualcosa"
+title: L'Italia e la Censura - una guida per capire qualcosa
 meta: 
-  aktt_tweeted: "1"
-  autometa: gazzetta pedo
 tags: 
 - digital-freedom
 - security
+- about-me
+- talk
 ---
 > Daniele Minotti ne fa un'altra delle sue e le statistiche mi dicono, come anche un SMS rivelatore, che **mi cita sul suo articolo** su [Punto Informatico](http://punto-informatico.it/p.aspx?i=2031873) del 4 Luglio...  
 > Che dire? **Grazie mille** e se non lo avete ancora fatto correte a vedere l'[articolo in questione](http://punto-informatico.it/p.aspx?i=2031873) o il suo blog...

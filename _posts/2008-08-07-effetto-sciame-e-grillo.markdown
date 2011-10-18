@@ -5,8 +5,8 @@ title: Effetto sciame...
 meta: {}
 tags: 
 - about-me
-- forensics
-- digital freedom
+- forensic
+- digital-freedom
 ---
 ![Anonymous](http://www.lastknight.com/download/2008/08/anonymousbecause-240x300.jpg)
   

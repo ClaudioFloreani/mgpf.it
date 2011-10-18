@@ -5,7 +5,7 @@ title: Wordpress, SEO, ottimizzazione e Slashdot...
 meta: {}
 tags: 
 - seo
-- development
+- develop
 ---
 Nell'ardua battaglia per portare online la nuova versione del sito web mi sono imbattuto in una serie di utili ausili per chi deve fare i conti con il moderno modello di 'business' dei Blog, sempre più incentrato sulla **popolarità all'interno dei motori di ricerca** e sulla ricerca del PageRank e di manovre di SEO .  
 Dopo un paio di [esperienze](http://blogs.ugidotnet.org/csharper/archive/2005/11/07/29376.aspx) sul campo della pesante battaglia contro l'high load del sito web e sullo 'Slashdot effect' volevo anche premunirmi degnamente in caso di eventi come questi.  

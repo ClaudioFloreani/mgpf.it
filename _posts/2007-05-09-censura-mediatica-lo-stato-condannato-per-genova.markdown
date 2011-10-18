@@ -1,11 +1,9 @@
 --- 
 layout: post
+status: ok
 title: Censura mediatica? Lo stato condannato per Genova
 meta: 
-  aktt_tweeted: "1"
-  autometa: spaccini
 tags: 
-- censura
 - digital-freedom
 - paranoia
 ---

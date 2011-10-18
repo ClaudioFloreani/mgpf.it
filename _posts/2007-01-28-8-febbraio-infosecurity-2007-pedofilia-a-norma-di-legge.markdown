@@ -1,12 +1,12 @@
 --- 
 layout: post
-title: "8 Febbraio, InfoSecurity 2007: pedofilia a norma di legge"
+title: 8 Febbraio, InfoSecurity 2007 - pedofilia a norma di legge
 meta: {}
 tags: 
-- censura
 - about-me
 - digital-freedom
 - security
+- talk
 ---
 ![Censura](http://www.lastknight.com/download/banner_censura.png)
 Finalmente dopo svariati giorni di attesa **sono aperte le iscrizioni** alla [Conferenza dell'8 Febbraio](http://www.lastknight.com/2007/01/18/8-febbraio-infosecurity-2007-come-eludere-i-controlli-di-polizia/) da me tanto sponsorizzata.  

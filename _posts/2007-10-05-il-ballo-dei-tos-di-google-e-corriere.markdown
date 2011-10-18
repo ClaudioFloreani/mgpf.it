@@ -1,16 +1,18 @@
 --- 
 layout: post
+status: ok
 title: Il ballo dei TOS di Google e Corriere
 meta: 
-  aktt_tweeted: "1"
-  autometa: corriere terms of service contratto censura google draconico orwell
 tags: 
-- security
+- google
+- privacy
+- paranoia
 ---
 Stamane, giusto per non essere banali, si è parlato in un po' di liste di **Terms of Service** (in gergo TOS) e di come facilmente l'utente medio **rilascia informazioni** su di sè e diritti intollerabili senza nemmeno dare un'occhiata a quello che gli si propone.  
   
 L'esempio più eclatante è quello di Google, che nella sua TOS reperibile [qui](http://google.com/accounts/TOS) recita un poco di condizioni ragionevoli ed un po' di condizioni **non ragionevoli*.  
 Ecco cosa succede, ad esempio, a chi immette un qualunque contenuto in Google *(sia esso Gmail, Picasa e/o altri ed eventuali)*:
+
 > 11.1 [l'utente rilascia] non-exclusive licence to reproduce, adapt, modify, translate, publish,
 E fino a qui ci siamo...  
 In effetti è ovvio che dobbiamo **autorizzarli a
@@ -33,17 +35,21 @@ Ne è un esempio Panoramio, che con le foto di Picasa e con le mappe di
 Google Maps ricava un terzo servizio di Geologalizzazione fotografica.  
   
 Nulla di particolarmente rilevante, ma il bello viene in seguito...  
+
 > 11.3 You understand that Google, in performing the required technical  steps to provide the Services to our users, may (a) transmit or distribute your Content over various public networks and in various media;
 Altrimenti non potrebbero usare Internet per diffondere il materiale,
 essendo i carrier Internet, per definizione, "public networks".  
 > and (b) make such changes to your Content as are necessary to conform and adapt that Content to the technical requirements of connecting networks, devices, services or media. You agree that this licence shall permit Google to take these actions.
+
 Che è assolutamente normale da un **punto di vista delle periferiche**.
 Uno dei cambiamenti più standard è il ridimensionamento o il cropping di
 una immagine a 1800 megagigaterapizzel per la visione su un dispositivo
 mobile come può essere il magggico IPhone o il cellulare della Nokia.  
   
 MA (a questo punto ci vuole un MA):
+
 > 11.1 [...] By submitting, posting or displaying the content you give Google a perpetual, irrevocable, worldwide, royalty-free, and
+
 Che è in realtà l'unica **incredibile**, **inspiegabile** (spiegabilissima ad
 essere paranoici, in verità) "falla" nel contratto che porta il tutto ad
 essere paurosamente "**Orwelliano**" è il "solito" claim di Google della

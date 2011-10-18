@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - digital-freedom
 - privacy
-- parania
+- paranoia
 ---
 Mi fanno notare che la frase del CEO di Google:  
   

@@ -1,7 +1,7 @@
 --- 
 layout: post
 status: ok
-title: "Hackers: Santi Criminali, il problema della Disclosure in Italia"
+title: Hackers - Santi Criminali, il problema della Disclosure in Italia
 meta: {}
 tags: 
 - about-me

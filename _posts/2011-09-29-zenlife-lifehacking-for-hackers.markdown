@@ -1,7 +1,7 @@
 --- 
 layout: post
 status: ok
-title: "ZenLife: LifeHacking for Hackers"
+title: "ZenLife - LifeHacking for Hackers"
 meta: 
 tags: 
 - about-me

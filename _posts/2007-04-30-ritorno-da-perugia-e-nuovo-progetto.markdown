@@ -4,6 +4,8 @@ title: Ritorno da Perugia e nuovo progetto
 meta: {}
 tags: 
 - about-me
+- progetti
+- talk
 ---
 Tornato stasera da Perugia, dove sono stato per la [conferenza] di cui avevo scritto promossa da AIP e tenuta con Fabio Pietrosanti a darmi manforte, penso di essermi irrimediabilmente **innamorato** della cittadina umbra che **poco ha a che invidiare** anche come vita notturna alla Milano che mi ospita.  
 In realtà direi che moltissimo ha invece da **guadagnare**, primo tra tutti un paesaggio da sogno, una vivibilità di altri tempi ed un clima meraviglioso, oltre, ovviamente, ad inesistenti problemi di **inquinamento**.  

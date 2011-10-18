@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - about-me
 - paranoia
-- forensics
+- forensic
 - ip
 ---
 <a href="http://www.flickr.com/photos/48600090482@N01/197153406/" title="Howl" target="_blank"><img src="http://farm1.static.flickr.com/65/197153406_62defb0a8a.jpg" alt="Howl" border="0" /></a>  

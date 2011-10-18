@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Lastkight.com si è spostato... Addio LivingDot!"
+title: Lastkight.com si è spostato... Addio LivingDot!
 meta: {}
 tags: 
 - about-me

@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: "Cagliari: uno speech da non perdere..."
 meta: {}
 tags: 

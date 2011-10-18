@@ -1,10 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Sono a Google Mastermind...
 meta: {}
 tags: 
 - about-me
-- security
 ---
 ![Google Mastermind](http://www.lastknight.com/download/20071003.jpg)
 Se qualcuno di voi sarà oggi al **Google Mastermind** di Milano mi trova in giro con un MacBook nero e sono vestito con una fantasiosa camicia arancione :)  

@@ -1,7 +1,7 @@
 --- 
 layout: post
 status: ok
-title: "Jingle Bombs e Achmed: io non ho paura del terrorismo!"
+title: Jingle Bombs e Achmed - io non ho paura del terrorismo!
 meta: {}
 tags: 
 - awesome

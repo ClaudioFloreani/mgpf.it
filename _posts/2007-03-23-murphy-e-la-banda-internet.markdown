@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Murphy e la banda internet...
 meta: {}
 tags: 

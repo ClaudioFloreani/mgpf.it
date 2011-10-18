@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: InfoSecurity bocciata in Privacy?
 meta: {}
 tags: 

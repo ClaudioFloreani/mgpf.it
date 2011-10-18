@@ -1,12 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Linuxpersec2 a Verona (16/17 Giugno)
 meta: 
-  aktt_tweeted: "1"
-  autometa: linuxpersec2 piscina 8217 https linux verona lago elisa
 tags: 
 - about-me
-- security
+- talk
 ---
 <p>SSu invito cortese di Mayhem informo tutti che Sabato 17 Giugno a Verona presso l&#8217;Itis G. Marconi (Piazzale Guardini 1) si terra&#8217; Linuxpersec2 (Conosciamo altri modi&#8230; per proteggerlo!) con vari interventi sulla Sicurezza personale e Linux. La manifestazione e&#8217; gratuita e ovviamente siete tutti invitati <img src='http://www.ush.it/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' /> </p>
 <p>Domenica 17 la festa continua sul Lago di Garda, a casa di Elisa, tra piscina e grigliata. Segue contenuto del <a href="http://www.ush.it/team/ascii/web-Linuxpersec2/linuxpersec2.pdf">volantino</a> (download alternativo <a href="http://www.ush.it/team/ascii/web-Linuxpersec2/linuxpersec2.pdf">server1</a>, <a href="https://www.verona.linux.it/PagineStatiche/Download/linux_persec/linuxpersec2.pdf">server2 https</a>) nonche&#8217; programma dettagliato dell&#8217;evento:</p>

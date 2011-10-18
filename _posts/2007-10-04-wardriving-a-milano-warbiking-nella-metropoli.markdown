@@ -1,11 +1,13 @@
 --- 
 layout: post
-title: "Wardriving a Milano: WarBiking nella metropoli"
+status: ok
+title: Wardriving a Milano - WarBiking nella metropoli
 meta: 
-  aktt_tweeted: "1"
-  autometa: wardriving kismac netsutmbler warbiking web wpa ssid milano wireless wan lan accesspoint access point wardrive warbike macosx kismet cantenna wep
 tags: 
-- security
+- hacking
+- about-me
+- talk
+- progetti
 ---
 ![](http://www.lastknight.com/download/20071003_01.jpg)
   
@@ -49,7 +51,7 @@ Dio solo sa di **quanto mi sbagliavo**.
 I risultati sono stati **devastanti** e, prima di andare avanti con i numeri mi piacerebbe mostrarvi l'effetto ottico dei dati alla prima impressione, dopo aver convertito i dati dal formato NetStumbler testo in KML, il formato base di Google Earth.  
 Buona visione:  
   
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/0MMxho6zI48"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/0MMxho6zI48" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>  
+{% youtube 0MMxho6zI48 %}
   
 Fa una certa impressione, vero?  
 Un paio di dati:  

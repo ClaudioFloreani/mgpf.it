@@ -1,12 +1,11 @@
 --- 
 layout: post
-title: "Altra Vulnerabilità XSS su Libero.it"
+title: Altra Vulnerabilità XSS su Libero.it
 meta: 
-  aktt_tweeted: "1"
-  autometa: "vulnerabilit\xC3\x83  mostrare controll bugtraq evadendo costruita proporre libero"
 tags: 
 - hacking
 - security
+- about-me
 ---
 Dopo la [vulnerabilità di Rosario Valotta](http://www.lastknight.com/2007/03/27/liberoit-e-xss-pericolo-credenziali/) che avevo segnalato è ora di proporre la mia vulnerabilità **personale** ;)  
 Con un [Advisory](http://www.lastknight.com/xss-libero) su [BugTraq](http://www.securityfocus.com/archive/1/464048/30/0/threaded) e su [Full-Disclosure](http://seclists.org/fulldisclosure/2007/Mar/0492.html) (e ovviamente all'Abuse di Libero.it) la **Proof Of Concept** di una pagina costruita per:  
@@ -33,4 +32,4 @@ Ben disponibile a **dare una mano**, se possibile, ma per ora l'unica **dimostra
   
 **UPDATE:** Sembra che nella mattinata del 29 il problema da me segnalato sia stato risolto e che quindi il link della POC non sia più funzionante.  Per chi non è riuscito a dare un'occhiata qui di seguito il filmato che mostra il funzionamento della POC.  
   
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/PMWlCK09C-U"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/PMWlCK09C-U" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object> 
+{% youtube PMWlCK09C-U %}

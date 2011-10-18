@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Consigli per la navigazione
 meta: {}
 tags: 

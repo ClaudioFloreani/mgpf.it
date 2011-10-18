@@ -2,16 +2,14 @@
 layout: post
 title: InfoSecurity2007
 meta: 
-  _wp_page_template: default
-  autometa: ""
 tags: 
 - about-me
+- talk
 ---
 Nell'edizione del 2007 di InfoSecurity ho avuto il privilegio di poter presentare la conferenza "Eludere i Controlli di Polizia" che verte sulla inutilità  delle misure restrittive e censorie del Web o "Voice Privacy and Insecurity", presentazione flash assieme ad Alessio Pennasilico, Fabio Pietrosanti e Marco Misitano.  
   
 ##Video della Conferenza  
 Sarà  presto online in questa pagina il video della Conferenza "Eludere i Controlli di Polizia".  
-  
   
 ##Materiale
 * La presentazione "Eludere i Controlli di Polizia": scaricabile come PDF a [questo Link](http://www.lastknight.com/conference/i07%20-%20Matteo%20Flora%20-%20Eludere%20i%20Controlli%20di%20Polizia.pdf).
