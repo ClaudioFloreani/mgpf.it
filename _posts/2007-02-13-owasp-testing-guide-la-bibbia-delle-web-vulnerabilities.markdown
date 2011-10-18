@@ -15,7 +15,7 @@ Inizia in sordina la mail di Matteo Meucci (che dirige il chapter OWASP Italy) s
 Già, poche righe di descrizione per un **lavoro impressionante**, una **guida entusiasmante** per chiunque voglia approfondire gli argomenti della **Sicurezza Web** e del **Testing  e Pentesting** Web di applicazioni, oltre soprattutto a rappresentare una **pietra miliare** nel campo dell'editoria Online di Sicurezza Informatica.  
 E così, grazie a Matteo Meucci ma anche e soprattutto ad una serie di **italiani che il mondo intero ci invidia** come Matteo Meucci, Mauro Bregolin, Luca Carettoni, Stefano Di Paola, Giorgio Fedon, Andrea Lombardini, Claudio Merloni, Antonio Parata, Carlo Pelliccioni e Alberto Revelli (in rigoroso ordine alfabetico) il **baricentro della Sicurezza Web** si è inesorabilmente spostato dagli Stati Uniti alla nostra bella penisola.  
 
-<!--more-->
+
   
 Ma cos'è la OWASP Testing Guide? Eccone il breve sunto direttamente dalle pagine del Wiki:
 

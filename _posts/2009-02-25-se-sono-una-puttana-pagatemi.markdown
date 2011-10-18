@@ -4,8 +4,8 @@ title: Se sono una puttana pagatemi...
 published: false
 meta: {}
 tags: 
-- "assurdit\xC3\xA0"
-- Me &amp; The Web
+- "assurdità"
+- about-me
 - pr
 - viral
 status: draft

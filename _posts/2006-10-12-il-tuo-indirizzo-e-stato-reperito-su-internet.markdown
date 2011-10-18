@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Il tuo indirizzo \xE8 stato reperito su Internet?"
+title: "Il tuo indirizzo è stato reperito su Internet?"
 meta: 
   aktt_tweeted: "1"
   autometa: spam illegittimo garante reperito su internet legge spam

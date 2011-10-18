@@ -2,26 +2,22 @@
 layout: post
 title: AlVillage S.r.l. Milano
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
-
+tags:
+- about-me
+- business
 ---
 **A partire dal mese di Maggio ho lasciato definitivamente la carica di Direttore IT di AlVillage a Milano.**  
 Quello che segue non rappresenta in alcun modo le mie idee odierne, ma permane sul sito per ricordare Al Village del Dicembre 2004, molto differente dall'attuale struttura, quasi un'altra identità...  
-Se cercate quello che espongo in queste pagine forse potreste rivolgervi alle persone giuste: 99Times...
+Se cercate quello che espongo in queste pagine forse potreste rivolgervi alle persone giuste: [The Fool](http://thefool.it)...
 
 ##Al Village, la fucina di idee
-
 Lavoro come Direttore IT (e R&D) in una società particolare. Molto particolare.  
-Siamo nati qualche anno fa come Tisifone S.r.l. , "Web Consulting Agency", e gli anni ci hanno portato a questa nuova impresa, a questo nuovo equipaggio che amiamo chiamare "Il Village". Al Village nasce nell`Agosto del 2003 con un rinnovato assetto societario e una nuova guida (oltre a Gregorio Dal Pozzo ) alla società.  
+Siamo nati qualche anno fa come Tisifone S.r.l. , "Web Consulting Agency", e gli anni ci hanno portato a questa nuova impresa, a questo nuovo equipaggio che amiamo chiamare "Il Village". Al Village nasce nell'Agosto del 2003 con un rinnovato assetto societario e una nuova guida (oltre a Gregorio Dal Pozzo ) alla società.  
 
-<!--adsense-->
-
-##Chi E` AlVillage?
+##Chi E' AlVillage?
 Il "[non sito](http://www.alvillage.com)" di Al Village vi propone una mail-base, ma non è fatto per presentarci. Ci presentano i nostri clienti, da Disney Channel a BNL , da Maserati a FIAT , a Sutter . Ci presentano le persone che con noi hanno lavorato e che vi testimonieranno che quotidianamente chi lavora con noi, lavora nell'ambiente più creativo di Milano e dintorni, nel vero avamposto (forse ultimo baluardo ) della Professione Web per passione e con passione.  
 Siamo i Guru del Web che sono sopravvissuti alla Selezione Naturale degli ultimi anni.  
-Siamo forse gli eredi della New Economy, di quel sogno che tanto ha affascinato il mondo Web. Ma siamo cresciuti nell`expertise e siamo guidati da persone che nel Business hanno vissuto e vivono da anni.  
+Siamo forse gli eredi della New Economy, di quel sogno che tanto ha affascinato il mondo Web. Ma siamo cresciuti nell'expertise e siamo guidati da persone che nel Business hanno vissuto e vivono da anni.  
 
 ##Cosa fa AlVillage?
 Per farla breve potremme dire che è una Agenzia di Pubblicità .  

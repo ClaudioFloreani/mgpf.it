@@ -15,7 +15,7 @@ Leggo con interesse le ricerche della Binghamton University in merito ai **patte
 Ogni macchina fotografica digitale, infatti, possiede un sensore CMOS lievemente differente dalle gemelle di modello, differenza che risulta nella creazione di volta in volta di un **"disturbo" univoco** e riconoscibile attraverso elaborazione di un particolare algoritmo sviluppato, in modo non dissimile dalle procedure di riconoscimento adottate per distinguere le traccie univoche lasciate dalle **canne delle armi da fuoco** sui proiettili.  
 Come con le impronte digitali il disturbo genereato nelle immagini originali ha **natura stocastica** (cioè contiene variabili casuali) legate sia al sensore in sè sia a minuzie nella costruzione e nell'assemblamento di ogni dispositivo. Questo assicura una **differenza tra singoli esemplari** sufficiente a rendere impossibile la presenza di due dispositivi che generino medesime impronte, in modo non dissimile dalle reali impronte digitali umane.  
 
-<!--more-->
+
 
 Per elaborare un "verdetto di appartenenza" di una fotografia ad una particolare macchina fotografica **non è inoltre necessario** disporre **fisicamente dell'apparecchio**: basta infatti disporre di **un set di fotografie** sicuramente scattate da quel dispositivo per effettuare una perizia su una particolare immagine.  
 

@@ -4,7 +4,7 @@ title: "PdR: il Peggio della Rete puntata 3"
 meta: {}
 tags: 
 - brix
-- Me &amp; The Web
+- about-me
 - mindfuck
 - PDR
 - shit

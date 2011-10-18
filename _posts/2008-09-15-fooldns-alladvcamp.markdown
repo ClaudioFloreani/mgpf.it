@@ -3,7 +3,7 @@ layout: post
 title: FoolDNS all'AdvCamp
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 L'esperienza dell'AdvCamp è stata, credo, fondamentale per il giovane FoolDNS.  
 Parlare con persone come Andrea Beggi, Luca Conti Marco Massarotto, per non parlare di Marco Camisani Calzolari e Orientalia4All mi ha permesso di chiarirmi le idee su quali fossero i **punti fondamentali** che non ero riuscito a spiegare con sufficiente chiarezza.  

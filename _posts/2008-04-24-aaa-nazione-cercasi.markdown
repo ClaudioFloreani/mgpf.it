@@ -6,7 +6,7 @@ tags:
 - cercasi cittadinanza
 - cittadinanza
 - italiana
-- Me &amp; The Web
+- about-me
 - mi trasferisco
 ---
 Se qualcuno di voi **lavora per qualche ambasciata** o consolato nazionale e vuole **darmi cittadinanza** sono disposto a trasferirmi immediatamente.

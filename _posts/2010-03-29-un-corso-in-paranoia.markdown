@@ -7,7 +7,7 @@ meta:
 tags: 
 - antiprofilazione
 - digital-freedom
-- Paranoia
+- paranoia
 - privacy
 - profilazione
 - tracciamento

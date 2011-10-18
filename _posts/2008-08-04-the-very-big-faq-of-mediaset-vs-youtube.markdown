@@ -3,7 +3,7 @@ layout: post
 title: The Very Big Faq di Google vs. Mediaset
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 - security
 ---
 Credo che sia ora di rassettare la casetta del Blog e tirare qualche somma sul tenore dei commenti dell'ultima settimana.  

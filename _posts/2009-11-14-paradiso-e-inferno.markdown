@@ -6,7 +6,7 @@ tags:
 - inferno
 - io
 - Lo Zen e l'arte dell'IO
-- Me &amp; The Web
+- about-me
 - paradiso
 - rishi
 - samurai

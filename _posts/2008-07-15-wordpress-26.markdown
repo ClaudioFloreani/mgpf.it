@@ -4,7 +4,7 @@ title: Wordpress 2.6
 meta: {}
 tags: 
 - "2.6"
-- Me &amp; The Web
+- about-me
 - wordpress
 ---
 <a href="http://www.flickr.com/photos/58091561@N00/80224555/" title="bonne année" target="_blank"><img src="http://farm1.static.flickr.com/37/80224555_99866e6b61.jpg" alt="bonne année" border="0" /></a>  

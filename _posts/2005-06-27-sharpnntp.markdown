@@ -1,10 +1,10 @@
 --- 
 layout: post
+status: ok
 title: SharpNNTP .NET Newsgroup Access Library
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
+tags:
+- develop
 
 ---
 ##What is SharpNNTP.dll?
@@ -20,7 +20,7 @@ All the datasets return 2 columns : "ID" and "Name".
 Here it is a little demo code snippet.  
 Please refer to the documentation (in the ZIP file) or the fully implemented IntelliSense syntax for further reference.  
 
-<!--adsense-->
+
 
 <code lang="csharp">
  using LkProject.WebUtilities;

@@ -3,7 +3,7 @@ layout: post
 title: Addio, sig. Mino Reitano
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 <img src="http://www.lastknight.com/download//2009/01/operetta-29-447x300.jpg" alt="operetta-29" title="operetta-29" width="447" height="300" class="aligncenter size-medium wp-image-1274" />  
   

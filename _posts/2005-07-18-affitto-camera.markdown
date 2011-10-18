@@ -2,9 +2,8 @@
 layout: post
 title: Affitto camera...
 meta: {}
-
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Dopo la recente fuga per motivi sentimentali del mio co-inquilino affitto la camera singola in casa mia :D  
 Garantiti **libri di programmazione**, apparecchiature per Forensic, **internet WiFi**, mezza Sala macchine e **stimolanti conversazion**i... Cercasi *NON FUMATORE* e persona simpatica e socievole, ma soprattutto tranquilla...  

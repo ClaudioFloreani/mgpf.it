@@ -6,7 +6,7 @@ meta:
   autometa: google minaccia fantasma LMF tracciamento privacy segretezza riservatezza cookie
 tags: 
 - digital-freedom
-- Paranoia
+- paranoia
 - security
 ---
 ![Evil Google](/download/20061010_Google_Evil.jpg)

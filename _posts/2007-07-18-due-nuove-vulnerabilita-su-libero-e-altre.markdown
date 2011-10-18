@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Due nuove vulnerabilit\xE0 su Libero e altre..."
+title: "Due nuove vulnerabilità su Libero e altre..."
 meta: 
   aktt_tweeted: "1"
-  autometa: "advisory vulnerabilit\xC3\xA0 libero wind arianna adserver"
+  autometa: "advisory vulnerabilità libero wind arianna adserver"
 tags: 
 - hacking
 - security

@@ -6,7 +6,7 @@ tags:
 - capaci
 - falcone
 - mafia
-- Me &amp; The Web
+- about-me
 - strage
 ---
 <a href="http://www.flickr.com/photos/40694776@N00/2148699788/" title="Su un muro di Trastevere" target="_blank"><img src="http://farm3.static.flickr.com/2353/2148699788_b1613171ac.jpg" alt="Su un muro di Trastevere" border="0" /></a>  

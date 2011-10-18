@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Ma perch\xE8 i sistemi OpenSource sono più sicuri?"
+title: "Ma perchè i sistemi OpenSource sono più sicuri?"
 meta: {}
 tags: 
 - digital-freedom

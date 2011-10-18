@@ -10,8 +10,8 @@ tags:
 - digital-freedom
 - dns
 - fooldns
-- Me &amp; The Web
-- Paranoia
+- about-me
+- paranoia
 - privacy
 - security- The Fool
 ---

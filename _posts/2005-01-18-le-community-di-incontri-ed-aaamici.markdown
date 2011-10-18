@@ -1,10 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Le community di Incontri ed AAAMICI...
 meta: {}
-
 tags: 
-- security
+- social-media
 ---
  Sembra che nell'ultimo periodo le community di incontri, da <a href="http://www.orkut.com/">Orkut</a> a AdultFriendFinder siano uvunque... la prima la ritrovo sempre più spesso in vari profili di utenti, la seconda in banner che sembrano essere ovunque in giro per il Web.  
   
@@ -14,4 +14,4 @@ tags:
   
  Sono quindi contento che un caro amico abbia avviato in italia <a href="http://www.aaamici.it/">AAAmici.it</a> che spero diventi un punto di raccordo tra glui italiani che si "conoscono" nella rete...  
  E dopo questa sorta di pubblicità occulta o quasi non mi resta che dirvi che del progettino in questione sono beta-tester e sarebbe per me un onore invitare quante più persone possibile :D  
- Mandatemi un commento per l'invito!<div style="clear:both; padding-bottom: 0.25em;"></div> 
+ Mandatemi un commento per l'invito!

@@ -3,7 +3,7 @@ layout: post
 title: Melita Toniolo, Grande Fratello e... Matteo Flora?!?!
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 [![Matteo e Melita](http://www.lastknight.com/download/melita1.thumbnail.jpg)](http://www.lastknight.com/download/melita1.jpg)
 Strani i casi della vita :)  Mi accorgo oggi guardando i feed RSS di Google News che **conosco una delle prossime Star** del piccolo televisore visto che [Melita Toniolo](http://www.melitatoniolo.com), [modella Miss Maxim](http://www.maximonline.com/miss_maxim/miss_maxim_girl_template.aspx?id=10), valletta ed amica sembra essere stata selezionata per entrare nella **casa del GF7**.   

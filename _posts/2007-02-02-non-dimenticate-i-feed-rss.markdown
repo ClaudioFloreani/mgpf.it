@@ -3,7 +3,7 @@ layout: post
 title: Non dimenticate i Feed Rss...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Per chi utilizza reader RSS o intende iniziare ad usarli ricordo che Lastknight.com implementa da quasi un anno anche la versione [feed](http://www.lastknight.com/rss).  
 non solo il feed contiene gli ultimi articoli pubblicati in tempo reale, ma soprattutto contiene spesso i link del giorno ed altri interessanti spunti per la navigazione...  

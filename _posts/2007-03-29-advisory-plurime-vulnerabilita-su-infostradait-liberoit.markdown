@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Advisory: PLURIME vulnerabilit\xE0 su Infostrada.it Libero.it"
+title: "Advisory: PLURIME vulnerabilità su Infostrada.it Libero.it"
 meta: 
   aktt_tweeted: "1"
   autometa: "advisory ieri libero silenzioso adottato vulnerabilit\xC3\x83  risvolti saga"

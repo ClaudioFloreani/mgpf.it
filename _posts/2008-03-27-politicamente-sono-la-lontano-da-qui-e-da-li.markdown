@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Politicamente sono l\xE0, lontano da qui e da l\xEC..."
+title: "Politicamente sono là, lontano da qui e da l\xEC..."
 meta: {}
 
 tags: 

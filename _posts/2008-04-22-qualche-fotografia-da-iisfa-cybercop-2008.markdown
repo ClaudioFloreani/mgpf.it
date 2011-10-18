@@ -9,7 +9,7 @@ tags:
 - Davide Gabrini
 - iisfa cybercop
 - matteo flora
-- Me &amp; The Web
+- about-me
 ---
 Qualche altro momento fotografico direttamente dal concorso:  
   

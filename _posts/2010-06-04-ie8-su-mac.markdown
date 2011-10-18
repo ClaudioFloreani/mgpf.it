@@ -10,7 +10,7 @@ tags:
 - full-page
 - ie8
 - internet explorer
-- Me &amp; The Web
+- about-me
 - The Fool
 ---
 Da tanto tempo non viaggiavo senza FoolDNS Community e mi ero scordato quanto fastidiosi fossero i banner a Full Page. Non tanto per una questione prettamente di grafica, quanto perch&eacute; ostacolano la navigazione.  

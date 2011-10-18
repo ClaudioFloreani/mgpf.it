@@ -8,7 +8,7 @@ tags:
 - crittografia
 - digital-freedom
 - india
-- Paranoia
+- paranoia
 - privacy
 - rim
 ---

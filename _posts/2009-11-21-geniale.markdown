@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - fun theory
 - geniale
-- Me &amp; The Web
+- about-me
 ---
 we call it "Fun Theory"  
   

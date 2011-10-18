@@ -1,10 +1,10 @@
 --- 
 layout: post
+status: ok
 title: SHA-1 irrimediabilmente compromessa
 meta: {}
 tags: 
 - forensic
-- security
 ---
  C'è qualcosa di inquietante nel <a href="http://www.schneier.com/blog/archives/2005/02/sha1_broken.html">post di Bruce Schneier</a>, qualcosa che dovrebbe fare tremare chiunque ha a che fare con crittografia e firma digitale.  
  Bruce è lapidario: <i>"SHA-1 has been broken. Not a reduced-round version.  Not a simplified version. The real thing."</i>. E ha ragione.  
@@ -17,4 +17,4 @@ Ma in che modo questo impatta sulla sicurezza dell'algoritmo? Ipotizzando che fo
   
  <i><b>Aggiornamento</b>: nella vita di tutti i giorni ricordatevi di modificare i settaggi per l'hash della firma di PGP e GNUpg portando da SHA-1 a SHA-256...</i>  
   
- <i><b>Aggiornamento</b>: un'otticache non avevo considerato è quella per cui questa nuova problematica spingerà probabilmente l'adozione di sistemi più sicuri e l'investimento di fondi nella ricerca... Hackers per l'Economia?</i><div style="clear:both; padding-bottom: 0.25em;"></div> 
+ <i><b>Aggiornamento</b>: un'otticache non avevo considerato è quella per cui questa nuova problematica spingerà probabilmente l'adozione di sistemi più sicuri e l'investimento di fondi nella ricerca... Hackers per l'Economia?</i>

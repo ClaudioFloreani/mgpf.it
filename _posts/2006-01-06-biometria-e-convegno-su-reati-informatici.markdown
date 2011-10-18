@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Biometria e Convegno Reati Informatici e attivit\xE0 di Indagine"
+title: "Biometria e Convegno Reati Informatici e attività di Indagine"
 meta: {}
 
 tags: 

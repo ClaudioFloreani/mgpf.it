@@ -6,7 +6,7 @@ meta:
   autometa: "ges\xC3\xB9 cristo non esiste mitra sol invictus culto setta anticristianesimo natale"
 tags: 
 - digital-freedom
-- Paranoia
+- paranoia
 ---
 Innanzitutto i miei migliori auguri. Che la morte e resurrezione di... **Mitra** sia con tutti voi.  
 Gà, proprio Mitra, non certo **Gesù Cristo** che non nasce il 25 Dicembre ma **eredita** in una mossa di sincretismo religioso la festa del **Sol Invictus** romana, e cioè l'anniversario della resurrezione di **Mitra**, che muore e resiscita il terzo giorno.  

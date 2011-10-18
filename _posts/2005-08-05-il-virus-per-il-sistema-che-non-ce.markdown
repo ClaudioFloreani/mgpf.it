@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Il Virus per il sistema che non c'\xE8..."
+title: "Il Virus per il sistema che non c'è..."
 meta: {}
 tags: 
-- security
+- hacking
 ---
 Qualcuno ha sentito parlare di [Vista](http://www.microsoft.com/windowsvista/default.mspx)?  
 Si, il nuovo sistema di Microsoft (il vecchio "nome in codice LongHorn") non ha ancora fatto la propria apparizione sul mercato (e nenneno come download in beta, sembrerebbe) ma Mikko Hyppönen, direttore di F-Secure, [ha annunciato oggi](http://zdnet.com.au/news/security/soa/Windows_Vista_tool_targeted_by_virus_writers/0,2000061744,39205746,00.htm) che è stato individuato il **primo virus che infetta** [Monad](http://weblogs.asp.net/ssadasivuni/archive/2004/07/06/173628.aspx).  

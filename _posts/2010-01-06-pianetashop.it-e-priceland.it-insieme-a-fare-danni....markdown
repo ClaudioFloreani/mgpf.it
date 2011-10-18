@@ -4,7 +4,7 @@ title: Pianetashop.it e Priceland.it insieme a fare danni...
 published: false
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 status: draft
 ---
 Di Pianetashop

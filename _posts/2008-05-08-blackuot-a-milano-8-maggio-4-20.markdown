@@ -4,9 +4,9 @@ title: Ore 4:20, Blackout e Milano si spegne
 meta: {}
 tags: 
 - blackout
-- Me &amp; The Web
+- about-me
 - milano
-- Paranoia
+- paranoia
 - Sicurezza e Privacy
 - ups
 ---

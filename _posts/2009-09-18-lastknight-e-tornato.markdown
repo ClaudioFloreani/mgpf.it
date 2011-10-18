@@ -1,11 +1,11 @@
 --- 
 layout: post
-title: "LastKnight \xE8 tornato"
+title: "LastKnight è tornato"
 meta: {}
 tags: 
 - io
 - lastknight
-- Me &amp; The Web
+- about-me
 ---
 Avrete notato un cambio direzionale, ancora una volta, nell'impostazione del Blog dalla giornata di oggi.  
 Ancora un volta si cambia direzione, ancora una volta si cambia, forse, impostazione.  

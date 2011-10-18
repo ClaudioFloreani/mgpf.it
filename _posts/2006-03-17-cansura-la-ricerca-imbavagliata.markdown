@@ -4,7 +4,7 @@ title: "Censura: la ricerca imbavagliata"
 meta: {}
 tags: 
 - digital-freedom
-- Paranoia
+- paranoia
 ---
 ![Non imbavagliate la ricerca!](/download/20060317_Imbavagliata.jpg)  
 Non sono avvezzo a fare politica nel Blog salvo, come si è visto, quando si parla di Censura e delle sue conseguenze.  

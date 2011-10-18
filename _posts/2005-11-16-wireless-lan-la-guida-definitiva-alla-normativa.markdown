@@ -6,7 +6,7 @@ meta:
   _wp_page_template: default
   autometa: ""
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 ## La normativa per le WiFi
 
@@ -20,7 +20,7 @@ Fino al 2001 il riferimento legislativo per l'utilizzo delle apparecchiature ope
 A partire dal gennaio 2002, il regolamento di attuazione dello stesso DPR 447 del 5 Ottobre 2001 consente l'utilizzo di dispositivi di WLAN che operano sulle bande di frequenza appositamente assegnate, senza più la necessità di richiedere alcuna concessione.
 Il quadro regolamentare definitivo per l'utilizzo della tecnologia Wi-Fi in ambito pubblico è dato però dal cosiddetto decreto Gasparri del 28 Maggio 2003, che regola le condizioni per il rilascio delle autorizzazioni generali per la fornitura al pubblico dell'accesso Radio-LAN alle reti ed ai servizi di telecomunicazioni. 
 
-<!--adsense-->
+
 
 Il quadro regolamentare definitivo per l'utilizzo della tecnologia Wi-Fi in ambito pubblico è dato però dal cosiddetto decreto Gasparri del 28 Maggio 2003, che regola le condizioni per il rilascio delle autorizzazioni generali per la fornitura al pubblico dell'accesso Radio-LAN alle reti ed ai servizi di telecomunicazioni. 
 
@@ -40,7 +40,7 @@ I limiti di potenza, secondo le norme ETSI attuali, per i servizi radiolan sono 
 
 Il decreto del Ministero delle Comunicazioni liberalizza l'erogazione di servizi Wi-Fi nel territorio nazionale, modificando il precedente decreto Gasparri 28 Maggio 2003.
 
-<!--adsense-->
+
 
 L'articolo 1 liberalizza il servizio su tutto il territorio nazionale, eliminando l'obbligo di fornire il servizio in aree a frequentazione pubblica o locali aperti al pubblico.  
 Inoltre l'articolo 4, riprendendo il decreto legislativo 1° agosto 2003 n. 259, mantiene il regime di autorizzazione generale per i soggetti che vogliono fornire servizi radiolan. Tale autorizzazione è da richiedere alla Direzione generale per i servizi di comunicazione elettronica e radiodiffusione del Ministero delle Comunicazioni.
@@ -53,7 +53,7 @@ Inoltre l'articolo 4, riprendendo il decreto legislativo 1° agosto 2003 n. 259,
 
 Con il decreto *"Misure urgenti per il contrasto del terrorismo internazionale"*, noto come decreto Pisanu, del 27 luglio 2005, alcune delle norme citate precedentemente sono state variate.  
 
-<!--adsense-->
+
 
 L'articolo 7, infatti, invalida la delibera dell'Autorità per le Garanzie nelle Comunicazioni (num. 102/03/CONS) precedentemente citata, indicando che è necessario richiedere un'autorizzazione al questore per chi mette a disposizione terminali telematici. L'autorizzazione va richiesta per chi ne fa attività prevalente o esclusiva, o per chi ha più di 3 terminali installati. Inoltre richiede la *"preventiva acquisizione di dati anagrafici riportati su un documento di identità dei soggetti che utilizzano postazioni pubbliche non vigilate per comunicazioni telematiche ovvero punti di accesso ad Internet utilizzando **tecnologia senza fili**"*. 
 

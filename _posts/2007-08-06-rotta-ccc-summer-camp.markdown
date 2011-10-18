@@ -3,7 +3,7 @@ layout: post
 title: Rotta CCC Summer Camp
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 [![CCC Summer Camp 2007](http://www.lastknight.com/download/20070806_ccc.thumbnail.jpg)](http://www.lastknight.com/download/20070806_ccc.jpg)
 Fervono gli **ultimi preparativi** e le prove tecniche di trasmissione...  

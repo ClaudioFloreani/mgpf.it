@@ -1,18 +1,18 @@
 --- 
 layout: post
+status: 
 title: "Virus informatici: Strategie di infezione e Tecniche di prevenzione"
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
+tags:
+- about-me
+- talk
+- hacking
 
 ---
 Il **1 Ottobre 2004** si è svolta a Milano la prima edizione del corso "Virus informatici: Strategie di infezione e Tecniche di prevenzione" realizzato da me ed il Maresciallo Gerardo Costabile della GdF in collaborazione con Learning Resource Associates di Milano.
 
 #Finalità
 La finalità del corso è fornire una visione comprensiva delle problematiche coinvolte nella scrittura, nella diffusione e nella lotta al malicious code, oltre che delle strategie e delle politiche di protezione delle informazioni e salvaguardia dei sistemi.  
-
-<!--adsense-->
 
 Durante il corso verranno indicati gli approcci legali per stabilire le policy in azienda, il controllo difensivo sia tecnico che giuridico delle transazioni internet e della posta elettronica, le modalità dell' eventuale denuncia all' Autorità Giudiziaria, la cristallizzazione delle prove e le modalità di formazione del personale a vari livelli, con test sulle modalità di violazione delle policy con un semplice comportamento superficiale.  
 
@@ -69,12 +69,3 @@ Gli obiettivi formativi del corso comprendono:
     *  Vademecum ragionato per evitare problemi in azienda: dalla prevenzione al controllo
     *  Controlli difensivi in azienda: Internet, posta elettronica e virus
     *  Alcuni case study italiani: gli unici due virus italiani
-
-#Materiale
-Il materiale didattico del corso è disponibile per i partecipanti e scaricabile:
-
-*  **Bibliografia ragionata** : La bibliografia completa è reperibile a questa pagina .
-*  **Brochure Informativa** : La brocure informativa del corso è disponibile a questo indirizzo .
-*  **Slides e Materiale** : Il materiale del corso è scaricabile in formato [ZIP](/download/corso_virus.zip) .
-
-*Nota Bene: per aprire l'archivio compresso è necessario possedere il codice di accesso fornito durante il corso agli studenti. Se non si è ricevuto è possibile contattarmi alla voce Pagina dei Contatti* 

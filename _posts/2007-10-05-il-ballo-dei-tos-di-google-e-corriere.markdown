@@ -19,7 +19,7 @@ In effetti è ovvio che dobbiamo **autorizzarli a
 trasmettere** e a **modificare** (tecnicamente parlando un resize è una
 alterazione) il contenuto...
 
-<!--more-->
+
 
 Se poi **non potessero ritrasmetterlo** sarebbe una bella gatta da pelare
 per una società che DISTRIBUISCE contenuti, non credete?  

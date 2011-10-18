@@ -4,7 +4,7 @@ title: Rule 34
 meta: {}
 tags: 
 - "34"
-- Me &amp; The Web
+- about-me
 - meme
 - rule34
 - urban dictionary

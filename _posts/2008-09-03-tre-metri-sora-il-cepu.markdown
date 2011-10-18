@@ -7,8 +7,8 @@ tags:
 - digital-freedom
 - diretta
 - disma
-- Me &amp; The Web
-- Paranoia
+- about-me
+- paranoia
 - radio popolare
 - security- trasmissione
 - tre metri sopra il cepu

@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - d40
 - flickr
-- Me &amp; The Web
+- about-me
 - nikon
 - notturna
 - Zen &amp; Photo

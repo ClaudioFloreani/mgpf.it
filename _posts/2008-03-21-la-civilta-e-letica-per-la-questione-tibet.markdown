@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: "La Civilt\xE0 e l'Etica per la questione Tibet"
+title: "La Civiltà e l'Etica per la questione Tibet"
 meta: {}
 
 tags: 
-- "civilt\xC3\xA0"
+- "civiltà"
 - digital-freedom
 - etica
 - massacro

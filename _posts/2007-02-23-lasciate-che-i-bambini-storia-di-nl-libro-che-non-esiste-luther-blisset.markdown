@@ -7,7 +7,7 @@ meta:
 tags: 
 - censura
 - digital-freedom
-- Paranoia
+- paranoia
 ---
 [![Lascite chi i bambini](http://www.lastknight.com//download/20070201_lasciate.jpg)](http://www.wumingfoundation.com/backpages.zip)
 Mentre continuo a studiare e ristudiare il fenomeno della Pedofilia e Pedopornografia in Italia, dopo i consensi e le varie riflessioni della Conferenza dell'8 Febbraio, mi imbatto nel **Libro che Non Esiste**.  

@@ -2,9 +2,8 @@
 layout: post
 title: Riecco il Golf!
 meta: {}
-
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Ed eccomi con il ritorno dalle ferie a ri-iniziare con il Golf :D  
 Dopo la vacanza estiva torno con un bellissimo set di cavolate da [St. Andrews](http://www.standrews.org.uk/) e tanta voglia di fare, soprattutto tanta voglia di arrivare il prima possibile all'handicap...  

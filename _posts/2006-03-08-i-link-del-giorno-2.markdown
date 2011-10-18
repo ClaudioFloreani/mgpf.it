@@ -4,7 +4,7 @@ title: I Link del giorno...
 meta: {}
 
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Gli ultimi link proposti tratti da <a href="http://del.icio.us/">del.icio.us</a> per <a href="http://del.icio.us/LastknightDotCom"> LastknightDotCom</a>
 

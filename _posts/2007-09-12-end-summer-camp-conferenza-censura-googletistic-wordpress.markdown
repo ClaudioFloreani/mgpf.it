@@ -12,7 +12,7 @@ Parlando di censura non si può fare a meno di ricordare **che questo weekend**,
   
 Terrò **due distinti seminari**, l'uno sulla **Censura in Italia** e l'altro su **GoogleTistic e il Web italiano**...  
 Mentre il primo è la versione riveduta e corretta del Talk sull'**elusione dei sistemi di censura** online che tenni anche in occasione di InfoSecurity 2007, il secondo Talk è un poco più particolare e mi darà manforte il competente Matteo Carli che ha aderito alla mia [richiesta di collaborazione](http://www.lastknight.com/2007/07/10/collaboriamo-lastknight-dot-lab/) di qualche tempo fa e con cui abbiamo fatto cose egregie :)  
-<!--more-->
+
 Si tratta dell'integrazione del Talk tenuto da Alessio Orlandi per conto mio a E-Privacy 2007 con l'aggiunta del crawling del top **98% dei Blog italiani**, che ha generato non pochi dati interessanti...  
 Si parla della **Sicurezza dei Blog** italiani, della diffusione del **tracciamento**, della diffusione di servizi e delle minacce ad essi correlate. In particolare analizzeremo con cura le possibilità per un utente malintenzionato di **sovvertire il panorama del Web Blogging** italiano **rapidamente e semplicemente**.
   

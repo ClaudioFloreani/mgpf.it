@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: "Grazie, pap\xE0..."
+title: "Grazie, papà..."
 meta: {}
 tags: 
 - d40
-- Me &amp; The Web
+- about-me
 - nikon
 - photo
 - Zen &amp; Photo

@@ -5,8 +5,8 @@ meta: {}
 tags: 
 - censura
 - digital-freedom
-- Me &amp; The Web
-- Paranoia
+- about-me
+- paranoia
 - security
 ---
 La **[vagina dentata][1]** di Britney Spears è ora una realà storica, visto che è lei stessa a farne una dichiarazione ufficiale via Twitter:  

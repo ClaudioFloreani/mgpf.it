@@ -1,12 +1,12 @@
 --- 
 layout: post
-title: "Quando per Google Cristo \xE8 Porco D*o"
+title: "Quando per Google Cristo è Porco D*o"
 meta: {}
 tags: 
 - bestemmie
 - cristo
 - google
-- Me &amp; The Web
+- about-me
 - porco dio
 - suggerimenti
 - suggest

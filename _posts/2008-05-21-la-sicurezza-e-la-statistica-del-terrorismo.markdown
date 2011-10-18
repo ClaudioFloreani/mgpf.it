@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - Cory Doctorow
 - digital-freedom
-- Paranoia
+- paranoia
 - paura
 - statistica
 - terrorismo

@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - eluana
 - eutanasia
-- Me &amp; The Web
+- about-me
 - orientalia4all
 ---
 <a href="http://www.flickr.com/photos/13582064@N00/2598075659/" title="Unquenched thirst" target="_blank"><img src="http://farm4.static.flickr.com/3210/2598075659_2978bd2b47.jpg" alt="Unquenched thirst" border="0" /></a>  

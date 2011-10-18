@@ -2,10 +2,8 @@
 layout: post
 title: Gli USA e ROMANA Prodi
 meta: {}
-
 tags: 
 - digital-freedom
-- security
 ---
 [<img src="/wp-content/thumb-20050803_romana.JPG">](/wp-content/20050803_romana.JPG)
 L' 1 Agosto, nove mesi dopo il sequestro dei server di Indymedia ad opera dell'FBI nell'Ottobre 2004 la corte statunitense ha rilasciato documentazione a riguardo, inclusi i capi di accusa.  

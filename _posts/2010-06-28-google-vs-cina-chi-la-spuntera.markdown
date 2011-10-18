@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Google vs Cina: chi la spunter\xE0?"
+title: "Google vs Cina: chi la spunterà?"
 meta: 
   wordbooker_options: "a:9:{s:18:\"wordbook_noncename\";s:10:\"46a22d6889\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"1\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:7:\"%title%\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";}"
   _edit_last: "1"
@@ -14,7 +14,7 @@ tags:
 - featured
 - google
 - hacking
-- "libert\xC3\xA0"
+- "libertà"
 - security- spionaggio
 ---
 Non si fermano gli attacchi degli hacker cinesi verso il resto del mondo informatizzato, e sicuramente a farla da padrone è stato proprio Google con le sue [mosse astute e al contempo provocatorie][Google vs Cina].  

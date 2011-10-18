@@ -1,11 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Le aste della Procura di Milano e il procedimento Borra
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
-
+tags:
+- develop
+- social-media
 ---
 I patiti delle vendite al dettaglio di beni usati, il folto e nutrito gruppo dei seguaci di Ebay & Co, in quest'ultimo periodo sembra avere trovato pane per i suoi denti in un contesto lievemente differente.  
 Infatti, per la prima volta in Italia, si è presentata online la possibilità di partecipare "virtualmente" ad un' asta della Procura di Milano e più precisamente quella concernente il Procedimento Penale 31034/03 ed al sequestro datato 17.10.2003 ed eseguito dalla Guardia di Finanza di Milano in data 17.10.2003 nei confronti di BORRA ANGELINO e BORRA CATERINO nei locali siti in Montebello della Battaglia, via per Lungavilla n. 43.  
@@ -17,7 +17,7 @@ Se l'iniziativa è sicuramente encomiabile dal punto di vista dell'innovazione e
 Si nota infatti perfettamente la volontà da parte dei lungimiranti Pubblici Ministeri Perrotti, Taddei e Targhetti di voler ad ogni costo infrangere uno status-quo che favorisce pochi elementi di una lobby ben radicata in favore di una ben più democratica visione del processo dell'Asta, e la permanenza di alcuni comportamenti e di alcune tecnologie non favorisce di certo questo processo tanto importante.  
 Innanzitutto vi è il problema della scelta del FAX come mezzo per l'invio delle offerte. Il FAX, infatti, non offre nessun tipo di certificazione dell'avvenuto recapito dell'offerta, oltre a non offrire nessun tipo di "convalida" dell'effettivo risultato di ricezione (il mio fax è leggibile? La carta si è inceppata?). In un'ottica di controllo maggiore, inoltre, un mezzo meccanico ed antiquato come il FAX non tutela in alcun modo l'offerente...  
 E' troppo facile, infatti, sbarazzarsi di un FAX "scomodo" a favore di un FAX molto più "comodo".  
-<!--adsense-->
+
 Perchè nessuno vuole mettere in dubbio la legittimità e la correttezza degli impiegati del tribunale nell'esercizio delle loro funzioni, ma un FAX non presidiato (come più volte segnalato dalla Procura) e senza una duplice copia di conferma o una memorizzazione non modificabile offre fin troppi buoni spunti alla persona che si ritrova casualmente nei paraggi dell'apparecchio.  
 E' inoltre opinabile la scelta di utilizzare per la pubblicazione non il sito stesso della procura (probabilmente per problemi di spazio web) ma un fantomatico http://www.ferdinando.cecchini.name , sito registrato peraltro sul noto provider a basso costo ed ancora più bassa affidabilità Aruba proprio dal signor Ferdinando Cecchini , probabilmente l'esecutore materiale delle pagine, e che ben poco ha a che fare con la mansione che deve svolgere.  
 Molto meglio sarebbe stato, alla luce dell'ingente investimento di Euro.19,00, la registrazione di un dominio ad-hoc (astaprocedimentoXXX.it) che avrebbe fornito sicuramente una maggiore credibilità ed autorevolezza . Inoltre è strano che un sistema tanto innovativo da utilizzare il WEB per la parte più cospicua dell'operazione, non utilizzi lo stesso web per portare a termine il lavoro in un'ottica di coerenza e di completezza del sistema.
@@ -53,7 +53,7 @@ L'identificazione e la certificazione preventiva di un utente agevola sensibilme
 
 Un punto di fondamentale importanza nella realizzazione dell'architettura che dovrebbe portare alla soluzione definitiva è la creazione di un sistema atto a immagazzinare OGNI TRANSAZIONE del data-base su macchine non accessibili ad altri salvo che al Pubblico Ministero stesso.  
 Se da un lato questo si configura come una sicurezza "fisica" della macchina, facilmente ottenibile in una server appliance certificata, dall'altra si basa molto più sulla sicurezza informatica : UN SOLO account personale (gestito direttamente dal PM) dovrà avere accesso alle singole offerte e, soprattutto, alle funzioni avanzate di cancellazione di una offerta (in caso di errore evidente o di account riscontrato fasullo).  
-<!--adsense-->
+
 Comunque sia e qualunque sia l'account utilizzato, è necessario provvedere alla creazione di un Log di sistema implementato su macchine opportunamente configurate per memorizzare le informazioni in aree "append only", in cui cioè sia solamente possibile aggiungere informazioni e non modificare quelle esistenti. Un suggerimento utile è inoltre quello di procedere alla stampa giornaliera del suddetto LOG e alla sua autenticazione, così da poter giorno per giorno avere ben chiara la situazione e la documentazione necessaria ad individuare eventuali malfunzionamento o manipolazioni.  
 
 #La trasparenza come necessità e sicurezza

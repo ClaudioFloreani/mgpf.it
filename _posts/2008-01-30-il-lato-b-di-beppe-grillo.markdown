@@ -6,7 +6,7 @@ tags:
 - digital-freedom
 - disinformazione
 - grillo
-- Paranoia
+- paranoia
 - Politica
 ---
 [Alessandro](http://blogaprogetto.wordpress.com/2008/01/28/beppe-grillo-e/) ogni tanto è un **po' ciacalone** e le sue gigionerie si sentono.  

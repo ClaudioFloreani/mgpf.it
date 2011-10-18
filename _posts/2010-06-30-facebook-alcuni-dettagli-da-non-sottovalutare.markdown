@@ -38,7 +38,7 @@ Tutto sommato però, se scriviamo un commento siamo ben consapevoli che *i nostr
 Quando rifiutiamo un'amicizia, di fatto comunichiamo a Facebook che non vogliamo mostrare il nostro profilo ad una certa persona. Costui però, per il solo fatto di aver "mostrato interesse" verso di noi, inizierà a vedere il nostro stato personale (che di default è visibile a tutti), nel *suo* flusso di notizie.  
   
 Concludendo, è bene ricordare che Facebook è un'infrastruttura molto complessa: 400 milioni di utenti e diverse centinaia di componenti che interagendo possono lasciare uno spiraglio aperto al malintenzionato di turno.  
-E` vero che le impostazioni di Facebook possono trarre in inganno l'utente poco attento, ma faremmo bene a non dimenticare mai che Facebook non è un ente di beneficenza, bensì un'azienda che guadagna grazie ai dati personali dei suoi utenti!  
+E' vero che le impostazioni di Facebook possono trarre in inganno l'utente poco attento, ma faremmo bene a non dimenticare mai che Facebook non è un ente di beneficenza, bensì un'azienda che guadagna grazie ai dati personali dei suoi utenti!  
 Forse è per questo che le impostazioni di default non sono poi così restrittive?  
 I più paranoici tra noi lo sanno bene, tutto ciò che arriva in rete smette di appartenerci.  
 "Impostazioni sulla privacy", "Gruppi di amici" o "Regole di pubblicazione" sono solo palliativi. Vale la solita vecchia massima: "se vuoi che una cosa resti segreta, tienila per te!"  

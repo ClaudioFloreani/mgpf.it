@@ -2,10 +2,8 @@
 layout: post
 title: Architettura di Lastknight.com
 meta: {}
-
 tags: 
-- Me &amp; The Web
-- security
+- about-me
 ---
 Mi è stato chiesto in un paio di mail di parlare dei **provider** e dei sistemi CMS che utilizzo per amministrare i vari progetti, primo tra tutto lastknight Dot Com.  
 Per quanto riguarda questo sito il sistema di publishing che utilizzo è Wordpress, il database
@@ -14,8 +12,6 @@ Inoltre, cosa da NON SOTTOVALUTARE, offre tutte le feature necessarie (e pochi l
 esista fisicamente.  
 
 Inoltre Wordpress è basasto su PHP ma per chi necessita funzioni fino a quelle offerte da Lastknight Dot Com sono disponibili migliaia di tempate aggiuntivi già pronti (uno dei quali è stato alla base del mio).  
-
-<!--adsense-->
 
 LivingDot ha un impeccabile e meraviglioso servizio che preconfigura MySql e il Blog direttamente, lasciando come unico compito lo scegliere il template. Da anche accesso FTP, statistiche ed una marea di altri giochini.
 

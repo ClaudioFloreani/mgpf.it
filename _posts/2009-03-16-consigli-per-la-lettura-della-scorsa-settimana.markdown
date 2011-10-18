@@ -8,7 +8,7 @@ tags:
 - DaringToDo
 - feed
 - link
-- Me &amp; The Web
+- about-me
 - rss
 ---
 Se siete a corto di cose da leggere vi segnalo un po' di link che potreste gradire molto o poco, a seconda dei punti di vista :)  

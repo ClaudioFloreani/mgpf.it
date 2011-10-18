@@ -3,7 +3,7 @@ layout: post
 title: Piccole rivoluzioni in casa Lastknight.com
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Se vedete qualcosa che non va non preoccupatevi: sono solamente le prime lucidature della nuova versione di Lastknight.com.  
   

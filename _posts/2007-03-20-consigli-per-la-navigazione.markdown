@@ -3,7 +3,7 @@ layout: post
 title: Consigli per la navigazione
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Un po' di siti consigliati da Matteo (*beta*):
 <ul>

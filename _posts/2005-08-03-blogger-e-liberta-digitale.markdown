@@ -1,12 +1,9 @@
 --- 
 layout: post
-title: "Blogger e Libert\xE0 Digitale"
+title: "Blogger e Libertà Digitale"
 meta: {}
-
 tags: 
-- censura
 - digital-freedom
-- security
 ---
 > Whether you're a newly minted blogger or a relative old-timer,
 > you've been seeing more and more stories pop up every day

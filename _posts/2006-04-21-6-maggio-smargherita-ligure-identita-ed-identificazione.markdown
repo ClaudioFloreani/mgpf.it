@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "6 Maggio, S.Margherita Ligure: Identit\xE0 ed Identificazione"
+title: "6 Maggio, S.Margherita Ligure: Identità ed Identificazione"
 meta: {}
 tags: 
 - about-me

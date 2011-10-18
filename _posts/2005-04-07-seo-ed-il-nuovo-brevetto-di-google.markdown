@@ -1,9 +1,11 @@
 --- 
 layout: post
+status: ok
 title: SEO ed il nuovo brevetto di Google
 meta: {}
 tags: 
-- security
+- develop
+- seo
 ---
 C'è aria di novità per i SEO impegnati nell'adeguarsi al nuovo sistema di classificazione pagine di Google. <a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PG01&s1=20050071741&OS=20050071741&RS=20050071741">Information retrieval based on historical data</a> è il titolo di un nuovo <strong>brevetto </strong>depositato da Google che pare essere alla base della nuova piattaforma di classificazione del noto motore di ricerca, destinata a soppiantare il datato PageRank.
 
@@ -19,6 +21,6 @@ La pubblicazione di questo brevetto di Google e le chiare indicazioni fornite in
 
 Come si legge nel brevetto depositato:
 
-<blockquote>La data di apparizione di un link più inoltre essere utilizzata per rintracciare e classificare lo "spam", dove i proprietari delle pagine o loro colleghi creano collegamenti per il solo fine di aumentare la popolarità. Un tipico documento "legittimo" acquisisce link lentamente. Un grosso picco di link subitanei segnala in genere un fenomeno topico (ad esempio il sito del CDC [Center of Desease Control] attrae link velocemente a seguito di un'epidemia, come la SARS) o il<strong> segnale inequivocabile di un tentativo di SPAM</strong>.</blockquote>
+> La data di apparizione di un link più inoltre essere utilizzata per rintracciare e classificare lo "spam", dove i proprietari delle pagine o loro colleghi creano collegamenti per il solo fine di aumentare la popolarità. Un tipico documento "legittimo" acquisisce link lentamente. Un grosso picco di link subitanei segnala in genere un fenomeno topico (ad esempio il sito del CDC [Center of Desease Control] attrae link velocemente a seguito di un'epidemia, come la SARS) o il<strong> segnale inequivocabile di un tentativo di SPAM</strong>.
 
 Rimane da vedere se l'avanzare del nuovo algoritmo riuscirà a frenare la generazione di fenomeni di<a href="http://www.lastknight.com/SEO-e-Motori-di-Ricerca.aspx"> inquinamento dei risultati</a> di Google. 

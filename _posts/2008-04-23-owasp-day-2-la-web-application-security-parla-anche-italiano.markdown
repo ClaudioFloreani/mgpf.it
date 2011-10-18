@@ -3,7 +3,7 @@ layout: post
 title: "OWASP Day 2: la Web Application Security parla (anche) italiano"
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Il 31 Marzo a Roma il panorama della Web Security italiana ha visto in OWASP Day 2 una delle sue massime espressioni. Non solamente esperti italiani, ma esperti di tutto il mondo sono arrivati a ROma per discutere non solamente di tecnicismi e non solamente di procedure, non solamente di visioni Enterprise e non solamente di tecniche di Penetration Testing.  
 Se un aggettivo può essere usato per l'evento, quello è sicuramente onnicomprensivo: sono stati sviscerati problemi e si sono posti interrogativi su molti piani, una collaborazione di competenze ed una unione di mondo veramente peculiare e non certo normale nel panorama della Information Security.  

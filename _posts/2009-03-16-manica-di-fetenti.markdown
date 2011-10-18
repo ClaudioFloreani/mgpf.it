@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - c25k
 - corsa
-- Me &amp; The Web
+- about-me
 - nike+
 ---
 ...che avete chiamato per sapere se ho corso... Prima di farlo aspettate almeno le 10 e controllate l'Account Nike+ o l'Account Runner+,  no? :D  

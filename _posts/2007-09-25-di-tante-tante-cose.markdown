@@ -3,14 +3,14 @@ layout: post
 title: Di tante tante cose...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Carissimi,  
   
 mi succede molto, molto raramente di scrivere ad oltre duemila contatti ed ogni volta mi accingo a farlo con un poco di timore reverenziale...  
 Siete tantissimi, molti più di quanti mi aspettassi, ad essere iscritti e leggere quello che posto su LastKnight.com e ancora di più a leggere queste righe che vi mando alla Newsletter (e che posterò anche sul Blog quindi utenti del blog iscrivetevi se vi interessasse...).  
 
-<!--more-->
+
   
 Avrete notato, negli ultimi mesi, un cambio di tendenza, quasi un cambio di rotta. Non scrivo più molto spesso e quando scrivo lo faccio da arrabbiato. E comunico lo stretto indispensabile solamente.  
 E' normale, succede a tutti di tanto in tanto di fermarsi e cercare di capire "cosa si farà da grandi". Succede ed è successo anche a me. E la risposta? Nessuna, per ora, ma un circostanziato e preciso check della realtà, una presa di coscienza di quello che ho fato e che sto facendo.  

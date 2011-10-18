@@ -5,6 +5,7 @@ meta:
 tags: 
 - about-me
 - hope
+- lifehacking
 ---
 Durante l'[ESC][1] di quest'anno ho fatto uno speech un po' particolare: invece di parlare semplicemente di tecnologia mi sono concentrato su una serie di "cose" che negli anni ho imparato ed utilizzato per la gestione della mia vita e della produttività. Ma anche di spiritualità, trucchi, massime.  
 

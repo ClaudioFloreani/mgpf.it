@@ -3,7 +3,7 @@ layout: post
 title: Nuovo Design, nuove opzioni, nuovo sito...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 [![New Design](/download/20060419_lastknight.thumbnail.gif)](/download/20060419_lastknight.gif)
 Ho ricevuto qualche mail in questi ultimi giorni che mi chiedevano dove fossi finito. A parte il [silenzio stampa](http://www.lastknight.com/2006/04/06/severgnini-e-silenzio-stampa/) che mi ero auto-imposto ho utilizzato il mio tempo per **ridisegnare completamente**  Lastknight Dot Com in pura **ottica Web 2.0**.  

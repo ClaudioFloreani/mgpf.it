@@ -1,18 +1,16 @@
 --- 
 layout: post
+status: ok
 title: "Indice del libro \"Sicurezza e Privacy: dalla carta ai bit\""
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
-
+tags:
+- talk
 ---
 >**<a href="http://www.expertaedizioni.it/index.php?id=38909">SICUREZZA E PRIVACY: DALLA CARTA AI BIT</a>**  
 >**Manuale per aziende, studi professionali, pubblica amministrazione**  
 >*di Gerardo Costabile (curatore),  **Matteo G.P. Flora**, Donato E. Caccavella, Luca Filippi, Mara L. Frigo, Andrea Gelpi, Luca Giacopuzzi, Luca Sandri.  
 >Editrice Experta | 480 pag. | 2005 | ISBN: 8888158820  
 >Prezzo di copertina: &euro; 42,00
-
 
 #CAPITOLO PRIMO
 ##La tutela del dato personale in azienda

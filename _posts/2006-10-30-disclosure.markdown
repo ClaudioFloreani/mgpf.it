@@ -5,7 +5,7 @@ meta:
   _wp_page_template: default
   autometa: advertisements compensation topics owner opinions products forms product
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 This policy is valid from 30 October 2006  
   

@@ -10,7 +10,7 @@ tags:
 - featured
 - fooldns
 - google
-- Me &amp; The Web
+- about-me
 - privacy
 - repubblica
 ---

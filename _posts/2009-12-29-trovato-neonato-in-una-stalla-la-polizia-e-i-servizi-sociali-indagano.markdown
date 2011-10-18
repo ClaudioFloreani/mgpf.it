@@ -5,8 +5,8 @@ meta: {}
 tags: 
 - betlemme
 - falegname
-- Me &amp; The Web
-- "nativit\xC3\xA0"
+- about-me
+- "natività"
 - pedofilia
 ---
 **"Trovato neonato in una stalla - La polizia e i servizi sociali indagano" - "Arrestati un falegname ed una minorenne"**  

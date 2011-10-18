@@ -1,11 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Webcams, reti neurali e Grande Fratello...
 meta: {}
 tags: 
 - digital-freedom
-- Paranoia
-- security
+- hacking
+- paranoia
 ---
  Ho letto con interesse il post di Andrea Cavalloni su <a href="http://blogs.ugidotnet.org/raider/articles/4033.aspx">VideoSorveglianza: tra Privacy e Sicurezza...</a> e volevo aggiungere i My 2 Cents...  
   
@@ -20,4 +21,4 @@ tags:
   
  Niente bisogno di controllo umano, niente bisogno di muovere un dito. Solo un piccolo dato che non è nemmeno obbligatorio catalogar, visto che dopo essere filtrate le immagini possono anche NON VENIRE archiviate...  
   
- Meditate, gente, meditate...<div style="clear:both; padding-bottom: 0.25em;"></div> 
+ Meditate, gente, meditate...

@@ -4,7 +4,7 @@ title: Blu screen? Si, grazie! Anche su XBox!
 meta: {}
 
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Certe features sono troppo importanti in casa Microsoft per limitarle ai soli PC.  
 Una di queste è il meraviglioso blue-screen che l'azienda di Redmond ha ben pensato  di replicare anche sulle gloriose nuove XboX... 
@@ -16,6 +16,6 @@ A quando anche la colorazione adeguata (blu)?
 
 -______-
 
-<!--more-->
-<!--adsense-->
+
+
  

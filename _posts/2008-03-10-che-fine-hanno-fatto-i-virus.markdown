@@ -33,7 +33,7 @@ Che gli antivirus siano arrivati alla perfezione? Scusatemi, ma non credo propri
 Già, perché un po' come è successo con gli Spyware i virus storici davano fastidio: reboot, macchine inchiodate, spam di infezione, comportamenti assurdi del computer. In altre parole una serie di "fastidi" digitali che portavano innanzitutto a notarli ed in secondo luogo a prodigarsi per la loro rimozione. Perché l'obiettivo di questi virus che chiamerei "adolescenti" era quello di una gara alla diffusione fine a sé stessa, senza scopo altro che non la visibilità del writer o del gruppo che li aveva creati. Una sorta di POC (proof of concept) di cosa era possibile fare con i mezzi adeguati.  
 Ma anche il mercato è cambiato ed ora i vecchi virus vedono una nuova rinascita in altre spoglie: come macchine per soldi.  
 
-<!--more-->
+
   
 L'esempio nefasto di Storm Worm è all'occhio di tutti e parla di una nuova strategia. Parla di virus "silenti" e non fastidiosi, semplici accoglienti tane dove incubare ed essere pronti all'occorrenza. E quale occorrenza? Moltissime e variegate.  
   

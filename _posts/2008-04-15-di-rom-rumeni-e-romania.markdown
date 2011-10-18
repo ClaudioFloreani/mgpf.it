@@ -3,7 +3,7 @@ layout: post
 title: Di Rom, Rumeni e Romania
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Spettacolare articolo di SedNonSatiata (la ragazza ci sa fare, lo avevo detto...) che con link e [un post veramente fatto](http://sednonsatiata.wordpress.com/2008/04/14/di-xenofobia-et-cetera/) bene  getta un po' di luce **sulla Romania** sfatando un po' di luoghi comuni.  
   

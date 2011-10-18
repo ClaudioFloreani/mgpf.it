@@ -6,7 +6,7 @@ meta:
   Video: http://www.youtube.com/v/qF1ngJAyD_s
 tags: 
 - GTD
-- LifeHacking
+- lifehacking
 - Zen &amp; Photo
 ---
 > What can you expect from the system?  

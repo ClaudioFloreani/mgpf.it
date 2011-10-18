@@ -6,7 +6,7 @@ meta:
   autometa: backberry sms importare esportare rubrica cellulare
 tags: 
 - forensic
-- LifeHacking
+- lifehacking
 - security- Zen &amp; Photo
 ---
 Se anche voi come me per questioni di Forensics o [qualcuno di mia conoscenza](http://www.rayland.it) per altri motivi avete la necessità di recuperare dal vostro BlackBerry i **messaggi SMS inviati** e/o ricevuti potete utilizzare il comodo programma [ABC Amber BlackBerry Converter](http://www.processtext.com/abcblackberry.html) che partendo dai file **IPD** del Backup di Blackberry su Windows recupera ed esporta mail, messaggi e tutta una serie di informazioni interessanti...  

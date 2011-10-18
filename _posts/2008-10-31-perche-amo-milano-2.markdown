@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Perch\xE8 amo Milano 2"
+title: "Perchè amo Milano 2"
 meta: {}
 tags: 
 - ACT2K
@@ -8,7 +8,7 @@ tags:
 - emozioni
 - filmato
 - macchina
-- Me &amp; The Web
+- about-me
 - milano
 - oregon scientific
 - security- telecamera

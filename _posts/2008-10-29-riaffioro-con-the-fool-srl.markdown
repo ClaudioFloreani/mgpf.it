@@ -3,11 +3,11 @@ layout: post
 title: Riaffioro con The Fool
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 - milano
 - the fool
 - The Fool
-- TheFool
+- the-fool
 - ticinese
 ---
 <a href="http://tinyurl.com/thefool-foto"><img src="http://www.lastknight.com/download//2008/10/2983303319_3fd1b58054-447x300.jpg" alt="2983303319_3fd1b58054" title="2983303319_3fd1b58054" width="447" height="300" class="aligncenter size-medium wp-image-1334" /></a>

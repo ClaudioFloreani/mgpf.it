@@ -6,13 +6,13 @@ tags:
 - css
 - js
 - lavori
-- Me &amp; The Web
+- about-me
 - milano
 - offerte lavoro
 - ror
 - ruby
 - segretaria
-- "societ\xC3\xA0"
+- "società"
 ---
 Se qualcuno mi avesse detto che è più stancante e snervante fare l'amministratore delegato del consulente credo avrei riso un poco e lo avrei mandato, credo, a donnine allegre...  
 Una volta che ci sono i soldi, pensavo, il resto è in discesa....  

@@ -2,9 +2,8 @@
 layout: post
 title: Haiku n.3
 meta: {}
-
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Piccola ape  
 immobile sul giglio.  

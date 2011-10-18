@@ -2,24 +2,10 @@
 layout: post
 title: Ci vediamo Sabato 12/03 al CAT Milano con The Fool?
 meta: 
-  wordbooker_options: "a:11:{s:18:\"wordbook_noncename\";s:10:\"b562383b15\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"2\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"200\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:8:\"BlogPost\";s:24:\"wordbooker_status_update\";s:2:\"on\";s:29:\"wordbooker_status_update_text\";s:26:\": Post :  %title% - %link%\";s:20:\"wordbook_comment_get\";s:2:\"on\";}"
-  wordbooker_thumb: ""
-  _jd_post_meta_fixed: "true"
-  _edit_last: "1"
-  _wp_jd_wp: ""
-  wordbooker_extract: "Annunciata la quarta edizione di [CAT][cat], [Cracca al Tesoro][cat], che si terr\xC3\xA0 il 12 Marzo a Milano, nei pressi di Corso Como. Anche quest\xE2\x80\x99anno The Fool partecipa alla manifestazione come [Gold Sponsor](http://www.wardriving.it/sponsor/), supportan ..."
-  _wp_jd_yourls: http://matteoflora.com/?p=157
-  _wp_jd_clig: ""
-  _wp_jd_bitly: ""
-  _jd_twitter: ""
-  _jd_tweet_this: ""
-  _jd_wp_twitter: ""
-  _wp_jd_target: http://matteoflora.com/?p=157
-  _wp_jd_url: ""
 tags: 
-- about me
-- Business
-- TheFool
+- about-me
+- business
+- the-fool
 ---
 Annunciata la quarta edizione di [CAT][cat], [Cracca al Tesoro][cat], che si terrà il 12 Marzo a Milano, nei pressi di Corso Como. Anche quest’anno The Fool partecipa alla manifestazione come [Gold Sponsor](http://www.wardriving.it/sponsor/), supportando l'evento che più di tutti in Italia prepara le nuove leve in modo ludico ai concetti di Sicurezza Informatica e Vulnerabilità.  
 

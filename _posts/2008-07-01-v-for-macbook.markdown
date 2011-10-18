@@ -8,7 +8,7 @@ tags:
 - guy fawkes
 - mac
 - macbook
-- Me &amp; The Web
+- about-me
 - v
 - vendetta
 ---

@@ -16,7 +16,7 @@ Irrimediabilmente, lo abbiamo fatto tutti, si sarà trovato di fronte alle diffe
 I primi due programmi richiedono, ovviamente, un **costante lavoro** di followup e di aggiornamento, oltre ad un preciso monitoraggio e soprattutto una precisa **strategia** di pubblicazione. Sono perfetti per i siti web *"a tema"* o per chi scrive un singolo post con altissimo ranking proprio per promuovere un determinato prodotto o servizio.  
 I servizi di Review hanno la particolarità di essere percepiti da molti *(in genere io sono uno di questi)* come una sorta di **imbroglio** verso i propri lettori, anche se si tratta di una review con tanto di disclaimer della cosa.  
   
-<!--more-->
+
 
 Questo processo fa in modo che la stragrande maggioranza dei blogger (e non solo) siano **irrimediabilente legati** alla piattaforma di AdSense che, nel bene e nel male, da la possibilità di avere **piccoli guadagni** con una difficoltà di utilizzo prossima allo zero e sorpattutto senza alcun tipo di necessita di followup.  
 

@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - digital-freedom
 - Garante
-- Paranoia
+- paranoia
 - privacy
 - telecamere
 ---

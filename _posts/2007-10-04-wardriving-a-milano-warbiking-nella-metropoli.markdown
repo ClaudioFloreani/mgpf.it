@@ -14,7 +14,7 @@ Dopo la conferenza a VON assieme a Raoul Chiesa e Alessio Pennasilico mi sono me
   
 Con qualche ritardo ma spero apprezzato ecco qui il **megapost con tutti i dati** necessari, che spero diffonderà un po' di luce su un punto di ricerca, quello delle reti wireless e della loro disseminazione, che sembra avere da ciascuno **punti di vista differenti** e dati difformi sul quantità, dislocazione servizi e chi più ne ha più ne metta.  
   
-<!--more-->
+
 
 Il punto di partenza è stato quello di riprendere il lavoro svolto da un paio di amici, Yvette Agostini e Fabio Pietrosanti che per Portel nel 2002 avevano già effettuato un **survey cittadino** di Milano ottenendo i seguenti risultati:  
 

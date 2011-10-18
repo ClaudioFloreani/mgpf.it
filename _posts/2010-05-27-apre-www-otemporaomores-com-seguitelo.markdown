@@ -7,7 +7,7 @@ meta:
 tags: 
 - blog
 - legge
-- Me &amp; The Web
+- about-me
 - mores
 - omores
 - otempora

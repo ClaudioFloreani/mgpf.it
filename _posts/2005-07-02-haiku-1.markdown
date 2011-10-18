@@ -2,9 +2,8 @@
 layout: post
 title: Haiku n.1
 meta: {}
-
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Occhi di bimbo  
 li spalanca e ti osserva  

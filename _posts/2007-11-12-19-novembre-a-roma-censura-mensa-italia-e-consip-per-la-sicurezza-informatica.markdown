@@ -16,7 +16,7 @@ I relatori sono tutti soci Mensa che per passione, professione o entrambe, vivon
   
 **Personalmente oltre a presentare il Talk sulla censura parlerò delle nuove tecnologie che abbiamo sviluppato in gruppo di lavoro per la mappatura sistematica delle realtà web bloccate da Decreto Gentiloni e di come istituire un laboratorio permanente per l'Osservazione e la Tutela della correta applicazione delle normative.** 
   
-<!--more-->
+
 
       
 Lappuntamento è per il **19 novembre 2007 alle ore 9.30 presso lAuditorium Consip Sandra Russo, Via Isonzo 19/e, Roma**.  

@@ -1,11 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Italian Cybespace Law Conference
 meta: {}
-
 tags: 
 - about-me
-- security
+- talk
 ---
  Eccomi tornato dopo una pausa di blogging dovuta essenzialmente al troppo stress :)  
  Ed eccomi giusto giusto di ritorno dall'Italian Cyberspace Law Conference (<a href="http://www.iclc.org/">www.iclc.org</a>). Un evento unico in italia che vede la partecipazione dei gruppi di esperti legati alla Computer Forensic: avvocati, magistrati, forze dell'ordine e, ovviamente, consulenti.  
@@ -19,4 +19,4 @@ tags:
   
   Che dire di altro? Ho avuto modo di apprezzare il <a href="http://www.ziccardi.org/">Dott. Ziccardi</a> ancora una volta, di spirito faceto, ottimo chairman e soprattutto estremamente competente sia nei riassunti dei contenuti e sia negli interventi. Credo che in italia, per quanto riguardi Privacy e Diritto, sia una delle voci sicuramente più autorevoli, se non la più competente. Credo mi piacerebbe lavorare a qualcosa con lui. L'intervento poi dell'avvocato Melica è stato particolarmente toccante.  
   
- Un ottima e proficua full immersion di due giorni in attesa dei prossimi eventi.<div style="clear:both; padding-bottom: 0.25em;"></div> 
+ Un ottima e proficua full immersion di due giorni in attesa dei prossimi eventi.

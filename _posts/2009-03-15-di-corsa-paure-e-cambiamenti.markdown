@@ -6,8 +6,8 @@ tags:
 - corsa
 - io
 - life
-- LifeHacking
-- Me &amp; The Web
+- lifehacking
+- about-me
 - motivation
 - Zen &amp; Photo
 ---

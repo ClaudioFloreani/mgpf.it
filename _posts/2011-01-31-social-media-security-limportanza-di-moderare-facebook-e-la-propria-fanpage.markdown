@@ -16,7 +16,7 @@ meta:
   _wp_jd_target: http://matteoflora.com/?p=136
   _wp_jd_url: ""
 tags: 
-- TheFool
+- the-fool
 ---
 *...ne parlo sul [Blog di The Fool][tf]*
 

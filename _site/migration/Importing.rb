@@ -46,7 +46,7 @@ module WordPress
       
       puts title
       
-      `wget -O "images/posts/featured/#{image}" "#{post[:post_image]}"` unless File::exists?("images/posts/featured/#{image}") || post[:post_image].nil?
+      'wget -O "images/posts/featured/#{image}" "#{post[:post_image]}"' unless File::exists?("images/posts/featured/#{image}") || post[:post_image].nil?
       
       db[categories_and_tags_query % post[:ID]].each do |category_or_tag|
         eval(category_or_tag[:taxonomy].pluralize) << { 

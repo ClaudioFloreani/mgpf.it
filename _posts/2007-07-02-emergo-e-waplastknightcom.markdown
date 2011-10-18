@@ -3,7 +3,7 @@ layout: post
 title: Emergo e wap.lastknight.com
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 ![http://www.lastknight.com/download/20070701_wap.png](http://www.lastknight.com/download/20070701_wap.thumbnail.png)
 Rieccomi e grazie per i messaggi che mi domandavano dove fossi finito :)  

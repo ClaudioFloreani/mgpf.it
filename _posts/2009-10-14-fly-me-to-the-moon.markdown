@@ -4,7 +4,7 @@ title: Fly me to the moon
 meta: {}
 tags: 
 - kite
-- Me &amp; The Web
+- about-me
 - panic
 - snowboard
 ---

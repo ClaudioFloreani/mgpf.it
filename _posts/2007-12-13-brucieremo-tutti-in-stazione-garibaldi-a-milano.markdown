@@ -3,8 +3,8 @@ layout: post
 title: Bruceremo tutti in Stazione Garibaldi a Milano
 meta: {}
 tags: 
-- Me &amp; The Web
-- Paranoia
+- about-me
+- paranoia
 ---
 [![Flickr](http://farm3.static.flickr.com/2329/2106534780_7af28775cc_m.jpg)][4]
 In questi giorni il fattore "roghi" è un argomento sicuramente sentito, viste le vittime nell'[acciaieria Torinese][5], causate forse dalla [negligenza dei controlli][5] sulle strutture antincendio. Ma se possiamo scandalizzarci entro certi limiti per certe mancanze nel settore privato, non possiamo invece esimerci dal constatare che in quello pubblico la situazione è molto, molto differente.. **(ironia mode on)**.  

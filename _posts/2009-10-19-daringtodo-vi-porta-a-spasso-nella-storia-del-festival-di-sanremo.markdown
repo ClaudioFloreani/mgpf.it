@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - DaringToDo
 - history
-- Me &amp; The Web
+- about-me
 - sanremo
 - storia
 - The Fool

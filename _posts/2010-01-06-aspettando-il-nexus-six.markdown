@@ -6,7 +6,7 @@ tags:
 - blade runner
 - google
 - intelligenza artificiale
-- Me &amp; The Web
+- about-me
 - phone
 - security
 ---

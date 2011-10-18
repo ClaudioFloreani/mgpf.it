@@ -1,11 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Introduzione ai SEO, i Search Engine Optimizers
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
-
+tags:
+- seo
 ---
 Durante l'ultimo periodo, per esigenze di lavoro mi sono trovato ad analizzare nel dettaglio le tecniche utilizzate dalle differenti realtà italiane che si occupano di posizionamento nei motori di ricerca (in inglese SEO - Search Engine Optimizers), ed in dettaglio del funzionamento pratico delle loro strategie.  
 Sono emersi particolari importanti sia riguardo a come operano ai limiti della illegalità, sia riguardo a come implementare attivamente le stesse tecniche in un contesto legale ed utilizzabile.  

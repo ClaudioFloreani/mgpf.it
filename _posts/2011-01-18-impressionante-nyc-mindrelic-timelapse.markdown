@@ -16,7 +16,7 @@ meta:
   _wp_jd_target: http://matteoflora.com/?p=70
   _wp_jd_url: ""
 tags: 
-- Awesome
+- awesome
 ---
 Ecco un impressionante esempio di Time Lapse a cura di [MindRelic](http://vimeo.com/mindrelic). Incredibile e soprattutto con una cromia ed una regia impressionante.  
 E' veramente incredibile vedere la sincronia di musica, cormie e immagini che si affacciano alla mente.  

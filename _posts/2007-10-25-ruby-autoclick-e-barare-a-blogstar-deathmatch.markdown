@@ -19,7 +19,7 @@ L'applicazione **consente** il voto **una volta ogni minuto** da singolo IP. E' 
 Seguire le regole di altro tipo è IMPOSSIBILE, **non essendoci** regole in tutto il sito.  
 Devo cliccare una delle due frecce e lo posso cliccare una volta al minuto per singolo IP. Il che significa che posso fare **60 x 24 = 1440** voti da singolo IP. Moltiplicato per il numero di IP che riesco ad avere.  
 
-<!--more-->
+
   
 Ma cliccare a mano è scomodo e da nessuna parte mi dice che non posso cliccare automaticamente. Quindi mi attrezzo del fido Mac, del fido Ruby e dopo un "sudo gem install safariwatir" scrivo un paio di righe in Ruby:  
   

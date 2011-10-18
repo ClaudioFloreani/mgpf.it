@@ -78,7 +78,7 @@ module DownmarkIt
 		# code
 		(raw/"code").each do |code|
 			if code.name == "code"
-				code.swap("``#{code.inner_html}``")
+				code.swap("''#{code.inner_html}''")
 			end
 		end
 		

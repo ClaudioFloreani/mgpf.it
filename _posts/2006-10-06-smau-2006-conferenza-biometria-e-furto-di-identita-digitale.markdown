@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "SMAU 2006, conferenza \"Biometria e Furto di Identit\xE0 Digitale\""
+title: "SMAU 2006, conferenza \"Biometria e Furto di Identità Digitale\""
 meta: {}
 tags: 
 - about-me

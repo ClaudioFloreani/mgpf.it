@@ -1,12 +1,12 @@
 --- 
 layout: post
-title: "Perch\xC3\xA8 il PM di bergamo fa intercettare gli utenti di ThePirateBay?"
+title: "Perchè il PM di bergamo fa intercettare gli utenti di ThePirateBay?"
 meta: {}
 tags: 
 - censura
 - digital-freedom
 - intercettazione
-- Paranoia
+- paranoia
 - security- thepiratebay
 ---
 <a href="http://www.flickr.com/photos/97438202@N00/231693522/" title="Paranoia 2006" target="_blank"><img src="http://www.lastknight.com/download//2008/08/231693522_bcf8f3c18a.jpg" alt="Paranoia 2006" border="0" /></a>  

@@ -6,7 +6,7 @@ tags:
 - censura
 - about-me
 - digital-freedom
-- Paranoia
+- paranoia
 - security
 ---
 > **Ciao, PuntoInformatico!**  

@@ -10,7 +10,7 @@ tags:
 Mentre una serie di lettori si [iscrivono](dell'ingresso) alla mia [conferenza dell'8 Febbraio](http://www.lastknight.com/2007/01/18/8-febbraio-infosecurity-2007-come-eludere-i-controlli-di-polizia/) L'amico [Paolo Giardini](http://www.solution.it/home.html), professionista, collega in AIP e Responsabile Comunicazioni di OPSI, mi informa di uno **stranissimo comportamento** della fiera che dovrebbe (sembrerebbe) ergersi a **informatrice sugli argomenti di Privacy** e correlati...  
   
 Provando a compilare il [modulo di registrazione](http://www.infosecurity.it/it/infosecurity.aspx?ExtControl=PMERs%2fZOQ78C2GQNajhmGPvY2W%2fhgNd%2fHx06IvIgcMI%3d&ID_Portale=Z6skuJTSHr%2fjF7janL35RA%3d%3d&ID_Pagina=jPwa%2ffjB%2bc1AEGjsctXUFQ%3d%3d&Lang=l51VDVQfL9BdevTm%2fsJx0Q%3d%3d) per l'ingresso alla fiera  sul sito di infoSecurity, vengono richiesti un certo numero di dati personali fra i quali i seguenti sono obbligatori: *Nome, Cognome, Email, Cellulare, Azienda, Settore di Attività, Indirizzo, Città, Provincia, CAP, Nazione e Telefono*.  
-<!--more-->
+
   
 Tralasciando per un secondo la **necessità per legge di esplicare in modo APPROFONDITO** le finalità del trattamento, cosa che il sito di InfoSecurity non fa, la cosa preoccupante è che si è vincolati per ricevere anche solamente un biglietto OMAGGIO se si è in possesso di codice promozione a concedere l'autorizzazione a:
 

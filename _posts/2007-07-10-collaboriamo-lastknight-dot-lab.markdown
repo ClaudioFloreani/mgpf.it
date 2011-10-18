@@ -3,7 +3,7 @@ layout: post
 title: Collaboriamo? LastKnight Dot Lab...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 - security
 ---
 **Tempus fugit**, e mai quanto in questo periodo...  
@@ -11,7 +11,7 @@ E quando fugge il tempo i **progetti nel cassetto** si ammonticchiano e non ries
   
 E così mi chiedo se qualcuno dei folli che legge questo Blog si ritrova nella condizione di **voler provare a dare una mano** in un progetto collettivo sotto l'egida di LastKnight.com ma con piena **visibilità personale**, magari per portare avanti argomenti e progetti **tutti insieme** ed avere visibilità pubblica condivisa.  
 Ok, ok, non sono certo il Corriere della Sera, ma forse **un poco di visibilità** ad un progetto potrei anche riuscire a farla avere e sinceramente mi rattrista moltissimo vedere il calderone della categoria "SomeDay" di GTD che si riempie senza soluzione di continuità.  
-  <!--more-->
+  
 Chi cerco? Direi **tre categorie** di personaggi:  
   
 *  **CODER:** Principalmente in Ruby, PHP, e/o C# di media esperienza capaci di codare senza necessità di TROPPA supervisione e che vogliano codare su qualcosa di interessante...  

@@ -9,8 +9,8 @@ tags:
 - last pope
 - malachia
 - maya calendar
-- Me &amp; The Web
-- Paranoia
+- about-me
+- paranoia
 - polar shift
 - singularity
 ---

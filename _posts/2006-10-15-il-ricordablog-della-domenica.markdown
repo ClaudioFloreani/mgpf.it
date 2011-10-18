@@ -3,7 +3,7 @@ layout: post
 title: Il ricordaBlog della Domenica
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Ho pensato, prendendo spunto da Blog sicuramente più eccellenti del sottoscritto, di recuperare dalla storia di questo blog alcuni articoli passati e di farne un sunto per ridare nuova vita a post interessanti che, per varie ragioni, sono finiti nell'archivio che pochi o nessuno sembra guardare...  
 

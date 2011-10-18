@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "La baia \xC3\xA8 risorta, lunga vita alla Baia!"
+title: "La baia è risorta, lunga vita alla Baia!"
 meta: {}
 tags: 
 - bergamo
@@ -12,7 +12,7 @@ tags:
 - giovan battista fallus
 - la baia
 - matteo flora
-- Paranoia
+- paranoia
 - security- thepiratebay
 ---
 <a href="http://www.flickr.com/photos/62223880@N00/361388393/" title="Sunset on Boracay" target="_blank"><img src="http://www.lastknight.com/download//2008/09/361388393_11a5066305.jpg" alt="Sunset on Boracay" border="0" /></a>  

@@ -6,7 +6,7 @@ tags:
 - digital-freedom
 - disma
 - matteo flora
-- Me &amp; The Web
+- about-me
 - provacy
 - radio popolare
 - the fool

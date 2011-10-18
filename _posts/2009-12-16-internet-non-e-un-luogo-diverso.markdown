@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: "Internet NON \xE8 un luogo diverso"
+title: "Internet NON è un luogo diverso"
 meta: {}
 tags: 
 - digital-freedom
-- Me &amp; The Web
+- about-me
 ---
 <div class="important">
 QUELLE CHE SEGUONO SONO RIGHE SPARSE E NON RAPPRESENTANO IN ALCUN MODO DICHIARAZIONI UFFICIALI NE' DELLA SOCIETA' NE' TANTOMENO DEL CLIENTE. ESSE RIVESTONO IL SOLO SCOPO DI EVITARE CENTINAIA DI MAIL COME L'ULTIMA VOLTA. OK?

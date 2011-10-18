@@ -3,7 +3,7 @@ layout: post
 title: Inquietanti analogie...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Qualcuno ha visto [Gordon Freeman](http://www.google.it/search?q=gordon+freeman)?  
   

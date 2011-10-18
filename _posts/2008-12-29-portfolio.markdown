@@ -3,6 +3,6 @@ layout: post
 title: Portfolio...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Date un occhio [qui](http://www.lastknight.com/photo) se volete... 

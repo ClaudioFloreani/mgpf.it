@@ -11,7 +11,7 @@ tags:
 - fooldns
 - installer
 - The Fool
-- TheFool
+- the-fool
 ---
 <a href="http://www.flickr.com/photos/19702022@N00/2218415080/" title="eee 015" target="_blank"><img src="http://farm3.static.flickr.com/2124/2218415080_1456478bd2.jpg" alt="eee 015" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/19702022@N00/2218415080/" title="Jonathan Assink" target="_blank">Jonathan Assink</a></small>

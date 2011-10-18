@@ -7,7 +7,7 @@ tags:
 - hacking
 - hat
 - hat2008
-- Me &amp; The Web
+- about-me
 - meeting
 - security
 ---

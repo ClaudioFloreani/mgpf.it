@@ -6,9 +6,9 @@ meta:
     http://www.derelitti.com/files/inno_del_programmatore.mp3
     5650100
     audio/mpeg
-  autometa: "canzone programmatore de andr\xC3\xA8"
+  autometa: "canzone programmatore de andrè"
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 ![Il Programmatore](/download/programmatore.jpg)
 

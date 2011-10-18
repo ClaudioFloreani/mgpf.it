@@ -1,12 +1,12 @@
 --- 
 layout: post
-title: "Senza Eriadan la gornata \xE8 triste"
+title: "Senza Eriadan la gornata è triste"
 meta: {}
 tags: 
 - bug
 - eriadan
 - fumetti
-- Me &amp; The Web
+- about-me
 - screensaver
 - windows
 ---

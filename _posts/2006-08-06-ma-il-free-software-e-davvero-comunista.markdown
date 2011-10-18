@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Ma il Free Software \xE8 davvero Comunista?"
+title: "Ma il Free Software è davvero Comunista?"
 meta: {}
 tags: 
 - about-me

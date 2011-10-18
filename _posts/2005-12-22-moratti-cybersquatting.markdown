@@ -13,7 +13,7 @@ E la fautrice dell'ingresso dello squat in politica è proprio la simpatica [sig
 E così ci ritroviamo subissati di questi **fantomatici domini** pieni di trattini ([via-ninobixio](http://www.via-ninobixio.it/), [via-numapompilio](http://www.via-numapompilio.it/)), tanti, tanti ma talmente tanti che anche il [Punto Informatico](http://punto-informatico.it/p.asp?i=56925&r=PI) ha dovuto in qualche modo intervenire e pubblicare un articolo. 
 
 Fin qui nulla di male, ma perchè allora indignarmi? Beh, per un paio di ragioni:
-<!--more-->
+
 *  La prima è che fautrice della farsa è proprio quella Al Village che qualche mese fa [ho lasciato](http://www.lastknight.com/alvillage) perchè non mi sentivo più vicino alle politiche interne. 
 
 *  La seconda ragione è perchè la manovra aveva sicuramente come fine quello **dell'innalzamento del PageRank** del sito principale, ma chi ha seguito lo sviluppo tecnico ha sbadatamente o incapacemente errato in un paio di punti fondamentali, poichè per prima cosa tutti i domini hanno **medesimo tag Title** (::BLOG::) che **a nulla serve** per l'indicizzazione del dominio principale ed in aggiunta i vari siti non presentano un chiaro link al **sito padre** ancora una volta minimizzando le possibilità per il sito della Sig.ra Moratti di ottimizzare il suo posizionamento. <br>

@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - blogger
 - fumetto
-- Me &amp; The Web
+- about-me
 - striscia
 - xkcd
 ---

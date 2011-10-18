@@ -9,7 +9,7 @@ Molto spesso ci ritroviamo nelle nostre caselle di posta elettronica email dal c
   
 Ove è possibile un riscontro veritiero delle informazioni ricevute il **web diventa uno strumento utile** per aiutare coloro che nella vita hanno incontrato difficoltà non volute ma piombate dall'alto come un **fulmine a ciel sereno**.
 Enore, un amico, mi invita a consultare le pagine del sito "[Aiutami a correre](http://help.visitaortopedica.com)".  
-<!--more-->
+
 
 ![Aiutami a correre](http://www.lastknight.com/download/20070915.jpg)  
   

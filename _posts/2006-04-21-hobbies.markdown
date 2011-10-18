@@ -5,7 +5,7 @@ meta:
   _wp_page_template: default
   autometa: ""
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Non di solo IT vive l'uomo e sicuramente non di solo IT vivo io...  
 Negli anni ho approfondito gli studi di Reiki (sono Master Teacher) e di Meditazione ed in queste pagine offro qualche altro spunto per comprendere il fenomeno e le mie ricerche nel campo...

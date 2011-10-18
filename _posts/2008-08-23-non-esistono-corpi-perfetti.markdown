@@ -6,7 +6,7 @@ tags:
 - bellezza
 - corpi
 - manichini
-- Me &amp; The Web
+- about-me
 - perfezione
 - security
 ---

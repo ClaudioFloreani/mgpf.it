@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Domani 25 Ottobre conferenza a Firenze in Universit\xE0"
+title: "Domani 25 Ottobre conferenza a Firenze in Università"
 meta: 
   aktt_tweeted: "1"
   autometa: comsic07 title download lastknight

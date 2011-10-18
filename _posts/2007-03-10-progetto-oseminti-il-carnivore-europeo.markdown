@@ -4,7 +4,7 @@ title: "Progetto OSEMINTI: il Carnivore Europeo"
 meta: {}
 tags: 
 - digital-freedom
-- Paranoia
+- paranoia
 - security
 ---
 > Ciao, **Punto-Informativo.it** (di nuovo...)  

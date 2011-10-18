@@ -3,7 +3,7 @@ layout: post
 title: Romagnan Fools
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 - The Fool
 ---
 <img src="http://www.lastknight.com/download//2009/09/335119351.png" alt="335119351" title="335119351" width="400" height="93" class="aligncenter size-full wp-image-1551" />

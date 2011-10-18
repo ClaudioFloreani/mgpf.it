@@ -6,8 +6,8 @@ tags:
 - about-me
 - digital-freedom
 - forensic
-- Me &amp; The Web
-- Paranoia
+- about-me
+- paranoia
 - security
 ---
 Inutile nascondere l'evidenza:  
@@ -47,7 +47,7 @@ UPDATE: La gente inizia a vedere la luna dietro al dito, se quello che scrivono 
 Avviso pre commenti caustici: Leggete la <A href="http://www.lastknight.com/2008/08/04/the-very-big-faq-of-mediaset-vs-youtube/">la FAQ</A> relativa. Thanx ;)
 </div>  
 
-<!--more-->
+
 
 <H1>THE VERY BIG FAQ</h1>    
   

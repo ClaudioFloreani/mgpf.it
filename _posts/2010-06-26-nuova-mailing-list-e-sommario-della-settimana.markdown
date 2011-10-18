@@ -6,7 +6,7 @@ meta:
   _edit_last: "1"
   WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
 tags: 
-- Me &amp; The Web
+- about-me
 status: draft
 ---
 La Mailing List di Lastknight.com, dopo il Sito Web, cambia di gestore nell'ambito di quella vasta manovra di pulizia e di razionalizzazione che ha invaso il dominio negli ultimi giorni :)  

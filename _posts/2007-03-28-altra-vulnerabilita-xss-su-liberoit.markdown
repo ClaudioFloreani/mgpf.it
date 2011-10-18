@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Altra Vulnerabilit\xE0 XSS su Libero.it"
+title: "Altra Vulnerabilità XSS su Libero.it"
 meta: 
   aktt_tweeted: "1"
   autometa: "vulnerabilit\xC3\x83  mostrare controll bugtraq evadendo costruita proporre libero"

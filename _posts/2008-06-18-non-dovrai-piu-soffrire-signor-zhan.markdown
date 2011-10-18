@@ -7,7 +7,7 @@ tags:
 - cina
 - digital-freedom
 - figuziato
-- "libert\xC3\xA0"
+- "libertà"
 - zhang
 ---
 <img src="http://www.lastknight.com/download//r261332_1089542.jpg" alt="" title="r261332_1089542" width="500" height="333" class="aligncenter size-full wp-image-743" />  

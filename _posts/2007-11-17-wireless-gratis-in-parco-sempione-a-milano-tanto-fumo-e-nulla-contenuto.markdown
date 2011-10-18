@@ -15,7 +15,7 @@ Perfetto! Siamo grandi, siamo fighi, siamo cazzuti e abbiamo Internet Wireless. 
   
 Ovviamente ricordatevi che stiamo parlando non di **reporter** ma di **giornalisti** e quindi permettetemi un po' di **sana diffidenza**. Non parliamo di tecnici ma di giornalisti e dubito proprio che nessuno si sia recato sul posto per vedere se ESISTE un servizio di questo tipo.  
   
-<!--more-->
+
 
 E quindi? Avevo già [parlato di wireless a Milano]() e insieme alla cara Delymyth, al buon Wolly e Marco Massarotto ci ritroviamo a Milano e dopo una capatina salutista a Burger King ci rechiamo direttamente a provare.  
 L'odissea inizia cercando dove ricevere le buone tessere di navigazione. Certo si parla nel comunicato della **Palazzina Liberty**, ma ovviamente non esiste nessuno stand. Riusciamo a farci dire che all'interno della **Triennale** ci *dovrebbe essere* la possibilità di ricevere le fantomatiche tessere e dopo una mezzoretta di ricerca notiamo in un angolo imposcato un cartello in **formato A5** che monta un link Wi-Fi. Wolly pubblicherà le fotografie e vi assicuro che è effettivamente impossibile da scovare.  

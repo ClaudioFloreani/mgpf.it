@@ -1,11 +1,11 @@
 --- 
 layout: post
+status: ok
 title: "Invito Conferenza: Spyware, Pedofilia e Computer Forensic (Mensa E20)"
 meta: {}
-
 tags: 
 - about-me
-- security
+- talk
 ---
  Riprendono gli importanti e apprezzati incontri del cicle E20 (e-venti) organizzati dal Mensa Lombardia.  
   
@@ -46,4 +46,4 @@ TRACCE INFORMATICHE E COMPUTER FORENSIC: DALLA CARTA AL BIT
   
  E' gradita conferma, scrivete a marco.maggio@mensa.it  
   
- Ci troveremo in via Varanini, 29 C a Milano (Corsisoftware) sabato 29 gennaio alle ore 15.00<div style="clear:both; padding-bottom: 0.25em;"></div> 
+ Ci troveremo in via Varanini, 29 C a Milano (Corsisoftware) sabato 29 gennaio alle ore 15.00

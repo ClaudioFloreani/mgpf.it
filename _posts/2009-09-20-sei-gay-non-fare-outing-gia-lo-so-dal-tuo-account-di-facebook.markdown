@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Sei Gay? Non fare outing. Gi\xE0 lo so dal tuo account di Facebook."
+title: "Sei Gay? Non fare outing. Già lo so dal tuo account di Facebook."
 meta: {}
 tags: 
 - digital-freedom

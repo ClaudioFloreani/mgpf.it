@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - censura
 - digital-freedom
-- Paranoia
+- paranoia
 - security
 ---
 [![Censura in Italia](http://www.lastknight.com/download/banner_censura.png)](http://www.lastknight.com/category/liberta-digitale/)

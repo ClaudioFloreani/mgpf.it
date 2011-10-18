@@ -3,7 +3,7 @@ layout: post
 title: Le news della settimana....
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Ancora una volta, se siete a corto di cose da leggere.... ;)  
   

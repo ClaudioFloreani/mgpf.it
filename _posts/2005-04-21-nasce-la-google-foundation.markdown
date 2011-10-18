@@ -1,9 +1,10 @@
 --- 
 layout: post
+status: 
 title: Nasce la Google Foundation
 meta: {}
 tags: 
-- security
+- awesome
 ---
 Le voci relative and una "Google Foundation", destinata a portare avanti progetti di natura filantropica, corrono da tempo, e il gigante della ricerca sembra aver compiuto il primo passo verso questa direzione.
 

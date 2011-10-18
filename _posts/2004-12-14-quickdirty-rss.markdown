@@ -1,10 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Quick&Dirty RSS
 meta: {}
-
 tags: 
-- security
+- develop
 ---
 Girovagando [Qui e là](http://www.philweber.com/articles/easy_rss_in_vbnet.htm) mi sono imbattuto nel più devastante snippet che abbia mai visto per visualizzare RSS:
 <code lang="csharp">

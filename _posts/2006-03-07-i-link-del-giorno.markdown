@@ -4,7 +4,7 @@ title: I Link del giorno...
 meta: {}
 
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 **LinkORama** è la nuova categoria saltuaria (teoricamente giornaliera) con **i link che nella giornata hanno riscosso il mio maggiore interesse**. Sono principalmente correlati alle problematiche di sicurezza, privacy e hacking, ma senza dimenticare l'opensource o il design ed il Web2.0...  
 

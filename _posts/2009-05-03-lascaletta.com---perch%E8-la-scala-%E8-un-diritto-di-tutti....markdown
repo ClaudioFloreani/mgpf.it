@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Lascaletta.com - Perch\xE8 la Scala \xE8 un diritto di tutti..."
+title: "Lascaletta.com - Perchè la Scala è un diritto di tutti..."
 published: false
 meta: {}
 tags: []

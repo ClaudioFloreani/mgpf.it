@@ -5,7 +5,7 @@ meta:
   _aioseop_keywords: hacking cerotti, migliorare i cerotti, hacker, migliori cerotti, cerotti tagliati, trucchi cerotti
   autometa: ""
 tags: 
-- LifeHacking
+- lifehacking
 - Zen &amp; Photo
 ---
 Esistono differenti **tipologie di hacking** e non sono tutte correlate all'universo dell'informatica, come spesso ci dimostrano i competenti redattori di [Make](http://www.makezine.com/blog/).  

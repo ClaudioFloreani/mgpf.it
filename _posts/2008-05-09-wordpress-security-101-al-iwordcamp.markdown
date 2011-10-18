@@ -3,7 +3,7 @@ layout: post
 title: Wordpress Security 101 al iWordCamp
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Alla fine mi sono deciso.  
   

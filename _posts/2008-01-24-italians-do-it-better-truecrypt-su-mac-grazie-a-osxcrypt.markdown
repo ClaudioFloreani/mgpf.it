@@ -3,7 +3,7 @@ layout: post
 title: "Italians Do It Better: Truecrypt su MAC grazie a OsxCrypt"
 meta: {}
 tags: 
-- Paranoia
+- paranoia
 - security
 ---
 ![Italians Do It Better](http://www.lastknight.com/download/italiansdoitbetter.jpg)

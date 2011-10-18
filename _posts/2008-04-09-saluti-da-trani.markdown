@@ -6,7 +6,7 @@ tags:
 - cartolina
 - cattedrale
 - fotografie
-- Me &amp; The Web
+- about-me
 - trani
 ---
 Trani. Perla del mediterraneo. Cattedrale che si staglia tra terra, mare, cielo.  

@@ -13,7 +13,7 @@ tags:
 E' proprio una di quelle scoperte **destinate a fare scalpore** quella del buon Davide "Dante" Del Vecchio, che con una mail su **BugTraq** e **SecurityFocus** pubblica il risultato di una **imperfezione dei sistemi Nokia** destinata ad avere pesanti ripercussioni non solamente sul panorama della sicurezza informatica, ma anche e soprattutto su quello della **Computer Forensics**.  
   
 Dante, infatti, è riuscito mediante l'utilizzo della Suite di Nokia a **recuperare i messaggi SMS cancellati** sul terminale sino ad un anno prima e miracolosamente **presenti ancora sul device**.  
-  <!--more-->
+  
 L'advisory completo è disponibile sia in [inglese](http://www.alighieri.org/advisories/retrieving_deleted_sms.txt) che in [italiano](http://www.alighieri.org/advisories/recuperare_sms_cancellati.txt) ed è impressionante notare come l'operazione sia semplice e alla portata di chiunque.  
 Vediamone il dettaglio:  
   

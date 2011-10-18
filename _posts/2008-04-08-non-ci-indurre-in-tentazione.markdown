@@ -8,7 +8,7 @@ tags:
 - bari
 - hacking
 - libera
-- Paranoia
+- paranoia
 - presa di rete
 - security
 ---

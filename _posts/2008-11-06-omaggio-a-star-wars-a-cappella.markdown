@@ -7,7 +7,7 @@ tags:
 - capella
 - cappella
 - guerre stellari
-- Me &amp; The Web
+- about-me
 - parodia
 - star wars
 - starwars

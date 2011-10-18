@@ -1,11 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Introduzione al Reiki
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
-
+tags:
+- lifehacking
 ---
 ![Reiki](/download/thumb-reiki_ideogram.jpg)Il **Reiki** (pronunciato Reichi) è il nome associato ad un **sistema filosofico di crescita interiore** ed **un'arte di guarigione** mediante imposizione delle mani e riequilibrio del campo energetico personale sviluppato nei primi anni del 1900 dal Maestro **Mikau Usui** in Giappone.  
 Il Reiki è tramandato da maestro a discepolo in linea diretta.  
@@ -22,7 +21,5 @@ Attualmente esistono numerose varianti al metodo originario tra cui le più impo
 
 Oltre a questi esiste anche una particolare connotazione del Reiki legata alla figura del *Maestro Osho* e la relativa setta.  
   
-<!--adsense-->
-
 In italia l'istituzione più accreditata per il Reiki è la controversa [A.I.R.E.](http://www.associazioneitalianareiki.com/) ([Associazione Italiana Reiki](www.associazioneitalianareiki.com/)) che presiede arbitrariamente all'accreditamento dei vari maestri secondo i differenti stili e all'uniformazione della struttura degli insegnamenti, nonchè numerosi gruppi legati alla figura carismatica di un determinato maestro come l'Associazione Arkeon dal Mo **Vito Carlo Moccia** e il "[Centro Internazionale Reiki](http://www.reiki.it)" del competente preparato Mo **Umberto Carmignani**.  
 L'A.I.RE ha al suo attivo le prime sperimentazioni in italia del Reiki in ambito ospedaliero nell'ambito delle medicine alternative. 

@@ -8,7 +8,7 @@ meta:
 tags: 
 - controllo
 - digital-freedom
-- Paranoia
+- paranoia
 - security- spionaggio
 ---
 <a href="http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg"><img src="http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg" alt="" title="2962194797_06b1dc08ac" width="500" height="333" class="aligncenter size-full wp-image-2309" /></a>

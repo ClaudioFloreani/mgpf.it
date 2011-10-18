@@ -3,9 +3,9 @@ layout: post
 title: L'Hacker, il Terrorismo, le PSYOP e la Sicurezza
 meta: 
   aktt_tweeted: "1"
-  autometa: "hacker psyop terrorismo sicurezza privacy sismi intelligence psicologia realt\xC3\xA0 vecna agosti claudio delirandom"
+  autometa: "hacker psyop terrorismo sicurezza privacy sismi intelligence psicologia realtà vecna agosti claudio delirandom"
 tags: 
-- Paranoia
+- paranoia
 - security
 ---
 ![Claudio Agosti Hacker](http://www.lastknight.com/download/20070523_matrix1.jpg)
@@ -14,7 +14,7 @@ Non ho mai fatto mistero della mia immensa stima verso Claudio "Vecna" Agosti e 
   
 Chi è un hacker? Una persona che percepisce la **realtà come differente**, che non si conforma a quello che è il sentire comune e che trova **itinerari psicologici ed attuativi differenti** all'interno di quello che il sentire comune può vedere come una sistematizzazione finale di un argomento.  
 L'hacker è quello che **guarda un tostapane e vede il possibile strumento musicale**, è quello che vede un arancio e pensa alle applicazioni come catodo di una batteria, è quello che vede l'ovvio ed il banale e ne vede lati che non siamo normalmente disposti ad immaginare come possibili. L'hacker è **un creativo**, se così vogliamo dirlo, è un rappresentante del Pensiero Parallelo.  
-  <!--more-->
+  
 E cosa succede se l'hacker incontra il Terrorismo, le riviste del <s>Sismi</s> Sisde e i testi di Psicologia dell'Intelligence? Beh, succede che lo scenario del mondo da lui prospettato, la sua **comprensione della realtà** e la sua semplice constatazione di quello che **DOVREBBE essere banale** diviene in realtà una affascinante visione del mondo che non eravamo soliti vedere e che **non abbiamo mai ipotizzato**.  
 Come una epifania di Joyciana memoria, come un **disvelamento**, uno **squarcio nella tela** della realtà, assistiamo tutto ad un tratto ad una **realtà parallela** che ha la stessa valenza di quella reale e che, però, non coincide in nemmeno un punto con quella che è la NOSTRA realtà.  
   

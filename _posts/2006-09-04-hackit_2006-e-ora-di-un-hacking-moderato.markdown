@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "HackIt_2006: \xE8 ora di un Hacking Moderato?"
+title: "HackIt_2006: è ora di un Hacking Moderato?"
 meta: {}
 tags: 
 - digital-freedom

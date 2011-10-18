@@ -8,7 +8,7 @@ tags:
 - Congiuntivo story
 - errori
 - Jovanotti
-- Me &amp; The Web
+- about-me
 ---
 <a href="http://www.flickr.com/photos/12502065@N00/375624010/" title="senza parole" target="_blank"><img src="http://farm1.static.flickr.com/185/375624010_8794db3cb0.jpg" alt="senza parole" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/12502065@N00/375624010/" title="Matalyn" target="_blank">Matalyn</a></small>  

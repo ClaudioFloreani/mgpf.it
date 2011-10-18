@@ -8,7 +8,7 @@ tags:
 - daring to do
 - DaringToDo
 - digital-freedom
-- Me &amp; The Web
+- about-me
 - menelaw sete
 - security- The Fool
 - tortona

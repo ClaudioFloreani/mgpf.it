@@ -3,7 +3,7 @@ layout: post
 title: Scusate...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Io piango un secondo.  
 Voi fate finta di niente, vi va?  

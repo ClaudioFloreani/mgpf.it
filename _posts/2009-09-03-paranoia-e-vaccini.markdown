@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - end of the world
 - pancemic
-- Paranoia
+- paranoia
 - vaccine
 ---
 <a href="http://www.flickr.com/photos/37996580417@N01/45558258/" title="Jabs for Uganda trip, British Airways Travel Clinic Piccadilly, London" target="_blank"><img src="http://farm1.static.flickr.com/30/45558258_d6834ff6cc.jpg" alt="Jabs for Uganda trip, British Airways Travel Clinic Piccadilly, London" border="0" /></a>  

@@ -7,7 +7,7 @@ tags:
 - censura
 - digital-freedom
 - eminem
-- Paranoia
+- paranoia
 - putin
 - rap
 - russia

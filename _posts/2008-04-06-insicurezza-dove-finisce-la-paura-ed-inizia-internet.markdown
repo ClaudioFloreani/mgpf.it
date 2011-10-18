@@ -34,7 +34,7 @@ Internet e dall'altra la costante preoccupazione per il controllo. Ma
 questa volta forse ho imparato qualcosa io nel modo di comunicare i
 problemi di Internet e Censura.  
   
-<!--more-->
+
 
 Chiaramente le mie idee al limite dell'anarchia per quanto riguarda la
 neutralità della rete e la intrinseca libertà delle informazioni in

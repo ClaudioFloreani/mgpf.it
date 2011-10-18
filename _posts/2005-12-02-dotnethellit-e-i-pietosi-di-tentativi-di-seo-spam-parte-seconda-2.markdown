@@ -9,7 +9,7 @@ tags:
 Il mio articoletto <A href="http://blogs.ugidotnet.org/lastknight/archive/2005/12/01/30838.aspx">DotNetHell.it e i pietosi di tentativi di SEO Spam</A> sembra abbia avuto i suoi risultati, come si può notare dai commenti lasciati e da un bell'articoletto (che io trovo esilarante, ma sono solamente opinioni) di <A href="http://blogs.dotnethell.it/david/Post_1762.aspx">David De Giacomi</A>, fondatore di DotNetHell.<br>
 Stranamente, dopo i velati insulti di Marco Caruso, dello <A href="http://www.dotnethell.it/team.aspx">staff</A> di DotNetHell, sembra che i tag all'interno del sito siano spariti....<br>
 Ovviamente questo non ha nulla a che vedere con l'illegalità della situazione, ed è frutto probabilmente di un fortuito caso per cui il codice delle pagine si è riscritto in modo automatico...<br>
-<!--more-->
+
 <br>
 Rispondendo a Marco che dice:<br>
 <br>

@@ -9,7 +9,7 @@ tags:
 - fooldns
 - google
 - google chrome
-- Me &amp; The Web
+- about-me
 - security- tracciamento
 ---
 <a href="http://www.flickr.com/photos/7324309@N07/1757232681/" title="Let there be Light" target="_blank"><img src="http://farm3.static.flickr.com/2149/1757232681_0310c9dfe8.jpg" alt="Let there be Light" border="0" /></a>  

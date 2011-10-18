@@ -3,7 +3,7 @@ layout: post
 title: Murphy e la banda internet...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Come ovvio e come murphy insegna da anni:  
 

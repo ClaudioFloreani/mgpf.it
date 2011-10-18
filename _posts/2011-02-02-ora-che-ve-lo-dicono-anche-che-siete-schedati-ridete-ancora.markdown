@@ -17,7 +17,7 @@ meta:
   _wp_jd_url: ""
 tags: 
 - DarkWeb
-- TheFool
+- the-fool
 ---
 Alle volte mi sento un poco una novella Cassandra dell'IT, e vi assicuro che non è una bella sensazione.  
 Nel 2008 lanciavo FoolDNS Community, un servizio online gratuito (e la relativa estensione FoolDNS Business per le aziende) con la specifica idea di bloccare alla radice il tracciamento degli utenti online e il behavioral advertising che sconfinava nella piena intercettazione degli utenti.  Ovviamente tutti a darmi del paranoico.  

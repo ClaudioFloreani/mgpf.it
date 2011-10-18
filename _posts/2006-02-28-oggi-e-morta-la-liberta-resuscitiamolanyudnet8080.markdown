@@ -1,11 +1,11 @@
 --- 
 layout: post
-title: "Oggi \xE8 morta la libert\xE0. Risuscitiamola..."
+title: "Oggi è morta la libertà. Risuscitiamola..."
 meta: {}
 tags: 
 - censura
 - digital-freedom
-- Me &amp; The Web
+- about-me
 ---
 [![Censura in Italia](http://www.lastknight.com/download/banner_censura.png)](http://www.lastknight.com/censura/)
 

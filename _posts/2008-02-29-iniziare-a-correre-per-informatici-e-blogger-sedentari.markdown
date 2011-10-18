@@ -10,10 +10,10 @@ tags:
 - correte con me
 - corsa
 - informatici
-- LifeHacking
-- Me &amp; The Web
+- lifehacking
+- about-me
 - pigrizia
-- "sedentariet\xC3\xA0"
+- "sedentarietà"
 - sedentario
 - Zen &amp; Photo
 ---

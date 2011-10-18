@@ -11,7 +11,7 @@ tags:
 - gabinetto
 - milano
 - mobbing
-- Paranoia
+- paranoia
 ---
 Io vivo **a fianco** di quel Punto Vendita e nemmeno l'avrei scoperto, non fosse stato per il **volantinaggio** di stamattina.  
   

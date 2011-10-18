@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - anima
 - dio
-- Me &amp; The Web
+- about-me
 - "sigur r\xC3\xB2s"
 ---
 ..probabilmente le sue parole sarebbero quelle dei Sigur Ròs.  

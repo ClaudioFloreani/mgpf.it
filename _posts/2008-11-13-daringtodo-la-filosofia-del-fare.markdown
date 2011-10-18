@@ -12,7 +12,7 @@ tags:
 - mg-art
 - mgart
 - security- the fool
-- TheFool
+- the-fool
 ---
 <a href="http://daringtodo.com"><img src="http://www.lastknight.com/download//2008/11/daring_001-481x300.jpg" alt="" title="daring_001" width="481" height="300" class="aligncenter size-medium wp-image-1164" /></a>
   

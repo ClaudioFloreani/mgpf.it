@@ -1,10 +1,11 @@
 --- 
 layout: post
+status: 
 title: Cheating Google
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
+tags:
+- develop
+- seo
 
 ---
 #The Meta Keywords and spider-oriented ""Hello Spider"" text
@@ -33,7 +34,7 @@ In the following lines I'll guide you to implement a strange kind of page. A pag
 First of all let's open a file named "cheating.asp" which will contain only the functions.
 It will look like this:
 
-<!--adsense-->
+
 
 <code lang="asp">
  < %
@@ -102,7 +103,7 @@ end function
 Now we have a little beautiful new piece of code to use. But HOW? Well, first of all we take our beautiful page to make "spider friendly" and include the library. Second of all we place some content in the variables, third of all we ise the code.
 Ok, a little of hands-on code. Let's suppose this is your page:
 
-<!--adsense-->
+
 
 <code lang="html">
  <html>

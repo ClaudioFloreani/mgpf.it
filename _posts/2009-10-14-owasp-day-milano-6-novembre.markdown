@@ -3,7 +3,7 @@ layout: post
 title: OWASP Day Milano 6 Novembre
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 - owasp
 - security
 - web

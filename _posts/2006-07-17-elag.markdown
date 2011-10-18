@@ -5,7 +5,7 @@ meta:
   _wp_page_template: default
   autometa: allenamenti luglio cronistoria divertimento fotografie buon degli
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 *Allenamenti 17 Luglio*
 

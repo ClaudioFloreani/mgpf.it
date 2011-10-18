@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Seminario Libert\xE0 Digitali 27 Marzo a Cagliari"
+title: "Seminario Libertà Digitali 27 Marzo a Cagliari"
 meta: {}
 
 tags: 

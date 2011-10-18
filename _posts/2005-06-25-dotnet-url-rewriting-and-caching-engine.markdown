@@ -1,11 +1,10 @@
 --- 
 layout: post
+status: ok
 title: DotNet Url Rewriting and Caching Engine
 meta: 
-  _wp_page_template: page_eng.php
-  autometa: ""
-tags: []
-
+tags:
+- develop
 ---
 #Playing with URL rewrite
 
@@ -35,8 +34,6 @@ I started simple (thay all do).
 The beautiful thing is that if I correctly implement the trick I didnt need the MyFakePage.aspx to REALLY exist on server; I only needed to implement the Application_BeginRequest method on Global.asax.
 Application_BeginRequest is fired BEFORE the actual page, so I can SIMULATE the page exist and doing my redirect job fast and neat.
 So Id have something like this:
-
-<!--adsense-->
 
 <code lang="csharp">
 protected void Application_BeginRequest(Object sender, EventArgs e)
@@ -82,9 +79,7 @@ return res;
 }
 </code>
 
-And now we can kindly use it over and over and over...  
-
-<!--adsense-->  
+And now we can kindly use it over and over and over...   
 
 <code lang="csharp">
 protected void Application_BeginRequest(Object sender, EventArgs e)
@@ -103,8 +98,6 @@ protected void Application_BeginRequest(Object sender, EventArgs e)
 </code>
 This could be the end of the article, as the Machine.COnfig problem above, but once again Im struck with the fact Im on a Hosted Environment. An hosting environment with PAID BANDWIDTH.
 Im sure you can get my point. Every time I call for a page, it is fetched over and over again by the ASP.NET process. It can really lead into disaster. I need another trick...  
-
-
 
 #Maybe Akamai started from here too...
 

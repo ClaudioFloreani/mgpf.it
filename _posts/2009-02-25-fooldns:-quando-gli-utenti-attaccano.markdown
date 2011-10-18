@@ -4,7 +4,7 @@ title: "FoolDns: quando gli utenti attaccano"
 published: false
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 status: draft
 ---
 Qualche tempo fa segnalavamo [qualche problema][1] relativo ad una troppa pudicizia di alcune liste che aveva portato, come effetto "indesiderato" il blocco di alcuni siti perfettamente <s>pornografici</s> legittimi.  

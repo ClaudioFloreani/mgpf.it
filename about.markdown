@@ -40,6 +40,12 @@ Come Security Evangelist (cioè, come quello che ne sapeva di sicurezza) ho rila
   
 Ho svolto il ruolo di Perito Forense per la Magistratura, prevalentemente per la Guardia di Finanza, ed in questa veste ha collaborato nelle indagini nello scandalo “Cirio/Parmalat” e nel famoso caso della “Casa di Cura Santa Rita”. Come consulente di parte, e tra le ultime cause si annovera una difesa contro “Sky” ed il famoso contenzioso “Mediaset vs. YouTube”.  
 
+## Isegnamento
+
+Ho tenuto seminari di **Crittografia a Chiave Pubblica e Privata** presso l'Università di Milano e i Master di Comunicazione d'Impresa di Pubblitalia '80.  
+Inoltre sono stato ideatore e coordinatore del **primo corso italiano** su Virus e Sicurezza Informatica e del primo corso interamente dedicato ai professionisti di **Computer Forensics e Incident Response**.  
+Insieme al <s>M.llo</s> Dott. Gerardo Costabile e altri importanti esperti ho scritto il volume 'Sicurezza e Privacy: dalla carta ai bit' in stampa presso l'editrice Experta (Forlì).
+
 ## Cosa faccio ora
 
 Ora parlo, vedo cose, cerco progetti. E realizzo sogni. O ci provo.  

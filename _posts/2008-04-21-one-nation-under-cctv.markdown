@@ -6,7 +6,7 @@ tags:
 - bansky
 - controllo
 - grande fratello
-- Me &amp; The Web
+- about-me
 - telecamere
 ---
 Semplicemente sublime da Banksy.  

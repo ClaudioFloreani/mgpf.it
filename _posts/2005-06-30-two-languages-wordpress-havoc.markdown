@@ -3,7 +3,7 @@ layout: post
 title: Two languages Wordpress havoc
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 - security
 ---
 Trying to maintain a multi-language blog is a continuous struggle between "having a vast audience" and "being prophet in your own country".  

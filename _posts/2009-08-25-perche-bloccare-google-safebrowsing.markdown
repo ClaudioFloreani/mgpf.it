@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Perch\xE8 bloccare Google SafeBrowsing?"
+title: "Perchè bloccare Google SafeBrowsing?"
 meta: {}
 tags: 
 - digital-freedom

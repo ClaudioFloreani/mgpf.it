@@ -6,10 +6,10 @@ meta: {}
 tags: 
 - autistici
 - inventati
-- "libert\xC3\xA0"
-- Me &amp; The Web
+- "libertà"
+- about-me
 - noblogs
-- Paranoia
+- paranoia
 - tracciamento
 ---
 ![](http://www.lastknight.com/download/screencast_001.thumbnail.jpg)

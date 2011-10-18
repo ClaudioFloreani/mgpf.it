@@ -12,7 +12,7 @@ Questa manovra rappresenta, soprattutto se collegata al recente [accordo di inte
 
 COme avevo avuto modo di discutere durante i miei interventi al [Convegno sull'Archiviazione Ottica Sostitutiva](http://www.lastknight.com/2006/02/09/posta-elettronica-certificata-firma-digitale-e-archiviazione-ottica-documentale/) di Febbraio la pubblicazione di un Libro Bianco era da ritenersi una **manovra fondamentale** per l'**applicazione pratica senza errori** di principi di base abbozzati ed imprecisi.  
 
-<!--more-->
+
 
 Con la pubblicazione di questo volume (per inciso intitolato *"La dematerializzazione della documentazione amministrativa"*) il CNIPA compie un'analisi di ampio respiro e di **ragguardevole profondità**  sullo stato dell'informatizzazione delle pubbliche amministrazioni a nove anni dalla pubblicazione dell'**art. 15 della legge 59/97** (la prima "Bassanini"), che attribuiva al documento informatico **gli stessi effetti del documento tradizionale**, nel rispetto di alcune importanti regole formali.  
 

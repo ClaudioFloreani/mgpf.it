@@ -4,7 +4,7 @@ title: Woooops!
 meta: {}
 tags: 
 - facebook
-- Me &amp; The Web
+- about-me
 - p0wned
 ---
 Sembra che qualche buontempone abbia usato qualcosa su un mio account di Google Mail ed abbia carpito una serie di informazioni...  

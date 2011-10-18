@@ -4,7 +4,7 @@ title: Di coltellate, sicurezza ed omonimie...
 meta: {}
 
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Certo adoro il mondo della **Sicurezza Informatica** italiano, e certo lo dimostrano le **decine di conferenze** che tengo oltre alla mia attività sia espressa in questo blog sia come OPSI. **Credo fermamente** nelle potenzialità della community italiana di esperti, siano essi *hackers*, *forenser* o anche solamente *semplici "smanettoni"* e sono convinto che il **mercato di settore** non possa fare altro, negli anni, che **crescere** ed offrire **nuove ed importanti opportunità** per tutti gli operatori.  
 

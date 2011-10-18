@@ -6,7 +6,7 @@ tags:
 - arredamento
 - milano
 - The Fool
-- TheFool
+- the-fool
 - ufficio
 ---
 Corso di Porta Ticinese, Milano...  

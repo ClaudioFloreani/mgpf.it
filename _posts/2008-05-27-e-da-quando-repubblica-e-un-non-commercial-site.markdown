@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "E da quando Repubblica \xE8 un NON COMMERCIAL Site?"
+title: "E da quando Repubblica è un NON COMMERCIAL Site?"
 meta: {}
 tags: 
 - creative commens

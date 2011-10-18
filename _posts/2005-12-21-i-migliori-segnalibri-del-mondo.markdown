@@ -4,7 +4,7 @@ title: I migliori segnalibri del mondo...
 meta: {}
 
 tags: 
-- LifeHacking
+- lifehacking
 - Zen &amp; Photo
 ---
 ![I segnalibri di Fabio Sirna](/download/20051221_fabiosirna.jpg) State leggendo o studiando? Avete la mania dei libri? 

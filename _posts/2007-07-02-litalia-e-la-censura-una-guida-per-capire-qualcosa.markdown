@@ -14,7 +14,7 @@ tags:
 > **Ma non dimenticate di leggere l'articolo che il Punto informatico non ha avuto [il coraggio di linkare](http://www.lastknight.com/2007/07/03/dio-e-cattivo-e-censura-i-siti/) : [DIO è cattivo e censura i siti](http://www.lastknight.com/2007/07/03/dio-e-cattivo-e-censura-i-siti/)**...
 
 Facciamo un po' di chiarezza, visto che me lo chiedono, sulle **TRE tipologie di censura** attive oggi come oggi in Italia...  
-  <!--more-->
+  
 Ne ho già ampiamente parlato al mio spech ad InfoSecurity 2007, ma non tutti l'hanno seguito e non tutti hanno visto [il filmato](http://www.lastknight.com/2007/03/03/eludere-i-controlli-di-polizia-il-video-completo/) della presentazione.  
   
 La prima e più "antica" è la **Censura AAMS**, decretata dalla Finanziaria 2006, e quindi primo caso di CENSURA da parte **del GOVERNO**, non del Parlamento.  

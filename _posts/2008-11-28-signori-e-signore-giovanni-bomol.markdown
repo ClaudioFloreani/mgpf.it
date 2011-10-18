@@ -6,7 +6,7 @@ tags:
 - allevi
 - classica
 - einaudi
-- Me &amp; The Web
+- about-me
 - pianoforte
 - security
 ---

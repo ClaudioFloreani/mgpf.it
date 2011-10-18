@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: "Vulnerabilit\xE0 XSS dei siti facenti capo a Poste Italiane"
+status: 
+title: "Vulnerabilità XSS dei siti facenti capo a Poste Italiane"
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
+tags:
+- hacking
 
 ---
 Vulnerabilità XSS dei siti facenti capo a Poste Italiane
@@ -16,9 +16,6 @@ LKID010
 
 ##Data di Rilascio
 2005-03-23
-
-##Verifica Advisor
-http://lastknight.com/attacco-xss-poste-italiane/
 
 ##Criticità
 Medio-Alta (possibilità di raggiro degli utenti)
@@ -39,8 +36,6 @@ Dirottamento arbitrario utenti registrati
 ##Half Disclosure
 La procedura unificata di accesso che gestisce in modo unificato l'intero palco servizi Web di Poste Italiane (Bancopostaonline.poste.it, www.poste.it , registrazioneimprese.poste.it, registrazione-pa.poste.it) è stata scoperta positiva alla rilevazione di una problematica di sicurezza che consente ad un utente malintenzionato di dirottare l'utente del servizio in modo arbitrario, sottraendolo al contollo del sito web certificante la navigazione e trasportandolo ad un sito arbitrario.  
 
-<!--adsense-->
-
 Questa problematica, benchè non determini in alcun modo l'esposizione diretta di informazioni in merito agli attuali fruitori dei servizi di Poste Italiane, possiede un grado di pericolosità medio-alto per la possibilità da parte di utenti malintenzionati di sfruttare la vulnerabilità per perpetrare efficaci attacchi di Phishing. Il reinidirzzamento effettuate le procedure di autentificazione, infatti, portebbe ad esempio trasferire l'ignaro utente che riceve una mail contraffatta ad un sito web creato per sottrarre informazioni relative a codici di accesso, password e/o informazioni riservate.  
 La vulnerabilità, individuata da **Matteo G.P. Flora**, esperto di sicurezza informatica Milanese, è stata segnalata a Poste Italiane unitamente ai dettagli completi sulla riproducibilità e sulle implementazioni necessarie risolvere la vulnerabilità.  
 
@@ -59,9 +54,6 @@ Consegnata a Poste.it
 2003-03-23: Invio a Poste Italiane del FUL DISCLOSURE della Vulnerabilità
 2003-03-23: Comunicazione alla stampa dell'HALF DISCLOSURE
 ...
-
-#Versione Stampabile
-Disponibile [QUI]()
 
 #Informazioni su Matteo G.P. Flora
 Matteo G.P. Flora è Direttore IT di ALVillage S.r.l., titolare della ditta di sicurezza LKProject e Responsabile della Provincia di Milano di AIP (Associazione Informatici Professionisti). Da tempo si occupa di sicurezza in ambito ICT, è autore di articoli di successo e Consulente della Procura della Repubblica di Milano, dei Nuclei speciali della Guardia di Finanza e di numerose delle prestigiose aziende nei TOP10 italiani.

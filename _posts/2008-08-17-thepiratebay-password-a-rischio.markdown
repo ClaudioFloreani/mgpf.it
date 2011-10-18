@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Perch\xE8 il PM di Bergamo permette che si RUBINO le PASSWORD di ThePirateBay?"
+title: "Perchè il PM di Bergamo permette che si RUBINO le PASSWORD di ThePirateBay?"
 meta: {}
 tags: 
 - censura
@@ -8,7 +8,7 @@ tags:
 - digital-freedom
 - furto
 - hacking
-- Paranoia
+- paranoia
 - passowrd
 - password
 - pericolo

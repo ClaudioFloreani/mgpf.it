@@ -9,7 +9,7 @@ Nell'ardua battaglia per portare online la nuova versione del sito web mi sono i
 
 Dopo un paio di [esperienze](http://blogs.ugidotnet.org/csharper/archive/2005/11/07/29376.aspx) sul campo della pesante battaglia contro l'high load del sito web e sullo 'Slashdot effect' volevo anche premunirmi degnamente in caso di eventi come questi.  
 
-<!--more-->
+
 
 Innanzitutto mi preme di sottolineare che la **piattaforma utilizzata da Lastknight Dot Com è Wordpress**, in questo momento alla versione 2.0.2 e con una **valanga di plugins** installati, oltre che opportunamente modificati ('hacked' sarebbe la parola corretta) per venire incontro alle mie paranoie e manie di precisione.  
 In seconda battuta, non avendo trovato molte fonti a cui documentarmi, volevo rendere parte la community italiana di WordPress sulle **risorse più comode** per la gestione di queste problematiche.  

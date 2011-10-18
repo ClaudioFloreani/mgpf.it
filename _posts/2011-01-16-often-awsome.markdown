@@ -15,7 +15,7 @@ meta:
   _wp_jd_target: http://matteoflora.com/?p=58
   _wp_jd_url: ""
 tags: 
-- "disabilit\xC3\xA0"
+- "disabilità"
 - incredibile
 - MakesMeHope
 - often awesome

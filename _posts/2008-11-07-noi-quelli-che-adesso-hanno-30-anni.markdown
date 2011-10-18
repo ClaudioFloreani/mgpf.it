@@ -6,7 +6,7 @@ tags:
 - 30 anni
 - 30enni
 - billy
-- Me &amp; The Web
+- about-me
 - noi
 ---
 Happy Days, Bim Bum Bam, che si poteva andare in giro e non era pericoloso, che di notte vedevi il segnale di interruzione pubblicità...  

@@ -5,7 +5,7 @@ meta:
   _wp_page_template: default
   autometa: domina padrona anima movimentofisso chaingang respiri colei signora
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 [![Domina Fixa](http://www.lastknight.com/download/domina.thumbnail.jpg)](http://www.lastknight.com//download/domina.jpg)
 Mia Signora e Padrona.  

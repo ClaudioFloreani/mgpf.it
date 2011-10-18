@@ -4,7 +4,7 @@ title: Un'Ira(n) di Dio
 meta: {}
 tags: 
 - censorship
-- Me &amp; The Web
+- about-me
 - sorshipiran
 ---
 Un [paio di post][1] [estremamente interessanti][2]  

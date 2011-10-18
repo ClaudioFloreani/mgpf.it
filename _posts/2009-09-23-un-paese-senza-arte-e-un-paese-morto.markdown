@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Un paese senza Arte \xE8 un paese morto"
+title: "Un paese senza Arte è un paese morto"
 meta: {}
 tags: 
 - arte
@@ -11,7 +11,7 @@ tags:
 - festival della letteratura
 - giacomini
 - letteratura di viaggio
-- Me &amp; The Web
+- about-me
 - mg-art
 - mgart
 - piazza duomo

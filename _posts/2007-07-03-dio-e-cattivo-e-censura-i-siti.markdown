@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Dio \xE8 cattivo (e censura i siti)"
+title: "Dio è cattivo (e censura i siti)"
 published: false
 meta: 
   _edit_last: "1"
@@ -18,7 +18,7 @@ tags:
 No, non è **una bestemmia**, solamente la constatazione di quello che dicono [molti di quelli](http://www.doubter.net/id20.html) che hanno letto l'**Antico Testamento**, quello in cui si parla dell'**obliterazione di Sodoma e Gomorra**, quello delle [stragi](http://www.doubter.net/id20.html), quello delle trombe che squillano e dei nemici che muoiono.  
   
 Aveva preso un **periodo di vacanza** e di cura da uno psicologo durante il Nuovo Testamento e si era infarcito di tutte queste cose **New Age**, come ad esempio il "*perdono*", il "*porgere l'altra guancia*", il "*chi è senza peccato...*". Tutta una serie di str**zate galattiche che ha sfoggiato per un po'. Tutto sommato lui non ci ha mai creduto, erano solo le manie di quel suo figlio capellone (citazione 1)...  
-  <!--more-->
+  
 Poi una volta, mentre giocava a Flipper (citazione 2) si è accorto che i preti sono diventati pedofili. No, non tutti, per la carità di Lui, d'altronde in Italia ci sono solamente [17 giudicati COLPEVOLI per atti di pedofilia](http://www.lastknight.com/2007/05/20/ratzinger-e-la-pedofilia/#comment-61651) e [27 indagati](http://www.lastknight.com/2007/05/20/ratzinger-e-la-pedofilia/#comment-61651), quindi non si tratta di un gran che, no? Comunque, dicevo, a Dio sono venuti i **cinque minuti** e si è ricordato che dal **Libro dei Re non sterminava** più nessuno. E si è comperato un telefono cellulare.  
 Molti speculano sia stato un **IPhone**, ma la notizia non è confermata da nessuno.  
   

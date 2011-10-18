@@ -4,6 +4,7 @@ title: "Blink182 ed il furto più geniale"
 meta: {}
 tags: 
 - awesome
+- ip
 ---
 Si parla spesso della pirateria digitale online e dell'utilizzo senza permesso di contenuti audiovisivi. L'esempio su tutti, non fosse altro per semplici dimensioni di mercato, è sicuramente YouTube, "luogo virtuale" in cui i filmati che sfruttano abusivamente colonne sonore sono milioni.
 

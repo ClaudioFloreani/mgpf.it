@@ -1,13 +1,13 @@
 --- 
 layout: post
-title: "Al prossimo giro attacco Esselunga... Chi \xE8 con me?"
+title: "Al prossimo giro attacco Esselunga... Chi è con me?"
 meta: {}
 tags: 
 - digital-freedom
 - esselunga
 - fidelizzazione
 - Garante
-- Paranoia
+- paranoia
 - privacy
 - security
 ---

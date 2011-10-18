@@ -11,7 +11,7 @@ tags:
 - digital-freedom
 - Garante
 - intercettazioni
-- Paranoia
+- paranoia
 - podcast
 - privacy
 - tecnologia

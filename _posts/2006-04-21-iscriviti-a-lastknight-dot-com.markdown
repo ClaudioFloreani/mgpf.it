@@ -5,7 +5,7 @@ meta: {}
 
 tags: 
 - about-me
-- Me &amp; The Web
+- about-me
 - security
 ---
 Se volete essere **aggornati sulle ultime novità** di Lastknight Dot Com è sufficiente iscriversi mediante il box in alto a destra nella pagina.  

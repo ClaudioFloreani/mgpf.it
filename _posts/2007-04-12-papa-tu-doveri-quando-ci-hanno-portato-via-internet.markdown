@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Pap\xE0, tu dov'eri quando ci hanno portato via Internet?"
+title: "Papà, tu dov'eri quando ci hanno portato via Internet?"
 meta: 
   aktt_tweeted: "1"
   autometa: "venerd\xC3\x83 riproporvela malaugurante hackday organizza leggera perso lombardia"

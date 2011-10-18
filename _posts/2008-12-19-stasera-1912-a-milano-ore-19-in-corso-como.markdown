@@ -7,7 +7,7 @@ tags:
 - conferenza
 - about-me
 - digital-freedom
-- Me &amp; The Web
+- about-me
 - privacy
 - security
 ---

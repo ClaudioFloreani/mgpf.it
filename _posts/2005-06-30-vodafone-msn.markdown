@@ -12,5 +12,5 @@ L'operazione unirà le community di 160 milioni di utenti Messenger con i 155 mi
 Praticamente parlando le funzioni di "Away" del Messenger consentiranno di essere rintraccaiti tramite un messaggio SMS. per chi come me utilizza MSN con oltre duecento contatti diventerebbe sicuramente divertente :) .
 
 *P.S. Se vi interessa il mio contatto msn è **ultimocavaliere (at) hotmail (dot) com**.*
-<!--more-->
-<!--adsense--> 
+
+ 

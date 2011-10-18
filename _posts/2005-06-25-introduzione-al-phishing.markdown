@@ -1,11 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Introduzione al Phishing
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
-
+tags:
+- hacking
 ---
 Nel panorama di quella branca del "malicious code" che prende il nome di " social engineering " (cioè l'utilizzo dell'inganno verbale o di situazione per perpetrare una frode, anzichè di codice macchina vero e proprio), gli ultimi mesi hanno visto un proliferare ed un espandersi senza precedenti del fenomeno del " Phishing ".
 Iniziamo con il definire un poco più attentamente il Phishing :
@@ -17,8 +16,6 @@ Iniziamo con il definire un poco più attentamente il Phishing :
 C'è da sottolineare, inoltre, che la distinzione tra questo tipo di espediente ed un virus è, molte volte, decisamente sottile, visto e considerato soprattutto che negli ultimi mesi il Phishing viene utilizzato da numerosi Worm Virus come spora contagiante.  
 
 Il processo standard di queste metodologie di attacco può riassumersi nei seguenti passi:
-
-<!--adsense-->
 
 1.  L'utente malintenzionato (useremo il termine hacker in senso lato , anche se la corretta definizione sarebbe cracker) spedisce una mail al malcapitato ed ignaro utente che simuli nella grafica e nel contenuto quella di una istituzione nota al destinatario (ad es. la sua banca, Ebay, il suo provider web).
 2.  La mail contiene avvisi di particolari situazioni o problemi verificatesi con il proprio conto corrente/account (ad es. un addebito enorme, la scadenza dell'account).  
@@ -46,8 +43,6 @@ D'altronde ognuna delle nostre mail porta quasi sempre insita al suo interno una
 
 #Un consiglio per cautelarsi
 Do per scontato che siano state adottate tutte le opportune misure per proteggersi dai virus e da attacchi diretti al nostro sistema. Ciò anche se stiamo assistendo, purtroppo, ad una riduzione drastica dei tempi fra rivelazione di un nuovo "bug" e diffusione di un virus che lo sfrutta. Su questultimo aspetto, andrebbe aperto un dibattito, in quanto lunico rimedio al momento noto, è quello di diffondere rapidamente una nuova patch, non appena questa si renda disponibile.  
-
-<!--adsense-->
 
 Un unico accorgimento che mi sento di proporre, per quanto semplice e forse banale, per poter discernere la veridicità o meno del sito web a cui si viene rediretti è la seguente:
 

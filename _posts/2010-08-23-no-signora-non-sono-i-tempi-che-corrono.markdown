@@ -9,8 +9,8 @@ meta:
 tags: 
 - digital-freedom
 - featured
-- Me &amp; The Web
-- Paranoia
+- about-me
+- paranoia
 - paura
 - pedofilia
 - Zen &amp; Photo

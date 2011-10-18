@@ -29,7 +29,7 @@ Buona visione online o, se volete scaricarlo, cliccate [qui](http://www.vimeo.co
   
 Ed inoltre eccovi le slide:  
   
-<div style="width:425px;text-align:left" id="__ss_207896"><object style="margin:0px" width="353" height="438"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=hackers-santi-criminali-1198077671380399-5"/><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=hackers-santi-criminali-1198077671380399-5" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="535" height="438"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;"><a href="http://www.slideshare.net/?src=embed"></div>
+
 
 [1]: http://www.lastknight.com/2007/12/15/hackers-santi-criminali-il-problema-della-disclosure-in-italia/
 

@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Vulnerabilit\xE0 XSS dei siti facenti capo a TIM"
+title: "Vulnerabilità XSS dei siti facenti capo a TIM"
 meta: 
   _wp_page_template: default
   autometa: ""
@@ -39,7 +39,7 @@ Dirottamento arbitrario utenti registrati
 ##Half Disclosure
 La procedura unificata di accesso che gestisce in modo unificato l'intero palco servizi Web di TIM (119.it, privati.tim.it, i.tim.it) è stata scoperta positiva alla rilevazione di una problematica di sicurezza che consente ad un utente malintenzionato di dirottare l'utente del servizio in modo arbitrario, sottraendolo al contollo del sito web certificante la navigazione e trasportandolo ad un sito arbitrario.
 
-<!--adsense-->
+
 
 Questa problematica, benchè non determini in alcun modo l'esposizione diretta di informazioni in merito agli attuali fruitori dei servizi di TIM, possiede un grado di pericolosità medio-alto per la possibilità da parte di utenti malintenzionati di sfruttare la vulnerabilità per perpetrare efficaci attacchi di Phishing.
 Il reinidirzzamento effettuate le procedure di autentificazione, infatti, portebbe ad esempio trasferire l'ignaro utente che riceve una mail contraffatta ad un sito web creato per sottrarre informazioni relative a codici di accesso, password e/o informazioni riservate.

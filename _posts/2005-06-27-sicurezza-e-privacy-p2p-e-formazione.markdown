@@ -1,11 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Sicurezza e Privacy, P2P e formazione
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
-
+tags:
+- about-me
+- talk
 ---
 *di Gerardo Costabile e Matteo G.P. Flora* 
 
@@ -20,13 +20,13 @@ Il 2004, poi, potrebbe essere agevolmente battezzato come "l'anno della privacy"
 Contestualmente si registra, sfortunatamente, un livello di alfabetizzazione quasi esclusivamente con riguardo alla terminologia utilizzata, in luogo di un serio studio dell'argomento "sicurezza e riservatezza". Parole misteriose e quasi magiche di qualche tempo fa come "Firewall", "IDS" o ancora "Phishing", pronunciate da qualunque semi-addetto ai lavori con un sorriso compiacente, si sposano spesso con la mancanza di consapevolezza informatica o, peggio ancora, con un falso senso di sicurezza, comportando nella stragrande maggioranza dei casi un indebolimento sensibile dell'intera catena della sicurezza.  
 
 ##L'inferno del File-Sharing
-È necessario premettere che mentre fino a pochi anni or sono, comunque, la limitata diffusione dei mezzi di comunicazione informatici e la scarsissima presenza di utenze connesse alla rete mondiale, oltre ai costi quasi proibitivi delle stesse, avevano determinato un fattore di rischio per l`utente "ordinario" molto prossimo allo zero, oggi la repentina espansione degli accessi a banda larga ed i costi relativamente più contenuti hanno reso i sistemi come il file-sharing alla portata di chiunque.  
+È necessario premettere che mentre fino a pochi anni or sono, comunque, la limitata diffusione dei mezzi di comunicazione informatici e la scarsissima presenza di utenze connesse alla rete mondiale, oltre ai costi quasi proibitivi delle stesse, avevano determinato un fattore di rischio per l'utente "ordinario" molto prossimo allo zero, oggi la repentina espansione degli accessi a banda larga ed i costi relativamente più contenuti hanno reso i sistemi come il file-sharing alla portata di chiunque.  
 
 Analogamente, in azienda, sono aumentate le connessioni always on tra la rete interna e quella internet, spesso chiudendo un occhio sulle installazioni di software non "ufficiali" da parte dei dipendenti oppure, peggio ancora, consentendo la cattiva abitudine di collegarsi con notebook privati -o promiscui- alla rete aziendale.
 In tal modo, quindi, decine di migliaia di italiani hanno potuto avvicinarsi a questo nuovo mondo, quello della condivisione "dei saperi" dove, magari nel segno di una passione comune (spesso musicale), ci si ritrova a condividere - più o meno coscientemente - anche altre risorse, talvolta di natura professionale.   
 
 ##Un esempio di ricerca di file PST su eMule
-Per testare il livello, più o meno consapevolmente basso di sicurezza informatica dell'utenza, basta poco. Infatti, senza particolari azioni criminali, senza violare alcun domicilio informatico, basta entrare in un qualunque sistema di file sharing e digitare, invece dei soliti MP3, AVI, Zip o ISO, tre lettere molto meno utilizzate, o conosciute: "PST", acronimo che identifica le caselle di posta elettronica di Microsoft Outlook. Come d`incanto appaiono, come dal nulla, le caselle di posta elettronica di utenti che, nella frenesia del condividere, mettono a disposizione direttamente e inconsapevolmente (si spera!) tutto il disco rigido.  
+Per testare il livello, più o meno consapevolmente basso di sicurezza informatica dell'utenza, basta poco. Infatti, senza particolari azioni criminali, senza violare alcun domicilio informatico, basta entrare in un qualunque sistema di file sharing e digitare, invece dei soliti MP3, AVI, Zip o ISO, tre lettere molto meno utilizzate, o conosciute: "PST", acronimo che identifica le caselle di posta elettronica di Microsoft Outlook. Come d'incanto appaiono, come dal nulla, le caselle di posta elettronica di utenti che, nella frenesia del condividere, mettono a disposizione direttamente e inconsapevolmente (si spera!) tutto il disco rigido.  
 
 Ignorano, questi amici, le informazioni strettamente personali che un atteggiamento di questo tipo può compromettere, non solo con riguardo ai dati propri, dei quali di certo avrebbero potuto disporre, ma di quelli dei loro interlocutori, dei loro clienti, del loro avvocato o commercialista, delle loro amanti, dei loro amici che gli confidano un segreto via posta elettronica.  
 
@@ -47,7 +47,7 @@ Una ricerca di file PST su Google fornisce risultati angoscianti, come quelli pe
 
 #La difesa
 La domanda nasce spontanea: come difendersi da questi ed altri problemi? Beh, innanzitutto ricordandosi dove finisce il proprio computer e dove inizia il web, o meglio "la rete".
-Sembra un concetto semplice, ma molte volte non ci rendiamo conto che moltissime nostre informazioni vengono pubblicate in server di rete o in sistemi accessibili dall`esterno.  
+Sembra un concetto semplice, ma molte volte non ci rendiamo conto che moltissime nostre informazioni vengono pubblicate in server di rete o in sistemi accessibili dall'esterno.  
 
 In ambito lavorativo i sistemi di file-sharing hanno ben pochi utilizzi empirici, anche se paradossalmente la condivisione è nata proprio per motivi scientifici e universitari: per condividere sperimentazioni, risultati o statistiche in posti diversi, in un mondo molto più piccolo e ristretto di oggi. In generale, comunque, raramente risulta necessario per i propri impiegati scaricare musica, film o quant'altro e, anche se lo fosse, sarebbe sempre possibile lasciare disponibile una unica macchina da cui farlo. Bloccare i sistemi di file-share, inoltre, è anche relativamente semplice ed indolore nella stragrande maggioranza delle architetture di rete della PMI o della Pubblica Amministrazione italiana.  
 

@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - anonimato
 - intelligence
-- Paranoia
+- paranoia
 - secondlife
 - security- Sicurezza e Privacy
 ---

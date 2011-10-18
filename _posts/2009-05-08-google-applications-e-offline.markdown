@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Google Applications \xE8 Offline..."
+title: "Google Applications è Offline..."
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 <img src="http://www.lastknight.com/download//2009/05/gmail_down-368x300.jpg" alt="gmail_down" title="gmail_down" width="368" height="300" class="aligncenter size-medium wp-image-1484" />  
   

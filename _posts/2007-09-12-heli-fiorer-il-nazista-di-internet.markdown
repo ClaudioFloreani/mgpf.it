@@ -6,14 +6,14 @@ meta:
   autometa: frattini censura hitler terzo reich libri bruciare frattini
 tags: 
 - digital-freedom
-- Paranoia
+- paranoia
 - security
 ---
 ![Fratini l'Hitler d'Italia](http://www.lastknight.com/download/20070912_furer.jpg)
 
 **Berlino, Maggio 1933.**  
 I nazisti **devastano le case editrici** che pubblicano volumi contro la "morale e l'ideologia" del Reich. Ma **non è il primo passo**, a dire la verità.  Infatti già dal Dicembre del 1932 viene pubblicato **l'elenco dei volumi** che non possono essere pubblicati, di cui non è consentita la vendita. Da lì in poi, ovviamente, il percorso è in discesa e dalla proibizione della vendita (che comunque era stata scavalcata dalla diffusione privata) si passa **alla punizione e distruzione della fonte**.  
-  <!--more-->
+  
 Ma questo succedeva sotto il **Terzo Reich** guidato da Adolf Hitler, **Fuhrer di Germania** e intento ad eradicare, come moltissimi dei regimi totalitari, qualunque tipo di forma di attacco al regime da lui imposto, in un tentativo (peraltro ben riuscito, ricordo) di convincere la popolazione locale ed avere il massimo consenso dal massimo numero possibile di individui. E se ricordo bene i numeri Mussolini e Hitler ebbero [storicamente un consenso](http://www.post-gazette.com/pg/07224/808310-148.stm) che i nostri politici moderni **si sognano** (bagnandosi) tutte le notti.  
   
 Ma era ovvio che quelli da bloccare fossero **i libri**, era scontato. Perché? Perché nella società del tempo **l'unico tipo di informazione** possibile era quella dei libri di approfondimento e dei piccoli circoli letterari o politici. Non esistendo ancora nell'immaginario collettivo strumenti di mass-communication la gente si ritrovava in piccole o grandi comunità di discussione e pubblicava libri, **unica "interfaccia"** con il resto del mondo.  

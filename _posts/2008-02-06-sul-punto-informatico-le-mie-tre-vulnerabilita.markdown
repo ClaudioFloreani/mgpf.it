@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Sul Punto Informatico le mie tre vulnerabilit\xE0"
+title: "Sul Punto Informatico le mie tre vulnerabilità"
 meta: {}
 
 tags: 

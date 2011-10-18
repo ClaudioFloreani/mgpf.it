@@ -11,12 +11,12 @@ tags:
 Il 30 settembre 2005 [SysInternals](http://www.sysinternals.com/blog/2005/10/sony-rootkits-and-digital-rights.html) ha rilevato in un CD musicale dellartista Van Zant prodotto dalla <strong>Sony BMG Entertainement</strong> la presenza di un [software per il controllo dei diritti](http://www.sysinternals.com/blog/2005/10/sony-rootkits-and-digital-rights.html) (aka AntiCopia/DRM) che ha le caratteristiche di un virus.
 
 Si installa all'insaputa di chi acquista il prodotto, è <strong>estremamente difficile da rimuovere</strong> e non è facile da individuare, si annida invisibile nel PC consentendo anche ad altri virus di fare potenzialmente danni letali. Il rootkit, infatti, consente di <strong>nascondere documenti e processi di sistema</strong> se eseguibili e files si trovano in directory appositamente nominate secondo la sintassi "$$sys$$Nomedirectory". 
-<!--more-->
+
 Questo meccanismo, ovviamente, consentirebbe ad un utente malintenzionato di posizionare <strong>ogni sorta di nefandezza</strong>, da <strong>keylogger </strong>a <strong>virus</strong>, all'insaputa non solo dell'utente, ma anche dei <strong>prodotti Anti Virus</strong> che si vedono i<strong>mpedito l'accesso e l'individuazione</strong> dal keylogger stesso.
 
 Quando l'inganno è stato scoperto, la Sony BMG Entertainement ha rilasciato il 3 novembre una patch che (dice) "risolve il problema". Così riconoscendo di aver commesso un abuso ai danni di chi, in buona fede, acquista i suoi prodotti. Che, incredibilmente, deve comunque chiedere il permesso alla multinazionale dell'intrattenimento per disinstallare il sistema di controllo e rientrare in possesso pieno del proprio computer. 
 
-<!--adsense-->
+
 
 Ma a complicare le vicende ci ha pensato l'amico (anche se fonte di acerrime polemiche a due nel corso dell'ultima ICLC) avvocato <strong>Andrea Monti</strong>, nella veste di presidente dell'<strong>Associazione per la Libertà nella Comunicazione Elettronica Interattiva</strong> [ALCEI](http://www.alcei.it/) con sede in Corso Italia, 15, 20122 Milano. 
 

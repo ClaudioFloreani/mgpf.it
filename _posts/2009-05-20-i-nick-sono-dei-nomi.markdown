@@ -3,7 +3,7 @@ layout: post
 title: I nick sono dei nomi
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 - security
 ---
 Mi piace quando qualcuno dimentica che un nickname ben scelto è completamente non dissimile da un nome e cognome. Mi piace anche chi cita i "nick" senza ricordarselo, credendo in questo modo di dare dell'"anonimato" più o meno recondito ai soggetti che vengono citati.  

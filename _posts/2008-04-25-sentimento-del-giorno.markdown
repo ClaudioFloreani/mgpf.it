@@ -7,8 +7,8 @@ tags:
 - bimbi
 - caccia alle streghe
 - follia
-- Me &amp; The Web
-- Paranoia
+- about-me
+- paranoia
 - pedopornografia
 ---
 <center>

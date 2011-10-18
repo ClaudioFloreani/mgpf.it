@@ -3,9 +3,9 @@ layout: post
 title: Mi hanno rubato le rose...
 meta: {}
 tags: 
-- "assurdit\xC3\xA0"
+- "assurdità"
 - furto
-- Me &amp; The Web
+- about-me
 - milano
 - rose
 ---

@@ -4,7 +4,7 @@ title: Domenico dipinge...
 meta: {}
 
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 ![Domenico Dipinge...](http://www.lastknight.com/download/20060629_Domenico.thumbnail.jpg)
 

@@ -3,7 +3,7 @@ layout: post
 title: "Non c'era più nessuno..."
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 > Prima di tutto vennero a prendere gli zingari e fui contento perchè rubacchiavano.  
 > Poi vennero a prendere gli ebrei e stetti zitto perchè mi stavano antipatici.  

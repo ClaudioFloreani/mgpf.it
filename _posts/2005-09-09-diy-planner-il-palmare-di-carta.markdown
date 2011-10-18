@@ -3,8 +3,7 @@ layout: post
 title: "D*I*Y Planner: il palmare di carta"
 meta: {}
 tags: 
-- LifeHacking
-- Zen &amp; Photo
+- lifehacking
 ---
 Dopo aver già parlato di PocketMod e del Paper PDA è ora di passare alla **versione professionale**, soprattutto se si parla di utilizzare il Paper PDA come supporto per GTD.  
 
@@ -14,8 +13,6 @@ DIY Planner è una **suite di template** pronti da scaricare per creare agevolme
 Ritengo inimitabile il supporto di un [pezzo di carta](http://www.moleskinerie.com) e di una matita. Una pagina bianca e nessun problema di risoluzione mi permette di disegnare, di scrivere in piccoli caratteri o in grandi. Di stropicciare le pagine e di strapparle in caso (*non lo faccio mai!*) e sopratutto di non avere problemi di **posizione di scrittura** e di condizioni meteorologiche. Nemmeno di carica delle patterie, se è per questo :]  
 Ed oltretutto sono **inguaribilmente retrò** ;].  
 
-<!--more-->
-<!--adsense-->
 
 DIY Planner è stato per me **una rivelazione**, con la sua estrema semplicità e customizzazione, oltre che estrema leggerezza (mi porto solo le pagine che utilizzo). Inoltre è perfetto per l'utilizzo come liste portatitili per GTD in attesa di essere archiviate efficacemente. L'idea di base è usare una pagina e all'occorrenza stamparne una nuova versione. Per questo fine sono ideali le "index card" americane, cartoncini di piccole dimensioni pretagliati e di alta grammatura che in italia sono venduti da Buffetti e che vengono stampati direttamente.  
 

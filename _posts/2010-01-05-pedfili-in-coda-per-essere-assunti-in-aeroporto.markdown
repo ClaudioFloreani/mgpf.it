@@ -8,7 +8,7 @@ tags:
 - chiesa cattolica
 - digital-freedom
 - full body scanner
-- "impunit\xC3\xA0"
+- "impunità"
 - pedofilia
 - pedopornografia
 - pornografia

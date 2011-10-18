@@ -17,18 +17,18 @@ In quella sede parlerò di Spyware con il seguente abstract:
 "<strong>Spyware</strong>" è una parola con cui gli utilizzatori di PC hanno imparato a
  convivere da tempo, come da tempo si sono quasi abituati ad
  inenarrabili problemi per rimuoverli, aggirarli, evitarli. Ma cosa si
- nasconde dall`altra parte della barricata, quella dove gli spyware sono
+ nasconde dall'altra parte della barricata, quella dove gli spyware sono
  <strong>un fiorente e redditizio businness</strong> ? Come si "comprano",
  qual è il mercato, quale il modello di Business?<br/>
 
-In altre parole qual`è il motivo di una <strong>movimentazione di mercato</strong>
+In altre parole qual'è il motivo di una <strong>movimentazione di mercato</strong>
  talmente vasta da  muovere major ad installare nei loro prodotti di
  punta Spyware?  
 <br/>
-Un`analisi <strong>tecnica e precisa</strong> dei  meccanismi  e dei  soggetti
+Un'analisi <strong>tecnica e precisa</strong> dei  meccanismi  e dei  soggetti
  alla base dei più famosi programmi di spyware sul mercato, delle
  <strong>dinamiche commmerciali</strong>, del problema visto con gli occhi
- dell`attaccante. Per capire <strong>chi ci cerca di controllarci</strong> ed
+ dell'attaccante. Per capire <strong>chi ci cerca di controllarci</strong> ed
  indirizzarci e come con questo gioco accumula <strong>denaro e potere</strong>.
 </blockquote>
 

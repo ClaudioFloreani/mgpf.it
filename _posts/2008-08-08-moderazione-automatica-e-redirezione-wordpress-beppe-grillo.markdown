@@ -3,7 +3,7 @@ layout: post
 title: Moderazione automatica e redirezione
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Direi che ora che lo sciame dei grillini è passato posso tornare alla moderazione normale...  
   

@@ -1,11 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Sicurezza e privacy, P2P e formazione
 meta: {}
-
 tags: 
 - about-me
-- security
+- hacking
 ---
 Hanno pubblicato il mio primo articolo sul **[Punto Informatico](http://punto-informatico.it/p.asp?i=50226)**!
 Oltretutto in forma integrale in quattro pagine fitte fitte di riflessioni, esempi e farneticazioni ;)

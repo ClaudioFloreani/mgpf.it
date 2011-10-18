@@ -4,7 +4,7 @@ title: Matteo Flora nell'Who's Who e Direttore OPSI
 meta: {}
 tags: 
 - about-me
-- Me &amp; The Web
+- about-me
 - security
 ---
 ![Matteo Flora nell'Who's Who 2007](http://www.lastknight.com/download/20060824_who.gif)

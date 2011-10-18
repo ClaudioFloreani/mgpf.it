@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - io
 - jung
-- Me &amp; The Web
+- about-me
 ---
 Ecco ir risultati del test secondo il test di Meyers Briggs.  
 Mai nella vita ho visto un profilo così attinente...  

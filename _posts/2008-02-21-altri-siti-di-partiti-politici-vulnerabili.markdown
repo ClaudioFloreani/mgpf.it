@@ -15,7 +15,7 @@ tags:
 - rauti
 - security- sito web
 - udeur
-- "vulnerabilit\xC3\xA0"
+- "vulnerabilità"
 ---
 Avevo deciso si stare **buono buonino**, visto l'inizio della mia collaborazione col **Punto Informatico**, ma visto che [iniziano loro][1] posso mettermici anche io...  
   

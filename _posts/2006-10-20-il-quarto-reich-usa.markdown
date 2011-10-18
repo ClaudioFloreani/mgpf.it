@@ -6,7 +6,7 @@ meta:
   autometa: "thestar \xC2\x93duro\xC2\x94 worldupdates corpus uniti proibirebbe invocare contempo"
 tags: 
 - digital-freedom
-- Paranoia
+- paranoia
 ---
 > l Military Commissions Act of 2006 sempre citando larticolo di The Register permetterebbe  
 >

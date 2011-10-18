@@ -6,7 +6,7 @@ tags:
 - digital-freedom
 - dio
 - ghostbusters
-- Me &amp; The Web
+- about-me
 - papa
 - ratzinger
 - religione

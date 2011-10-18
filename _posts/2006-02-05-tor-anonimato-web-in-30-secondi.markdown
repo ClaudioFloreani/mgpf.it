@@ -35,7 +35,7 @@ In pratica Tor mira a **complicare queste analisi** prevenendo che origliatori i
 > La sicurezza di Tor accresce **proporzionalmente al numero degli utilizzatori** e delle persone che volontariamente attrezzano un server Tor. Se decidi di installarlo puoi trovare aiuto ed la tua partecipazione al progretto **può fornire un valido aiuto** (forse anche indispensabile) a quelle persone che vedono in pericolo la propria sicurezza e incolumità da regimi di restrizione della loro libertà di parola.<br>
 > Se desideri **aiutare il progetto** puoi trovare informazioni [nella pagina dedicata](http://tor.eff.org/volunteer.html.it) del sito ufficiale di Tor.
 
-<!--adsense-->
+
 
 #Anonimi in 30 secondi
 

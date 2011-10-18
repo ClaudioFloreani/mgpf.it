@@ -5,7 +5,7 @@ meta:
   _aioseop_keywords: sonno, sonno polifasico, polifasico, polyphasic sleep, polyphasic sonno, il sonno uberman, uberman, dormire meno
   autometa: ""
 tags: 
-- LifeHacking
+- lifehacking
 - Zen &amp; Photo
 ---
 L'essenza del **sonno polifasico** è la possibilità di **ridurre le ore di sonno** durante il giorno ad un minimo che varia (a seconda dei metodi) dalle **6 alle 2 ore giornaliere complessive**. Certo una affermazione di questo tipo spaventa e va corredata dalla necessaria conclusione "senza **distruggere il proprio fisico** e senza itercorrere in problemi di alcun tipo né fisiologici né di **attenzione**".  

@@ -8,7 +8,7 @@ tags:
 - censura
 - digital-freedom
 - intercettazioni
-- Paranoia
+- paranoia
 - !binary |
   c2FjY8Og
 

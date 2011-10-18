@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Lastkight.com si \xE8 spostato... Addio LivingDot!"
+title: "Lastkight.com si è spostato... Addio LivingDot!"
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Dopo mille peripezie ho deciso di **abbandonare il mio vecchio hosting** con [LivingDot](http://www.livingdot.com). E' stata una decisione ardua, considerato per per la **prima volta** in vita mia avevo la possibilità di ricevere commenti e risposte ai miei ticket in un tempo impressionantemente brave: dai **2 ai 10** minuti.  
   
@@ -11,7 +11,7 @@ Cosa è andato storto? Beh, semplicemente da Gennaio ad oggi LastKnight.com è s
   
 Non che sia un problema enorme, sia chiaro, d'altronde mi avevano già **bloccato per eccessivo utilizzo di banda banda** in occasioni precedenti e cancellato file in modo randomico più di una volta, ma la prendevo come un piccolo balzello da pagare per avere quel contatto umano a cui attribuivo tante importanza.  
   
-<!--more-->
+
 
 Poi, ieri, all'ennesimo offline ho finalmente fatto la sfuriata che avrei dovuto fare mesi or sono e mi sono ritrovato basito a leggere la risposta di **Pavel Ushakov**, *Managing Director* proprio di LivingDot che recitava:
 

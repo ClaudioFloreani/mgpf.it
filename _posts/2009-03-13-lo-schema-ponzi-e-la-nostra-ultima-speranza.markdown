@@ -1,10 +1,10 @@
 --- 
 layout: post
-title: "Lo Schema Ponzi \xE8 La Nostra Ultima Speranza"
+title: "Lo Schema Ponzi è La Nostra Ultima Speranza"
 meta: {}
 tags: 
 - madoff
-- Me &amp; The Web
+- about-me
 - Politica
 ---
 Ormai lo sapete che adoro [questo ragazzo](http://www.laprivatarepubblica.com/ricochet/lo-schema-ponzi-e-la-nostra-ultima-speranza)  

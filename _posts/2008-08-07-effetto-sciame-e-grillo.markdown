@@ -3,7 +3,7 @@ layout: post
 title: Effetto sciame...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 ![Anonymous](http://www.lastknight.com/download/2008/08/anonymousbecause-240x300.jpg)
   

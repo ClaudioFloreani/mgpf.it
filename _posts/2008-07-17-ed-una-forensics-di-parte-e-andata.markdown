@@ -1,11 +1,11 @@
 --- 
 layout: post
-title: "Ed una \xE8 andata..."
+title: "Ed una è andata..."
 meta: {}
 tags: 
 - about-me
 - forensic
-- Me &amp; The Web
+- about-me
 - security
 ---
 <div class="notice">

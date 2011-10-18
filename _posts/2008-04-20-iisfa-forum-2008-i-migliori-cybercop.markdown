@@ -15,7 +15,7 @@ tags:
 - iisfa 2008
 - informatica forense
 - matteo flora
-- Me &amp; The Web
+- about-me
 - security- vincitori iisfa
 ---
 Non esiste un modo carino per dirlo senza autocelebrazione, quindi lo dico e basta: **abbiamo stravinto**! ;)  

@@ -4,7 +4,7 @@ title: Yahhwwnn siamo un po' lenti stamattina...
 meta: {}
 
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Se trovate un **po' di lentezza** su Lastknight.com stamane, non fateci caso...  
 Qualche **buontempone** sta giocando a fare il piccolo acaro e sta lanciando un DDOS sulla macchina, che per ora sembra tenere abbastanza bene.  

@@ -3,7 +3,7 @@ layout: post
 title: Lettera da un ammiratore...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 E' normale amministrazione per chi amministra un blog quella di ricevere commenti di insulti e ingiurie. Si potrebbe addirittura dire che è parte del mestiere.  
 La prassi comunque è quella di pubblicare commenti che contengono insulti E argomenti da confutare e ignorare quelli che contengono semplicemente insulti, cestinandoli.  
@@ -20,7 +20,7 @@ Ho deciso di farlo qui: per chi come me crede infatti nella condivisione delle i
 >  P.S.: ho in cantiere di creare un blog con tutte le stron^H^H^ cose che dici alle birrate di m1s3c ed alle tue conferenze. ;-)
 
 Se me lo consentite risponderei per punti...
-<!--more-->
+
 
 > dai, suvvia. Finiscila di dire baggianate. Oltretutto ho ascoltato la tua conferenza. A dir poco penosa. Come mai ti proponi cosi in giro?  
   

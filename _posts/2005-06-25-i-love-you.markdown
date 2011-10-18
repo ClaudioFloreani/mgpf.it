@@ -1,15 +1,16 @@
 --- 
 layout: post
+status: ok
 title: I Love You - Serata con Virus
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
-
+tags:
+- develop
+- about-me
+- talk
 ---
 L'11 marzo 2004 il **Mensa Lombardia** organizzava una serata a tema "**Sicurezza, Privacy e Virus**" al quale ho partecipato come relazore analizzando in dettaglio il virus **I Love You**. In questa pagina è possibile recuperare il materiale della serata.
 
-Nell`ambito dei Virus Informatici, I love You presenta una serie di novità che sono divenute la base per le successive strategie di infezione. Analizzando il codice sorgente del virus (accompagnato da diagrammi di flusso precisi e puntuali) è possibile capire con precisione i meccanismi di infezione, di replicazione e di danneggiamento messo in atto dal Virus.
+Nell'ambito dei Virus Informatici, I love You presenta una serie di novità che sono divenute la base per le successive strategie di infezione. Analizzando il codice sorgente del virus (accompagnato da diagrammi di flusso precisi e puntuali) è possibile capire con precisione i meccanismi di infezione, di replicazione e di danneggiamento messo in atto dal Virus.
 
 #Download
 

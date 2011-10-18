@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - ambiente
 - humor
-- Me &amp; The Web
+- about-me
 - natura
 ---
 Scusate, <s>non l'ho trovato sottotitolato in italiano</s> )grazie a [Giuliano](http://firewalker.iobloggo.com/) per avermi trovato i sottotitoli), ma sono 20 minuti che rido.  

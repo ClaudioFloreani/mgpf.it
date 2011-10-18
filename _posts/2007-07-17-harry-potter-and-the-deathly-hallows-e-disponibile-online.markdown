@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Harry Potter and the Deathly Hallows \xE8 disponibile Online.."
+title: "Harry Potter and the Deathly Hallows è disponibile Online.."
 meta: {}
 tags: 
 - security

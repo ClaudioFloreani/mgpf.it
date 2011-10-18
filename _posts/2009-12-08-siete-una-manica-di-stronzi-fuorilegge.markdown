@@ -4,7 +4,7 @@ title: Siete una manica di stronzi fuorilegge
 meta: {}
 tags: 
 - google
-- Me &amp; The Web
+- about-me
 - profiling
 ---
 Sarà l'età, sarà il contesto culturale in cui sono cresciuto, ma a me certe affermazioni fanno tremare:  

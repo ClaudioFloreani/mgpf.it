@@ -5,9 +5,9 @@ meta: {}
 tags: 
 - google
 - matteo flora
-- Me &amp; The Web
+- about-me
 - mediaset
-- Paranoia
+- paranoia
 - security- youtube
 ---
 <a href="http://www.flickr.com/photos/48600090482@N01/197153406/" title="Howl" target="_blank"><img src="http://farm1.static.flickr.com/65/197153406_62defb0a8a.jpg" alt="Howl" border="0" /></a>  
@@ -48,7 +48,7 @@ E grazie a Dio che la stragrande maggioranza delle mail sono di gente che è inc
 Avviso pre commenti caustici: Leggete la <A href="http://www.lastknight.com/2008/08/04/the-very-big-faq-of-mediaset-vs-youtube/">la FAQ</A> relativa. Thanx ;)
 </div>  
 
-<!--more-->
+
 
 <H1>THE VERY BIG FAQ</h1>    
   

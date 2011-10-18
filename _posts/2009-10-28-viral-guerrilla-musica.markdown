@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - guerrilla
 - marketing
-- Me &amp; The Web
+- about-me
 - musical
 - public option annie
 ---

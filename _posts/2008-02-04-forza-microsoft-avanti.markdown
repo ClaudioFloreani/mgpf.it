@@ -4,7 +4,7 @@ title: Forza, Microsoft! Avanti!
 meta: {}
 tags: 
 - google
-- Paranoia
+- paranoia
 - security
 ---
 Non avrei mai pensato di dire una frase come questa, ma "**Avanti, Microsoft! Forza!**" mi sembra l'unica cosa da dire contro l'**arrogante, supponente** e francamente **vomitevole** [statement di Google](http://googleblog.blogspot.com/2008/02/yahoo-and-future-of-internet.html) in merito al possibile Takeover di Yahoo da parte di Microsoft:

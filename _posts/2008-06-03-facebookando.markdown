@@ -4,7 +4,7 @@ title: Facebookando...
 meta: {}
 tags: 
 - facebook
-- Me &amp; The Web
+- about-me
 - social network
 ---
 <a href="http://www.flickr.com/photos/33953253@N00/2106242534/" title="tree eater" target="_blank"><img src="http://farm3.static.flickr.com/2409/2106242534_babbfb115b.jpg" alt="tree eater" border="0" /></a>  

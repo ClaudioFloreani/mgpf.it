@@ -10,7 +10,7 @@ tags:
 - featured
 - iphone
 - lastknight.com
-- Me &amp; The Web
+- about-me
 - mobile
 - wptouch
 ---

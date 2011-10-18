@@ -1,8 +1,8 @@
 --- 
 layout: post
+status: ok
 title: Google presenta "My Search History"
 meta: {}
-
 tags: 
 - digital-freedom
 ---

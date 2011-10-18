@@ -4,6 +4,7 @@ title: Dove finisce Anonymous ed inizia LulzSec
 meta: {}
 tags: 
 - hacking
+- hope
 ---
 Dopo aver parlato un poco degli attacchi a Vitrociset e CNAIPIC la Novella 2000 del web 2.0 italiano (aka FriendFeed) si è tanto infervorata perchè ho parlato di Anonymous e non di LulzSec come realtà dietro l'attacco.  
   

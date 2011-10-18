@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - devotee
 - marcio
-- Me &amp; The Web
+- about-me
 - PDR
 - Peggio Della Rete
 - worst of web

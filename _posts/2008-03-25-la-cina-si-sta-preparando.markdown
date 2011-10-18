@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - bejing2008
 - cina
-- "cridelt\xC3\xA0"
+- "crideltà"
 - digital-freedom
 - diritti umani
 ---

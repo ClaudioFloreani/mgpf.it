@@ -9,7 +9,7 @@ tags:
 - dichiarazione
 - digital-freedom
 - fimi
-- Me &amp; The Web
+- about-me
 - security- thepiratebay
 ---
 <a href="http://www.flickr.com/photos/67196253@N00/443712432/" title="juggling jester" target="_blank"><img src="http://farm1.static.flickr.com/170/443712432_3fa56f0f85.jpg" alt="juggling jester" border="0" /></a>  

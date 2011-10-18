@@ -6,7 +6,7 @@ tags:
 - censura
 - digital-freedom
 - forensic
-- Me &amp; The Web
+- about-me
 - mediaset
 - quintarelli
 - security- thepiratebay

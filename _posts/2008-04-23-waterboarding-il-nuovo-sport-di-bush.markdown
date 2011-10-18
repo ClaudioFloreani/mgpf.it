@@ -5,9 +5,9 @@ meta: {}
 tags: 
 - amnesty
 - bush
-- "crudelt\xC3\xA0"
+- "crudeltà"
 - digital-freedom
-- Paranoia
+- paranoia
 - security- tortura
 - unsubscrive-me
 - waterboarding

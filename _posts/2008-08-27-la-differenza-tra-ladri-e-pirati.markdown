@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - firto digitale
 - furto
-- Me &amp; The Web
+- about-me
 - pirateria
 - pirateria digitale
 - security- the pirate bay

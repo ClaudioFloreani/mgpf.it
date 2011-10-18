@@ -4,7 +4,7 @@ title: Rilevare e rubare un Notebook in macchina
 meta: {}
 tags: 
 - forensic
-- Paranoia
+- paranoia
 - security
 ---
 ![Foto Notebook](/download/20070316_furto_notebook.gif)

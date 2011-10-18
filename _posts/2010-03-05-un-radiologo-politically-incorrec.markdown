@@ -4,10 +4,10 @@ title: Un radiologo Politically Incorrect
 meta: {}
 tags: 
 - centenari
-- Me &amp; The Web
+- about-me
 - ot
 - radiologo
-- "sanit\xC3\xA0"
+- "sanità"
 ---
 A volte se ci vuole ci vuole:  
   

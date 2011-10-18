@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Non \xC3\xA8 Complotto, \xC3\xA8 semplice Stupidit\xC3\xA0"
+title: "Non è Complotto, è semplice Stupidità"
 meta: 
 tags: 
 - about-me

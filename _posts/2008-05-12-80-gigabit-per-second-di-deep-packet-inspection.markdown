@@ -6,7 +6,7 @@ tags:
 - calea compliant
 - deep packet inspection
 - DPI
-- Paranoia
+- paranoia
 - security- skype
 ---
 <a href="http://www.flickr.com/photos/36382117@N00/205710716/" title="The Tubes" target="_blank"><img src="http://farm1.static.flickr.com/84/205710716_81bf87ca5f.jpg" alt="The Tubes" border="0" /></a>  

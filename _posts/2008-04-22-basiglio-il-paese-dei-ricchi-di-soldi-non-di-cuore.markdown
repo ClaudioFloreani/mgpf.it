@@ -8,8 +8,8 @@ tags:
 - digital-freedom
 - disegno
 - mobbing
-- Paranoia
-- "povert\xC3\xA0"
+- paranoia
+- "povertà"
 - razzismo
 ---
 Mi raccomando, per la carità di Dio!  

@@ -9,7 +9,7 @@ tags:
 - impronte
 - impronte digitali
 - maroni
-- Paranoia
+- paranoia
 - rom
 - romania
 - sputi

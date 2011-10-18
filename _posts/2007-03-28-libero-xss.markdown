@@ -10,7 +10,7 @@ meta:
   autometa: nick nick digiland script fromcharcode arbitrary vulnerability profile
   _oembed_40a3ac3cf2f3c38b4c5f3ef6a652909c: "{{unknown}}"
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 After the report of Rosario Valotta on this ML, another XSS vulnerability
 has been found on Libero.it, one of the most important italian ISP

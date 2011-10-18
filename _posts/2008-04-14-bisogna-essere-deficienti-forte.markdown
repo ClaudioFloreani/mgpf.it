@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - darwin awards
 - fotocamere
-- Me &amp; The Web
+- about-me
 - repubblica.it
 - seggi elettorali
 - web2.0

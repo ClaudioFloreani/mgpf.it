@@ -10,7 +10,7 @@ tags:
 - digital-freedom
 - intercettazioni
 - laprivatarepubblica
-- Me &amp; The Web
+- about-me
 - security
 ---
 <a href="http://www.flickr.com/photos/17878642@N00/232918534/" title="Aruba" target="_blank"><img src="http://farm1.static.flickr.com/89/232918534_2413a66c24.jpg" alt="Aruba" border="0" /></a>  

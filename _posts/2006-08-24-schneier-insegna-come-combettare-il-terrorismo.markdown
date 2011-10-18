@@ -4,7 +4,7 @@ title: Schneier insegna come combettare il terrorismo...
 meta: {}
 tags: 
 - digital-freedom
-- Paranoia
+- paranoia
 - security
 ---
 Con un titolo altisonante come quello qdi quest'articolo non sarò certamente io a **dare la soluzione** ad un problema tanto caro ai governi di mezzo mondo.  

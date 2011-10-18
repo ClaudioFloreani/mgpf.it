@@ -8,7 +8,7 @@ tags:
 - censura
 - digital-freedom
 - ignoranza
-- Me &amp; The Web
+- about-me
 - mediaset
 - pressapochismo
 - security- youtube

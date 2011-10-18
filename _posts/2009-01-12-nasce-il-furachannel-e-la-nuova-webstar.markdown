@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - censura
 - digital-freedom
-- Me &amp; The Web
+- about-me
 - security
 ---
 Che sia la nascita della nuova "[VideoMarta][2]" o del nuovo meme di [Boxxy][1]?  

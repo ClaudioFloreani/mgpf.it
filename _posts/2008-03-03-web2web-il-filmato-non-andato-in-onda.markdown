@@ -18,7 +18,7 @@ Poco importa, eccovi il mio contributo che sarebbe dovuto andare online direttam
   
 <object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/IvMX7aUzEuw&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/IvMX7aUzEuw&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
   
-<!--more-->
+
 
 Grazie a tutti quelli che hanno seguito (almeno una decina) la diretta di stasera convinti di vedermi: siete veramente tanti e veramente unici. Mi spiace, non è stata colpa mia :(  
   

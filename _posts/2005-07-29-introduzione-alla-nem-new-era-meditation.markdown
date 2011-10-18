@@ -2,10 +2,8 @@
 layout: post
 title: Introduzione alla NEM -  New Era Meditation
 meta: 
-  _wp_page_template: default
-  autometa: ""
-tags: []
-
+tags:
+- lifehacking
 ---
 L'interesse coltivato negli anni per il Reiki, fino alla formazione e certificazione come Reiki master ha, ovviamente, portato con se una particolare propensione allo studio ed alla pratica della **meditazione**.  
 Le continue "incursioni" nei meandri della psicologia e soprattutto della *Programmazione Neurolinguistica*, oltre che lo studio della *tradizione Indiana* e delle scuole "coercitive" e settarie come Dianetics mi ha portato negli anni ad interessarmi sempre più agli stati alterati di coscienza che vengono indotti dalla Meditazione.  

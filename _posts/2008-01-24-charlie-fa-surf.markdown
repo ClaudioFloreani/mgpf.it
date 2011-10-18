@@ -3,7 +3,7 @@ layout: post
 title: Charlie fa Surf...
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Baustelle: così grandi da sconfinare nell'immenso.  
   

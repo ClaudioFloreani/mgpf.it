@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "La Cortellesi imita la Santanch\xE8"
+title: "La Cortellesi imita la Santanchè"
 meta: {}
 
 tags: 
@@ -10,7 +10,7 @@ tags:
 - fini
 - parla con me
 - Politica
-- "santanch\xC3\xA8"
+- "santanchè"
 - storace
 ---
 Inchino ed immensa stima!  

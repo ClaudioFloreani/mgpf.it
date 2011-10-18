@@ -3,7 +3,7 @@ layout: post
 title: Grazie mille!
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 Intanto che attendo nuove dall'amico Rebus sul filmato videoregistrato (e mi farebbe piacere avere news anche dal videoamatore segreto che si è posizionato vicino alla colonna) volevo cogliere l'occasione per ringraziare tutti i lettori che sono sopraggiunti numerosissimi alla Conferenza a InfoSecurity.  
   

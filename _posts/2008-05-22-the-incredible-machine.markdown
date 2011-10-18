@@ -3,7 +3,7 @@ layout: post
 title: The Incredible Machine
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 - Rube Goldberg
 - the incredible machine
 ---

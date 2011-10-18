@@ -3,7 +3,7 @@ layout: post
 title: Arkangel, la musa del blogger italiano
 meta: {}
 tags: 
-- Me &amp; The Web
+- about-me
 ---
 ![Arkangel.it](http://www.lastknight.com//download/20060924_Arkangel.jpg)No, non c'entra nulla con la **sicurezza informatica** e ancora meno con la **privacy** ma è il blog domenicale, tradizionalmente legato alle altre amenità della vita e che stavolta vi chiede, se avete qualcosa di caro al mondo legato ad un Blog, di acquistare il libro di Arkangel.  
 

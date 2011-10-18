@@ -2,10 +2,8 @@
 layout: post
 title: "NEM: New Era Meditation"
 meta: {}
-
 tags: 
-- LifeHacking
-- Zen &amp; Photo
+- lifehacking
 ---
 Dall'Informatica alla Olistica, secondo quello che è il mio "percorso naturale".  
 A volte mi sorprendo di come faccia a coniugare la ricerca informatica e la programmazione con lo studio del Reiki e della Meditazione....  

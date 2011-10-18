@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - apple
 - fanboy
-- Me &amp; The Web
+- about-me
 - seven
 - windows7
 ---
