@@ -8,8 +8,8 @@ title: Matteo Flora - quasi innovatore, quasi imprenditore, quasi lifehacker
   {{ post.content }}
   <p class="signoff">
     &raquo;   {{ page.date | date: "%d/%m/%Y" }} con tag:
-		{% for tags in page.tags %}
-			<a href="#">{{ tags }}</a>
+		{% for tag in page.tags %}
+			<a href="/tag/{{ tag }}">{{ tag }}</a>
 		{% endfor %}
   </p>
   </div>
