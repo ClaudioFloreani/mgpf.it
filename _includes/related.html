@@ -1,0 +1,13 @@
+<h2>Articoli (forse) correlati</h2>
+<ul>
+  {% for post in site.related_posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2>Articoli recenti</h2>
+<ul class="posts small">
+	{% for post in site.related_posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> <i>{{ post.date | date: "%d/%m/%Y" }}</i></li>
+	{% endfor %}
+</ul>
