@@ -3,7 +3,7 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2011-10-18T10:44:41+02:00</updated>
+ <updated>2011-10-18T11:31:14+02:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
@@ -15,7 +15,7 @@
    <link href="http://mgpf.it/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html"/>
    <updated>2011-10-07T00:00:00+02:00</updated>
    <id>http://mgpf.it/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio</id>
-   <content type="html">&lt;iframe src=&quot;http://player.vimeo.com/video/29950141?portrait=0&amp;amp;color=ffffff&quot; width=&quot;640&quot; height=&quot;400&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;http://player.vimeo.com/video/29950141?29950141 =0&amp;amp;color=ffffff&quot; width=&quot;640&quot; height=&quot;480&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 </content>
    <author>
      <name>Matteo Flora</name>
@@ -28,7 +28,7 @@
    <link href="http://mgpf.it/2011/10/06/stay-hungry.html"/>
    <updated>2011-10-06T00:00:00+02:00</updated>
    <id>http://mgpf.it/2011/10/06/stay-hungry</id>
-   <content type="html">&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;http://www.youtube-nocookie.com/embed/oObxNDYyZPs&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;http://www.youtube-nocookie.com/embed/oObxNDYyZPs &quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Ciao Steve.&lt;/p&gt;
 </content>

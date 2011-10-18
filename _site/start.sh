@@ -1,1 +1,1 @@
-jekyll --kramdown
+jekyll --auto --server

@@ -3,11 +3,14 @@ layout: default
 title: Matteo Flora - quasi innovatore, quasi imprenditore, quasi lifehacker
 ---
 {% for post in site.posts limit:5 %}
-  <h2 id="intro">{{ post.title }}</h2>
+  <h2 id="intro"><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <div class="post">
   {{ post.content }}
   <p class="signoff">
-    &raquo; <a href="{{ post.url }}">{{ post.date | date: "%b/%m" }}</a>
+    &raquo;   {{ page.date | date: "%d/%m/%Y" }} con tag:
+		{% for tags in page.tags %}
+			<a href="#">{{ tags }}</a>
+		{% endfor %}
   </p>
   </div>
 {% endfor %}

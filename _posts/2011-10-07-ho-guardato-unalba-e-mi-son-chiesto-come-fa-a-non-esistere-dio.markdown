@@ -5,4 +5,4 @@ meta: {}
 tags: 
 - awesome
 ---
-<iframe src="http://player.vimeo.com/video/29950141?portrait=0&amp;color=ffffff" width="640" height="400" frameborder="0"></iframe>
+{% vimeo 29950141 %}

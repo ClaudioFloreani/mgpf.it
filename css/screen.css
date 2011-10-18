@@ -143,6 +143,11 @@ header h2 {
   margin-top: 24pt;
 }
 
+#intro a {
+  color: #666;
+  text-decoration: none;
+}
+
 #subtitle, #title { color: #333; }
 
 #subtitle {

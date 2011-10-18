@@ -6,7 +6,10 @@ layout: default
 {{ content }}
 
 <time class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
-  {{ page.date | date: "%d/%m/%Y" }} com i tag: {{ page.tags }} 
+  {{ page.date | date: "%d/%m/%Y" }} com i tag:
+	{% for tag in page.tags %}
+		<a href="/tags/{{ tag }}">{{ tag }}</a>
+	{% endfor %}
 </time>
 </article>
 
