@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "I blogger del passato ci guardano da lass\xF9..."
+title: "I blogger del passato ci guardano da lassù..."
 meta: {}
 tags: 
 - blogger

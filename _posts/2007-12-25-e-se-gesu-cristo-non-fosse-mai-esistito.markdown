@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "E se Ges\xF9 Cristo non fosse mai esistito?"
+title: "E se Gesù Cristo non fosse mai esistito?"
 meta: 
   _edit_last: "1"
   autometa: "ges\xC3\xB9 cristo non esiste mitra sol invictus culto setta anticristianesimo natale"

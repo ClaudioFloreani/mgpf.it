@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Tre Metri sopra il CEPU... pi\xF9 qualcuno :)"
+title: "Tre Metri sopra il CEPU... più qualcuno :)"
 meta: {}
 tags: 
 - digital-freedom

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Chi sono e cosa faccio"
 meta: 
 tags: 
@@ -7,8 +7,22 @@ tags:
 ---
 ## Io come sono
 
-Mi chiamo Matteo G.P. Flora (ed il G.P. sta per Giovanni Paolo) e sono figlio del 1978 e Amministratore Unico e Socio Fondatore della società di Innovazione The Fool s.r.l., insieme a Massimo Giacomini, mio partner in questa avventura e molto più che investitore.  
-[The Fool][1] si occupa della creazione di sistemi informatici ad altissimo valore aggiunto per il [Controllo della Navigazione Internet](http://fooldns.com), l'[Anti-Profilazione](http://fooldns.org), la Gestione della Proprietà Intellettuale Online e il Monitoraggio e la [Moderazione della Rete Internet](http://conversationflow.com).  
+Mi chiamo Matteo G.P. Flora (ed il G.P. sta per Giovanni Paolo) e sono figlio del 1978 e fondatore ed amministratore di [The Fool][1], insieme a Massimo Giacomini, mio partner in questa avventura e molto più che investitore.  
+[The Fool][1] si occupa della creazione di prodotti e tecnologie per:
+
+* [Monitoraggio e la Tutela della Proprietà Intellettuale Online](http://thefool.it/ip)
+* [Monitoraggio e Assessment della Reputazione Online](http://thefool.it/bh)
+* [Moderazione dei contenuti UGC](http://conversationflow.com)
+* [Controllo della Navigazione Internet](http://fooldns.com) e [Anti-Profilazione](http://fooldns.org), 
+
+Inoltre sono attivo in una serie di side-projects nel mondo delle startup e dell'attivismo online:
+
+* Mentor nell'Incubatore romano [Enlabs](http://enlabs.com)
+* Membro del Comitato Scientifico di [OPSI](http://opsi-aip.it)
+* Random Contributor al progetto [GlobaLeaks](http://globaleaks.org)
+* Socio in varie ed eventuale startup
+
+Sono stato (e quando posso sono tuttora) attivo nella divulgazione e potete trovare un po' di video dei miei talk alla [pagina dei video](/video.html).
 
 ## Cosa ho fatto
 
@@ -22,13 +36,13 @@ In questi ruoli ho avuto la fortuna di aver diretto strategie ad alto livello in
   
 Sono stato per una serie di anni Consulente Strategico o Consulente Tecnologie IT in progetti per molte realtà internazionali quali: BNL, MPS, Walt Disney Interactive, Mediaset, CityGroup, 77Agency, Buongiorno Vitaminic, Glaxxo Smith Kline, ENI. Altri progetti curati o realizzati comprendono Gruppo Soa, Mg-Art, Todomodo, AstraZeneca, Aktive Reply, Fiat Auto, TodoMondo.  
   
-Come Security Evangelist (cioè, come quello che ne sapeva di sicurezza) ho rilasciato centinaia Vulnerability Reports e Advisories con certa regolarità, e dal 1999 al 2008 sono stato impegnato nel ruolo di Security Auditor con clienti del calibro di Poste Italiane S&amp;S, EDS, ENI, Spike Reply, Mediaset, Ospedale San Raffaele e varie Cliniche pubbliche e private.  
+Come Security Evangelist (cioè, come quello che ne sapeva di sicurezza) ho rilasciato centinaia Vulnerability Reports e Advisories con certa regolarità, e dal 1999 al 2008 sono stato impegnato nel ruolo di Security Auditor con clienti del calibro di Poste Italiane S&S, EDS, ENI, Spike Reply, Mediaset, Ospedale San Raffaele e varie Cliniche pubbliche e private.  
   
 Ho svolto il ruolo di Perito Forense per la Magistratura, prevalentemente per la Guardia di Finanza, ed in questa veste ha collaborato nelle indagini nello scandalo “Cirio/Parmalat” e nel famoso caso della “Casa di Cura Santa Rita”. Come consulente di parte, e tra le ultime cause si annovera una difesa contro “Sky” ed il famoso contenzioso “Mediaset vs. YouTube”.  
 
 ## Cosa faccio ora
 
-Ora parlo, vedo cose, cerco progetti. E realizzo sogni. O ci provo. Continuo a gestire con estrema soddisfazione [The Fool][1] nei progetti più impegnativi e più entusiasmanti, continuo a fare consulenza strategica e da un anno sono Mentor in uno degli Incubatori italiani (secondo me) più interessanti: EnLabs a Roma.
+Ora parlo, vedo cose, cerco progetti. E realizzo sogni. O ci provo.  
 
 ## Contatti
 

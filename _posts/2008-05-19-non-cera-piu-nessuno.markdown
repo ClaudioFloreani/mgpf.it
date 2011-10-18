@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Non c'era pi\xF9 nessuno..."
+title: "Non c'era più nessuno..."
 meta: {}
 tags: 
 - Me &amp; The Web

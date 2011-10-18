@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Non dovrai pi\xF9 soffrire, Sig. Zhang"
+title: "Non dovrai più soffrire, Sig. Zhang"
 meta: {}
 tags: 
 - censura

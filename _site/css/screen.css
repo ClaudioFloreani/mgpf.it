@@ -9,7 +9,7 @@ body {
   color: #222;
   font-family: "Palatino", "Georgia","Times New Roman",serif;
   font-size: 1.1em;
-  line-height: 1.5em;
+  line-height: 2em;
   letter-spacing:0.03em;
   text-align:justify;
   margin: 20px auto 18px 25%;
@@ -57,7 +57,7 @@ h1 {
 }
 
 h2 {
-  margin-top: 20px; 
+  margin-top: 30px; 
   font-size: 24px;
   line-height: 26px;
   margin-bottom: 18px;
@@ -68,7 +68,10 @@ h3 {
   line-height: 22px;
 }
 
-li { margin-bottom: 4px; }
+li {
+	margin-bottom: 5px;
+	font-style: italic;
+}
 
 p, ul, ol { margin-bottom: 18px; }
 
