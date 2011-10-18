@@ -1,18 +1,12 @@
 --- 
 layout: post
+status: ok
 title: "(in)sicurezza: Matteo Flora e il Punto-Informatico insieme"
 meta: {}
-
 tags: 
-- (in)sicuezza
-- about-me
-- exploit
-- fud
-- matteo flora
-- security
+- hacking
 ---
 ![](http://www.lastknight.com/download//20080111.jpg)
-
 Avrei dovuto parlarne prima, anche e soprattutto visto che [qualcuno][1] aveva già "svelato" la novità, ma i tempi di redazione e la parvenza di voler avere una vita umana nel weekend mi hanno portato a scrivere solamente ora.  
   
 Sono sul PuntoInformatico. E non solamente citato [come][2] è [già successo][3] in molte [altre occasioni][4], ma con una [rubrica tutta mia][5] che vi accompagnerà settimanalmente il **lunedi** e dal titolo di **"(in)sicurezza"**.  
@@ -26,12 +20,8 @@ Quindi gli appuntamenti per seguire i miei vaneggiamenti divengono addirittura t
 Spero ne abbiate abbastanza!  
   
 Ed ora subito a leggere, mi raccomando, il [primo numero][5] della rubrica dal titolo "[Che paura, è arrivato l'exploit][5]".
-
 [1]: http://www.free-os.it/blog/archives/1368
 [2]: http://www.lastknight.com/2008/02/06/sul-punto-informatico-le-mie-tre-vulnerabilita/
 [3]: http://www.lastknight.com/2007/11/20/rivotiamoit-qualche-piccolo-problema/
 [4]: http://www.lastknight.com/2007/07/02/litalia-e-la-censura-una-guida-per-capire-qualcosa/
 [5]: http://punto-informatico.it/p.aspx?i=2185904
-  
-  
-[tag] (in)sicuezza, exploit, fud, matteo flora [/tag] 

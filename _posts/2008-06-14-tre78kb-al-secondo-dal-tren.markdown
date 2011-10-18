@@ -1,11 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Tre, 78KB al secondo dal treno...
 meta: {}
 tags: 
-- connessione
-- security- tre
-- treno
+- awesome
 ---
 <code>
 pebble:~ lk$ scp xxxxx@foo.lastknight.com:/home/users/.home/sub.tgz .

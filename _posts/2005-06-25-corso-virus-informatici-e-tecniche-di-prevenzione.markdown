@@ -7,26 +7,19 @@ tags:
 - about-me
 - talk
 - hacking
-
 ---
 Il **1 Ottobre 2004** si è svolta a Milano la prima edizione del corso "Virus informatici: Strategie di infezione e Tecniche di prevenzione" realizzato da me ed il Maresciallo Gerardo Costabile della GdF in collaborazione con Learning Resource Associates di Milano.
-
 #Finalità
 La finalità del corso è fornire una visione comprensiva delle problematiche coinvolte nella scrittura, nella diffusione e nella lotta al malicious code, oltre che delle strategie e delle politiche di protezione delle informazioni e salvaguardia dei sistemi.  
-
 Durante il corso verranno indicati gli approcci legali per stabilire le policy in azienda, il controllo difensivo sia tecnico che giuridico delle transazioni internet e della posta elettronica, le modalità dell' eventuale denuncia all' Autorità Giudiziaria, la cristallizzazione delle prove e le modalità di formazione del personale a vari livelli, con test sulle modalità di violazione delle policy con un semplice comportamento superficiale.  
-
 #Obiettivi
 Gli obiettivi formativi del corso comprendono:
-
 *  Capire i meccanismi implementativi e architetturali alla base dei virus informatici e del malware in generale
 *  Analizzare le strategie di infezione, replicazione e metamorfosi dei virus
 *  Prevenire e contrastare i problemi derivanti da infezioni
 *  Comprendere se lattacco è proveniente da virus naturali della rete oppure lazienda è oggetto di tentativi di danneggiamento o di accesso abusivo con l'utilizzo di cavalli di troia e backdoors
 *  Conoscere le conseguenze legali dei virus e i controlli difensivi più efficaci 
-
 #Programma
-
 1.  Analizzare gli Asset aziendali, le vulnerabilità dellAzienda e i danni da virus
     *  Analisi dei beni aziendali da proteggere: la fragilità dei documenti elettronici e limportanza in azienda
     *  Considerare le statistiche relative ai virus: alcuni esempi concreti della scarsa attenzione in azienda

@@ -1,14 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Aspettando il Nexus Sei
 meta: {}
 tags: 
-- blade runner
-- google
-- intelligenza artificiale
+- paranoia
 - about-me
-- phone
-- security
 ---
 <a href="http://www.lastknight.com/download//2010/01/roy-e1262734696317.jpg"><img src="http://www.lastknight.com/download//2010/01/roy-e1262734696317.jpg" alt="" title="roy" width="499" height="330" class="aligncenter size-full wp-image-1756" /></a>  
   

@@ -8,14 +8,13 @@ tags:
 - security
 ---
 > Ciao, **Punto-Informativo.it** (di nuovo...)  
-> Dopo il post precedente sul Video della Conferenza "Eludere i Controlli di Polizia" anche oggi il Punto Informatico cita nel suo articolo "[L'evoluzione genetica del Grande Fratello Europeo](http://punto-informatico.it/p.aspx?id=1920382)" buoni stralci da questo blog. Onorati della stima che ci offre il giornalista Alfonso Maruccia sapete perchè il sito **potrebbe rallentare**...  
+> Dopo il post precedente sul Video della Conferenza "Eludere i Controlli di Polizia" anche oggi il Punto Informatico cita nel suo articolo "[L'evoluzione genetica del Grande Fratello Europeo](http://punto-informatico.it/p.aspx?id=1920382)" buoni stralci da questo blog. Onorati della stima che ci offre il giornalista Alfonso Maruccia sapete perché il sito **potrebbe rallentare**...  
 >  Se arrivate da lì e volete sapere chi sono potete dare un'occhiata alla pagina dei contatti. Se invece volete dare un'occhiata in giro consiglio l'archivio dei post o di dare uno'cchiata a sinistra nella barra arangio dei "primopiano". 
   
   
   
 ![OSEMINTI](/download/big-brother.thumbnail.jpg)
 Il messaggio che mi introduce a OSEMINTI appare su Sikurezza.org a nome di **Marco "azocram"** ed è di quelli destinati a fare rizzare tutti i capelli in testa a persone che, come me, hanno una **buona dose di paranoia** insita nel DNA:
-
 > Ciao a tutti,  
 >  
 >Qualcuno ha sentito parlare del progetto OSEMINTI ("Operational Semantic

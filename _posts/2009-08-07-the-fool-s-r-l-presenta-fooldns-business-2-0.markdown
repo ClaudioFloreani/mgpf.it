@@ -1,9 +1,11 @@
 --- 
 layout: post
+status: ok
 title: The Fool s.r.l. presenta FoolDNS Business 2.0
 meta: {}
 tags: 
-- The Fool
+- the-fool
+- business
 ---
 The Fool è fiera di annunciarvi che dalla mezzanotte della giornata di ieri è online la nuova interfaccia per gli utenti di FoolDns Business che implementa tutte le nuove funzionalità di cui abbiamo parlato negli ultimi mesi.  
 L'aggiornamento alla nuova versione è, come di norma in The Fool, assolutamente gratuito per tutti i nostri clienti, che dovrebbero avere ricevuto nelle scorse ore la mail automatica del sistema con le nuove credenziali per l'accesso (se così non fosse [contattateci](http://thefool.it/contacts)!).  
@@ -12,7 +14,7 @@ FoolDns Business 2.0 implementa una serie di importanti novità a partire dalla 
   
 Ma le novità sono molte e abbiamo cercato di riassumerle nel video che vi proponiamo qui di seguito:  
   
-<object width="530" height="400"><param name="movie" value="http://www.youtube.com/v/1QUEe9IUlLg&hd=1&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1QUEe9IUlLg&hd=1&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="530" height="400"></embed></object>  
+{% youtube 1QUEe9IUlLg %}
   
 Come potete vedere dal video molte sono le novità e volendole rivedere singolarmente: innanzitutto è ora possibile vedere ogni tre ore le statistiche dirette della giornata e osservare quelle della giornata di ieri, oltre alle totali. E' possibile consultarle tramite grafici o vista tabellare direttamente dalla dashboard di ingresso:  
   

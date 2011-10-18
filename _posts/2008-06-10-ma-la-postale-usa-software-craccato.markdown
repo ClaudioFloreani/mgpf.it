@@ -1,17 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Ma la postale usa software Craccato?!?!?
 meta: {}
 tags: 
-- AntonioMonteleone
-- Antoniomonteleone.it
-- censura
-- danilo
-- digital-freedom
-- follie
 - forensic
-- about-me
-- security
+- hacking
+- weird
 ---
 Del sequestro di [AntonioMonteleone.it](http://www.antoninomonteleone.it/) ne ha parlato più che a sufficienza il [Punto informatico](http://punto-informatico.it/2314627/PI/News/Sequestrato-un-altro-blog-italiano/p.aspx) ma anche io ieri sera, come il buon [Paolo](http://paolo.evectors.it/italian/2008/06/company-pippo.html) che ne blogga ben prima di me, avevo dato un occhio al sorgente della pagina:  
   
@@ -29,5 +24,4 @@ Cheddire? Complimentoni!
   
 **UPDATE** Sempre dal sito di [Paolo](http://paolo.evectors.it/italian/2008/06/company-pippo.html)  scopro anche che l'immagine della Repubblica è... presa da altro sito sequestrato dai colleghi :) In particolare <http://www.cosilinum.it/stellone.gif> che rimane del sorgente.... **LOL!**  
   
-
  

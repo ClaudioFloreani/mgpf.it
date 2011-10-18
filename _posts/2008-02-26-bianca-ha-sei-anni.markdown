@@ -2,13 +2,8 @@
 layout: post
 title: Blanca ha sei anni...
 meta: {}
-
 tags: 
-- blanca
-- crescere
-- donne
-- geek girl dinner
-- security
+- awesome
 ---
 [Andrea Beggi](http://www.andreabeggi.net/2008/02/25/di-tecnologia-di-donne-geek-di-condivisione-e-di-espressione/#comments) speso mi fa pensare. Anche [questa volta](http://www.andreabeggi.net/2008/02/25/di-tecnologia-di-donne-geek-di-condivisione-e-di-espressione/#comments):  
   

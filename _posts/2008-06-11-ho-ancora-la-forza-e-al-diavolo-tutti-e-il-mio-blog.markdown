@@ -1,13 +1,14 @@
 --- 
 layout: post
+status: ok
 title: "Ho ancora la forza. E al diavolo tutti, è il MIO blog."
 meta: {}
 tags: 
 - about-me
 ---
-Mai risistemare la playlist di ITunes. Certi ricordi non devono, non possono tornare. Non si è preparati, a volte, ad affrontare l'impatto mentale, l'impatto emotivo che una canzione, una musica possono scaraventarti addosso.  
+Mai risistemare la playlist di ITunes. Certi ricordi non devono, non possono tornare. Non si è preparati, a volte, ad affrontare l'impatto mentale, l'impatto emotivo che una canzone, una musica possono scaraventarti addosso.  
   
-21.730 brani, tutti rigorosamente "backened in CD". 64 giorni, 23 minuti e 38 secondi di ricordi, scaraventati addosso così, come fosse nulla. Erano in in un hard disk lasciato a prendere la polvere.  
+Tanti brani, tutti rigorosamente "backened in CD" originali. 64 giorni, 23 minuti e 38 secondi di ricordi, scaraventati addosso così, come fosse nulla. Erano in in un hard disk lasciato a prendere la polvere.  
 Ad un certo punto della mia vita sono stati messi da parte. Ricordi, spoglie, di un matteo che forse non sono io. Un periodo in cui ero Matteo, non Matteo G.P. Flora, non LK, non LastKnight.  
   
 E tra tutti torna il Maestro.  
@@ -17,7 +18,7 @@ Avevo 21 anni, imbecille come pochi. Cone tutti.
   
 E mentre Guccini al Forum cantava io urlavo a suqarciagola, lì davanti. Non avevo le lacrime agli occhi, semplicemente non avevo più lacrime. Ho urlato tutta la voce che avevo, una catarsi di fronte ad una canzone. E finita la canzone sono caduto in ginocchio e ho pianto tutte le lacrime che avrei potuto piangere. E ho capito un po' di cose...   
   
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/VkzxJAHMvtg&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/VkzxJAHMvtg&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
+{% yuoutube VkzxJAHMvtg %}  
   
 > "Ho ancora la forza che serve a camminare, picchiare ancora contro per non lasciarmi stare. Ho ancora quella forza che ti serve quando dici 'si comincia'.  
 > E ho ancora la forza di guardarmi attorno, misciando le parole con due pacchetti al giorno, di farmi trovar lì, da chi mi vuole, sempre nella mia camicia."  

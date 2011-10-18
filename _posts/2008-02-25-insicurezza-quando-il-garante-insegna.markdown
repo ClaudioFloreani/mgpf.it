@@ -1,16 +1,10 @@
 --- 
 layout: post
+status: ok
 title: "(in)sicurezza: Quando il Garante Insegna"
 meta: {}
-
 tags: 
-- about-me
-- digital-freedom
-- Garante
-- intercettazioni
-- norme
 - privacy
-- security
 ---
 Seconda punta della mia [collaborazione editoriale con il PuntoInformatico](http://punto-informatico.it/2199142/PI/Commenti/-in-sicurezza--Quando-il-Garante-insegna/p.aspx)...   
 Sappiatemi dare qualche commento a caldo, ok? Eccone il testo:  
@@ -18,8 +12,6 @@ Sappiatemi dare qualche commento a caldo, ok? Eccone il testo:
 Non succede spesso a chi fa il mio mestiere, ma a volte, raramente, accade di rimanere meravigliati di fronte alla maturità tecnologica di talune istituzioni. In un paese come l'Italia, che tanto ha ancora da imparare riguardo alla Sicurezza Informatica, troviamo finalmente un barlume.  
   
 Mi riferisco al provvedimento del Garante riguardo le intercettazioni, ed in particolare le sue recentemente emesse prescrizioni tecniche ed organizzative per la protezione dei dati di traffico internet e telefonico da parte dei gestori. Viene quasi da tirare, finalmente, un sospiro di sollievo.  
-
-
   
 Le indicazioni fornite dal Garante sono piuttosto precise e, se funzionerà il sistema di controllo della loro applicazione, dovrebbero poter garantire un elevato livello di sicurezza dei dati, in particolare quelli di traffico internet e telefonico relativi alla repressione dei reati.  
 Se da un lato la repressione dei reati è una faccia della medaglia, i fatti di cronaca che ormai tutti conosciamo hanno fatto tristemente notare come le intercettazione nelle "mani sbagliate" abbiano comportato un pesante attentato alla Privacy degli individui coinvolti.  

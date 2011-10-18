@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: CBT, SCORM e Aerei da guerra...
 meta: {}
 tags: 

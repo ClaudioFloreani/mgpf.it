@@ -1,25 +1,13 @@
 --- 
 layout: post
+status: ok
 title: "(in)sicurezza:  Dove finisce la paura ed inizia Internet"
 meta: {}
 tags: 
-- abusi
-- censura
+- hacking
 - about-me
-- educazione
-- fobia
-- internet
-- lions
-- paura
-- pedofilia
-- security
+- talk
 ---
-Qualcuno mi ha chiesto perché scrivo sul Punto informatico.  
-Per poter scrivere [cose come questa](http://punto-informatico.it/2247069/PI/Commenti/-in-sicurezza--Dove-finisce-la-paura-ed-inizia-Internet/p.aspx):  
-  
----  
-  
-  
 Scrivo l'articolo dall'aeroporto di Bari, alla disperata ricerca di una presa di corrente. Sto per tornare a Milano dopo una giornata di
 lavoro, quella di ieri a [Trani][2], come relatore al Congresso del
 [Lions][3] dal tema importante "[Dignità e Diritti dei Minori][4]:
@@ -34,8 +22,6 @@ Internet e dall'altra la costante preoccupazione per il controllo. Ma
 questa volta forse ho imparato qualcosa io nel modo di comunicare i
 problemi di Internet e Censura.  
   
-
-
 Chiaramente le mie idee al limite dell'anarchia per quanto riguarda la
 neutralità della rete e la intrinseca libertà delle informazioni in
 essa contenute ben poco si conformano alla morale di protezionismo di

@@ -1,9 +1,8 @@
 --- 
 layout: post
+status: ok
 title: "E se Gesù Cristo non fosse mai esistito?"
 meta: 
-  _edit_last: "1"
-  autometa: "ges\xC3\xB9 cristo non esiste mitra sol invictus culto setta anticristianesimo natale"
 tags: 
 - digital-freedom
 - paranoia
@@ -17,7 +16,6 @@ Basato sul libro di Tom Harpur, il documentario che vi propongo in coda e che si
 Durante le sue lunghe e dettagliate ricerche, Harpur ha scoperto che il Nuovo Testamento non solo è basato interamente sulla mitologia Egizia (tra parentesi, anche Osiride muore e risorge il terzo giorno), non solamente che **Gesù non è mai esistito**, ma che, in effetti, il testo è stato composto per essere letto solo ed esclusivamente in chiave allegorica.  
   
 E che Cristo non sia mai esistito è una ipotesi **sicuramente [non nuova](http://www.nobeliefs.com/exist.htm)**. D'altra parte gli unici documenti che lo citano sono
-
 * Tacitus (56-117 AD) - "Annals"
 * Josephus - "Antiquities"
 * Seutonius - "Twelve Caesars"
@@ -35,4 +33,4 @@ Errore che ha fatto sì che l'intera Cristianità stia combattendo con i propri 
 Una visione estremamente interessante per capire, cercare, comprendere.  
 E ancora una volta, non sono qui per **convincervi**, ma solamente per **farvi riflettere**.  
   
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/58JyacWEFbE&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/58JyacWEFbE&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object> 
+{% youtube 58JyacWEFbE %}

@@ -1,9 +1,8 @@
 --- 
 layout: post
+status: ok
 title: "Wireless Gratis in Parco Sempione a Milano: tanto fumo e nulla contenuto"
 meta: 
-  article: "1"
-  autometa: milano wireless moratti parco sempione guglielmo wifi wifi-milano castlewireless castle wireless castello
 tags: 
 - digital-freedom
 - security
@@ -15,19 +14,16 @@ Perfetto! Siamo grandi, siamo fighi, siamo cazzuti e abbiamo Internet Wireless. 
   
 Ovviamente ricordatevi che stiamo parlando non di **reporter** ma di **giornalisti** e quindi permettetemi un po' di **sana diffidenza**. Non parliamo di tecnici ma di giornalisti e dubito proprio che nessuno si sia recato sul posto per vedere se ESISTE un servizio di questo tipo.  
   
-
-
 E quindi? Avevo già [parlato di wireless a Milano]() e insieme alla cara Delymyth, al buon Wolly e Marco Massarotto ci ritroviamo a Milano e dopo una capatina salutista a Burger King ci rechiamo direttamente a provare.  
 L'odissea inizia cercando dove ricevere le buone tessere di navigazione. Certo si parla nel comunicato della **Palazzina Liberty**, ma ovviamente non esiste nessuno stand. Riusciamo a farci dire che all'interno della **Triennale** ci *dovrebbe essere* la possibilità di ricevere le fantomatiche tessere e dopo una mezzoretta di ricerca notiamo in un angolo imposcato un cartello in **formato A5** che monta un link Wi-Fi. Wolly pubblicherà le fotografie e vi assicuro che è effettivamente impossibile da scovare.  
   
 Trovate le tessere e lette le istruzioni ci si guarda attorno e si legge che è necessario:
-
 * Connettersi all'access point "Guglielmo".  
 * Accedere a 1.1.1.1
 * Loggarsi  
   
 Scusate la **diffidenza** ma arrivo con il Mac e proviamo. Effettivamente c'è un bell'access point di nome *Guglielmo* e mi connetto senza troppi problemi... Per poi essere scollegati dopo pochi secondi.  
-Già, perchè l'access point sembra avere notevoli difficoltà ad accettare anche solo UNA connessione.  
+Già, perché l'access point sembra avere notevoli difficoltà ad accettare anche solo UNA connessione.  
   
 Ma tentiamo e ritentiamo e vediamo cosa accade. Miracolosamente mi ritrovo a dopo una trentina di tentativi ad essere collegato! Tripudio e gaudio! Andiamo a vedere cosa succede.  
 Proviamo a risolvere un dominio e vediamo che il DNS funziona correttamente. Fantastico! Aprimao Firefox e nulla. Niente. Nisba. Nada.  

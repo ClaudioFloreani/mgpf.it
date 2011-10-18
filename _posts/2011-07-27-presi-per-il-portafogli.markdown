@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Presi per il portafogli
 meta: 
 tags: 
@@ -16,9 +17,7 @@ E la [IFIPI][4] in UK sembra che abbia [recepito i nostri pensieri][2], o almeno
 > The announcement confirms PayPal's commitment to "fighting music piracy" said Carl Scheible, managing director of PayPal UK.  
   
 Ora va capito come e se si applica la stessa filosofia in Italia.  
-
 P.S. Sono tornato...
-
 [1]: http://blog.quintarelli.it/
 [2]: http://www.out-law.com/default.aspx?page=12112&lang=en-gb
 [3]: https://cms.paypal.com/uk/cgi-bin/?cmd=_render-content&content_ID=ua/AcceptableUse_full&locale.x=en_GB

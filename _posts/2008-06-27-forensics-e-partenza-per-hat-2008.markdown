@@ -1,15 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Forensics e partenza per HAT2008
 meta: {}
 tags: 
-- ccc
 - hacking
-- hat
-- hat2008
 - about-me
-- meeting
-- security
 ---
   <a href="http://www.flickr.com/photos/37996580043@N01/2182059775/" title="With this screwdriver bit set... I can take apart the universe" target="_blank"><img src="http://farm3.static.flickr.com/2303/2182059775_35e4f08b4d.jpg" alt="With this screwdriver bit set... I can take apart the universe" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/37996580043@N01/2182059775/" title="chrismetcalf" target="_blank">chrismetcalf</a></small>
@@ -34,5 +30,4 @@ E, ovviamente, come posso mancare, **minchionazzo**? :)
 A Lunedì!  
   
 [1]: http://www.hackthis.info/  
-
  

@@ -13,14 +13,12 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-74632-8']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
   </head>
   <body>
     <header>
@@ -38,12 +36,9 @@
       <h2 id="intro">E se l'FBI controllasse (e aprisse) tutte le connessioni cifrate?</h2>
 <article class="post">
 <p><a href="http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg"><img src="http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg" alt="" title="2962194797_06b1dc08ac" width="500" height="333" class="aligncenter size-full wp-image-2309" /></a></p>
-
-<p>Incredibilmente combatto contro la mia proverbiale pigrizia nello scrivere su questo Blog perchè c&rsquo;è qualcosa di interessante da dire.<br />
+<p>Incredibilmente combatto contro la mia proverbiale pigrizia nello scrivere su questo Blog perché c&rsquo;è qualcosa di interessante da dire.<br />
 No, non parlo di Wikileaks <strong>(ma se vi interessa la cosa questo Sabato sarò a Salerno <a href="http://www.aipsa.eu/visuaEvento.aspx?id=46">ad una conferenza</a> sul tema)</strong>, ma di <a href="http://marc.info/?l=openbsd-tech&amp;m=129236621626462&amp;w=2">una mail</a> passata sulla Mailing List interna del progetto OpenBSD. Una mail assoutamente inquietante a firma nientemeno di <a href="http://en.wikipedia.org/wiki/Theo_de_Raadt">Theo de Raadt</a>, fondatore e leader di OpenBsd.  </p>
-
 <p><a href="http://marc.info/?l=openbsd-tech&amp;m=129236621626462&amp;w=2">La mail</a> è l&rsquo;inoltro alla mailing list di una comunicazione giunta a Theo da parte di <a href="http://en.wikipedia.org/wiki/Greg_Perry">Greg Perry</a> e recita quanto segue:</p>
-
 <blockquote>
   <p>Long time no talk.  If you will recall, a while back I was the CTO at
 NETSEC and arranged funding and donations for the OpenBSD Crypto
@@ -66,20 +61,13 @@ This is also why several inside FBI folks have been recently
 advocating the use of OpenBSD for VPN and firewalling implementations
 in virtualized environments (&hellip;).</p>
 </blockquote>
-
 <p>In altre parole: Greg sottolinea come nel corso degli anni l&rsquo;FBI abbia pagato sviluppatori che hanno lavorato alla parte del sistema OpenBSD responsabile della gestione della crittografia (<a href="http://www.openbsd.org/crypto.html">OpenBSD Crypto
 Framework</a>) con il fine esplicito di implementare all&rsquo;interno dello stesso processi o funzioni per decifrare i contenuti cifrati da questo componente di base del sistema operativo, in pratica creando sistemi paralleli di recupero delle chiavi.  </p>
-
 <p>Per rendere la cosa più chiara: ogni connessione cifrata e/o operazione di cifratura implementata su OpenBSD fa riferimento all&rsquo;OCF e sarebbe quindi vulnerabile ad attacchi da parte delle realtà di controllo, FBI in primis.  </p>
-
-<p>La mail continua anche a dare dettagli, dicendo esplicitamente che il motivo per cui molti consulenti &ldquo;al soldo&rdquo; dell&rsquo;FBI stanno consigliando l&rsquo;utilizzo di OpenBDS è proprio perchè se qualunque sistema usa OpenBSD diviene anche quando si tutela con crittografia perfettamente intercettabile, contro il volere dell&rsquo;installatore ed utilizzatore.  </p>
-
+<p>La mail continua anche a dare dettagli, dicendo esplicitamente che il motivo per cui molti consulenti &ldquo;al soldo&rdquo; dell&rsquo;FBI stanno consigliando l&rsquo;utilizzo di OpenBDS è proprio perché se qualunque sistema usa OpenBSD diviene anche quando si tutela con crittografia perfettamente intercettabile, contro il volere dell&rsquo;installatore ed utilizzatore.  </p>
 <p>OpenBSD è utilizzato in modo massivo, ad esempio, per la creazione di sistemi di VPN (Virtual Private Network). Una azienda o una organizzazione implementa infatti sistemi di VPN quando non vuole che i dati siano liberamente intercettabili, ma con una tecnologia come questa (nel caso le ipotesi si rivelassero reali) sarebbe una mossa assolutamente inutile: tutte le cifrature avrebber, infatti, una &ldquo;backdoor&rdquo;, una porta sul retro da cui un utente con le giuste conoscenze può entrare e decifrare comunque, in barba alle chiavi impostate, ogni comunicazione.  </p>
-
 <p>OpenBsd non solamente è implementato in centinaia di migliaia di server al mondo, ma la licenza particolare del sistema operativo ne consente l&rsquo;utilizzo (anche tacito) all&rsquo;interno di dispositivi hardware di terze parti. Non è possibile quindi sapere, nel caso le voci vengano confermate, la reale estensione del fenomeno: il router che usate in azienda potrebbe, infatti, essere null&rsquo;altro che una appliance linux che monta OpenBSD a vostra insaputa (vista la nota stabilità del sistema) e potreste quindi essere vulnerabili anche senza saperlo.  </p>
-
 <p>Theo non ha ancora preso particolari precauzioni, ma ha divulgato la mail alla mailing-list, così da potere, nelle sue parole:  </p>
-
 <blockquote>
   <p>The mail came in privately from a person I have not talked to for
 nearly 10 years.  I refuse to become part of such a conspiracy, and
@@ -89,13 +77,8 @@ making it public so that<br />
     (b) those that are angry at the story can take other actions,
     (c) if it is not true, those who are being accused can defend themselves.</p>
 </blockquote>
-
 <p>Ne parla anche <a href="http://www.itwire.com/opinion-and-analysis/open-sauce/43933-developer-claims-fbi-implemented-backdoors-in-openbsd">ItWire</a>, tra l&rsquo;altro&hellip;  </p>
-
 <p>Staremo a vedere, ma nel frattempo, al solito, estote parati&hellip;</p>
-
-
-
 <h2>Articoli (forse) correlati</h2>
 <ul>
   
@@ -110,7 +93,6 @@ making it public so that<br />
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
   
 </ul>
-
 <h2>Articoli recenti</h2>
 <ul class="posts small">
 	
@@ -125,7 +107,6 @@ making it public so that<br />
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
 	
 </ul>
-
 <time class="signoff" datetime="2010-12-15">
   15/12/2010 con tag:
 	
@@ -139,7 +120,6 @@ making it public so that<br />
 	
 </time>
 </article>
-
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'mgpf';
@@ -150,7 +130,6 @@ making it public so that<br />
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-
       <footer id="footer">
         
         <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">

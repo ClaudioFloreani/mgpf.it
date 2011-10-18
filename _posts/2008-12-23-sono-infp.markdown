@@ -1,13 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Sono INFP
 meta: {}
 tags: 
-- io
-- jung
 - about-me
 ---
-Ecco ir risultati del test secondo il test di Meyers Briggs.  
+Ecco i risultati del test secondo il test di Meyers Briggs.  
 Mai nella vita ho visto un profilo così attinente...  
   
 **Name:** Questor, Crusader/Monastic (1%)  

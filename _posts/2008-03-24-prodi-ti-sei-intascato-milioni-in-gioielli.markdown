@@ -1,21 +1,15 @@
 --- 
 layout: post
+status: ok
 title: Prodi, ti sei intascato milioni in gioielli?
 meta: {}
-
 tags: 
-- chiocci
-- concussione
-- digital-freedom
-- furto
-- gioielli
-- prodi
+- weird
 ---
 <a href="http://www.flickr.com/photos/22832743@N00/94607051/" title="" target="_blank"><img src="http://farm1.static.flickr.com/37/94607051_f52e08412a.jpg" alt="" border="0" /></a>  
 <small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/mafic/" title="mafic" target="_blank">mafic</a></small>  
   
 Leggo con sommo sdeglio [questo articolo](http://www.ilgiornale.it/a.pic1?ID=249873) *(grassetti miei)*:  
-
 > Con unampia e documentata inchiesta Il Giornale ha posto ieri un interrogativo che senza dubbio alcuno è di grande interesse nellItalia dei privilegi, della lentezza amministrativa, del disordine di Stato, degli scaricabarile. Linterrogativo, ridotto allessenziale, era questo: dove e come sono custoditi i donativi che la Presidenza del Consiglio riceve? Linterrogativo sarà stato magari formulato in forma impertinente, come accade nel giornalismo che non vuol essere sempre alla camomilla. Ma sulla sua legittimità non si dovrebbe discutere.  
 > Oltretutto, linchiesta di Gian Marco Chiocci prendeva spunto proprio da uniniziativa - doverosamente registrata e meritoria - di Prodi. Il quale poco prima di Natale aveva ovviato al vuoto normativo esistente in Italia su questo problema con un apposito decreto. > Esso stabilisce che **qualsiasi regalo «di rappresentanza» superiore ai 300 euro debba essere affidato ad un ufficio ad hoc. Se il destinatario se lo vuole tenere deve pagare la differenza fra i trecento euro e il valore effettivo**. Visto che la novità aveva un indubbio valore simbolico oltre che monetario, visto che spesso e volentieri le novità fastidiose sono lasciate cadere nel dimenticatoio, era poi così stravagante e insolente il voler sapere come avesse avuto attuazione?  
 > Per questa elementare verifica - utile ai cittadini - sè mosso Gian Marco Chiocci, interpellando personaggi di vario rango - ma in generale altolocati - che presumeva potessero chiarirgli le idee. Il suo itinerario nel labirinto burocratico lha portato a due conclusioni. 1) Pare che nessuno, né in alto né in basso loco, sapesse esattamente dove fossero finiti i regali; 2) il locale, appositamente blindato, nel quale si prevedeva venissero riposti, era vuoto. Sul che, da buon cronista, Gian Marco Chiocci ha esaurientemente riferito.  

@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Matt Mullenweg, Wordpress e un po' di fotografie
 meta: {}
 tags: 

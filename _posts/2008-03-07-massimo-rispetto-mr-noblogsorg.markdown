@@ -1,16 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Massimo rispetto, Mr. NoBlogs.org
 meta: {}
-
 tags: 
-- autistici
-- inventati
-- "libertà"
-- about-me
-- noblogs
+- digital-freedom
 - paranoia
-- tracciamento
 ---
 ![](http://www.lastknight.com/download/screencast_001.thumbnail.jpg)
 Non credo che i ragazzi di Autistici e, nella fattispecie quelli di loro che gestiscono NoBlogs.org, sarebbero **felici** di sapere la **mia ammirazione per i loro servizi**. Non so nemmeno se sanno che spesso nei miei talk sulla Censura **consiglio vivamente** di [finanziare il progetto](http://www.autistici.org/it/join/donate.html), ma poco importa. Sono dei **fanatici** e soprattutto dei **rivoluzionari del web**.  
@@ -35,6 +30,3 @@ Che dire?
 Che forse chi utilizza sistemi di tracciatura su dei server **per definizione non traccianti** , chi vuole **guadagnare con AdSense** su una struttura di blog **gratuita e donata**, chi non capisce questi concetti e altri similari, forse non **si merita** il dono della libertà. Davvero.  
   
 Forza ragazzi, **avanti così**. E chi vuole può [dare una mano](http://www.autistici.org/it/join/donate.html).
-  
-
- 

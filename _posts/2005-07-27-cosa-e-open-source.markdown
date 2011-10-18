@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: "Cos'è l'Open Source?"
 meta: {}
 tags: 

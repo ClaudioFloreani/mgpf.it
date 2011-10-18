@@ -1,9 +1,10 @@
 --- 
 layout: post
+status: ok
 title: "Google Applications è Offline..."
 meta: {}
 tags: 
-- about-me
+- weird
 ---
 <img src="http://www.lastknight.com/download//2009/05/gmail_down-368x300.jpg" alt="gmail_down" title="gmail_down" width="368" height="300" class="aligncenter size-medium wp-image-1484" />  
   

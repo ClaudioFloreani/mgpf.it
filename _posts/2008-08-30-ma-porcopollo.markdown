@@ -19,6 +19,6 @@ E scoprire che è morto il server del provider...  Son cose.... -_-
   
 E nel frattempo, mentre parte la seconda macchina, trovarsi online un [amico cazzone](http://www.alcooland.it) che vi fa vedere cosa guarda la figlioletta alle 8 e mezza del mattino:  
   
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/T5anNGLrHBU&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/T5anNGLrHBU&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
+{% youtube T5anNGLrHBU %} 
   
 Ora: non so se sbellicarmi, mandarlo a spigare o tornare a dormire... :) 

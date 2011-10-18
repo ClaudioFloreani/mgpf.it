@@ -17,7 +17,6 @@ E così questa volta è ora di un [Advisory](http://lists.grok.org.uk/pipermail/
 L'[Advisory](http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html), inviato sulla nota lista Full-Disclosure contiene **istanze multiple di problematiche XSS** ma anche interessanti risvolti su **SQL Injection**.  
   
 Esaminiamo le singole vulnerabilità una ad una, lasciando al [documento](http://lists.grok.org.uk/pipermail/full-disclosure/2007-March/053247.html) la spiegazione precisa:
-
 1. **XSS redirector**: Mediante un opportuna pagina configurata è possibile **redirigere l'utente** ad una pagina arbitraria e carpire al contempo il **nome utente**. In questo modo i tentativi di Phishing sono di sicuro impatto poiché possono facilmente contenere anche la c**redenziale di username** della persona.  (*Rosario*)
 2. **XSS Redirector**: Come sopra ma con **script arbitrari** eseguiti direttamente da **una URL**. Ancora più semplice da utilizzare in modo fraudolento. (*LK*)
 3. **SQL Validation**: Errore di Open Query che conduce agevolmente a **SQL Injection**. Per ovvi problemi legali non è stata approfondita la ricerca ma provate a pensare a che tipo di dati contiene un DB come quello Oracle di Infostrada...  

@@ -1,14 +1,11 @@
 --- 
 layout: post
+status: ok
 title: "Sabato 7: 10 minuti di censura a Trani"
 meta: {}
 tags: 
-- abuso di minori
-- censura
-- ibld
 - about-me
-- pedofilia
-- wu-ming foundation
+- talk
 ---
 Ancora in **convalescenza** e ringraziando tutti quelli che mi hanno **subissato di mail** e di SMS mentre ero in Ospedale un brave flash per ci si trova **dall'altro lato dell'impero** e vuole venire a sentirmi parlare.  
   
@@ -26,5 +23,4 @@ Ovviamente il tutto farà parte del prossimo episodio di Casa LastKnight...
 Sempre che mi lascino domattina prendere il mio aereo da Linate col Manfrotto al seguito ;)  
   
  
-
 [1]: http://www.temadistudionazionalelions.org/index.php?option=com_content&task=view&id=13&Itemid=1 

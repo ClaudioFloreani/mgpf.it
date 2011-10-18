@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Riecco il Golf!
 meta: {}
 tags: 

@@ -1,22 +1,13 @@
 --- 
 layout: post
+status: ok
 title: "Hackers: Santi Criminali"
 meta: {}
-
 tags: 
 - about-me
-- cracking
-- disclosure
-- full-discloure
-- hacker santi criminali
-- hacker's manifesto
-- hacking
-- half-disclosure
-- lastknight
-- matteo flora
-- security
+- talk
 ---
-<object type="application/x-shockwave-flash" width="535" height="438" data="http://www.vimeo.com/moogaloop.swf?clip_id=752259&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=752259&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef" /></object>  
+{% vimeo 752259 %}
   
 Il [15 Dicembre][1] a Como, all'interno della **Università della Insubria** ho tenuto [una conferenza][1] dal titolo **"Hackers: Santi Criminali - Il problema della Disclosure"**.  
 Delle persone presenti molte mi hanno chieste **se non ve ne fosse una versione online** visto che avevano notato che, come faccio spesso per autovalutazione, **avevo registrato** con una macchina digitale tutto l'intervento.  
@@ -29,8 +20,5 @@ Buona visione online o, se volete scaricarlo, cliccate [qui](http://www.vimeo.co
   
 Ed inoltre eccovi le slide:  
   
-
-
 [1]: http://www.lastknight.com/2007/12/15/hackers-santi-criminali-il-problema-della-disclosure-in-italia/
-
  

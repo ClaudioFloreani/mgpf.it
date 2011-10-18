@@ -1,18 +1,10 @@
 --- 
 layout: post
+status: ok
 title: DaringToDo, la filosofia del fare
 meta: {}
 tags: 
-- daring to do
-- DaringToDo
-- digital-freedom
-- facebook
-- gruppo facebook
-- menelaw sete
-- mg-art
-- mgart
-- security- the fool
-- the-fool
+- awesome
 ---
 <a href="http://daringtodo.com"><img src="http://www.lastknight.com/download//2008/11/daring_001-481x300.jpg" alt="" title="daring_001" width="481" height="300" class="aligncenter size-medium wp-image-1164" /></a>
   

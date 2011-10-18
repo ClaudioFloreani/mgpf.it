@@ -13,7 +13,7 @@ Le slide saranno a breve disponibili sul sito di Sikurezza.org e il filmato (se 
   
 Per il resto vorrei ringraziare in ordine sparso:  
   
-* L'amico Rebus perchè senza di lui buona parte delle slide non esisterebbero. Inoltre si è rivelato spalla invidiabile durante la manifestazione, oltre che ottimo (speriamo) cameraman!
+* L'amico Rebus perché senza di lui buona parte delle slide non esisterebbero. Inoltre si è rivelato spalla invidiabile durante la manifestazione, oltre che ottimo (speriamo) cameraman!
 * Sikurezza.org per lo spazio concessomi
 * Tutti i ragazzi del M1S3c per il supporto ;)
 * I membri di AIP ed OPSI presenti (*Alessandro Frillici, Paolo Giardini, Alex Visintini, Pierlorenzo Castrovinci, Nicola, etc...*)

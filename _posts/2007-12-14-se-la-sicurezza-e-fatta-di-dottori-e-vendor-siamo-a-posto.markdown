@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: "Se la sicurezza è fatta di Dottori e Vendor siamo a posto..."
 meta: {}
 tags: 

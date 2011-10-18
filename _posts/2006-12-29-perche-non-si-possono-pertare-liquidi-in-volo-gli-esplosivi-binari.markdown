@@ -18,19 +18,16 @@ Il problema principale dei detonanti binari è la loro **estrema potenza** che f
 Eccone un esempio in cui mi sono imbattuto oggi proprio di Google Video mentre effettuavo qualche ricerca su metodologie di hacking:  
   
 <embed style="width:450px; height:350px;" id="VideoPlayback" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docId=6229512773940934022&hl=en" flashvars=""> </embed>
-
-Il detonatore utilizzato è un **semplice accendino** e la dimensione dell'ordigno fanno facilmente intuire il perchè di tanta paura negli organi di controllo aeroportuale.  
+Il detonatore utilizzato è un **semplice accendino** e la dimensione dell'ordigno fanno facilmente intuire il perché di tanta paura negli organi di controllo aeroportuale.  
   
 Mi piacerebbe vedere un video come questo proiettato in una serie di aeroporti italiani per il duplice motivo di aumentare lo zelo e sedare le stupide lamentele delle persone in coda.  
 Non più tardi di un mese fa il mio ultimo volo è stato infatti contraddistinto da due atteggiamenti: **le bestemmie di chi mi precedeva** in coda che non avrebbe potuto portare a bordo la sua bottiglietta di succo di mirtillo ed i controlli che mi hanno lasciato nel bagaglio a mano senza rilevarlo il **Victorinox da 9 centimetri di lama** che avevo scordato di lasciare a casa.  
   
 Dubbi, dubbi e forse ancora dubbi... Dubbi che si inaspriscono ancora di più quando l'amico **Gabriele Picchi** mi scrive in mail:
-
-> Io ho iniziato ridendoci su e cercando di spiegare a mia figlia (che l'ultima volta ha pianto perchè il tizio le ha buttato la bottiglietta di minerale vuota con la quale lei voleva continuare a giocare) che quelli che tolgono le cose al papà sono cattivi e babbo natale non gli porta nulla come regalo (ma ora devo trovarmi una scusa adeguata al calendario)  
-> Come si fa a spiegare ad una bimba di neanche due anni perchè **quel tizio butta via la sua bottiglietta** di plastica (VUOTA) che fa quel rumore **tanto divertente quando la schiacci**?  
+> Io ho iniziato ridendoci su e cercando di spiegare a mia figlia (che l'ultima volta ha pianto perché il tizio le ha buttato la bottiglietta di minerale vuota con la quale lei voleva continuare a giocare) che quelli che tolgono le cose al papà sono cattivi e babbo natale non gli porta nulla come regalo (ma ora devo trovarmi una scusa adeguata al calendario)  
+> Come si fa a spiegare ad una bimba di neanche due anni perché **quel tizio butta via la sua bottiglietta** di plastica (VUOTA) che fa quel rumore **tanto divertente quando la schiacci**?  
   
 Gabriele, io la risposta non l'ho e soprattutto sono una di quelle persone che gira Milano in bicicletta e che potendo non saprebbe nemmeno cos'è un aeroplano.  
 Aspetto trepidante il momento in cui sarà vietato salire su un aeromobile se non completamente nudi, così da fare la fila dietro solo ed esclusivamente meravigliose fanciulle...  
 Prendiamola sul ridere come fai tu, ci conviene!
-
 P.S. [Qui](http://www.newsland.it/nr/browse/it.scienza.chimica/7123.html) una serie di commenti a critica dell'articolo e a sostegno dell'ipotesi che il filmato sia una baggianata... A voi (e Wikipedia, e altre 1000 fonti) decidere autonomamente... 

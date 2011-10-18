@@ -6,7 +6,6 @@ tags:
 - about-me
 ---
 [![CCC Camp 2007: Italian Grappa!](http://www.lastknight.com/download/zen.thumbnail.jpg)](http://www.lastknight.com/download/zen.thumbnail.jpg)
-
 Rinchiuso nel mio piccolo paradiso personale in quel di Domodossola e con una connessione che DOVREBBE essere HDSPA a 300kb/s ma che in realtà rosica in GPRS solamente un misero 38kb/s mi sono svegliato stamane con una lettera dell'amico Marco Calamari che avvisava del fatto che sulle pagine di Cassandra Crossing avrebbe [ripercorso il viaggio](http://punto-informatico.it/p.aspx?i=2056016&p=1) di **noi tutti sciamannati** italiani al CCC Camp 2007 con un articolo dal titolo emblematico "[CC al CCC](http://punto-informatico.it/p.aspx?i=2056016&p=1)". 
  
   

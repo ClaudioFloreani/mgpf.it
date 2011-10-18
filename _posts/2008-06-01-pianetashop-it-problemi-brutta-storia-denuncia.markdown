@@ -1,23 +1,10 @@
 --- 
 layout: post
+status: ok
 title: "PianetaShop.it: una gran brutta storia..."
 meta: {}
 tags: 
-- bad review
-- causa
-- customer care
-- legale
-- Mar.Pag.
-- Mar.Pag. On Line S.r.l.
-- pacco non arrivato
-- pianetashop
-- pianetashop.it
-- problematiche
-- problematico
-- problemi
-- recensione
-- review
-- security
+- weird
 ---
 <a href="http://www.flickr.com/photos/41894175230@N01/31688828/" title="My IXUS Is Dead" target="_blank"><img src="http://farm1.static.flickr.com/23/31688828_6f01e3f87a.jpg" alt="My IXUS Is Dead" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/41894175230@N01/31688828/" title="JackSim" target="_blank">JackSim</a></small>  
@@ -49,7 +36,7 @@ E, a breve tempo, appare come al solito **l'addetto PR della società**, in ques
   
 Per quanto **assurdo ed idiosincratico** possa sembrare le parole dello stimato **webmaster e programmatore della Mar.Pag. On Line S.r.l.** dice testualmente (grassetto mio):  
   
-> Lunedi **contatteremo il nostro legale** per capire se è possibile prendere dei provvedimenti, perchè mi pare si sia **superato ogni limite di libera espressione**.  
+> Lunedi **contatteremo il nostro legale** per capire se è possibile prendere dei provvedimenti, perché mi pare si sia **superato ogni limite di libera espressione**.  
   
 Complimenti, **Mar.Pag. On Line S.r.l.**, ottima strategia di Marketing. Se tutto va bene ok, se non va bene **denunciamo chiunque parli male**. Avete proprio capito tutto del Web, mi sembra.  
   

@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "CriticalMass Milano di Gioved\xEC 15 Febbraio 2007"
+title: "CriticalMass Milano di Giovedì 15 Febbraio 2007"
 meta: {}
 tags: 
 - digital-freedom

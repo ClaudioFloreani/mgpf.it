@@ -1,14 +1,9 @@
 --- 
 layout: post
-title: QUalche fotografia da IISFA CyberCop 2008
+status: ok
+title: Qualche fotografia da IISFA CyberCop 2008
 meta: {}
 tags: 
-- alessandro
-- Andrea Ghirardini
-- cybercop 2008
-- Davide Gabrini
-- iisfa cybercop
-- matteo flora
 - about-me
 ---
 Qualche altro momento fotografico direttamente dal concorso:  

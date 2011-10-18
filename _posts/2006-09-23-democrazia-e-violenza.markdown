@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Democrazia e violenza
 meta: {}
 tags: 

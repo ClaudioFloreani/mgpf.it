@@ -1,9 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Moderazione automatica e redirezione
 meta: {}
 tags: 
 - about-me
+- digital-freedom
 ---
 Direi che ora che lo sciame dei grillini è passato posso tornare alla moderazione normale...  
   
@@ -39,6 +41,4 @@ Ok, tutto qui, spero vi siate tecnicamente divertiti :)
 Si ritorna alla normale coda di moderazione manuale sino alla prossima volta!  
   
   
-
-
 [1]: http://www.7yearwinter.com/2007/12/i-blog-smascherano-repubblica-e-libero-hanno-linkato-la-merda/ 

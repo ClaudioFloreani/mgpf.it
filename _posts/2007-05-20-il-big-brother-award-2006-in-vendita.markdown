@@ -6,7 +6,6 @@ tags:
 - digital-freedom
 ---
 ![BBA Award 2006](http://www.lastknight.com/download/20070520_bba.JPG)
-
 Alla fine di E-Privacy 2007 arriva il momento atteso da tanti della [vendita dei premi](http://cgi.ebay.it/Premio-Big-Brother-Award-Italia-2006-Bocca-a-Stivale_W0QQitemZ120122309836QQihZ002QQcategoryZ35716QQssPageNameZWDVWQQrdZ1QQcmdZViewItem) non ritirati l'anno precedente su [E-Bay](http://cgi.ebay.it/Premio-Big-Brother-Award-Italia-2006-Bocca-a-Stivale_W0QQitemZ120122309836QQihZ002QQcategoryZ35716QQssPageNameZWDVWQQrdZ1QQcmdZViewItem).  
   
 > l Premio [Big Brother Award Italia 2006](http://bba.winstonsmith.info) "**Bocca a Stivale**" che viene messo in vendita e' quello vinto nel 2006 da **Enzo Mazza** (Presidente della F.I.M.I. - **Federazione Industria Musicale Italiana**) ed all'epoca non ritirato dall'interessato.

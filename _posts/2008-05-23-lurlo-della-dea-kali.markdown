@@ -1,16 +1,10 @@
 --- 
 layout: post
+status: ok
 title: L'urlo della Dea Kali
 meta: {}
 tags: 
-- blackberry
-- censura
-- crittografia
 - digital-freedom
-- india
-- paranoia
-- privacy
-- rim
 ---
 <a href="http://www.flickr.com/photos/30742298@N00/1025724498/" title="Red Oracles in Trance !" target="_blank"><img src="http://farm2.static.flickr.com/1373/1025724498_edb32ce2c7.jpg" alt="Red Oracles in Trance !" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/30742298@N00/1025724498/" title="ezee as hell.....internet down....." target="_blank">ezee as hell.....internet down.....</a></small>  

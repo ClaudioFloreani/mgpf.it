@@ -1,15 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Di corsa, paure e cambiamenti
 meta: {}
 tags: 
-- corsa
-- io
-- life
 - lifehacking
 - about-me
-- motivation
-- Zen &amp; Photo
 ---
 Ogni tanto, avete imparato a saperlo se siete lettori affezionati, in mezzo alla marea di vaccate ed alle informazioni tecniche di lavoro trovate anche scorci del Matteo che sta dietro a LastKnight. Se ci pensate bene dovreste ricordarne per lo meno due...  
   
@@ -22,7 +18,7 @@ Non ce la faccio, semplicemente. Non ho fiato, non ho allenamento e dopo il quin
   
 Ieri sera, poi, ho visto questo:  
   
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/obdd31Q9PqA&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/obdd31Q9PqA&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
+{% youtube obdd31Q9PqA %} 
   
 E mi sono detto: se ce la faccio a fare quello che non sono mai riuscito a fare e che mi ha sempre terrorizzato, allora tutto il resto diventa possibile. Davvero. Devo crederci. Devo mettermi in gioco, in un anno che ha visto la mia vita cambiare totalmente. Eccheddiamine!  
     
@@ -39,7 +35,5 @@ Ora, per le prossime 9 settimane potrete [seguirmi][2] in tutte le disavventure 
   
 E vediamo se stavolta se siamo fatti di molle [materia organica anfibia](http://www.dejatv.it/2008/02/03/siete-solo-degli-esseri-informi-di-materia-organica-anfibia-comunemente-detta-merda-sergente-istruttore-hartman-full-metal-jacket/) o di qualcosa di differente. Combattere i propri incubi fa sempre bene: quando quelli spariscono, il resto diventa **una banalità**...  
   
-
-
 [1]: http://www.lastknight.com/2008/02/29/iniziare-a-correre-per-informatici-e-blogger-sedentari/
 [2]: http://nikeplus.nike.com/nikeplus/?l=runners,runs,204068311, 

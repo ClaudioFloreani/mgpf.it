@@ -1,21 +1,14 @@
 --- 
 layout: post
+status: ok
 title: Omaggio a Star Wars a Cappella...
 meta: {}
 tags: 
-- canto
-- capella
-- cappella
-- guerre stellari
-- about-me
-- parodia
-- star wars
-- starwars
-- voce
+- awesome
 ---
 Semplicemente geniale:  
   
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/lk5_OSsawz4&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/lk5_OSsawz4&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>   
+{% youtube lk5_OSsawz4 %}  
   
 Qui il [sito dell'autore][1] e nello stesso [i testi completi][2].  
   

@@ -10,7 +10,6 @@ tags:
 - security
 ---
 ![Fratini l'Hitler d'Italia](http://www.lastknight.com/download/20070912_furer.jpg)
-
 **Berlino, Maggio 1933.**  
 I nazisti **devastano le case editrici** che pubblicano volumi contro la "morale e l'ideologia" del Reich. Ma **non è il primo passo**, a dire la verità.  Infatti già dal Dicembre del 1932 viene pubblicato **l'elenco dei volumi** che non possono essere pubblicati, di cui non è consentita la vendita. Da lì in poi, ovviamente, il percorso è in discesa e dalla proibizione della vendita (che comunque era stata scavalcata dalla diffusione privata) si passa **alla punizione e distruzione della fonte**.  
   
@@ -25,7 +24,6 @@ Non c'è da scandalizzarsi! D'altronde è passato oltre mezzo secolo e sicuramen
 E qui inizia il bello...  A **Cercare**.  
   
 Già, perché nel **Quarto Reich d'Italia**, insediatosi pochi mesi or sono, il **Fr&ouml;hrer d'Italia** [Luigi Frattini parla a Reuters](http://www.reuters.com/article/internetNews/idUSL1055133420070910) (quando bisognerebbe chiedersi con che faccia ce lo abbiamo mandato e con che faccia viene intervistato dalla *"ritenevo prestigiosa"* agenzia) con parole encomiabili:  
-
 > I do intend to carry out a clear exploring exercise with the private sector... on how it is possible to use technology to prevent people from using or searching dangerous words like bomb, kill, genocide or terrorism".  
   
 Già. Chi **non conosce la storia** è destinato a fare gli stessi errori, ed il Fr&ouml;hrer d'Italia sembra proprio avesse valutazioni polari nella materia a giudicare dalle decisioni.  
@@ -35,7 +33,6 @@ E poi vedremo **bruciare i siti web** in piazza a Berlino, Roma o dove siano.
   
 Oltretutto la persona in questione è, oltre che liberticida, anche **ignorante** (in senso etimologico). Ok, dite voi, sono problemi suoi... Ma no, sono problemi anche nostri e vostri se non capite i concetti cardine del perché una censura di questo tipo oltre che liberticida è _**PERFETTAMENTE INUTILE**_.  
 Parlate un po' con persone che si occupino di **lotta alla pedofilia** e scoprirete che Google ANCORA sia utilizzato per la ricerca e la proposta di contenuti pedopornografici. Basta cambiare il Jargon. Un esempio? 
-
 * La parola **ragazza minorenne** è bloccata? Bene, usiamo **nimphette**!
 * La parola **child sex** è bloccata? Bene, usiamo **boy love**!  
   
@@ -48,7 +45,6 @@ Che fare? beh, aspetto che arrivi qualcuno dal governo a portarmi la **fascetta 
 Heil, Fr&ouml;hrer!
   
 **ADDENDUM**: Dimenticavo di aggiungere altre parole a quelle da bloccare:
-
 * Corruzione
 * Giustizia
 * Manifestazione

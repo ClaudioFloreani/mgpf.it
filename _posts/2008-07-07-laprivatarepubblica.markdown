@@ -1,17 +1,10 @@
 --- 
 layout: post
+status: ok
 title: LaPrivataRepubblica
 meta: {}
 tags: 
-- antille
-- aruba
-- berlusconi
-- deficienti
 - digital-freedom
-- intercettazioni
-- laprivatarepubblica
-- about-me
-- security
 ---
 <a href="http://www.flickr.com/photos/17878642@N00/232918534/" title="Aruba" target="_blank"><img src="http://farm1.static.flickr.com/89/232918534_2413a66c24.jpg" alt="Aruba" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/17878642@N00/232918534/" title="Salvatore88" target="_blank">Salvatore88</a></small>  

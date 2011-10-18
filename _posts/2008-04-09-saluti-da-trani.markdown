@@ -1,13 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Saluti da Trani
 meta: {}
 tags: 
-- cartolina
-- cattedrale
-- fotografie
 - about-me
-- trani
+- talk
 ---
 Trani. Perla del mediterraneo. Cattedrale che si staglia tra terra, mare, cielo.  
 Il castello in atmosfere magiche...  

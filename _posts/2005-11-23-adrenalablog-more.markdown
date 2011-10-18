@@ -1,8 +1,8 @@
 --- 
 layout: post
+status: ok
 title: Adrenalablog & more
 meta: {}
-
 tags: 
 - about-me
 ---

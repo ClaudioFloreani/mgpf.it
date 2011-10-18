@@ -1,21 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Iniziare a correre per Informatici e Blogger sedentari
 meta: {}
-
 tags: 
-- benessere
-- bloggerdicorsa
-- correre
-- correte con me
-- corsa
-- informatici
 - lifehacking
-- about-me
-- pigrizia
-- "sedentarietà"
-- sedentario
-- Zen &amp; Photo
 ---
 <a href="http://www.flickr.com/photos/79203469@N00/15298949/" title="" target="_blank"><img src="http://farm1.static.flickr.com/12/15298949_1e5094bb64.jpg" alt="" border="0" /></a>  
 <small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/luiginter/" title="luiginter" target="_blank">luiginter</a></small>  
@@ -23,7 +12,7 @@ tags:
 Totalmente OT *(è un periodo un po' così, scusate)* comunico al mondo in una sorta di **sputtanamento generale** che da oggi ho iniziato a correre.  
 Sapendo bene la mia **costanza** e la mia **determinazione** (l'abbonamento in palestra è lì e in 12 mesi ci sono andato 2 volte) so già che senza una **Adeguata spinta** non ce la farò mai a continuare. E quindi mi **sputtano bellamente** sul blog, così che chiunque mi senta per e-mail e/o dal vivo possa chiedermi *"sei andato a correre?"* ed io non abbia modo di giustificarmi.  
   
-Perchè correre? Per prima cosa perchè da informatico passo troppo tempo **fermo alla scrivania** e quindi inattivo. Questo fa si che abbia **voglia di muovermi** (oltre all'utilizzo quotidiano della bicicletta) ma abbia il fiato di un **chiwawa senza polmoni**.  
+Perchè correre? Per prima cosa perché da informatico passo troppo tempo **fermo alla scrivania** e quindi inattivo. Questo fa si che abbia **voglia di muovermi** (oltre all'utilizzo quotidiano della bicicletta) ma abbia il fiato di un **chiwawa senza polmoni**.  
 Anzi, potrei anche provare a lanciare *il meme della corsa* (usiamo il tag **bloggerdicorsa** ?) e vedere chi mi segue da ZERO a Milano...  
   
 COme partire da zero? Ho preso ispirazione dalle indicazioni di **tre amici non webbici** che hanno seguito il metodo [from crouch to 5K][1] che praticamente insegna correre **da zero fino a 5km** in due mesi circa di allenamenti tre volte la settimana.  

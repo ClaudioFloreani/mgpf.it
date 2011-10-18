@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: "Internet NON è un luogo diverso"
 meta: {}
 tags: 

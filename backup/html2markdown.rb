@@ -2,9 +2,7 @@ require "rubygems"
 require "yaml"
 require "pp"
 require "hpricot"
-
 require File.join(File.dirname(__FILE__), "donwmark_it.rb")
-
 Dir.glob("./_posts/*") {|file|
   c = File.open(file).read
   b = c.split("---")

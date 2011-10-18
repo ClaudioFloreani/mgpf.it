@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Piccole rivoluzioni in casa Lastknight.com
 meta: {}
 tags: 

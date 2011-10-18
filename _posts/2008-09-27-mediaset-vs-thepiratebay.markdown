@@ -1,16 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Mediaset vs. ThePiratebay
 meta: {}
 tags: 
-- censura
 - digital-freedom
 - forensic
 - about-me
-- mediaset
-- quintarelli
-- security- thepiratebay
-- youtube
 ---
 <a href="http://www.flickr.com/photos/79145585@N00/383476178/" title="gavel" target="_blank"><img src="http://farm1.static.flickr.com/129/383476178_8fe0f5e767.jpg" alt="gavel" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/79145585@N00/383476178/" title="bloomsberries" target="_blank">bloomsberries</a></small>  
@@ -25,7 +21,7 @@ E così, anche oggi, Stefano Quintarelli [si chiede sul Blog][3] di questa cosa:
   
 Cè anche chi, e permettetemi qui una sonora risata leggendo, [lancia la sua personale crociata][4] contro una fantomatica sindrome da Robin Hood e contro una in-coerenza dettata da nullaltro che la grossa cantonata che lautore ha preso non conoscendo nè la questione, nè il diritto, nè probabilmente nulla di tecnico sulla vicenda.  
   
-Ma quando la gente mi attacca tendo a pensare che non sia per grassa ignoranza, ma semplicemente perchè non mi sono spiegato a sufficienza e, quindi, vediamo se riesco a spiegare un poco di questi paradossi.  
+Ma quando la gente mi attacca tendo a pensare che non sia per grassa ignoranza, ma semplicemente perché non mi sono spiegato a sufficienza e, quindi, vediamo se riesco a spiegare un poco di questi paradossi.  
    
 Non ho mai detto in nessuna parte della rete che ThePirateBay non stia commettendo illeciti o reati, ma solamente sto cercando di garantire ad un cittadino la possibilità di difesa senza censura.    
 Molti dimenticano che nel caso Mediaset vs. YouTube stavamo vedendo due enormi Corporate che combattevano sul piano delle licenze. Ambedue hanno un unico scopo: fare business.  

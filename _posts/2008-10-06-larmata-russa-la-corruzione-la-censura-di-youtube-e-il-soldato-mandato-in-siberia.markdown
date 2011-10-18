@@ -3,17 +3,7 @@ layout: post
 title: L'armata russa, la corruzione, la censura di YouTube e il soldato mandato in Siberia
 meta: {}
 tags: 
-- armata rossa
-- censura
 - digital-freedom
-- eminem
-- paranoia
-- putin
-- rap
-- russia
-- urss
-- Vitalij
-- youtube
 ---
 <a href="http://www.flickr.com/photos/59128780@N00/2548752837/" title="bolshakov in army (archive)" target="_blank"><img src="http://farm4.static.flickr.com/3170/2548752837_8838cabba2.jpg" alt="bolshakov in army (archive)" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/59128780@N00/2548752837/" title="bolshakov" target="_blank">bolshakov</a></small>
@@ -30,9 +20,8 @@ Ovviamente, però, da YouTube è sparito quasi subito. Che caso... Mi dicono ino
 Purtroppo, però, almeno per me rimaneva l'ostacolo della lingua, un rap in russo non è esattamente una cosa che ascolto tutti i giorni, quindi era un mistero quale realmente fosse il contenuto di detto video. C'era quasi da sospettare - visto l'istantanea spedizione del *regista* in Siberia - chissà quale machiavellica rivendicazione o accusa allo Stato. Niente di tutto ciò. Leggete con i vostri occhi la traduzione che mi è stata passata oggi in mail:  
   
   
-<object type="application/x-shockwave-flash" width="520" height="450" data="http://www.vimeo.com/moogaloop.swf?clip_id=1887026&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00adef">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" /></object> 
+{% vimeo 188702 %} 
   
-
 Vitalij ha un [blog][4], il post più recente è una lettera, indirizzata al tanto citato Ministro della Difesa, scritta dopo che la decisione di spedirlo in Siberia era già stata resa pubblica. Per capire i motivi che lo hanno spinto a girare il video e le reazioni all'inattesa svolta che c'è stata negli ultimi giorni c'è solo da aspettare una traduzione, sperando che, nel frattempo, l'ex tenente possa rientrare a S. Piter e non essere annoverato, quindi, tra le molte vittime del [Cavaliere di Bronzo][5].  
   
 [1]: http://rutube.ru/tracks/660973.html?v=e271e93614b4095ce5b91d03120d5127

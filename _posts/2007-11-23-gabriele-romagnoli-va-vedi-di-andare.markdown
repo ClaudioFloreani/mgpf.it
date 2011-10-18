@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Gabriele Romagnoli, ma vedi di andare *********!
 meta: {}
 tags: 
@@ -14,6 +15,7 @@ E la sua [biografia](http://www.feltrinellieditore.it/SchedaAutore?id_autore=252
   
 > Gabriele Romagnoli è nato a Bologna nel 1960. Giornalista e scrittore, è stato inviato per due anni de La Stampa negli Stati Uniti, occupandosi più volte della questione della pena di morte. È editorialista de La Repubblica e collabora con molte riviste e quotidiani. Ha esordito nella narrativa nel 1993. È anche autore di alcune sceneggiature di fiction televisive, tra cui **Uno Bianca e Distretto di Polizia** con Marcello Fois, che hanno riscosso un notevole successo di pubblico e critica.  
   
-A Gabriè, vedi di **tornare a fare televisione spazzatura** e a non rompere le scatole con tanta immondizia cartacea al popolo del Web, và...  
+A Gabrié, vedi di **tornare a fare televisione spazzatura** e a non rompere le scatole con tanta immondizia cartacea al popolo del Web, và...  
 Davvero...  
+
 Torna dove sei di casa: tra le fiction dell'orpello principe dell'old-media e tra le cose vecchie di cui sai parlare.   

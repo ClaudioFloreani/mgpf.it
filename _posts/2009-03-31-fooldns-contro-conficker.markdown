@@ -1,19 +1,17 @@
 --- 
 layout: post
+status: ok
 title: FoolDns contro Conficker
 meta: {}
 tags: 
-- conficker
-- fooldns
-- malware
-- The Fool
+- business
+- the-fool
 ---
 Per FoolDns sono stati mesi di fuoco, con il [servizio business][2] finalmente online, la calca di adorabili sciamannati che compone il nostro [Testing Team][3] e più di 5000 utenti sotto la beta. Stiamo parlando di milioni di interrogazioni al giorno e siamo orgogliosi di poter affermare di avere un servizio, ormai, pronto per il passo successivo!  
   
 Ma se dobbiamo essere onesti, la principale motivazione che ci spinge ad **aprire la beta** a tutti è solamente [Conficker][4]: Conficker, conosciuto anche come Downup, Downadup e Fido, è un worm scoperto nell'ottobre 2008 che si diffonde sulle piattaforme Microsoft Windows. Il worm sfrutta una falla del servizio di rete di Microsoft Windows per diffondersi, rubando (tra l'altro) le password degli utenti.
   
 Sintomi dell'infezione:  
-
  * È impossibile fare aggiornamenti di Windows (Windows Update).
  * Windows Defender è disattivato.
  * La rete è congestionata: è impossibile caricare anche delle semplici pagine web.

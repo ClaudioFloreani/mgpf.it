@@ -1,16 +1,13 @@
 --- 
 layout: post
+status: ok
 title: "AAA: LastKnight.com cerca collaboratori"
 meta: 
-  _edit_last: "1"
-  WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
 tags: 
-- featured
 - about-me
 ---
 <a href="http://www.flickr.com/photos/54652842@N00/350363075/" title="Wanted" target="_blank"><img src="http://farm1.static.flickr.com/139/350363075_e8115cc506.jpg" alt="Wanted" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/54652842@N00/350363075/" title="Laureà" target="_blank">Laure&agrave;</a></small>
-
 Troppo poco tempo e troppe cose da dire. Credo che sia un problema non certo tutto mio, ma di molti, comunque sia LastKnight.com non riesce a mandare nemmeno un decimo degli articoli che mi piacerebbe condividere con tutti.  
 Per chi mi segue in Facebook cerco di pubblicare una serie di link interessanti (e moltissimi li commentano), ma non è la stessa cosa.  
   

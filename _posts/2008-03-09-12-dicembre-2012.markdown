@@ -1,20 +1,14 @@
 --- 
 layout: post
+status: ok
 title: 12 Dicembre 2012
 meta: {}
-
 tags: 
-- "2012"
-- bibbia
-- last pope
-- malachia
-- maya calendar
-- about-me
 - paranoia
-- polar shift
-- singularity
+- awesome
 ---
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/ecTE6lXI-m0&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/ecTE6lXI-m0&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
+{% youtube ecTE6lXI-m0 %}
+  
 ...e [parte seconda](http://it.youtube.com/watch?v=gZUzFYwZlXA&feature=related).  
   
  

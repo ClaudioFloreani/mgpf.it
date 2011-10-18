@@ -1,10 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Sveglia, Beppe!
 meta: {}
 tags: 
 - digital-freedom
 - about-me
+- ip
 ---
 <img src="http://www.lastknight.com/download//2009/09/omabacensurato-498x300.jpg" alt="omabacensurato" title="omabacensurato" width="498" height="300" class="aligncenter size-medium wp-image-1604" />  
   

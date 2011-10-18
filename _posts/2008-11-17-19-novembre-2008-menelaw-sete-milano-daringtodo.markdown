@@ -1,17 +1,10 @@
 --- 
 layout: post
+status: ok
 title: 19 Novembre, Milano - Una serata con Menelaw Sete tra Arte e Cultura
 meta: {}
 tags: 
-- censura
-- contemporary art
-- daring to do
-- DaringToDo
-- digital-freedom
-- about-me
-- menelaw sete
-- security- The Fool
-- tortona
+- awesome
 ---
 <img src="http://www.lastknight.com/download//2008/11/thumbphp.jpeg" alt="" title="thumbphp" width="500" height="180" class="aligncenter size-full wp-image-1180" />  
   
@@ -20,7 +13,7 @@ Vi avevo **promesso eventi all'insegna dell'arte** quando [vi ho invitato ad ade
 Eccovi quindi l'invito ufficiale per la serata di **Mecoledì 19 Novembre a Milano al Superstudio Più di Via Tortona 27** per un mercoledì sera particolare, in cui imparare di arte se non la si conosce o emozionarsi con essa se già si è già "in confidenza".  
   
 [![Menelaw Sete](http://profile.ak.facebook.com/object3/373/5/n38772112100_6727.jpg)][1]
-Quante volte **avreste voluto avvicinarvi alll'arte** ma vi siete trovati in difficoltà? Quante volte avreste voluto **fare domande**, comprendere l'opera, capire da dove iniziare? Quante volte avreste voluto **vedere nascere un'opera d'arte** passo a passo, per capire i come, dove e perchè? Quante volte avreste **voluto parlare con l'artista** per capire esattamente cosa pensasse e in che modo voleva trasporre le sue idee in colori?  
+Quante volte **avreste voluto avvicinarvi alll'arte** ma vi siete trovati in difficoltà? Quante volte avreste voluto **fare domande**, comprendere l'opera, capire da dove iniziare? Quante volte avreste voluto **vedere nascere un'opera d'arte** passo a passo, per capire i come, dove e perché? Quante volte avreste **voluto parlare con l'artista** per capire esattamente cosa pensasse e in che modo voleva trasporre le sue idee in colori?  
 Mercoledì sera **potrete fare tutto questo**: partiremo proprio dalle basi per guidare i futuri appassionati di Arte passo a passo in questo mondo affascinante a tanti ancora poco noto.  
   
 **Mercoledì 19 Novembre dalle 19.00 alle 22.00** una serata di Performance dal vivo e di lezioni sull'arte per avvicinarsi, anche per la prima volta, ad un mondo insolito e al contrario dell'opinione comune per nulla inaccessibile.  
@@ -32,7 +25,6 @@ Una serata all'insegna dell'Arte anche **per chi non la conosce e vuole cogliere
 Una occasione che, riteniamo, sarà unica ed emozionante e che ci piacerebbe condividere con chi ci segue e con chi pensate possa essere un buon compagno di viaggio...  
   
 Programma:
-
 * 19.00 - Benvenuto e presentazioni  
 * 19.15 - **PERFORMANCE DI MENELAW SETE**  
     Inizio del lavoro dell'artista per la performance che accompagnerà la serata di lezioni e spiegazioni.  

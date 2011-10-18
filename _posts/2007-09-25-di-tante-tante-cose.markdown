@@ -9,8 +9,6 @@ Carissimi,
   
 mi succede molto, molto raramente di scrivere ad oltre duemila contatti ed ogni volta mi accingo a farlo con un poco di timore reverenziale...  
 Siete tantissimi, molti più di quanti mi aspettassi, ad essere iscritti e leggere quello che posto su LastKnight.com e ancora di più a leggere queste righe che vi mando alla Newsletter (e che posterò anche sul Blog quindi utenti del blog iscrivetevi se vi interessasse...).  
-
-
   
 Avrete notato, negli ultimi mesi, un cambio di tendenza, quasi un cambio di rotta. Non scrivo più molto spesso e quando scrivo lo faccio da arrabbiato. E comunico lo stretto indispensabile solamente.  
 E' normale, succede a tutti di tanto in tanto di fermarsi e cercare di capire "cosa si farà da grandi". Succede ed è successo anche a me. E la risposta? Nessuna, per ora, ma un circostanziato e preciso check della realtà, una presa di coscienza di quello che ho fato e che sto facendo.  
@@ -52,7 +50,7 @@ Potete trovare maggiori informazioni al sito:
   
 <http://www.corsisoftware.com/pdf/pragmaticsecurity.pdf>  
   
-Credo che sia tutto, e per una mail informale direi che è sin troppo. Che dire? Fatemi sapere cosa ne pensate, veramente. Tengo questo Blog soprattutto per VOI e mi farebbe piacere sapere se siete iscritti perchè finisco in SpamBox e quindi non vi importa più nulla o perché leggete quello che vi propongo :)  
+Credo che sia tutto, e per una mail informale direi che è sin troppo. Che dire? Fatemi sapere cosa ne pensate, veramente. Tengo questo Blog soprattutto per VOI e mi farebbe piacere sapere se siete iscritti perché finisco in SpamBox e quindi non vi importa più nulla o perché leggete quello che vi propongo :)  
   
 Non rimane altro che dire che ci sarà da divertirsi e che non so ancora se questa nuova veste mi va larga, stretta o a pennello. Chi lo sa? Forse devo solo fare passare un po' di tempo.  
   

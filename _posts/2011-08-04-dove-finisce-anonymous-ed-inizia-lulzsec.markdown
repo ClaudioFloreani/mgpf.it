@@ -1,12 +1,13 @@
 --- 
 layout: post
+status: ok
 title: Dove finisce Anonymous ed inizia LulzSec
 meta: {}
 tags: 
 - hacking
 - hope
 ---
-Dopo aver parlato un poco degli attacchi a Vitrociset e CNAIPIC la Novella 2000 del web 2.0 italiano (aka FriendFeed) si è tanto infervorata perchè ho parlato di Anonymous e non di LulzSec come realtà dietro l'attacco.  
+Dopo aver parlato un poco degli attacchi a Vitrociset e CNAIPIC la Novella 2000 del web 2.0 italiano (aka FriendFeed) si è tanto infervorata perché ho parlato di Anonymous e non di LulzSec come realtà dietro l'attacco.  
   
 E' un po' che insieme ad altri amici condividiamo una serie di considerazioni su Anonymous ITA e [LulzSec ITA][lulzita] e forse potrebbe essere l'occasione di mettere nero su bianco qualcuna di queste, senza pretese né di correttezza né tantomeno di esaustività. Una sorta di backup mentale giusto a futura memoria.  
 E sentite liberi di commentare per modifiche, ratifiche, integrazioni.  
@@ -17,11 +18,8 @@ Anonymous ha visto diversi e significativi cambiamenti nella sua vita, come ogni
   
 E' credo anche per questo che Anonymous si è trovato vicino al sentire ed alle posizioni di Wikileaks durante gli scandali: Anonymous stesso, anche se disaggregato come da sua stessa connotazione, è spesso stato un leaker di informazioni, quando queste erano propedeutiche alle azioni.  
 Sempre con WikiLeaks entra prepotentemente nel patrimonio genetico di Anonymous anche LOIC ed il concetto di DDOS, che sebbene erano già stati utilizzati durante il Progetto Chanology diverranno modus operandi tipico in una serie di operazioni, prevalentemente entrate nell'immaginario collettivo penso con l'Operazione Payback.  
-
 > LOIC was utilized by Project Chanology, an offshoot of the Anonymous group, to attack Scientology websites, then by Anonymous itself to successfully attack the Recording Industry Association of America's website in October 2010,[6], and again during Operation Payback in December 2010 to attack the websites of companies and organizations that opposed WikiLeaks.[7][8] LOIC was utilized by many attackers, despite the fact that a network firewall could easily filter out network traffic it generates, thus rendering it only partly effective. ([fonte](http://en.wikipedia.org/wiki/LOIC))
-
 E' da notare che LOIC ed il DDOS non è sempre stato nel genoma di Anonymous: Anonymous come identità collettiva si migliora, si evolve, portando al proprio interno mano a mano conoscenze, tecniche, modis operandi e skill differenti. Come è giusto che sia. LOIC entra nell'immaginario nel tardo 2009, ma il movimento/gruppo predata quel momento di molti anni:
-
 > Anonymous (used as a mass noun) is a group initiating active Civil disobedience and spread through the Internet while staying hidden, originating in 2003 on the imageboard 4chan, representing the concept of many online community users simultaneously existing as an anarchic, digitized global brain.
 > In its early form, the concept has been adopted by a decentralized online community acting anonymously in a coordinated manner, usually toward a loosely self-agreed goal, and primarily focused on entertainment.
 > Beginning with 2008, the Anonymous collective has become increasingly associated with collaborative, international hacktivism, undertaking protests and other actions, often with the goal of promoting internet freedom and freedom of speech. Actions credited to "Anonymous" are undertaken by **unidentified individuals who apply the Anonymous label to themselves as attribution**. *([fonte](http://en.wikipedia.org/wiki/Anonymous_(group)))*
@@ -30,20 +28,17 @@ E anche la creazione separata di LulzSec è sicuramente intuibile: si trattava d
 Alla base di LulzSec l'effrazione digitale e sono convinto (ma non prendetelo come un dato di fatto) che la partenza fortemente separata delle due realtà che hanno però comunque gli stessi fini ideologici sia stata dettata dalla volontà di "proteggere" Anonymous in caso di pesante attacco dell'opinione pubblica alle operazioni di LulzSec.  
   
 E non si creda che sia ostile verso questa etica o questa Weltanschauung. La mia idea è molto simile a quella di [Techie-Buzz](http://techie-buzz.com/tech-news/lulzsec-statement.html)
-
 > As for myself, I will remember LulzSec as the bunch of cowboys, that tamed the Internet for quite some time. Call them the good or the bad, but they are in no way ugly. They are making the Internet a safer place and you can see how. You read a thousand blog posts every month giving you advice on password norms but how many did you take seriously until now? *([fonte](http://techie-buzz.com/tech-news/lulzsec-statement.html))*
   
 Non che l'effort sia, però, unanimanente visto come utile o giusto:  2600, THE CHAOS COMPUTER CLUB, THE CULT OF THE DEAD, COW, !HISPAHACK, L0PHT HEAVY INDUSTRIES, PHRACK e PULHAS si sono già [pronunciati contro la vision di LulzSec](http://lists.hackerspaces.org/pipermail/discuss/2011-June/004063.html) in comunicato congiunto tra "vecchia" e "nuova" leva che ha sicuramente un valore quasi storico. *(grazie @antani nei commenti)*  
   
-Ma anche LulzSec, a partire da #Antisec, si è riunita ad Anonymous in un effort collettivo. Come per LOIC, come per Wikileaks, come per altre centinaia di modificazioni che Anonymous avrà nella sua vita - perchè non crediate altrimenti, Anonymous è qui per restare - anche LulzSec con i suoi defacement e soprattutto con le sue intrusioni e rilasci di materiale, diventerà una parte di Anonymous come mille altre. Una parte di quella identità collettiva che, ai margini dell'Impero, già stanno annebbiandosi l'una nell'altra.  
+Ma anche LulzSec, a partire da #Antisec, si è riunita ad Anonymous in un effort collettivo. Come per LOIC, come per Wikileaks, come per altre centinaia di modificazioni che Anonymous avrà nella sua vita - perché non crediate altrimenti, Anonymous è qui per restare - anche LulzSec con i suoi defacement e soprattutto con le sue intrusioni e rilasci di materiale, diventerà una parte di Anonymous come mille altre. Una parte di quella identità collettiva che, ai margini dell'Impero, già stanno annebbiandosi l'una nell'altra.  
   
 Perchè anche qui da noi, in Italia, le due entità non sono così alla fine separate come parrebbe e anzi, spesso sfociano in "uscite" che poco hanno a che fare con l'etica stessa di Anonymous.  
 Per fare un esempio dopo l'intrusione al CNAIPIC è assurdo, o ridicolo se preferite, o ancora GENIALE se si tratta di un **effort intenzionale di depistamento** il "comunicato stampa" in cui Anonymous Italia e LulzSec ITA si **dissociano** dalle azioni:  
-
 <a href="http://matteoflora.com/2011/08/dove-finisce-anonymous-ed-inizia-lulzsec/hackers-com/" rel="attachment wp-att-255"><img src="http://matteoflora.com/wp-content/uploads/2011/08/hackers-com-640x392.jpg" alt="Il comunicato di presa di distanza di Anonymous e LulzSec" title="Il comunicato di presa di distanza di Anonymous e LulzSec" width="640" height="392" class="aligncenter size-medium wp-image-255" /></a>  
   
 Ora: non credo che nessuno voglia "rubare" la paternità delle azioni alla crew NKWT LOAD, ma mi sembra abbastanza assurdo considerando che il [comunicato di diffusione](http://pastebin.com/r21cExeP) dice direttamente:   
-
 > This is a prerelease of a series we are going to make to reveal the biggest in history of European LE cyber operation Evidence exploitation and abuse. Thing's **gonna get published and twittered all over anonymous and lulzsec community**. *([fonte](http://pastebin.com/r21cExeP))*  
   
 E' questo un po' il limite delle identità collettive: **chiunque può essere Anonymous, chiunque può essere LulzSec**, indipendentemente dalla volontà o meno di una ristretta cerchia di portavoce. E' la croce (ma anche delizia) di questa tipologia di aggregazioni.  
@@ -60,9 +55,7 @@ Andate e perseguite i vostri fini ed ideali, che pochi possono ritenere nella vi
   
 Perchè ora che avete svegliato il can che dormiva sono convinto che tutta una serie di realtà istituzionali mondiali vi vedono a tutti gli effetti come un nemico da abbattere.  
 La strada è lunga e tortuosa, ma non dubito che sarete vincenti sul lungo andare. Solo non sacrificate troppi innocenti che seguono le fila per pura "moda".  Lo sapete, no?
-
 > "Damn kids.  They're all alike".
-
 Estote parati. 
 Ed io continuerò a riferirmi ad una unica identità collettiva: Anonymous. Sbagliando? Forse. Ma forse no.  
   

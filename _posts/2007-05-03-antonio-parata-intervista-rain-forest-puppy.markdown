@@ -11,7 +11,6 @@ Uno dei meno conosciuti e **più competenti** siti di hacking e sicurezza italia
 Ma chi è [Rain Forest Puppy](http://www.wiretrip.net/rfp/)? Beh, basti pensare che è ritenuti da molti il padre della **Web Security** ed è stato il primo divulgatore delle tecniche di **SQL Injection** a livello mondiale.  
   
 L'incipit stesso dovrebbe fare riflettere:  
-
 > Hi Rain Forest Puppy, many thanks for this interview. You are considered one of the fathers of web security and the inventor of the SQL injection attack. Anyway in the year 2003 you decided to [publicly retire](http://www.wiretrip.net/rfp/txt/evolution.txt) from the security field.  
 > Can you briefly sum your decision?  
   

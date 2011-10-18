@@ -1,18 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Repubblica, la Profilazione di Google e FoolDNS
 meta: 
-  wordbooker_options: "a:9:{s:18:\"wordbook_noncename\";s:10:\"96f40a483e\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"1\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:7:\"%title%\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";}"
-  _edit_last: "1"
-  WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
-  _wp_old_slug: ""
 tags: 
-- featured
-- fooldns
-- google
 - about-me
-- privacy
-- repubblica
+- the-fool
+- digital-freedom
 ---
 E in mezzo alla calura estiva un bell'[articolo di Repubblica][2] intervista il vostro Matteo Flora, CEO di The Fool, parlando chiaro e senza mezze misure:  
   
@@ -21,7 +15,6 @@ E in mezzo alla calura estiva un bell'[articolo di Repubblica][2] intervista il 
 <a href="http://thefool.it/wp-content/uploads/2010/08/repubblica.png"><img src="http://thefool.it/wp-content/uploads/2010/08/repubblica-500x302.png" alt="" title="repubblica" width="500" height="302" class="aligncenter size-medium wp-image-740" /></a>  
 
 E i numeri delle [ricerche][1] parlano chiaro:
-
 > Google Inc (23,6 miliardi di dollari di fatturato nel 2009) è in grado di controllare e tracciare i movimenti di chi usa Internet sul 88,4 per cento della rete. Direttamente, attraverso i suoi siti cult, come il motore di ricerca, il servizio di posta elettronica (gmail.  com), Youtube, Google Maps, Picasa. Ma anche indirettamente, grazie a quei software gratuiti usati da milioni di bloggers, gestori di siti e aziende. Ad esempio Google Analytics - l'applicazione che permette di conteggiare il traffico di un portale - o AdSense, il servizio di inserzioni pubblicitarie. Risultato: il database di Google è il più vasto oggi esistente, e anche quello che contiene il maggior numero di informazioni su un utente unico.  
   
 Come sfuggire, quindi, alla profilazione?  

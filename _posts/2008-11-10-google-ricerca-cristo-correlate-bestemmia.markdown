@@ -1,15 +1,11 @@
 --- 
 layout: post
+status: ok
 title: "Quando per Google Cristo è Porco D*o"
 meta: {}
 tags: 
-- bestemmie
-- cristo
 - google
-- about-me
-- porco dio
-- suggerimenti
-- suggest
+- weird
 ---
 <img src="http://www.lastknight.com/download//2008/11/cristo_related.jpg" alt="" title="cristo_related" width="500" height="178" class="aligncenter size-full wp-image-1151" />  
   
@@ -24,5 +20,4 @@ Per chi dubita il completo screenshot prima che venga rimosso:
 Che ne diciamo di questo **Google bestemmiante**? :D  
   
   
-
 [1]: http://www.alain.it/2008/09/17/litalia-vista-con-gli-occhi-di-google/    

@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Haiku n.1
 meta: {}
 tags: 

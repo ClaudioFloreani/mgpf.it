@@ -1,19 +1,10 @@
 --- 
 layout: post
-title: "14-01-2010: A volte ritornano. Conferenza a Milano su Antiforensics e Stato dell\xE2\x80\x99Arte"
+title: "14-01-2010: A volte ritornano. Conferenza a Milano su Antiforensics e Stato dell'Arte"
 meta: 
-  wordbooker_options: "a:8:{s:23:\"wordbook_default_author\";s:1:\"0\";s:29:\"wordbook_republish_time_frame\";s:2:\"10\";s:18:\"wordbook_attribute\";s:31:\"Posted a new post on their blog\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:18:\"wordbook_orandpage\";s:1:\"2\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:18:\"wordbook_page_post\";s:4:\"-100\";}"
-  _edit_last: "1"
 tags: 
-- antiforensics
-- antiprofilazione
-- fooldns
-- master
 - about-me
-- milano
-- pisanu
-- profilazione
-- terrorismo
+- talk
 ---
 E' ormai un bel po' di tempo che non mi faccio più vivo con una **vera conferenza**, uno di quei talk non di 15 o 20 minuti, ma **completo, esaustivo ed integrato** (per lo meno nelle speranze del sottoscritto...).  
 Grazie al grande Ziccardi ad inizio di questo 2010 ho la possibilità di un Keynote *(parolone!)* di un paio di ore per parlare con voi a ruota libera di **Anti-Forensics, Profilazione ed Antiprofilazione** oltre che di scenari di Terrorismo Digitale d Nuove Sfide del Phishing.   
@@ -46,10 +37,7 @@ Appuntamento il giorno giovedì 14 gennaio 2010 dalle ore 14 in avanti a Milano 
   
 Vi allego il programma; chi volesse passare a seguire la lezione e/o a salutarci è il benvenuto. La prima parte del pomeriggio vedrà tre ex studenti perfezionati illustrare un po di nozioni di base sia tecniche, sia pratiche, sia di procedura penale. La seconda parte vedrà un seminario più tecnico tenuto da Matteo Flora di The Fool sullantiforensics e sul progetto FoolDNS.
 
-
-
 **--- Comunicato Ufficiale ---** 
-
 Università degli Studi di Milano  
 Corso di Perfezionamento in computer forensics e investigazioni digitali  III Edizione  
   
@@ -74,7 +62,6 @@ LEZIONE ZERO: LANTI-FORENSICS UNINTRODUZIONE PER IL GIURISTA E PER IL TECNIC
 * **16:45 SPECIAL GUEST**:   
     **Alcune considerazioni di base e avanzate sullanti-forensics e sullanonimato. Eludere le investigazioni digitali, ingannare gli investigatori e i controllori. Il progetto FoolDNS e tecnologie correlate.   Matteo Flora (The Fool s.r.l.)**  
   
-
 La lezione zero **è gratuita e aperta al pubblico**.    
   
   

@@ -1,17 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Padre, Figlio e... Ops!
 meta: {}
 tags: 
-- digital-freedom
-- dio
-- ghostbusters
-- about-me
-- papa
-- ratzinger
-- religione
-- spirito santo
-- xkcd
+- awesome
+- weird
 ---
 Era un pochino che non facevo qualche post che riguardasse Dio & Co :)  
   
@@ -25,5 +19,4 @@ Assolutamente grandioso :)
   
 P.S. In Inglese fa più ridere: Spirito Santo, infatti, si traduce con Holy Ghost, letteramente Santo Fantasma.  
   
-
  

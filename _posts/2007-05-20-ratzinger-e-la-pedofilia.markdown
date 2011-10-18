@@ -12,7 +12,6 @@ tags:
 status: private
 ---
 ![Ratzinger e Pedofilia](http://www.lastknight.com/download//20070516_ratzinger.jpg)
-
 A volte **non ci sono commenti**.  
 Un video shock che mostra le connessioni tra Benedetto XVI, papa **Ratzinger**, che ricordiamo dal 1982 ricopriva la carica di **Prefetto della Congregazione per la Dottrina della Fede** (ex **Santa Inquisizione**), e taluni episodi **inquieti** del Vaticano e del problema Pedofilia.   
 Altre informazioni sono disponibili al [sito della BBC](http://newsvote.bbc.co.uk/2/hi/programmes/panorama/5389684.stm).

@@ -1,21 +1,16 @@
 --- 
 layout: post
+status: ok
 title: Quando le associazioni spammano...
 meta: {}
 tags: 
-- associazione
-- digital-freedom
-- lista di distribuzione
-- spam
-- spam italiano
+- weird
 ---
 ![Spam](http://www.lastknight.com//download/20061012_spam.jpg)
-
 Al limite del **basito** dopo l'incontro di [Trani][1] mi ritrovo nella casella mail dello spam proveniente direttamente da **una associazione che ha partecipato** che per ben due volte nella giornata mi informa di iniziative che per quanto lodevoli **non mi interessano e soprattutto non voglio avere nella posta di lavoro**.  
 Piccato e alquanto **incredulo** mando una mail all'organizzazione chiedendo di **essere rimosso** e, soprattutto, di piantarla con questo **spam da quattro soldi**.  
   
 Se sono rimasto basito dallo spam, rimango ancora più basito dalla risposta (**grassetti** miei):  
-
 > Pur non trattandosi in nessun caso di SPAM, riceviamo la Sua richiesta e provvediamo a cancellarla dalla nostra lista di distribuzione "sostenitori ed amici dell'infanzia", cui forwardiamo le notizie di maggior rilievo.  
 >  
 > Il Suo indirizzo era stato inserito in tale elenco (lista di distribuzione di un programma di posta elettronico installato su una singola postazione pc: ben diverso da un database o altro sistema di invio automatico quale newsletter etc.), su espressa richiesta del giornalista XXX XXX, nostro Portavoce Nazionale, che ha condiviso con Lei in qualità di conrelatore la conferenza di Trani organizzata dai Lions.  

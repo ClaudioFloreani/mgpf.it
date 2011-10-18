@@ -1,10 +1,11 @@
 --- 
 layout: post
+status: ok
 title: MP3 legalizzati e Slashdot
 meta: {}
 tags: 
 - digital-freedom
-- security
+- ip
 ---
 Non capita spesso di vedere l'Italia in prima pagina di Slashdot:  
   
@@ -16,7 +17,6 @@ Non capita spesso di vedere l'Italia in prima pagina di Slashdot:
 Ovviamente parla della [legge](http://www.penale.it/page.asp?mode=1&IDPag=556) citata nell'ormai famoso [articolo di Repubblica](http://www.repubblica.it/2007/09/sezioni/scienza_e_tecnologia/diritti-web/legge-mp3/legge-mp3.html) che molti hanno [commentato](http://www.minotti.net/2008/02/01/definizioni-da-dare/). Ma è comunque interessantissimo vedere come anche Slashdot riprenda uno degli strafalcioni più clamorosi della legislatura tecnica italiana...  
   
 Il discorso è in realtà **molto semplice** e si riassume in un paio di punti:  
-
 * Per legge è possibile riprodurre su web a scopo **non commerciale** immagini e musica con qualità volutamente degradate
 * L'MP3, per definizione, è un sistema di codifica **data lossy** e quindi che **degrada la qualità**
 * Ne deriva che **pubblicare online MP3** a fini non commerciali è **perfettamente legale**  

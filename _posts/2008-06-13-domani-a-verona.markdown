@@ -1,15 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Domani a Verona...
 meta: {}
 tags: 
 - about-me
-- hacking
-- linux
-- security- Sicurezza e Privacy
-- voip
-- wireless
-- wordpress
+- talk
 ---
 <a href="http://www.flickr.com/photos/99796131@N00/78924120/" title="That should keep Jimmy Carter away!" target="_blank"><img src="http://farm1.static.flickr.com/42/78924120_ecd0be679f.jpg" alt="That should keep Jimmy Carter away!" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/99796131@N00/78924120/" title="The Rocketeer" target="_blank">The Rocketeer</a></small>  

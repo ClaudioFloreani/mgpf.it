@@ -6,7 +6,6 @@ tags:
 - about-me
 ---
 Come ovvio e come murphy insegna da anni:  
-
 > La peggiore combinazione di eventi possibili é destinata ad accadere nel peggior momento possibile. 
   
 E quindi mi ritrovo a Verona per la conferenza, senza connessione e Lastknight.com **finisce 25 giga** di banda da inizio mese e va offline...  

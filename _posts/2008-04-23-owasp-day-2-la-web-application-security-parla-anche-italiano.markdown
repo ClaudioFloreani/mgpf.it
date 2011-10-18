@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: "OWASP Day 2: la Web Application Security parla (anche) italiano"
 meta: {}
 tags: 
@@ -45,7 +46,7 @@ Se infatti le strutture esistono, le best-practices sono conosciute e le linee g
   
 Anche gli interventi teorici della giornata sono stati per molti versi illuminanti, primo forse tra tutti quello di Marco Morana (OWASP USA Chapter Lead e TISO  di Citigroup) che durante l'intervento dal titolo altisonante di "How to start a software security initiative within your organization: a maturity based and metrics driven approach" ha mostrato come esistano già metodologie per inserire la sicurezza nei processi aziendali in essere, lezione che dovrebbe essere imparata da qualunque persona rivesta ruoli decisionali aziendali.  
   
-Passando alla teoria di programmazione pura, la giornata non è stata meno interessante. Jacob West (A capo della Divisione di Security Research di Fortify Software's) ha parlato nell'intervento dal titolo "Secure Programming with Static Analysis" degli approcci più prequenti ed assodati all'analisi statica del codice e del perchè questa sia tanto importnate in un contesto che, sempre di più, si basa su codice scritto a più mani, a più riprese e spesso basato sul riutilizzo di componenti software pre-realizzate, come librerie ed altro, di cui non possiamo dare per certa la sicurezza. La parte del talk dedicata agli scensari di programmazione sicura in contesto di utilizzo di risorse insicure è stata probabilmente tra le più affascinanti dell'intera giornata.  
+Passando alla teoria di programmazione pura, la giornata non è stata meno interessante. Jacob West (A capo della Divisione di Security Research di Fortify Software's) ha parlato nell'intervento dal titolo "Secure Programming with Static Analysis" degli approcci più prequenti ed assodati all'analisi statica del codice e del perché questa sia tanto importnate in un contesto che, sempre di più, si basa su codice scritto a più mani, a più riprese e spesso basato sul riutilizzo di componenti software pre-realizzate, come librerie ed altro, di cui non possiamo dare per certa la sicurezza. La parte del talk dedicata agli scensari di programmazione sicura in contesto di utilizzo di risorse insicure è stata probabilmente tra le più affascinanti dell'intera giornata.  
   
 A ricordarci poi della presenza del Web come Servizi e come piattaforma di computazione anche remota ci ha pensato Laurent Petroque, di F5, che nel talk "Web Services and SOA Security" ha illustrato come anche i Web Services si trovino ad affrontare le problematiche tipiche della Web Application Security e di come sia necessario tutelare allo stesso modo anche queste "particolari" incarnazioni della programmazione Web, talora sottovalutate e percepite come i "figli minori" nel grande disegno della Web Architecture.  
   
@@ -75,19 +76,3 @@ Per chi volesse continuare lo studio e l'approfondimento sono disponibili le [sl
 Estote Parati.  
   
 M.
-  
-
-11.30h	
-
-
-15.30h	
-Paolo Perego - 
-16.00h	Coffe break
-16.30h	
-
-
-
-17:00h	Round table: Quali sono le contromisure che le aziende stanno adottando ai nuovi possibili attacchi? Responsible disclosure: quale è il miglior approccio? Come si può implementare un ciclo di vita del software con processi di sicurezza garantendo un adeguato ROSI? La sensibilizzazione degli utenti: leva fondamentale al fine di implementare controlli di sicurezza?
-
-Panelist: 
- 

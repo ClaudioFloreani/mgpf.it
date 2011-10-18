@@ -14,10 +14,7 @@ Dopo la conferenza a VON assieme a Raoul Chiesa e Alessio Pennasilico mi sono me
   
 Con qualche ritardo ma spero apprezzato ecco qui il **megapost con tutti i dati** necessari, che spero diffonderà un po' di luce su un punto di ricerca, quello delle reti wireless e della loro disseminazione, che sembra avere da ciascuno **punti di vista differenti** e dati difformi sul quantità, dislocazione servizi e chi più ne ha più ne metta.  
   
-
-
 Il punto di partenza è stato quello di riprendere il lavoro svolto da un paio di amici, Yvette Agostini e Fabio Pietrosanti che per Portel nel 2002 avevano già effettuato un **survey cittadino** di Milano ottenendo i seguenti risultati:  
-
 >Un'auto, tre antenne di cui una direzionale, due portatili con sistema operativo Linux: un week-end a caccia di reti Wi-Fi insicure, con risultati allarmanti.
 Complici le insicurezze delle reti senza fili, Portel ha scovato in una sola ora **18 reti**, di cui **12 senza il Wep** (Wired Equivalent Privacy, l'attuale meccanismo di protezione delle reti senza fili).  
 > [articolo su Portel](http://www.portel.it/news/10-2002/a-caccia-delle-reti-wireless-insicure-a-milano.html)
@@ -30,7 +27,6 @@ Com'è la situazione **dopo 5 anni**? In assenza di dati attendibili l'unico mod
 * Qualche riga di Ruby  
   
 Ecco di seguito il nostro eroe e le sofisticate apparecchiature:   
-
 ![](http://www.lastknight.com/download/20071003_02.jpg)  
   
 Non poteva mancare il **potente mezzo di locomozione** di ovvia estrazione militare:  

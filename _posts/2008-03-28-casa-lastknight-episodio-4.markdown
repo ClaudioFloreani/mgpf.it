@@ -1,16 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Casa LastKnight - Episodio 4
 meta: 
-  _edit_last: "1"
-  Video: http://www.youtube.com/watch?v=wZdj3gxNydM
 tags: 
-- Casa LastKnight
 - about-me
-- elaphe
-- lampropeltis
-- matteo flora
-- security- VideoBlog
 ---
 Manco da **un poco** dalla scena dei Videoblog, ma a ragione...  
 Ho recuperato l'attrezzatura necessaria per fornirvi un videoblog **differente** e mi sto preparando alla puntata 5, trasmessa in **Full HD**.  
@@ -31,10 +25,7 @@ Duplice il motivo: la mia passione *(ho in casa tre elaphi e una lampropeltis)* 
   
 E per ora 20 minuti de **Lo Zen e l'Arte della Manutenzione del Serpente**!  
   
-<center>
-<object type="application/x-shockwave-flash" width="535" height="301" data="http://www.vimeo.com/moogaloop.swf?clip_id=834888&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=834888&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00adef" /></object>  
-<a href="http://www.vimeo.com/834888/l:embed_834888">Casa LastKnight - Episodio 4</a> from <a href="http://www.vimeo.com/lastknight/l:embed_834888">Matteo G.P. Flora</a> on <a href="http://vimeo.com/l:embed_834888">Vimeo</a>.
-</center>  
+{% vimeo 834888 %}
   
 Che dire, piaciuto?  
   

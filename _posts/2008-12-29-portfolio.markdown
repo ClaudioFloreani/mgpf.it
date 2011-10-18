@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Portfolio...
 meta: {}
 tags: 

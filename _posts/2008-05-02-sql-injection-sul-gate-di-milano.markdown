@@ -1,12 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Sql injection sul Gate di Milano?
 meta: {}
 tags: 
 - hacking
-- milano
-- security- sql injection
-- telecamere
+- awesome
 ---
 <img src="http://www.lastknight.com/download//mini.jpg"/>  
 Non so a voi, ma a me che abito a Milano questa immagine fa venire in mente tantissimi giochini interessanti.... :)  

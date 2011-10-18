@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: 2.0.1
 meta: {}
 tags: 
@@ -12,7 +13,6 @@ Aggiornamento dell'Iphone in corso...
 Incrociate l'incrociabile :)  
   
 UPDATE: L'aggiornamento ha richiest circa 20 minuti, di cui una massima parte per il backup della vecchia configurazione. Le prime impressioni sono di migliorata fluidità. In particolare:
-
 * Scomparso il fastidioso baco che rendeva inutilizzabili i contatti per i primi 5 secondi
 * Decisamente più veloce l'apertura degli SMS
 * Per ora non si è mai impastata anche la tastiera 

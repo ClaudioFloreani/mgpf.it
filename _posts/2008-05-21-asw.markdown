@@ -1,11 +1,9 @@
 --- 
 layout: post
+status: ok
 title: ASW...
 meta: {}
 tags: 
-- a small world
-- asmallworld
-- asw
 - about-me
 ---
 Finalmente... :)  
@@ -14,5 +12,4 @@ Finalmente... :)
   
 **UPDATE:** Non so quanti altri sono entrati in ASW e dopo 16 minuti hanno spedito un Advisory per un XSS di Cookie Stealing al reparto tecnico :) Sembrano simpatici...  
   
-
  

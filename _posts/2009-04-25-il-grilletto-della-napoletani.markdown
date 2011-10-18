@@ -3,11 +3,8 @@ layout: post
 title: Il grilletto della Napoletani
 meta: {}
 tags: 
-- beppegrillo
-- cocaina
-- digital-freedom
-- interdipendenze
-- napoleoni
+- paranoia
+- weird
 ---
 <a href="http://www.flickr.com/photos/79286287@N00/380955535/" title="Technology addicted" target="_blank"><img src="http://farm1.static.flickr.com/184/380955535_706ffa65c4.jpg" alt="Technology addicted" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/79286287@N00/380955535/" title="Giuseppe Bognanni" target="_blank">Giuseppe Bognanni</a></small>  

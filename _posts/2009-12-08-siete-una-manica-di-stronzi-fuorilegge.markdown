@@ -1,11 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Siete una manica di stronzi fuorilegge
 meta: {}
 tags: 
 - google
-- about-me
-- profiling
+- digital-freedom
+- paranoia
 ---
 Sarà l'età, sarà il contesto culturale in cui sono cresciuto, ma a me certe affermazioni fanno tremare:  
   
@@ -14,7 +15,6 @@ Sarà l'età, sarà il contesto culturale in cui sono cresciuto, ma a me certe a
 Mi ricordano molto le affermazioni di un tizio con la svastica sul braccio...  
   
 Capito, stronzi? Se non volete che qualcuno veda cosa fate, non fatelo. Semplice.  
-
 UPDATE: E' bello non essere paranoici da soli ed il buon Fabio Ghioni non perde tempo per aggiungere un po' di benzina, [oggi][1]:  
   
 > Se avete qualcosa che non volete far sapere a nessuno, forse in primo luogo non dovreste farla. Così lad di Google Eric Schmdit in unintervista a CNBC, da cui però emerge qualcosa di ancora più importante: Schmidt ammette infatti che ci sono casi in cui Google è costretto a rilasciare i dati personali degli utenti: Se davvero avete bisogno di privacy, la verità è che i motori di ricerca  incluso Google  conservano le informazioni per qualche tempo ed è importante, per esempio, sapere che siamo tutti soggetti al Patriot Act ed è possibile che tutte quelle informazioni possano essere rese disponibili alle autorità.   

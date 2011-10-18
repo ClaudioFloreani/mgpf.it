@@ -1,11 +1,12 @@
 --- 
 layout: post
+status: ok
 title: "ThePirateBay: quello non è un sequestro"
 meta: {}
 tags: 
-- censura
 - digital-freedom
 - forensic
+- ip
 ---
   <img src="http://www.lastknight.com/download//2008/10/magritte_pipe-429x300.jpg" alt="" title="magritte_pipe" width="429" height="300" class="aligncenter size-medium wp-image-1082" />
   
@@ -45,7 +46,6 @@ E, quindi, non è possibile usare **l'inibizione via DNS o via IP** (il famoso "
   
 Ora passo la palla al buon Minotti che, sicuramente, <s>spiegherà meglio</s> [spiega][2] la parte prettamente giuridica.  
   
-
  
 [1]: http://www.giuristitelematici.it/modules/bdnews/article.php?storyid=1520
 [2]: http://www.minotti.net/2008/10/06/sequestro-the-pirate-bay-le-motivazioni-dellordinanza-di-annullamento/ 

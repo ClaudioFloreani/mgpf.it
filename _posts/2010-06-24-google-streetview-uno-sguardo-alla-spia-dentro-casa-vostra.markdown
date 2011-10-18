@@ -1,23 +1,12 @@
 --- 
 layout: post
+status: ok
 title: "Google StreetView: uno sguardo alla spia dentro casa vostra"
 meta: 
-  wordbooker_options: "a:9:{s:18:\"wordbook_noncename\";s:10:\"2a3e9cf8ff\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"1\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:7:\"%title%\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";}"
-  _edit_last: "1"
-  WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
-  _wp_old_slug: ""
 tags: 
 - digital-freedom
-- featured
-- google
-- gps
-- intercettazioni
-- location
-- mac
-- password
 - privacy
-- snooping
-- street view
+- paranoia
 ---
 Il servizio [Street View][stw] di Google permette di esplorare virtualmente le strade di alcune aree del mondo, attraverso immagini panoramiche a 360°, raccolte da speciali automobili dotate di telecamera. Attualmente le [zone coperte][stwc] si limitano agli Stati Uniti d'America, al Canada, all'Europa e al Giappone.  
   
@@ -66,7 +55,6 @@ Vi ricordo che un MAC Address per un esperto è facilmente falsificabile; una pe
 L'accesso ad una rete senza fili è notevolmente più difficile da controllare: un Access Point può essere "nascosto" dalla rilevazione automatica ma l'emissione di onde radio è sempre rilevabile. Rimane perentorio utilizzare una protezione (WEP è [facilmente][wep] violabile, WPA meno facilmente ma rimane non sicura al 100%); si potrebbe autorizzare l'accesso ad una rete solo a determinati dispositivi, attraverso il [Mac Address Filtering][filt], ma basterebbe falsificare l'indirizzo per bypassare facilmente la protezione; la soluzione più sicura rimane l'utilizzo di reti via cavo per fare transitare informazioni che richiedono un alto livello di sicurezza.  
   
 <i>Via [Identity Weblog](http://www.identityblog.com/?p=1112) in collaborazione con **Marco Rossi**</i>
-
 [stw]:http://maps.google.it/help/maps/streetview/
 [stwc]:http://maps.google.it/help/maps/streetview/where-is-street-view.html
 [mac]:http://it.wikipedia.org/wiki/MAC_address

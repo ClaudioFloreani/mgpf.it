@@ -1,10 +1,8 @@
 --- 
 layout: post
+status: ok
 title: "Rivotiamo.it: Qualche piccolo problema..."
 meta: 
-  article: "1"
-  aktt_tweeted: "1"
-  autometa: rivotiamo berlusconi forzaitalia forza italia rivotiamo.it matteo flora hacking
 tags: 
 - digital-freedom
 - hacking
@@ -39,16 +37,12 @@ Ne riporto alcuni stralci:
 Mettiamo le cose in chiaro: non sono alla ricerca di facile notorietà e lo script esiste davvero. Si basa su Ruby e Watir e qui sotto ne trovate l'intero sorgente:  
   
   
-
 [ruby]
 require 'rubygems'
 require 'SafariWatir'
-
 startUrl = "http://www.rivotiamo.it/"
-
 b = Watir::Safari.new
 b.speed = :fast
-
 (1..1000).each do |x|
   begin
     fakeName = rand(500000000).to_s(26)

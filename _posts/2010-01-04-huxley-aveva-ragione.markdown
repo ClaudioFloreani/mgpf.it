@@ -1,17 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Huxley aveva ragione?
 meta: {}
 tags: 
-- "1984"
-- big brother
-- brand new world
 - digital-freedom
-- grande fratello
-- huxley
-- il mondo nuovo
-- orwells
-- security
+- paranoia
 ---
 Sottratto direttamente da [un blog che vi consiglio di seguire](http://www.hakiri.org/blog/was-huxley-right/) una interessante, dotta ed istruttiva esemplificazione a fumetti di "Il Mondo Nuovo" di Huxley contro "1984" di Orwell.  
   

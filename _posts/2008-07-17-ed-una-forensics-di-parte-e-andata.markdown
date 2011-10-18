@@ -1,12 +1,11 @@
 --- 
 layout: post
+status: ok
 title: "Ed una è andata..."
 meta: {}
 tags: 
 - about-me
 - forensic
-- about-me
-- security
 ---
 <div class="notice">
 Avviso pre commenti caustici: Leggete la <A href="http://www.lastknight.com/2008/08/04/the-very-big-faq-of-mediaset-vs-youtube/">la FAQ</A> relativa. Thanx ;)

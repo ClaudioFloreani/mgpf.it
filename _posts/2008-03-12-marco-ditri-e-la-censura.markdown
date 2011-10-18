@@ -1,17 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Marco D'Itri e la Censura
 meta: {}
-
 tags: 
-- amms
-- censura
-- about-me
 - digital-freedom
-- gentiloni
-- marco d'itri
-- monopoli
-- security
 ---
 Bello arrivare **in anticipo di oltre un anno** :)  
   

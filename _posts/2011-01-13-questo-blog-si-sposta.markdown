@@ -1,10 +1,8 @@
 --- 
 layout: post
+status: ok
 title: Questo Blog si sposta
 meta: 
-  _edit_last: "1"
-  _wp_old_slug: ""
-  image: ""
 tags: 
 - about-me
 ---

@@ -1,13 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Firenze, sorprende ladro in casa Imprenditore spara e lo uccide
 meta: 
-  _edit_last: "1"
-  _wp_old_slug: cerca-con-wikipedia-24ore-cronaca-genova-0827-tangenti-mense-a-genova-oggi-interrogatorio-alessiolecce-0826-ambiente-gdf-sequestra-discarica-abusiva-nel-salentonapoli-0821-camorra-arresti-e-sequestri-
 tags: 
-- digital-freedom
-- gun
 - paranoia
+- politica
 ---
 <a href="http://www.flickr.com/photos/22823034@N00/559059196/" title="Happiness Is A Warm Mackertosh" target="_blank"><img src="http://farm2.static.flickr.com/1043/559059196_cc53761f2c.jpg" alt="Happiness Is A Warm Mackertosh" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" title="Attribution-NonCommercial-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/22823034@N00/559059196/" title="zcopley" target="_blank">zcopley</a></small>  
@@ -25,5 +23,4 @@ Dobbiamo passare a prenderla e portarla a casa tutte le sere in cui esce.
   
 Dove **lo stato manca** inizia **la violenza**. No, non è **giusto**, è semplicemente così.   
   
-
  

@@ -1,8 +1,8 @@
 --- 
 layout: post
+status: ok
 title: Problemi di registrazione...
 meta: {}
-
 tags: 
 - about-me
 ---

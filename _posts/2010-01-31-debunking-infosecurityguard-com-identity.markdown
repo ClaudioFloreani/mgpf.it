@@ -1,18 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Debunking InfoSecurityGuard.com Identity
 meta: {}
 tags: 
-- flora
-- hunt
-- InfoSecurityGuard
-- khamsa
-- lastknight
-- matteo
-- matteoflora
-- notrax
-- phonecrypt
-- security- securstar
+- hacking
+- debunking
 ---
 <div class="important">
 Hi, non-italian readers! Pleased to have you here around. I'm very sorry but this blog is mostly Italian. You can have some English background (although outdated) info on <a href="http://www.matteoflora.com">matteoflora.com</a>. I've been a Forensic Consultant for over a decade and I'm presently CEO & Partner of The Fool, an Italian start-up dealing with Technology.  
@@ -20,13 +13,11 @@ This post is in English for it refers to an english-language heated discussion.
 <br>
 <i>Per gli italiani: scusatemi, prometto di scrivere di nuovo in italiano presto :)</i>.
 </div>
-
 It was about time for a little manhunt... I didn't one since the last intrusion on Lastknight.com, but a dear friend of mine, [Fabio][1] pointed me to an interesting study that smelled a little too much of "marketing stunt".  
   
 DISCLOSURE: Fabio and I are long time friends and we've done some work together. Presently we do not have any kind of business together, aside from some beers and som dinners together :) He asked me to lend a hand in finding "if I could trace who's behind InfoSecurityGuard.com" and I decided to throw a little bit of my Sunday on it...   
   
 Fabio works in a [Secure Communication firm][2], which has created a [nifty little cellphone encryption app][10] and some days ago the protocol underlying this app, along with a bunch of other competitors, was tested by a strange unknown [indipendent examiner][3] which presented himself with the name of Notrax, a [YouTube Channel][4] and a [a funny bio](http://infosecurityguard.com/?page_id=2): 
-
 > ¾ Human, ¼ Android (Well that would be cool at least.) I am just an enthusiast of pretty much anything that talks binary and if it has a RS232 port even better. During the day I masquerade as an engineer working on some pretty cool projects at times, but mostly I do the fun stuff at night.  
   
 The testing method seems to me a little shaky, but that's not the point (not mine, at least) and Fabio [explained in some length][5] his view on the subject that may or may not be the truth.  
@@ -49,7 +40,6 @@ And here the story start to grow interesting :)
 >   Updated Date: 01-dec-2009  
 >   Creation Date: 01-dec-2009  
 >   Expiration Date: 01-dec-2010 
-
 It is fairly new, something you expect for a custom-created domain, and it has the common Privacy Guard services we have all learned to know:  
   
 > Private, Registration  INFOSECURITYGUARD.COM@domainsbyproxy.com  
@@ -59,7 +49,6 @@ It is fairly new, something you expect for a custom-created domain, and it has t
 > Scottsdale, Arizona 85260  
 > United States  
 > (480) 624-2599      Fax -- (480) 624-2598
-
 So we can only hope in a sort of error fron kind Mr.Notrax. The one everyone does now and then *(and me more than anyone I know :P)*.  
   
 And this time the error is quite stupid: a single wordpress trackback. In fact when Fabio [commented on InfoPrivacyGuard](http://infosecurityguard.com/?p=116#comments), the admin action made by Notrax on his Anonymous Blog by approving the post, generated a **beautiful http request** on Fabio's Wordpress blog, a request that we were able to recover from the Apache logfiles:  
@@ -103,7 +92,6 @@ Ok, aside from a funny interface to play with (something that we _do not want to
 * Mark Incley  
   
 It doesn't need the young Sherlock Holmes to find out that all these names are from [SecureStar Gmbh][8] and, precisely:  
-
 * Wilfried Hafner - *[CEO](http://www.xing.com/profile/Wilfried_Hafner) *  
 * Shaun Holligworth - *[Guru of Security](http://www.securstar.com/about.php)* 
 * Can Yavuzylmax - *County Manager (LinkedIn)*  
@@ -124,7 +112,6 @@ And I really hope all this stuff isn't really just undercover market for the Ger
   
 **UPDATE**: Fabio has updated his blog with a [very strong opinioned](http://infosecurity.ch/20100201/evidence-that-infosecurityguard-comnotrax-is-securstar-gmbh-a-fake-independent-research-on-voice-crypto/) that doesn't necessarily reflect my position. The only thing *I* want to find out is the level of trust I should put in Mr.Notrax... 
   
-
 [1]: http://infosecurity.ch
 [2]: http://khamsa.it
 [3]: http://infosecurityguard.com/

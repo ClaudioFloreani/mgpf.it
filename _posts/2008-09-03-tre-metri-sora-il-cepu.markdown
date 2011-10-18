@@ -4,14 +4,7 @@ title: Tre metri sopra il Cepu
 meta: {}
 tags: 
 - about-me
-- digital-freedom
-- diretta
-- disma
-- about-me
-- paranoia
-- radio popolare
-- security- trasmissione
-- tre metri sopra il cepu
+- talk
 ---
 <a href="http://www.flickr.com/photos/57688343@N00/1788993481/" title="Modulazione di frequenza" target="_blank"><img src="http://farm3.static.flickr.com/2069/1788993481_d73e8fa822.jpg" alt="Modulazione di frequenza" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-sa/2.0/" title="Attribution-ShareAlike License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/57688343@N00/1788993481/" title="Un ragazzo chiamato Bi" target="_blank">Un ragazzo chiamato Bi</a></small>  

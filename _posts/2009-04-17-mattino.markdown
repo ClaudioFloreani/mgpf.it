@@ -1,14 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Mattino...
 meta: {}
 tags: 
-- dumb
-- idiot
 - about-me
-- motherfucker
 ---
 Ormai il momento ludico della mattinata, dopo la lettura di [Eriadan][1] è leggere e cassare i commenti dell'idiota che non ha ancora capito che i commenti su Lastknight.com sono sottoposti a moderazione preventiva dai tempi di Mediaset vs. Youtube...  
 People are dumb ;)
-
 [1]: http://www.shockdom.com/eriadan 

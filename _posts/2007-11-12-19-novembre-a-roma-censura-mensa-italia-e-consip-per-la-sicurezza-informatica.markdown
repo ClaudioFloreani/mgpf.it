@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: "19 Novembre a Roma: Censura, Mensa Italia e Consip per la sicurezza informatica"
 meta: {}
 tags: 
@@ -16,13 +17,10 @@ I relatori sono tutti soci Mensa che per passione, professione o entrambe, vivon
   
 **Personalmente oltre a presentare il Talk sulla censura parlerò delle nuove tecnologie che abbiamo sviluppato in gruppo di lavoro per la mappatura sistematica delle realtà web bloccate da Decreto Gentiloni e di come istituire un laboratorio permanente per l'Osservazione e la Tutela della correta applicazione delle normative.** 
   
-
-
       
 Lappuntamento è per il **19 novembre 2007 alle ore 9.30 presso lAuditorium Consip Sandra Russo, Via Isonzo 19/e, Roma**.  
   
 Programma della giornata:  
-
 *  9.30 Apertura lavori Danilo Broggi
 *  9.45 Marco Maggio, Problemi di sicurezza in Windows Vista
 *  10.30 Salvatore Mandrà, Attacco al web: cross-site scripting e altre vulnerabilità
@@ -37,11 +35,9 @@ Programma della giornata:
 *  16.45 Conclusioni e discussioni
   
 Qualche parola sul Mensa:  
-
 > Il Mensa è un'associazione internazionale tra persone aventi un elevato quoziente intellettivo. Ne può far parte chiunque raggiunga o superi il 98° percentile della popolazione in un test dintelligenza amministrato e controllato dal Mensa.  
 > Lassociazione venne fondata ad Oxford nel 1946 con lo scopo di favorire lo scambio tra persone intellettualmente affini a prescindere dal loro ceto e stato sociale. La sua sezione italiana conta oltre mille soci.  
 > Il Mensa non persegue fini di lucro e non fa discriminazioni di razza, classe, cultura o sesso; mantiene inoltre per statuto la più rigorosa neutralità sul piano politico, filosofico e religioso. I suoi scopi istituzionali sono: scoprire e incoraggiare l'intelligenza umana a beneficio dell'umanità; favorire contatti sociali fra persone intelligenti; effettuare ricerche sulla natura, le caratteristiche e gli usi dell'intelligenza.  
-
 E qualche parola sul Consip:  
   
 > Consip è una società per azioni del Ministero dellEconomia e delle Finanze (MEF), che ne è lazionista unico, ed opera secondo i suoi indirizzi strategici, lavorando al servizio esclusivo delle pubbliche amministrazioni.  

@@ -1,19 +1,11 @@
 --- 
 layout: post
-title: "Non mi aspettavo dei bastardi in N\xF2va..."
+status: ok
+title: "Non mi aspettavo dei bastardi in Nova..."
 meta: {}
 tags: 
-- bastardi
-- ladri
-- about-me
-- !binary |
-  bsOydmE=
-
-- retrogradi
-- web 1.0
----
-  
-  
+- ip
+---  
 Maria [scrive nel suo blog](http://sednonsatiata.wordpress.com/2008/05/22/di-copyright-ed-altri-furti-nova/) di come quelli di Nòva, che **ritenevo persone responsabili**, si siano rivelati invece una manica di manigoldi. E sì che **dovrebbero saperne qualcosa di web** visto che ne vogliono parlare...   
   
 > Il 13 maggio, a soli 3 giorni dopo il Wordcamp, Andrea Beggi mi chiedeva gentilmente il permesso di utilizzare una delle foto che ho scattato a Matt Mullenweg sul Duomo di Milano per un articolo su Nòva - Il Sole 24 ore. Permesso accordatogli con piacere, naturalmente, sapendo che lui avrebbe fornito, assieme alla foto, anche le informazioni necessarie per i photo credits.  
@@ -21,7 +13,7 @@ Maria [scrive nel suo blog](http://sednonsatiata.wordpress.com/2008/05/22/di-cop
 > Ho comprato, infatti, il numero 126 dellinserto Nòva (data 22 maggio 2008), trovando a pagina 9 larticolo di Beggi (ottimo, del resto), assieme ad un crop della foto che aveva chiesto il permesso di usare.  
 > Photo credits o photo courtesy? Niente.  
   
-Complimentoni!  **Pollice vorso** a Nòva e pollice in alto, invece, al buon Beggi, che non solamente ha citato la fonte, ma ha anche indicato il courtesy...  
+Complimentoni!  **Pollice verso** a Nòva e pollice in alto, invece, al buon Beggi, che non solamente ha citato la fonte, ma ha anche indicato il courtesy...  
   
 Ma che Beggi sia un gentiluomo non è una novità...  
   

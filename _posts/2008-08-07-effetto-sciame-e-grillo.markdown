@@ -1,9 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Effetto sciame...
 meta: {}
 tags: 
 - about-me
+- forensics
+- digital freedom
 ---
 ![Anonymous](http://www.lastknight.com/download/2008/08/anonymousbecause-240x300.jpg)
   
@@ -12,7 +15,7 @@ Sono andato a controllare e non trovavo una ragione precisa...
   
 Poi ho visto: sul blog di BeppeGrillo **si parla di una altro argomento**. E ora lo sciame dei Grilli è da un'altra parte...  
   
-La cosa che più mi ha impressionato, in realtà, sono state le persone che hanno scritto in Messenger o hanno telefonato. Non avevano la più pallida idea di chi fossi, cosa [facessi nella vita](http://www.matteoflora.com) e del perchè mi stessero insultando.  
+La cosa che più mi ha impressionato, in realtà, sono state le persone che hanno scritto in Messenger o hanno telefonato. Non avevano la più pallida idea di chi fossi, cosa [facessi nella vita](http://www.matteoflora.com) e del perché mi stessero insultando.  
 La pressoché totalità di loro erano convinte che io stessi facendo la causa. Nemmeno fossi divenuto tutto d'un tratto PierSilvio.  
 Nella realtà dei fatti come perito posso solo fare una **perizia** *(maddai?)* che, tra l'altro, non quantifica un danno. Quello è compito dell'ATTO, redatto da Avvocati e non certamente dal sottoscritto.   
   
@@ -27,9 +30,9 @@ Se vogliamo vederla così non cambia molto nemmeno dai PapaBoys, sferzati da una
 A è vera.  
 B è vera.  
 C è vera.  
-D è falsa, ma non controllo più perchè mi sono fermato a controllare a C.  
-E è falsa, ma non controllo più perchè mi sono fermato a controllare a C.  
-F è falsa, ma non controllo più perchè mi sono fermato a controllare a C.  
+D è falsa, ma non controllo più perché mi sono fermato a controllare a C.  
+E è falsa, ma non controllo più perché mi sono fermato a controllare a C.  
+F è falsa, ma non controllo più perché mi sono fermato a controllare a C.  
 ...  
   
 Non mi arrogo certo la scoperta del "problema italico" *(non sono in grado di badare a me stesso figuriamoci all'italia)*, sia chiaro, ma permettetemi di esprimere una morigerata constatazione: credo che il più grande problema degli italiani sia proprio che, nel tempo, hanno perso la loro criticità.  
@@ -46,5 +49,4 @@ Lo so, è una Reductio ad Hitlerium anche questa. Spero, però, che faccia per l
 Sia chiaro, non ce l'ho con Grillo ed, anzi, appoggio tutta una serie di iniziative. Ce l'ho con una parte di italiani che hanno deciso di sacrificare il loro libero arbitrio all'una o all'altra causa.  
 Ma non fateci caso, forse è solo la fatica del destreggiarmi tra le centinaia di messaggi di insulti :)   
   
-
  

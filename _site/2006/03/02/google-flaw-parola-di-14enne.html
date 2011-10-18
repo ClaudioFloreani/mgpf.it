@@ -13,14 +13,12 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-74632-8']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
   </head>
   <body>
     <header>
@@ -38,24 +36,15 @@
       <h2 id="intro">Google Flaw: parola di 14enne</h2>
 <article class="post">
 <p>Un ragazzino di <strong>14 anni</strong>, per ora noto solamente per il nome &ldquo;Anthony&rdquo; ha scoperto ina <strong>nuova e importante vulnerabilità</strong> del servizio di Google Mail.</p>
-
 <p>Scrive sul suo <a href="http://ph3rny.blogspot.com/2006/03/vulnerability-in-gmail.html">Blog</a> di aver <strong>rilevato la problematica</strong> mentre tentava di spedire del codice Javascript ad un amico tramite Mail.  </p>
-
 <p>La vulnerabilità riscontrata riguarda la <strong>presenza di codice javascript</strong> all&rsquo;interno dell&rsquo;<strong>Oggetto della mail</strong> inviata e determina una duplice problematica di ragguardevole entità: innanzitutto il codice Javascript potrebbe agevolmente compromettere l&rsquo;integrità dei dati dell&rsquo;account di posta elettronica dell&rsquo;utente ed in seconda analisi il codice viene <strong>eseguito anche dalla pagina di preview dei messaggi</strong>.  </p>
-
 <p>Nel dettaglio è sufficiente introdurre codice nell&rsquo;<strong>Oggetto</strong> per vederlo eseguito una volta aperta la schermata principale del proprio account Gmail. Se ad esempio si introduce il seguente codice  </p>
-
 <p><code>
 Pippo<script>alert("QUesto è codice malevolo!");</script>
 </code></p>
-
 <p>si otterrà l&rsquo;esecuzione dello script.</p>
-
 <p>Google non ha ancora assunto una <strong>posizione ufficiale</strong> sull&rsquo;argomento, ma le implicazioni sono <strong>ovviamente vastissime</strong>, se si pensa alla possibilità di eseguire codice recuperato remotamente e quindi non soggetto ad alcun tipo di limitazione.</p>
-
 <p><strong>UPDATE:</strong> Google in poco meno di 2 ore ha fixato e corretto il problema&hellip; Complimenti ragazzi! </p>
-
-
 <h2>Articoli (forse) correlati</h2>
 <ul>
   
@@ -70,7 +59,6 @@ Pippo<script>alert("QUesto è codice malevolo!");</script>
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
   
 </ul>
-
 <h2>Articoli recenti</h2>
 <ul class="posts small">
 	
@@ -85,7 +73,6 @@ Pippo<script>alert("QUesto è codice malevolo!");</script>
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
 	
 </ul>
-
 <time class="signoff" datetime="2006-03-02">
   02/03/2006 con tag:
 	
@@ -93,7 +80,6 @@ Pippo<script>alert("QUesto è codice malevolo!");</script>
 	
 </time>
 </article>
-
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'mgpf';
@@ -104,7 +90,6 @@ Pippo<script>alert("QUesto è codice malevolo!");</script>
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-
       <footer id="footer">
         
         <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">

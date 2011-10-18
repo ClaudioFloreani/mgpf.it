@@ -1,15 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Sentimento del giorno
 meta: {}
 tags: 
-- banksy
-- bimbi
-- caccia alle streghe
-- follia
-- about-me
-- paranoia
-- pedopornografia
+- awesome
 ---
 <center>
 ![Banksy](http://farm2.static.flickr.com/1224/564601303_ef0c7ae618.jpg?v=0)  

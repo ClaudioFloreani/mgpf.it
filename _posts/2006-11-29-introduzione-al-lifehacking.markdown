@@ -30,6 +30,5 @@ Eccone alcuni:
   Non esattamente un sito di LifeHacking, ma sicuramente una miniera di link indispensabili per riuscire a destreggiarsi nella modifica dell'hardware e nella rimozione di fastidiosissime limitazioni al proprio "hardware" reale...
   
 Con ogni probabilità **parlerò ancora** di LifeHacking nelle prossime settimane, che peraltro vista la consegna di fine mese si preannunciano pregne di una cosa che non possedevo da moltissimo tempo: **del tempo mediamente libero** ;)
-
 **Happy LifeHacking**!  
  

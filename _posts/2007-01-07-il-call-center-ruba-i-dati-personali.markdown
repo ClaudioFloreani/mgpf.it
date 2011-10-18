@@ -12,7 +12,6 @@ Una mail da uno sconosciuto che sottolinea un ipotetico problema è una cosa, ma
 Tutto inizia con una normalissima telefonata ad un notissimo **vendor di connettività ADSL** e finisce con una **tentativo di truffa vera e propria** sventata da Giorgio (e da altri lettori prima di lui) appena prima di divenire un potenziale disastro. Ma quanti altri avrebbero questa prontezza di riflessi?  
    
 Scrive Giorgio:
-
 > Oggi sono stato vittima di un tentativo di scam mal riuscito.   
 > Dopo essermi accorto di aver scelto il piano ADSL meno conveniente del mondo, ho telefonato al numero verde dell'operatore di telefonia per cancellare il piano tariffario.  
 >  
@@ -23,10 +22,9 @@ Scrive Giorgio:
 > 
 > A questo punto la domanda sorge spontanea: a che serve la carta di credito?  
 >  
-> Faccio un paio di accertamenti, chiamo altri operatori. Tutti mi dicono che la carta di credito non viene richiesta durante il processo di annullamento di un ordine, anche perchè non è possibile fare alcuna verifica, visto che i pagamenti vengono fatti tramite il contocorrente dell'utente.  
+> Faccio un paio di accertamenti, chiamo altri operatori. Tutti mi dicono che la carta di credito non viene richiesta durante il processo di annullamento di un ordine, anche perché non è possibile fare alcuna verifica, visto che i pagamenti vengono fatti tramite il contocorrente dell'utente.  
 >  
 > **Tentativo di truffa**? Scam? Episodio **isolato o organizzato**?
-
 Ancora una volta mi trovo costretto a recitare, chissà per quante volte ancora, la massima "rubata" all'amico Mayhem e dire: "**PARANOIA IS A VIRTUE**".  
   
 E' incredibile che ad ordire intrighi sulla pelle di ignari consumatori vi siano addirittura **persone in possesso di informazioni privilegiate** quali impiegati di Call Center: se il fenomeno dovesse diffondersi le barriere di sicurezza da erigere sarebbero **incredibilmente alte**.  

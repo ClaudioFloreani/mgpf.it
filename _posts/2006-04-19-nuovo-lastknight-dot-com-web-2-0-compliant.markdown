@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Nuovo Design, nuove opzioni, nuovo sito...
 meta: {}
 tags: 
@@ -10,7 +11,6 @@ Ho ricevuto qualche mail in questi ultimi giorni che mi chiedevano dove fossi fi
 Il nuovo design, mutuato da decine di WebLogs di successo, copia pedissequalmente una serie di interessanti funzionalità che ho ritrovato spesso in tutti i siti di **maggior successo**.  
   
 La transizione alla nuova piattaforma è stata dettata principalmente dall'esigenza di **ottenere un sito web decisamente più fruibile** in tutte le sue componenti, che esaltasse (come prima non accadeva) le oltre trecento pagine che lo compongono e che contengono interessanti spunti seguiti ormai da centinaia (400, per la precisione) di lettori.  
-
 L'obiettivo principale è stato quello di fornire una **navigazione più immediata** in TOP, una **navigazione alternativa** strettamente tematica in laterale ed informazioni aggreganti come "community" come ad esempio gli ultimi commenti ed i trackback.
 Innanzitutto credo che la cosa più vistosa da notare siano le bande a destra; vi sono una serie di funzioni aggiunte ed innovative tra le quali:  
 

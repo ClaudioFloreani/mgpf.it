@@ -1,11 +1,10 @@
 --- 
 layout: post
+status: ok
 title: L'haiku del Divulgatore Informatico
 meta: {}
 tags: 
-- divulgatore informatico
-- professore
-- security- sw4n
+- awesome
 ---
 Ogni tanto, non spesso eh solo **ogni tanto** =], adoro Sw4n.  
   

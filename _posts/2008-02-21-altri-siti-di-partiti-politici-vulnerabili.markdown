@@ -1,21 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Altri siti di Partiti Politici vulnerabili...
 meta: {}
-
 tags: 
-- bucabile
-- digital-freedom
-- dol
 - hacking
-- neikos
-- partito
-- partito democratico
-- pd
-- rauti
-- security- sito web
-- udeur
-- "vulnerabilità"
 ---
 Avevo deciso si stare **buono buonino**, visto l'inizio della mia collaborazione col **Punto Informatico**, ma visto che [iniziano loro][1] posso mettermici anche io...  
   
@@ -65,5 +54,4 @@ Al solito lasciate commenti o contattatemi :).
 [9]: http://www.misconrauti.it/
 [10]: http://www.stylefactory.it/
 [11]: http://www.neikos.it/
-
 [tag]bucabile, vulnerabilità, partito, udeur, rauti, partito democratico, pd, neikos, dol, sito web[/tag] 

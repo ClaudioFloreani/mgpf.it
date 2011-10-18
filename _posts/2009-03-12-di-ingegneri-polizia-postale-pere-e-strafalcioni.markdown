@@ -1,13 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Di ingegneri, Polizia Postale, pere e strafalcioni
 meta: {}
 tags: 
-- adriano ardito
-- Cazzate
-- digital-freedom
 - forensic
-- polizia
+- weird
 ---
 Se mai aveste manie **_informatico ortofrutticole_** vi consiglio caldamente la visita nella data del 18 Marzo presso l'[Istituto Silone][1].  
 Perchè ortofrutticolo?  

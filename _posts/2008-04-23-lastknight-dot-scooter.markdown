@@ -1,13 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Lastknight dot Scooter
 meta: {}
 tags: 
-- lastknight
-- matteo flora
 - about-me
-- scooter
-- sh125
 ---
 <center>
 <a href="http://www.flickr.com/photos/lastknight/2420945981/" class="tt-flickr tt-flickr-Medium"><img src="http://farm3.static.flickr.com/2152/2420945981_889a9c8cda.jpg" alt="Modding the new scooter" width="500" height="375" border="0" /></a>   

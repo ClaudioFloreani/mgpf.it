@@ -1,14 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Denunciare chi non prescrive la pillola del giorno dopo
 meta: {}
-
 tags: 
-- aborto
+- politica
 - digital-freedom
-- legge
-- obiezione
-- pillola del giorno dopo
 ---
 ![Pillola del gorno dopo](http://www.repubblica.it/online/politica/giornodopo2/tar/storico00281dbfcxw200h132c00.jpg)
 Premesso che secondo me, salvo rarissime eccezioni, chi utilizza la **pillola del giorno dopo** è un cretino cerebroleso che nel 2008 non ha ancora capito nulla di **contraccezione** *(e ribadisco vi sono comunque scusanti ed eccezioni, quindi piano con i commenti)*, premesso questo ricordo che siamo in uno **stato di diritto** ed il **diritto del cittadino** non può essere leso in nome di nessuna fantomatica **obiezione di coscienza** se non nei casi esplicitamente previsti dalla legge.  
@@ -20,7 +17,6 @@ A quanto pare questa sonora **cazxxxa** da un punto di vista legale si ripete co
 Tanto premesso, invito le donne che dovessero **vedersi rifiutata la prescrizione** della pillola del giorno dopo a **denunciare** il farmacista o il medico che le hanno **negato un diritto costituzionale**. Chissàmai che imparino?  
   
 Prcedere come segue (pedissequo plagio dal post di [MetilParaBen][7]):  
-
 1. Farsi **sempre** registrare allentrata del Pronto Soccorso;  
 2. Chiedere al personale medico e infermieristico con cui vengono in contatto di qualificarsi;
 3. Se vi viene detto che il ginecologo di turno non può ricevervi, chiedete cosa glielo impedisce, fatevi dare le sue generalità complete e sottolineate che intendete procedere penalmente;  
@@ -31,7 +27,6 @@ Una volta ottenuti questi dati sarà possibile **denunciare il medico** che non 
 [Qua tutte le informazioni][4]; [qua][5] e [qua][6] i **modelli da utilizzare** per le denunce.  
   
 Svegliamoci, gente!
-
 [1]: http://www.lastampa.it/redazione/cmsSezioni/cronache/200802articoli/29842girata.asp 
 [2]: http://www.associazioneaglietta.it/comunicatistampa1007.html#30-10b
 [3]: http://www.ginecologiaediritti.it/testo194.htm
@@ -39,5 +34,4 @@ Svegliamoci, gente!
 [5]: http://www.lucacoscioni.it/files/Esposto%20pillola%20del%20giorno%20dopo.pdf
 [6]: http://www.lucacoscioni.it/files/Modello%20denuncia%20farmacisti.doc
 [7]: http://metilparaben.blogspot.com/2008/02/denunciateli.html
-
 [tag]obiezione, legge, pillola del giorno dopo, aborto[/tag] 

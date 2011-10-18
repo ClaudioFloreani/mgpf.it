@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Il ritorno del re...?
 meta: {}
 tags: 
@@ -12,5 +13,6 @@ Ed il prode [guerriero vichingo](http://www.jomsvikings.com/) di Adrenalab iana 
 > Mentre il resto della disciolta Compagnia è impegnato nella battaglia contro il potente esercito di [Moratturon](http://www.lastknight.com/2005/12/22/moratti-cybersquatting/), che ha messo sotto assedio [Minas Villagh](http://www.alvillage.com), capitale del regno di Gregdor, [l'ultimo cavaliere](http://www.lastknight.com) forgia il suo nuovo sito prima di affrontare nuovi epici scontri...
 
 L'**ironia delle sue parole** verrà colta da credo massimo due persone, ma vi invito comunque a visitare il **meraviglioso** Adrenalablog e tutto Adrenalab in genere per capire **cosa intendo per WebDesign**...  
+
 E per il resto credo valga la pena notare l'**immagine di repertorio** che quel pazzo di Luca è riuscito a recuperare... ;]  
 (<I>P.S. Si, sono io.... Anche quello in Header in una fotografia di Luca Patrone ...</I>) 

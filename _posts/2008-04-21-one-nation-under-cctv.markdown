@@ -1,13 +1,10 @@
 --- 
 layout: post
+status: ok
 title: One Nation Under CCTV
 meta: {}
 tags: 
-- bansky
-- controllo
-- grande fratello
-- about-me
-- telecamere
+- awesome
 ---
 Semplicemente sublime da Banksy.  
   
@@ -18,5 +15,3 @@ Semplicemente sublime da Banksy.
 Nel caso non fosse chiaro, il bambino, il poliziotto e la scritta sono un Graffito a muro...  
  
 **EDIT:** [Qui](http://www.flickr.com/photos/herschell/2412494935/) si vede meglio.  
-  
- 

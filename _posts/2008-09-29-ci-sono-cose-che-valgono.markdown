@@ -1,10 +1,9 @@
 --- 
 layout: post
+status: ok
 title: Ci sono cose che valgono...
 meta: {}
 tags: 
-- gratism thepiratebay
-- grazie
 - about-me
 ---
 ...di più di una parcella...  

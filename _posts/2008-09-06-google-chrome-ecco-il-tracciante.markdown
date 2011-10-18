@@ -1,11 +1,13 @@
 --- 
 layout: post
+status: ok
 title: "Google Chrome: ecco il tracciante..."
 meta: {}
 tags: 
 - digital-freedom
-- paranoia
 - security
+- hacking
+- google
 ---
 In attesa di avere tempo per scrivere bene il tutto, credo che questa sia la base per partire in una analisi del comportamento tracciante di Firefox e Google Chrome nel check delle Url tramite il servizio di SafeBrowsing. maggiori dettagli sono [qui](http://code.google.com/apis/safebrowsing/reference.html#CanonicalizationExamples).  
 Il servizio è nato, ricordo, come contrasto al phishing e a cui il browser invia le URL da controllare.  

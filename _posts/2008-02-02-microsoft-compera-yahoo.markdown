@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Microsoft compera Yahoo!?
 meta: {}
 tags: 

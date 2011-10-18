@@ -4,19 +4,13 @@ title: Di ignoranza, Youtube ed altre sciocchezze...
 published: false
 meta: {}
 tags: 
-- byoblu
-- censura
 - digital-freedom
-- ignoranza
 - about-me
-- mediaset
-- pressapochismo
-- security- youtube
-status: draft
+- frensics
 ---
 Ho già parlato della pressoché totale mancanza di criticità del popolo della rete, mostrata soprattutto (ma non in via esclusiva) dal vandalismo della mia macchina da parte di qualche bontempone, ma sorvolando questo punto la maggior parte degli **automi da combattimento** che hanno affollato queste pagine si sono soffermati su una domanda che a mio parere ha dell'incredibile:  
   
-> **Ma allora perchè non fai anche una perizia dei video di YouTube che Mediaset ruba?**  
+> **Ma allora perché non fai anche una perizia dei video di YouTube che Mediaset ruba?**  
   
 Per agilità di risposta lasciatemi suddividere la domanda un due differenti: **"Perchè non fai una perizia per YouTube"** *(continuo a chiamarla perizia per fare capire, ma trattasi "giuridicamente" di una "consulenza")* e **"Perchè Youtube non fa causa a Mediaset"**.  
   
@@ -34,12 +28,12 @@ Non mi metto a "periziare" cose che non mi vengono richieste per un triplice mot
 * **Non servirebbe ad un tubo**  
     *perché una consulenza di questo genere servirebbe solamente SE YouTube avesse intenzione di fare causa a Mediaset. Cosa che NON PUO' fare (vedi sotto)*.  
   
-<h2>Ma allora perchè Youtube non fa causa a Mediaset?</h2>  
+<h2>Ma allora perché Youtube non fa causa a Mediaset?</h2>  
    
 Che mediaset utilizzi materiale prelevato da YouTube o, comunque, materiale PRESENTE anche su YoyTube *(e anche altrove)* è innegabile.  
-Quindi, a parte i sociopatici che mi intimano di fare un lavoro *(che spero sia chiaro non posso fare senza mandato)* c'è da domandarsi **perchè YouTube non faccia, effettivamente, causa a MediaSet** per l'utilizzo di proprio materiale illecitamente nelle sue trasmissioni.  
+Quindi, a parte i sociopatici che mi intimano di fare un lavoro *(che spero sia chiaro non posso fare senza mandato)* c'è da domandarsi **perché YouTube non faccia, effettivamente, causa a MediaSet** per l'utilizzo di proprio materiale illecitamente nelle sue trasmissioni.  
   
-Oddio, a dire la verità è una domanda che ad una persona dotata di raziocinio dovrebbe balenare per meno di 12 secondi. Già perchè, se ci pensate, **YOUTUBE NON HA ALCUN DIRITTO DI SORTA SU QUEL MATERIALE. NON E' MATERIALE SUO E NON PUO' VANTARE ALCUN TIPO DI PRETESA.**.  
+Oddio, a dire la verità è una domanda che ad una persona dotata di raziocinio dovrebbe balenare per meno di 12 secondi. Già perché, se ci pensate, **YOUTUBE NON HA ALCUN DIRITTO DI SORTA SU QUEL MATERIALE. NON E' MATERIALE SUO E NON PUO' VANTARE ALCUN TIPO DI PRETESA.**.  
   
 Morti? Basiti? Pronti a lanciare strali di fuoco così giusto per fare come negli ultimi giorni?  
 Suvvia, datemi ancora poche parole e vedrete che è un discorso abbastanza semplice.  

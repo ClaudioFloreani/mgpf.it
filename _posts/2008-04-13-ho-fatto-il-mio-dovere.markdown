@@ -1,12 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Ho fatto il mio dovere...
 meta: {}
 tags: 
-- hofattoilmiodovere
 - about-me
-- Politica
-- voto
 ---
 <a href="http://flickr.com/photos/lastknight/2409325945/"><img src='http://farm3.static.flickr.com/2297/2409325945_4fcac918f4.jpg?v=0' alt='Ho fatto il io dovere' class='aligncenter' /></a>  
   

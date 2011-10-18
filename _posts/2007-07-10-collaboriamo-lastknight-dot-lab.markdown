@@ -20,7 +20,6 @@ Chi cerco? Direi **tre categorie** di personaggi:
 *  **DIVULGATORI:** possibilmente facenti parte di una delle due precedenti categorie che vogliano scrivere contenuti interessanti dal punto di vista dell'innovazione e/o della sicurezza informatica  
   
 I progetti in questo momento nel "Dimenticatoio" fanno capo ad una serie di argomenti:  
-
 *  **GOOGLETISTIC:** Tracking della permeazione di Google e statistiche di utlilizzo mediante parsing e spidering di pagine web (prototipo funzionante pronto).  
 *  **WIFANDO:** Diffusione delle reti Wireless sul territorio italiano, specialmente nei GROSSI centri urbani di Milano, Roma, Napoli, Torino, Trieste, Bologna, Firenze, Cagliari, Palermo (e altri) (metodologia e prototipo pronti)  
 *  **MAPPOLITICANDO:** Mappa e reti sociali di tracking del parlamento e dei gruppi politici italiani (analisi dati effettuata, in planning)  
@@ -29,6 +28,6 @@ Tutti e tre i progetti, più altri nel cassetto, vogliono essere pseudo-funziona
   
 Si richiede **voglia di fare** e soprattutto tempo libero e la voglia di collaborare non tanto gratuitamente quanto in **visione di una esposizione futura** che non mancherà sicuramente di arrivare...  
   
-Se siete interessati **mandate una mail** all'indirizzo dei contatti con subject "LAB" e specificando il progetto che vi piacerebbe seguire oltre a una breve descrizione di chi siete e cosa fate e perchè siete così bravi ;)  
+Se siete interessati **mandate una mail** all'indirizzo dei contatti con subject "LAB" e specificando il progetto che vi piacerebbe seguire oltre a una breve descrizione di chi siete e cosa fate e perché siete così bravi ;)  
   
 A presto per le news... 

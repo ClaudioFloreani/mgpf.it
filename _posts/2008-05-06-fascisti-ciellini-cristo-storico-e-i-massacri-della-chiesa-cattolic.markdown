@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Fascisti Ciellini, Cristo Storico e i Massacri della chiesa...
 meta: {}
 tags: 
@@ -15,7 +16,7 @@ MNi sto divertendo tantissimo con **veri imbecilli doc&copy;** come tal:
   
 Che scrive:  
   
-> Io penso che questo Matteo Flora sia il classico cretino anonimo che si nasconde nel mondo virtuale per sparare cazzate a getto continuo. Comunque penso che il suo ridicolo ed insulso sito andrebbe chiuso, perchè offensivo della fede di miliardi di persone e della dignità  umana.  
+> Io penso che questo Matteo Flora sia il classico cretino anonimo che si nasconde nel mondo virtuale per sparare cazzate a getto continuo. Comunque penso che il suo ridicolo ed insulso sito andrebbe chiuso, perché offensivo della fede di miliardi di persone e della dignità  umana.  
   
 Eccovi mostrato in pieno il **vero cristiano**: quello che insulta e vuole la ovvia censura. Mi è andata bene, avrebbe potuto volermi **massacrare** come d'uso ormai sistematico nella **chiesa cattolica**.  E visto che si parla di **dignità umana** la chiesa cattolica ne ha ben poca: appena ebbero finito di essere perseguitati i cristiani iniziarono a imporre con la forza la loro religione.  
   
@@ -43,5 +44,4 @@ Boh.
   
 > At the gates and the walls of Montségur, blood on the stones of the citadel.  
   
-
 [1]: http://www.lastknight.com/2007/12/25/e-se-gesu-cristo-non-fosse-mai-esistito/ 

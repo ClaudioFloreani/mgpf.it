@@ -16,7 +16,6 @@ Con un [Advisory](http://www.lastknight.com/xss-libero) su [BugTraq](http://www.
 *  Effettuare **un redirect ad una pagina arbitraria**  
   
 Ed ecco un paio di immagini della realizzazione pratica:  
-
 *  [Immagine 1](/download/20070328_xss1.jpg): mostro il cookie
 *  [Immagine 2](/download/20070328_xss2.jpg): Mi preparo a redirigere l'utente  
   

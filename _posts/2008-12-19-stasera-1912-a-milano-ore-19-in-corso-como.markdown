@@ -1,15 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Stasera 19/12 a Milano, ore 19 in Corso Como!
 meta: {}
 tags: 
-- aperitivo
-- conferenza
 - about-me
-- digital-freedom
-- about-me
-- privacy
-- security
+- talk
 ---
 <a href="http://www.lastknight.com/download//2008/12/locandina.jpg"><img src="http://www.lastknight.com/download//2008/12/locandina.jpg" alt="locandina" title="locandina" width="523" height="740" class="aligncenter size-full wp-image-1229" /></a>  
     

@@ -1,17 +1,11 @@
 --- 
 layout: post
+status: ok
 title: "Tre Metri sopra il CEPU... più qualcuno :)"
 meta: {}
 tags: 
-- digital-freedom
-- disma
-- matteo flora
 - about-me
-- provacy
-- radio popolare
-- the fool
-- The Fool
-- tre metri sopra il cepu
+- talk
 ---
 E anche quest'anno ricevo e assolutamente sottoscrivo l'invito dell'amico [Disma](http://www.disma.biz/) a partecipare alla trasmissione di Radio Popolare "Tre metri sopra il CEPU".  
 Domani 7 Luglio 2009 sarò in diretta con lui a parlare di Privacy Online, Google e altri temi di interesse per i naviganti, senza tralasciare ancora una volta il nostro FoolDns.  

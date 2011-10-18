@@ -1,10 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Di nuovo hackerato ;)
 meta: {}
 tags: 
+- about-me
 - forensic
-- security
+- p0wn
 ---
 **Mea culpa, mea culpa, mea maxima culpa** sembra proprio che mi **abbiano sfondato** il vecchio Wordpress 2.2.3 che non aggiornavo per pigrizia :)  
   

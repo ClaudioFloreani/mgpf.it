@@ -1,8 +1,8 @@
 --- 
 layout: post
+status: ok
 title: Al Village e ritorno...
 meta: {}
-
 tags: 
 - about-me
 ---

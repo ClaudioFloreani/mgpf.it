@@ -9,7 +9,6 @@ tags:
 - security
 ---
 ![Nokia e SMS cancellati](http://www.lastknight.com/download//20070516_nokia.gif)
-
 E' proprio una di quelle scoperte **destinate a fare scalpore** quella del buon Davide "Dante" Del Vecchio, che con una mail su **BugTraq** e **SecurityFocus** pubblica il risultato di una **imperfezione dei sistemi Nokia** destinata ad avere pesanti ripercussioni non solamente sul panorama della sicurezza informatica, ma anche e soprattutto su quello della **Computer Forensics**.  
   
 Dante, infatti, è riuscito mediante l'utilizzo della Suite di Nokia a **recuperare i messaggi SMS cancellati** sul terminale sino ad un anno prima e miracolosamente **presenti ancora sul device**.  
@@ -23,7 +22,6 @@ Vediamone il dettaglio:
 *  Una volta recuperato il testo del messaggio un GREP sui file della directory è in grado di recuperare anche il numero di telefono del destinatario.  
   
 Citando Dante è **impressionante** la risposta del vendor:
-
 > Ho scritto una mail al supporto Nokia e mi han detto di **non essere
 a conoscenza della vulnerabilità**, mi han chiesto informazioni riguardo
 ulteriori modelli affetti ma hanno affermato di **non voler rilasciare**

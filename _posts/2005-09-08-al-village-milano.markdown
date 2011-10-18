@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Misteri di Google....
 meta: {}
 tags: 

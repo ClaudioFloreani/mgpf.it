@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Bruceremo tutti in Stazione Garibaldi a Milano
 meta: {}
 tags: 

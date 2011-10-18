@@ -1,10 +1,11 @@
 --- 
 layout: post
+status: ok
 title: "Hackers: Santi Criminali, il problema della Disclosure in Italia"
 meta: {}
 tags: 
 - about-me
-- security
+- talk
 ---
 Per chi  <s>domani</s> **oggi** sarà in zona Como segnalo che parlerò alle 11.30 sul tema **"Hackers: Santi Criminali, il problema della Disclosure in Italia"** a nome di OPSI ed AIP.  
 In pratica un discorso di una mezzo'retta su Full/Half disclosure, Ethical Hacking, Pentesting e visioni etico/morali di tutto questo.  

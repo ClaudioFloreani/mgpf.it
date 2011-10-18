@@ -1,11 +1,9 @@
 --- 
 layout: post
+status: ok
 title: Taglio la barba per protesta
 meta: {}
 tags: 
-- autoritratto
-- bianco e nero
-- matteo flora
 - about-me
 ---
 ...quindi se mi incontrate e non mi riconoscete più sono sempre io... Solamente sbarbato...  

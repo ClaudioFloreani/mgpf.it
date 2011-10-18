@@ -1,10 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Alle 16 intervista su 101
 meta: {}
 tags: 
 - about-me
-- security
+- talk
 ---
 <a href="http://www.flickr.com/photos/61493316@N00/261096092/" title="WOW!! IT'S ROCK'N'ROLL!!!" target="_blank"><img src="http://farm1.static.flickr.com/91/261096092_9bc8ad81b4.jpg" alt="WOW!! IT'S ROCK'N'ROLL!!!" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/61493316@N00/261096092/" title="David Zellaby" target="_blank">David Zellaby</a></small>  

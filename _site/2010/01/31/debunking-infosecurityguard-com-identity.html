@@ -13,14 +13,12 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-74632-8']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
   </head>
   <body>
     <header>
@@ -43,35 +41,24 @@ This post is in English for it refers to an english-language heated discussion.
 <br />
 <i>Per gli italiani: scusatemi, prometto di scrivere di nuovo in italiano presto :)</i>.
 </div>
-
 <p>It was about time for a little manhunt&hellip; I didn&rsquo;t one since the last intrusion on Lastknight.com, but a dear friend of mine, <a href="http://infosecurity.ch">Fabio</a> pointed me to an interesting study that smelled a little too much of &ldquo;marketing stunt&rdquo;.  </p>
-
 <p>DISCLOSURE: Fabio and I are long time friends and we&rsquo;ve done some work together. Presently we do not have any kind of business together, aside from some beers and som dinners together :) He asked me to lend a hand in finding &ldquo;if I could trace who&rsquo;s behind InfoSecurityGuard.com&rdquo; and I decided to throw a little bit of my Sunday on it&hellip;   </p>
-
 <p>Fabio works in a <a href="http://khamsa.it">Secure Communication firm</a>, which has created a <a href="http://privategsm.com">nifty little cellphone encryption app</a> and some days ago the protocol underlying this app, along with a bunch of other competitors, was tested by a strange unknown <a href="http://infosecurityguard.com/">indipendent examiner</a> which presented himself with the name of Notrax, a <a href="http://www.youtube.com/user/Notrax10">YouTube Channel</a> and a <a href="http://infosecurityguard.com/?page_id=2">a funny bio</a>: </p>
-
 <blockquote>
   <p>¾ Human, ¼ Android (Well that would be cool at least.) I am just an enthusiast of pretty much anything that talks binary and if it has a RS232 port even better. During the day I masquerade as an engineer working on some pretty cool projects at times, but mostly I do the fun stuff at night.  </p>
 </blockquote>
-
 <p>The testing method seems to me a little shaky, but that&rsquo;s not the point (not mine, at least) and Fabio <a href="http://infosecurity.ch/20100130/about-the-voice-encryption-analysis-phonecrypt-can-be-intercepted-serious-security-evaluation-criteria/">explained in some length</a> his view on the subject that may or may not be the truth.<br />
 The point behind it is the total anonymity that Mr.Notrax seems to want to achieve with the report. That seems strange, considered how many man-hours he has surely spent on the detailed and time consumptive work.  </p>
-
 <p>Fabio&rsquo;s sixth sense tingled some strangeness when shortly after publication he found a complex press releases by <a href="http://www.securstar.com/home.php">SecurStar Gmbh</a> published <a href="http://eon.businesswire.com/portal/site/eon/permalink/?ndmViewId=news_view&amp;newsId=20100127005093&amp;newsLang=en">on BusinessWire</a> flaunting <a href="http://PhoneCrypt.com">their solution</a> (namely PhoneCrypt) as:  </p>
-
 <blockquote>
   <p>PhoneCrypt from SecurStar was one of only three solutions that successfully blocked hacker attacks that were made using a simple wiretapping Trojan  </p>
 </blockquote>
-
 <p>And the press release goes in much more detail:  </p>
-
 <blockquote>
   <p>Like most security breaches, Notrax went for the weakest link; he did not attempt to crack the encryption itself, but used simple wiretapping techniques, said Wilfried Hafner, CEO at SecurStar that developed the PhoneCrypt solution. Unlike most of the vendors investigated, we recognized this potential security gap from the start and designed in measures to deliver complete end-to-end protection against eavesdropping.   </p>
 </blockquote>
-
 <p>Don&rsquo;t get me wrong: it is perfectly fine for every business to <strong>prance a little bit</strong> when someone finds out your product rocks :) I&rsquo;ve been doing it more than once as a CEO for our product FoolDNS and I know how it feels. But for Fabio it seemed sort of wrong for some reason, and in a Sunday morning in Skype, after a good dinner together the day before, he started thinking maybe something wasn&rsquo;t good and asked me a little bit of help in trying to find out who is the mysterious Notrax behind the domain <a href="http://infosecurityguard.com/">InfoSecurityGuard</a>.<br />
 And here the story start to grow interesting :)  </p>
-
 <blockquote>
   <p>Domain Name: INFOSECURITYGUARD.COM<br />
    Registrar: GODADDY.COM, INC.
@@ -80,9 +67,7 @@ And here the story start to grow interesting :)  </p>
   Creation Date: 01-dec-2009<br />
   Expiration Date: 01-dec-2010 </p>
 </blockquote>
-
 <p>It is fairly new, something you expect for a custom-created domain, and it has the common Privacy Guard services we have all learned to know:  </p>
-
 <blockquote>
   <p>Private, Registration  INFOSECURITYGUARD.COM@domainsbyproxy.com<br />
 Domains by Proxy, Inc.<br />
@@ -92,22 +77,15 @@ Scottsdale, Arizona 85260<br />
 United States<br />
 (480) 624-2599      Fax &ndash; (480) 624-2598</p>
 </blockquote>
-
 <p>So we can only hope in a sort of error fron kind Mr.Notrax. The one everyone does now and then <em>(and me more than anyone I know :P)</em>.  </p>
-
 <p>And this time the error is quite stupid: a single wordpress trackback. In fact when Fabio <a href="http://infosecurityguard.com/?p=116#comments">commented on InfoPrivacyGuard</a>, the admin action made by Notrax on his Anonymous Blog by approving the post, generated a <strong>beautiful http request</strong> on Fabio&rsquo;s Wordpress blog, a request that we were able to recover from the Apache logfiles:  </p>
-
 <blockquote>
   <p><strong>217.7.213.59</strong> - - [30/Jan/2010:02:56:37 -0700] &ldquo;GET /20100129/licensed-by-israel-ministry-of-defense-how-things-really-works/ HTTP/1.0&rdquo; 200 5795 &ldquo;<strong>http://infosecurityguard.com/wp-admin/edit-comments.php</strong>&rdquo; &ldquo;Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.3; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2)&rdquo;  </p>
 </blockquote>
-
 <p>As you may see, the the action was generated by a page (edit-comments.php) that can be accessed only by the Administrator of the InfoSecurityGuard blog. We can be quite sure, so, that the administrator logged into the Wordpress Dashboard and visited Fabio&rsquo;s Blog from the IP 217.7.213.59.  </p>
-
 <p>This is, by now, our only data. We must find everything we can about it, because it can be either most useful or completely useless if Mr. Notrax has used a Proxy and/or a TOR like connection to administer the domain (which is quite common with paranoids like us).  </p>
-
 <p>First of all the IP 217.7.213.59 seem to be German as SecurStar is, but this can just be a coincidence. In addition to this many TOR servers are located in Germany as <a href="http://blog.vorant.com/2008/06/tor-server-lists-revisited.html">anyone can discover</a> with a little effort.<br />
 So let&rsquo;s take a look at the <a href="http://whois.domaintools.com/217.7.213.59">data associated with the IP 217.7.213.59</a>:    </p>
-
 <blockquote>
   <p>inetnum:        217.7.192.0 - 217.7.255.255<br />
 netname:        DTAG-STATIC03<br />
@@ -115,21 +93,13 @@ descr:          Deutsche Telekom AG<br />
 T-DSL Business<br />
 static dial-up  </p>
 </blockquote>
-
 <p>Traceroute infos <a href="http://dns-tools.domaintools.com/ip-tools/?method=traceroute&amp;query=217.7.213.59">are not intresting too</a> and the Reverse Lookup on the domain only tell us that 217.7.213.59 is pd907d53b.dip0.t-ipconnect.de.  </p>
-
 <p>Nothing intresting, so? Almost&hellip;  </p>
-
 <p>In fact, CONNECTING to <a href="http://pd907d53b.dip0.t-ipconnect.de">http://pd907d53b.dip0.t-ipconnect.de</a> gives us a very interesting answer: not only the machine on the other side is a CentOs server, but it seem to run an instance of <a href="http://www.freepbx.org/">FreePBX</a>, a beautiful and most easy to setup OSS Voip PBX:  </p>
-
 <p><a href="http://www.lastknight.com/download//2010/01/caccia_002.jpg"><img src="http://www.lastknight.com/download//2010/01/caccia_002-421x300.jpg" alt="" title="caccia_002" width="421" height="300" class="aligncenter size-medium wp-image-1821" /></a>  </p>
-
 <p>The SysAdm seem to have been a little shaky on the Security part: the Administrative Interface, which normally isn&rsquo;t exposed on the web, is there in clear. We do NOT know the user and password and surely we do NOT want to do <em>anything illegal</em> by trying to force it, but still we are able to take a peek at the Flash Operation Panel, mapping all the phones connected and giving the common name of the single phones <a href="http://pd907d53b.dip0.t-ipconnect.de/panel/">on this page</a>:  </p>
-
 <p><a href="http://www.lastknight.com/download//2010/01/caccia_001.jpg"><img src="http://www.lastknight.com/download//2010/01/caccia_001-421x300.jpg" alt="" title="caccia_001" width="421" height="300" class="aligncenter size-medium wp-image-1822" /></a></p>
-
 <p>Ok, aside from a funny interface to play with (something that we <em>do not want to do</em>) what have we got here? Nothing very specific, to be fair, aside from some names:  </p>
-
 <ul>
   <li>Wilfred Hafner  </li>
   <li>Tiago Mendez  </li>
@@ -140,9 +110,7 @@ static dial-up  </p>
   <li>Dragos Pirte </li>
   <li>Mark Incley  </li>
 </ul>
-
 <p>It doesn&rsquo;t need the young Sherlock Holmes to find out that all these names are from <a href="http://www.securstar.com/home.php">SecureStar Gmbh</a> and, precisely:  </p>
-
 <ul>
   <li>Wilfried Hafner - *<a href="http://www.xing.com/profile/Wilfried_Hafner">CEO</a> *  </li>
   <li>Shaun Holligworth - <em><a href="http://www.securstar.com/about.php">Guru of Security</a></em> </li>
@@ -150,23 +118,13 @@ static dial-up  </p>
   <li>Markus Besinger - <em>System Administrator (LinkedIn)</em> </li>
   <li>Mark Incley - <em><a href="http://www.mobygames.com/developer/sheet/view/developerId,53004/">Mobile Software Developer</a></em>  </li>
 </ul>
-
 <p>And so?  </p>
-
 <p>And so SOMEONE at <a href="http://www.securstar.com/home.php">SecurStar</a> headquarters quite obviously has been <strong>playing strange games</strong> and while I don&rsquo;t really have anything to say with that, it seems to me that crafting <a href="http://infosecurity.ch/20100130/about-the-voice-encryption-analysis-phonecrypt-can-be-intercepted-serious-security-evaluation-criteria/">the press release</a> and spreading it without disclosing that the study was <strong>internally made</strong> or at least made by <strong>someone who work there</strong> isn&rsquo;t really proper.  </p>
-
 <p>I don&rsquo;t really know if it was deliberate or not (maybe they just didnt know some of their employers did it&hellip; hemmm&hellip;), but certainly I&rsquo;d like to know a little more about <strong>WHO in the company</strong> is known by the name of Mr.Notrax and why he has crafted the site at <a href="http://infosecurityguard.com/">InfoSecurityGuard</a> to place their product <strong>in the best light</strong>. And feigning there wasn&rsquo;t any kind of involvement.  </p>
-
 <p>Mr.Notrax is certainly a smart and awfully good guy, but until a little bit more light is shed on the entire thing I think I&rsquo;ll have to doubt everything that comes from him.  </p>
-
 <p>And I really hope all this stuff isn&rsquo;t really just undercover market for the German company, a maneuver that is even <a href="http://www.culture-buzz.com/blog/IPA-warning-buzz-marketing-techniques-illegal-UK-1603.html">Illegal in most parts of the world</a>, for example prohibited by the <a href="http://www.oft.gov.uk/advice_and_resources/small_businesses/competing/protection">UK Consumer Protection from Unfair Trading Regulations</a>.   </p>
-
 <p><strong>Paranoia is a virtue.</strong>   </p>
-
 <p><strong>UPDATE</strong>: Fabio has updated his blog with a <a href="http://infosecurity.ch/20100201/evidence-that-infosecurityguard-comnotrax-is-securstar-gmbh-a-fake-independent-research-on-voice-crypto/">very strong opinioned</a> that doesn&rsquo;t necessarily reflect my position. The only thing <em>I</em> want to find out is the level of trust I should put in Mr.Notrax&hellip; </p>
-
-
-
 <h2>Articoli (forse) correlati</h2>
 <ul>
   
@@ -181,7 +139,6 @@ static dial-up  </p>
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
   
 </ul>
-
 <h2>Articoli recenti</h2>
 <ul class="posts small">
 	
@@ -196,7 +153,6 @@ static dial-up  </p>
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
 	
 </ul>
-
 <time class="signoff" datetime="2010-01-31">
   31/01/2010 con tag:
 	
@@ -222,7 +178,6 @@ static dial-up  </p>
 	
 </time>
 </article>
-
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'mgpf';
@@ -233,7 +188,6 @@ static dial-up  </p>
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-
       <footer id="footer">
         
         <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">

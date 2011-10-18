@@ -1,15 +1,10 @@
 --- 
 layout: post
+status: ok
 title: "Google e la Privacy: 6 consigli per sopravvivere"
 meta: 
-  _edit_last: "1"
-  WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
 tags: 
 - digital-freedom
-- featured
-- google
-- privacy
-- profiling
 ---
 <a href="http://www.flickr.com/photos/48889079811@N01/8182590/" title="Google Cookie" target="_blank"><img src="http://farm1.static.flickr.com/6/8182590_98f030bc01.jpg" alt="Google Cookie" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/48889079811@N01/8182590/" title="massless" target="_blank">massless</a></small>
@@ -29,15 +24,10 @@ Cc'è anche da dire, d'altra parte, che Google non è forse il cattivo di turno:
 Questi accorgimenti saranno sufficienti? Nel dubbio non ci resta che salvaguardare la nostra privacy con i mezzi messi a disposizione da Google stessa o per mezzo di strumenti software esterni, che dovremo imparare presto a conoscere.
 
 * Il primo passo pu&ograve; essere quello di disattivare la cronologia delle nostre ricerche, che in caso contrario rimarranno a disposizione nostra e di Google per sempre: se andiamo nella pagina [G Web History][pagina per la cronologia delle ricerche google] e ci viene chiesto di attivare la funzione già  stiamo sulla buona strada, se invece quest'ultima fosse già  attiva forse è il caso di disattivarla.  
-
 * Inutile, o quasi, parlare dei cookie, ossia di quei file di testo che vengono memorizzati sui nostri pc con lo scopo di mantenere attive le sessioni web, ma che sempre più spesso vengono usati per motivi completamente diversi: Google, ad esempio, fa uso di cookie DoubleClick per fornire pubblicità  mirata ai suoi utilizzatori, ma offre altresì un comodo [plugin][Plugin per disattivare i cookie DoubleClick], compatibile con i principali browser, per disattivare questo tipo di profilazione.
-
 * Nel caso in cui volessimo bloccare anche i cosiddetti super-cookie, cioè i cookie che s'installano tramite degli script Flash o JavaScript, potremmo far riferimento a particolari estensioni, come AdSweep, AdBlock o NoScript, per bloccarli in maniera veloce e "indolore". Oppure installare il comodo  [FoolDns][FoolDns]. 
-
 * Abbiamo parlato della possibilità , seppur remota, nella quale un cracker riesca a bucare i server di Google e a leggere i dati contenuti, ossia i nostri! In questo caso il minimo che possiamo fare, almeno per le email, è di cifrarle con software appositi come PGP o meglio ancora GnuPG, che è freeware e compatibile con tutti i sistemi operativi.
-
 * Sarebbe anche un gran bene fare comunque fare [OPT-OUT](http://www.google.com/privacy_ads.html) dai [servizi di profilazione](http://www.google.com/privacy_ads.html) andando alla pagina proposta e cliccando sul link apposito. Questo evita che Google ci profili nella navigazione. 
-
 * Valgono, infine, le classiche regole di base che chiunque si avvicini al mondo dell'informatica deve conoscere: quella di usare una password robusta e quella di mantenere aggiornato il proprio sistema operativo, per evitare che eventuali backdoor o bug 0-day possano essere sfruttati per scopi non proprio legittimi.  
   
 Vale la pena ricordare che molti dei problemi sopra elencati possono essere risolti facendo un uso corretto del pc e non visitando siti che possano trasmettere malware: a tal proposito non dimentichiamo che esiste un comodo **servizio di DNS**, chiamato [FoolDns][FoolDns], che pu&ograve; fare proprio al caso nostro ;)  

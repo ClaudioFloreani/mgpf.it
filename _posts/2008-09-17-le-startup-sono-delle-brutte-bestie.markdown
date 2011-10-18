@@ -1,18 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Le startup sono delle brutte bestie...
 meta: {}
 tags: 
-- css
-- js
-- lavori
+- the-fool
 - about-me
-- milano
-- offerte lavoro
-- ror
-- ruby
-- segretaria
-- "società"
+- startup
 ---
 Se qualcuno mi avesse detto che è più stancante e snervante fare l'amministratore delegato del consulente credo avrei riso un poco e lo avrei mandato, credo, a donnine allegre...  
 Una volta che ci sono i soldi, pensavo, il resto è in discesa....  

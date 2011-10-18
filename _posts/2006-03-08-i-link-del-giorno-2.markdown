@@ -1,13 +1,12 @@
 --- 
 layout: post
+status: ok
 title: I Link del giorno...
 meta: {}
-
 tags: 
 - about-me
 ---
 Gli ultimi link proposti tratti da <a href="http://del.icio.us/">del.icio.us</a> per <a href="http://del.icio.us/LastknightDotCom"> LastknightDotCom</a>
-
  * **[Photos as Passwords Foil Hackers](http://dsc.discovery.com/news/briefs/20060306/password_tec.html?source=rss)**  
 *Usare fotografie come Passwotd? Sembra sia possibile anche implementare facili meccanismi per confondere eventuali intrusi...*  
  * **[WEB 2.0: Next Generation Of Web Sites](http://elearning.typepad.com/thelearnedman/2006/02/web_20_next_gen.html)**  
@@ -24,5 +23,4 @@ Gli ultimi link proposti tratti da <a href="http://del.icio.us/">del.icio.us</a>
 *Desta sorpresa la manovre di Cisco volta alla acquisizione della socetà di fonia VOIP SyPixx Networks*  
  * **[Remote Approach: Digital Distribution Measurement](http://www.remoteapproach.com/)**  
 *Seguire dove si muovono i propri files PDF à possibile... Stiamo lavorando alla preparazione di un sistema omologo ma molto più potente per seguire i files di Office...*  
-
  

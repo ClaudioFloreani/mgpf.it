@@ -13,14 +13,12 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-74632-8']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
   </head>
   <body>
     <header>
@@ -39,18 +37,12 @@
 <article class="post">
 <p>C&rsquo;è qualcosa di inquietante nel <a href="http://www.schneier.com/blog/archives/2005/02/sha1_broken.html">post di Bruce Schneier</a>, qualcosa che dovrebbe fare tremare chiunque ha a che fare con crittografia e firma digitale.<br />
  Bruce è lapidario: <i>&ldquo;SHA-1 has been broken. Not a reduced-round version.  Not a simplified version. The real thing.&rdquo;</i>. E ha ragione.  </p>
-
 <p>Dopo il primo whitepaper pubblicato dal team composto da <a href="http://www.prime.sdu.edu.cn/third/05wangxiaoyun.html">Xiaoyun Wang</a>, <a href="http://www.informatik.uni-trier.de/%7Eley/db/indices/a-tree/y/Yin:Yiqun_Lisa.html">Yiqun Lisa Yin</a>, e <a href="http://www.prime.sdu.edu.cn/fourth/yuhongbo.html">Hongbo Yu</a> che mostrava le prime convergenze nell&rsquo;algoritmo, il successivo attacco condotto sulla base di questo ha condotto a risultati inaspettati e sconvolgenti:  </p>
 <ul> <li>collisionse dell'algoritmo SHA-1 completo in 2^69 operazioni di hash, diversi ordini di magnitudo inferiore all'attacco di forza bruta ipotizzato come migliore: 2^80 </li><li>collisione di SHA-0 in 2^39 operazioni. </li><li>collisioni di SHA-1 a 58 round in 2**33 operazioni. </li> </ul>
 <p>Ma in che modo questo impatta sulla sicurezza dell&rsquo;algoritmo? Ipotizzando che forzare SHA-1 con il metodo scoperto richieda alla National Security Agency (NSA) una settimana. La stessa operazione afrebbe richiesto, in attacco brute-force, 2048 settimane, vale a dire 39 anni.  </p>
-
 <p>Tutto questo è discusso approfonditamente in on opuscolo rilasciato agli addetti ai lavori che, sebbene non ancora disponibile al largo pubblico ha già infiammato gli organi di sicurezza tanto che le agenzie Federali <a href="http://www.fcw.com/fcw/articles/2005/0207/web-hash-02-07-05.asp">sono già state avvisate</a> che il NIST stanzierà fondi per  facilitare il passaggio in tutte le agenzie da algoritmi poco efficaci a SHA256. Meditate, gente. meditate&hellip;  </p>
-
 <p><i><b>Aggiornamento</b>: nella vita di tutti i giorni ricordatevi di modificare i settaggi per l&rsquo;hash della firma di PGP e GNUpg portando da SHA-1 a SHA-256&hellip;</i>  </p>
-
 <p><i><b>Aggiornamento</b>: un&rsquo;otticache non avevo considerato è quella per cui questa nuova problematica spingerà probabilmente l&rsquo;adozione di sistemi più sicuri e l&rsquo;investimento di fondi nella ricerca&hellip; Hackers per l&rsquo;Economia?</i>&lt;div style="clear:both; padding-bottom: 0.25em;"&gt;&lt;/div&gt; </p>
-
-
 <h2>Articoli (forse) correlati</h2>
 <ul>
   
@@ -65,7 +57,6 @@
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
   
 </ul>
-
 <h2>Articoli recenti</h2>
 <ul class="posts small">
 	
@@ -80,7 +71,6 @@
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
 	
 </ul>
-
 <time class="signoff" datetime="2005-02-16">
   16/02/2005 con tag:
 	
@@ -90,7 +80,6 @@
 	
 </time>
 </article>
-
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'mgpf';
@@ -101,7 +90,6 @@
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-
       <footer id="footer">
         
         <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">

@@ -1,13 +1,11 @@
 --- 
 layout: post
+status: ok
 title: "Verona, 20 Maggio: Conferenza di Computer Forensics"
 meta: {}
 tags: 
-- computer forensic
-- conferenza
 - about-me
-- forensic
-- security
+- talk
 ---
 <a href="http://www.flickr.com/photos/34754790@N00/11943599/" title="Forensics Scene" target="_blank"><img src="http://farm1.static.flickr.com/8/11943599_90198d93ed.jpg" alt="Forensics Scene" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/34754790@N00/11943599/" title="Andrew Mason" target="_blank">Andrew Mason</a></small>  
@@ -50,7 +48,6 @@ Thomas Margoni, ricercatore presso la Facoltà di Giurisprudenza dell'Universit�
 Alessio L.R. Pennasilico, Security Evangelist @ Alba S.T. s.r.l.  
   
 Con il patrocinio di:  
-
 * Associazione Informatici Professionisti (AIP) - http://www.aipnet.it/
 * Associazione Italiana Professionisti Sicurezza Informatica (AIPSI) - http://www.aipsi.org/
 * CLUSIT - http://www.clusit.it/
@@ -64,7 +61,6 @@ Strada le Grazie, 15, Verona
   
 L'abstract completo degli interventi e le istruzioni sul come arrivare, oltre al modulo di iscrizione, è disponibile all'indirizzo:  
 <http://www.scienze.univr.it/documenti/Seminario/documenti/documenti152469.html>  
-
 Per ulteriori informazioni: Davide Quaglia, tel. +39 045 8027811, davide.quaglia@univr.it  
   
  

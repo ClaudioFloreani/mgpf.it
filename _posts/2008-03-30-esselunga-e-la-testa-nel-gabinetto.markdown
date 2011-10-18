@@ -1,17 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Esselunga e la testa nel gabinetto...
 meta: {}
-
 tags: 
-- boicottaggio
-- censura
 - digital-freedom
-- esselunga
-- gabinetto
-- milano
-- mobbing
-- paranoia
+- weird
 ---
 Io vivo **a fianco** di quel Punto Vendita e nemmeno l'avrei scoperto, non fosse stato per il **volantinaggio** di stamattina.  
   
@@ -24,7 +18,7 @@ La direzione dell'Esselunga non ha fatto dichiarazioni e continua a non farle da
   
 Ecco qui sotto il volantino distribuito stamane:  
   
-<img src='http://www.lastknight.com/download//fidaty.jpg' alt='fidaty.jpg' />
+<img src='http://www.lastknight.com/download/fidaty.jpg' alt='fidaty.jpg' />
   
 Che dire? Che sia una **manovra dei sindacati** come dice qualcuno? Non so proprio, ma la **mancanza di dichiarazioni** anche di smentita poco si accorda con una posizione **di innocenza**, non credete?  
   

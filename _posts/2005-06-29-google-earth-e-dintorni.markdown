@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Google Earth guarda Milano
 meta: {}
 tags: 
@@ -12,10 +13,8 @@ Lo stradario è inoltre incredibilmente particolareggiato ed offre anche nomi ed
 Per rendere conto della precisione della mappatura fotografica realizzata da satellite basti pensare che sono facilmente distinguibili auto e relativo colore. 
  [![Google Earth: Casa mia a Milano](/download/thumb-GoogleEarth02.jpg)](/download/GoogleEarth02.jpg) 
 Oltre alle planimetrie fotografiche (peraltro anche abbastanza recenti, a giudicare dalle disposizioni dei cantieri) sono presenti le coordinate al metro. Ora posso passare le coordinate di casa mia agli [amici](http://www.alcooland.it) gps-dotati o a coloro che devono programmare il missile terra-aria...  
-
 In attesa di acquistare la versione Plus ($20) consiglio caldamente questa chicca freeware, stando però un occhio alle richieste hardware [discretamente esose](http://earth.google.com/support/bin/answer.py?answer=21461&topic=1149).
 Nel frattempo le immagini che vedete sono una panoramica di Piazza Duomo e di casa mia ;)  
 Prima di scaricare meglio leggere attentamente le indicazioni nell'[Area Download](http://desktop.google.com/download/earth/index.html).  
-
 *AGGIORNAMENTO: visto il carico immane di download il programma BETA è momentaneamente sospeso. Ma chi, come il sottoscritto, è già attivo può continuare a girovagare per il "virtual mondo" per la gioia e l'invidia dei naviganti  :)*
  

@@ -1,14 +1,14 @@
 --- 
 layout: post
+status: ok
 title: Geniale
 meta: {}
 tags: 
-- fun theory
-- geniale
-- about-me
+- awesome
+- hope
 ---
-we call it "Fun Theory"  
+We call it "Fun Theory"  
   
-<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/zSiHjMU-MUo&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/zSiHjMU-MUo&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>  
+{% youtube zSiHjMU-MUo %}  
   
 l'ho rubato [qui](http://www.daringtodo.com/lang/it/2009/11/18/the-fun-theory-virtu-e-divertimento/). 

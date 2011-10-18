@@ -1,9 +1,8 @@
 --- 
 layout: post
+status: ok
 title: "Il Quarto Reich: USA"
 meta: 
-  aktt_tweeted: "1"
-  autometa: "thestar \xC2\x93duro\xC2\x94 worldupdates corpus uniti proibirebbe invocare contempo"
 tags: 
 - digital-freedom
 - paranoia
@@ -20,5 +19,4 @@ tags:
 Interessante ed esaustivo il commentario di Zen sull'argomento, pieno di spunti interessanti e di link per meglio conoscere l'[Habeas Corpus](http://it.wikipedia.org/wiki/Habeas_corpus) e gli impatti che questa legge ha sul Diritto Internazionale.  
   
 Per ulteriori delucidazioni rimando all'[articolo dell'Unità](http://www.unita.it/view.asp?IDcontent=60372) che non posso citare causa [regime nazistafascista-prodiano](http://www.lastknight.com/2006/10/16/censura-13-quando-gli-ignoranti-siedono-in-cassazione-e-in-governo/) dell'Italia. O altrimenti all'articolo in lingua inglese del [TheStar](http://thestar.com.my/news/story.asp?file=/2006/10/17/worldupdates/2006-10-17T105552Z_01_NOOTR_RTRJONC_0_-272555-1&sec=Worldupdates).  
-
 Buona giornata a voi, **nemici degli Stati Uniti**... 

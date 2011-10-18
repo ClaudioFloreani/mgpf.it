@@ -7,17 +7,14 @@ tags:
 - security
 ---
 ![Matteo Flora all'ESC 2007](http://www.lastknight.com/download/20070910_esc.png)
-
 Parlando di censura non si può fare a meno di ricordare **che questo weekend**, dal 14 al 16 Settembre, **sarò ospite** all' ESC, l'End Summer Camp che si tiene a San Donà di Piave e che vedrà relatori di eccezione tra cui l'umile servo vostro (non certo di eccezione, ma pur sempre relatore)...  
   
 Terrò **due distinti seminari**, l'uno sulla **Censura in Italia** e l'altro su **GoogleTistic e il Web italiano**...  
 Mentre il primo è la versione riveduta e corretta del Talk sull'**elusione dei sistemi di censura** online che tenni anche in occasione di InfoSecurity 2007, il secondo Talk è un poco più particolare e mi darà manforte il competente Matteo Carli che ha aderito alla mia [richiesta di collaborazione](http://www.lastknight.com/2007/07/10/collaboriamo-lastknight-dot-lab/) di qualche tempo fa e con cui abbiamo fatto cose egregie :)  
-
 Si tratta dell'integrazione del Talk tenuto da Alessio Orlandi per conto mio a E-Privacy 2007 con l'aggiunta del crawling del top **98% dei Blog italiani**, che ha generato non pochi dati interessanti...  
 Si parla della **Sicurezza dei Blog** italiani, della diffusione del **tracciamento**, della diffusione di servizi e delle minacce ad essi correlate. In particolare analizzeremo con cura le possibilità per un utente malintenzionato di **sovvertire il panorama del Web Blogging** italiano **rapidamente e semplicemente**.
   
 Ecco i dettagli:  
-
 > **Censura in Italia: chi, come e perche' censura - Matteo G.P. Flora (aka LK)**  
 > Sottile, nascosta e quasi invisibile ai piu', anche l'Italia, dopo la Cina, e' giunta alla realizzazione della normativa legislativa che consente la censura di fatti, opinioni ed eventi. Come ogni censura prende connotazoni di "protezione del cittadino" e "protezione della moralita'", ma le decine di sue applicazioni moderne svelano come sia stata utilizzata in modo bieco ed unilaterale e con finalita' politica e repressiva. Un viaggio tra le censure di cui nessuno ha parlato affrontando le tematiche legislative, quelle tecnologiche e quelle morali, per scoprire e comunicare a tutti come anche in Italia i manganelli siano pronti ed i bavagli imbustati ed in ordine in attesa di un obiettivo da colpire.  
 > **Orario:** *Sabato 15 ore 15.00 - 16.00*  

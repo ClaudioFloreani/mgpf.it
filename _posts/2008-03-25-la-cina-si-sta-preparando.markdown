@@ -1,14 +1,10 @@
 --- 
 layout: post
+status: ok
 title: La Cina si sta preparando...
 meta: {}
-
 tags: 
-- bejing2008
-- cina
-- "crideltà"
-- digital-freedom
-- diritti umani
+- awesome
 ---
 e [noi](http://www.amnesty.org/en/human-rights-china-beijing-olympics)?  
   

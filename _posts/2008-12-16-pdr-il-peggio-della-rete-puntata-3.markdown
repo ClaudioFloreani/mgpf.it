@@ -1,13 +1,10 @@
 --- 
 layout: post
+status: ok
 title: "PdR: il Peggio della Rete puntata 3"
 meta: {}
 tags: 
-- brix
-- about-me
-- mindfuck
-- PDR
-- shit
+- weird
 ---
 <img src="http://www.lastknight.com/download//2008/12/20081216-1229448110728-389x300.jpg" alt="20081216-1229448110728" title="20081216-1229448110728" width="389" height="300" class="aligncenter size-medium wp-image-1224" />  
   

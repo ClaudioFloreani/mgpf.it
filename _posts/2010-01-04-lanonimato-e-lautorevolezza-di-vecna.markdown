@@ -1,9 +1,12 @@
 --- 
 layout: post
+status: ok
 title: L'anonimato e l'autorevolezza di Vecna
 meta: {}
 tags: 
-- about-me
+- awesome
+- hacking
+- paranoia
 ---
 Di Vecna avevo già detto [precedentemente qualcosina][1]. E quando si mette a scrivere, signori, è meglio prepararsi una mezz'oretta, una tazza di the e leggere attentamente quello che ha da dire:  
 

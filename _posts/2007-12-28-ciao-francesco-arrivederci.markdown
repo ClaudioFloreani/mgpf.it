@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Ciao, Francesco. Arrivederci.
 meta: {}
 tags: 

@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Forza, Microsoft! Avanti!
 meta: {}
 tags: 

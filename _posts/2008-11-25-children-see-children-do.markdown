@@ -1,14 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Children see, children do
 meta: {}
 tags: 
-- bambini
-- imparare
-- about-me
-- per pensare
-- vedere
+- awesome
 ---
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/SJF50kwwRJE&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/SJF50kwwRJE&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
+{% youtube SJF50kwwRJE %}  
   
  

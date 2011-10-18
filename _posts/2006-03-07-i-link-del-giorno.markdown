@@ -1,17 +1,14 @@
 --- 
 layout: post
+status: ok
 title: I Link del giorno...
 meta: {}
-
 tags: 
 - about-me
 ---
 **LinkORama** è la nuova categoria saltuaria (teoricamente giornaliera) con **i link che nella giornata hanno riscosso il mio maggiore interesse**. Sono principalmente correlati alle problematiche di sicurezza, privacy e hacking, ma senza dimenticare l'opensource o il design ed il Web2.0...  
-
 Graditi, come sempre, i feedback su questo nuovo genere di post e sulla opportunità o meno di spedirli a chi si è sottoscritto alla Mailing List.  
-
 Gli ultimi link proposti sono tratti da servizio di <a href="http://del.icio.us/LastknightDotCom">del.icio.us</a> per l'utente appositamente creato<a href="http://del.icio.us"> Lastknight Dot Com</a>:
-
  * **[Fire Fox Password Decrypter](http://nagmatrix.50webs.com/article_firepassword.html)**  
 *Il sistema di decifrazione delle password memorizzate in FireFox*  
  * **[MS e Antitrust](http://punto-informatico.it/p.asp?i=58203&amp;r=PI)**  

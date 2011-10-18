@@ -1,14 +1,11 @@
 --- 
 layout: post
+status: ok
 title: La Sicurezza e la Statistica del Terrorismo
 meta: {}
 tags: 
-- Cory Doctorow
 - digital-freedom
 - paranoia
-- paura
-- statistica
-- terrorismo
 ---
 <a href="http://www.flickr.com/photos/67318348@N00/288741595/" title="Caught in the Act" target="_blank"><img src="http://farm1.static.flickr.com/114/288741595_c22f4b0f6b.jpg" alt="Caught in the Act" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/67318348@N00/288741595/" title="*saxon*" target="_blank">*saxon*</a></small>  
@@ -21,6 +18,5 @@ Mi trovo sempre più spesso in totale accordo con Cory Doctorow. non so se sia p
   
 Che dire, oltre a **totale consenso?  
   
-*P.S. Sempre più spesso cito brevi passaggi in lingua inglese. Lo faccio per pigrizia innanzitutto e perchè penso che quasi tutti i lettori capiscano. Se qualcuno di voi non conosce la lingua inglese, mi fa il piacere di mandarmi una mail in provato e segnalarmelo? Senza vergogna nè nulla (io non parlo francese, ad esempio), ma solamente per farmi una idea di quanti non capiscono quello che dico. Thanx.*
-
+*P.S. Sempre più spesso cito brevi passaggi in lingua inglese. Lo faccio per pigrizia innanzitutto e perché penso che quasi tutti i lettori capiscano. Se qualcuno di voi non conosce la lingua inglese, mi fa il piacere di mandarmi una mail in provato e segnalarmelo? Senza vergogna nè nulla (io non parlo francese, ad esempio), ma solamente per farmi una idea di quanti non capiscono quello che dico. Thanx.*
 [tags] terrorismo, statistica, paura, Cory Doctorow [tags] 

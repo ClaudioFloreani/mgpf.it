@@ -2,18 +2,13 @@
 layout: post
 title: E se l'FBI controllasse (e aprisse) tutte le connessioni cifrate?
 meta: 
-  _edit_last: "1"
-  _wp_old_slug: ""
-  image: http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg
 tags: 
-- controllo
 - digital-freedom
 - paranoia
-- security- spionaggio
 ---
 <a href="http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg"><img src="http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg" alt="" title="2962194797_06b1dc08ac" width="500" height="333" class="aligncenter size-full wp-image-2309" /></a>
   
-Incredibilmente combatto contro la mia proverbiale pigrizia nello scrivere su questo Blog perchè c'è qualcosa di interessante da dire.  
+Incredibilmente combatto contro la mia proverbiale pigrizia nello scrivere su questo Blog perché c'è qualcosa di interessante da dire.  
 No, non parlo di Wikileaks **(ma se vi interessa la cosa questo Sabato sarò a Salerno [ad una conferenza][conf] sul tema)**, ma di [una mail][link] passata sulla Mailing List interna del progetto OpenBSD. Una mail assoutamente inquietante a firma nientemeno di [Theo de Raadt][theo], fondatore e leader di OpenBsd.  
   
 [La mail][link] è l'inoltro alla mailing list di una comunicazione giunta a Theo da parte di [Greg Perry][greg] e recita quanto segue:
@@ -44,7 +39,7 @@ Framework][OCF]) con il fine esplicito di implementare all'interno dello stesso 
   
 Per rendere la cosa più chiara: ogni connessione cifrata e/o operazione di cifratura implementata su OpenBSD fa riferimento all'OCF e sarebbe quindi vulnerabile ad attacchi da parte delle realtà di controllo, FBI in primis.  
   
-La mail continua anche a dare dettagli, dicendo esplicitamente che il motivo per cui molti consulenti "al soldo" dell'FBI stanno consigliando l'utilizzo di OpenBDS è proprio perchè se qualunque sistema usa OpenBSD diviene anche quando si tutela con crittografia perfettamente intercettabile, contro il volere dell'installatore ed utilizzatore.  
+La mail continua anche a dare dettagli, dicendo esplicitamente che il motivo per cui molti consulenti "al soldo" dell'FBI stanno consigliando l'utilizzo di OpenBDS è proprio perché se qualunque sistema usa OpenBSD diviene anche quando si tutela con crittografia perfettamente intercettabile, contro il volere dell'installatore ed utilizzatore.  
   
 OpenBSD è utilizzato in modo massivo, ad esempio, per la creazione di sistemi di VPN (Virtual Private Network). Una azienda o una organizzazione implementa infatti sistemi di VPN quando non vuole che i dati siano liberamente intercettabili, ma con una tecnologia come questa (nel caso le ipotesi si rivelassero reali) sarebbe una mossa assolutamente inutile: tutte le cifrature avrebber, infatti, una "backdoor", una porta sul retro da cui un utente con le giuste conoscenze può entrare e decifrare comunque, in barba alle chiavi impostate, ogni comunicazione.  
   
@@ -63,7 +58,6 @@ making it public so that
 Ne parla anche [ItWire](http://www.itwire.com/opinion-and-analysis/open-sauce/43933-developer-claims-fbi-implemented-backdoors-in-openbsd), tra l'altro...  
   
 Staremo a vedere, ma nel frattempo, al solito, estote parati...
-
 [link]: http://marc.info/?l=openbsd-tech&m=129236621626462&w=2
 [conf]: http://www.aipsa.eu/visuaEvento.aspx?id=46
 [OCF]: http://www.openbsd.org/crypto.html

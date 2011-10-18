@@ -1,26 +1,11 @@
 --- 
 layout: post
+status: ok
 title: "(in)sicurezza: Come ti cracco l'abbonamento dell'Autobus"
 meta: {}
-
 tags: 
-- abbonamenti
-- autobus
-- about-me
-- cracking
-- crypto-1
-- "Henryk Pl\xC3\xB6tz"
-- Karsten Nohl
-- mifare
-- mifare classic
-- ntx
-- rfid
-- security
+- hacking
 ---
-Normale appuntamento del Lunedì con il Punto Informatico per chi se lo fosse perso:  
-  
----  
-  
 Quando parlo di OpenSource durante le conferenze e della intrinseca maggiore sicurezza di protocolli e prodotti OSS, normalmente vengo etichettato a seconda degli uditori come un pazzo o un centrosocialino: in ambedue i casi la gente sembra non voler accettare l'idea che una sicurezza basata sulla riservatezza e sulla segretezza di algoritmi raramente si sposa con una effettiva prova sul campo delle qualità intrinseche.  
   
 La "Security Through Obscurity", come viene chiamata in gergo tecnico, ha dimostrato di non funzionare nel tempo e di essere totalmente inaffidabile in svariati e multiformi aspetti. E se non credete a me potete per lo meno fidarvi un poco di più di Bruce Schneier in [questo numero][1] di Cryptogram. Chi ne ha fatto la scoperta nel corso delle ultime due settimane sono le carte RFID più diffuse al mondo in ambiente di trasporto pubblico, le "Mifare Classic" prodotte da NXP (ex Philips Semiconductors), carte che nel mondo sono utilizzate, tra l'altro, dalle Metropolitane Londinesi e dal Trasporto Pubblico Olandese.  
@@ -56,11 +41,9 @@ Ed è ovviamente naturale che in un contesto di libertà di studio e di disponib
 Ed ora tutti a correre ai ripari, mi raccomando. Forse anche in casa nostra se è vero che, come si legge nella consultazione al Garante [disponibile qui][5] la tecnologia adottata da ATM Milano per l'abbonamento elettronico "(...) operativo in via sperimentale dal 2005 con una tessera elettronica che si avvale di tecnologie diverse (Mifare e Calypso)". A voi, come compito delle vacanze, ricercare che modello viene utilizzato.  
   
 Ancora una volta Estote Parati.
-
 [1]: http://www.schneier.com/crypto-gram-0205.html#1
 [2]: http://events.ccc.de/congress/2007/Fahrplan/events/2378.en.html
 [3]: http://www.ru.nl/ds/research/rfid/
 [4]: http://www2.ru.nl/media/pressrelease.pdf
 [5]: http://www.garanteprivacy.it/garante/doc.jsp?ID=1339692
-
  

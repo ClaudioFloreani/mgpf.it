@@ -1,17 +1,11 @@
 --- 
 layout: post
-title: "Politicamente sono là, lontano da qui e da l\xEC..."
+status: ok
+title: "Politicamente sono là, lontano da qui e da lì..."
 meta: {}
-
 tags: 
-- apolitica
-- digital-freedom
-- diverso
-- forca
-- merda
-- non voto
-- partito
-- voi siete qui
+- about-me
+- politics
 ---
 <center>
 <img src='http://www.lastknight.com/download//lk_politica.jpg' alt='lk_politica.jpg' />
@@ -41,7 +35,7 @@ O forse sono io che non capisco un tubo?
 Che dire, alla fine di questo test?  
 Beh, innanzitutto che probabilmente in **questo continuum spazio temporale** non mi è più consentito definirmi **tendenzialmente di destra**, e alla fine dei conti direi anche un bel **dov'è finita la destra di una volta**?  
   
-Già, perchè se prima votavi a destra ed ora ti trovi **vicino a Bertinotti** vuol dire che forse **qualcuno ha sbagliato qualcosa** in queste elezioni, no? Non è che **il mio credo** politico sia così variato negli ultimi 3 anni...  
+Già, perché se prima votavi a destra ed ora ti trovi **vicino a Bertinotti** vuol dire che forse **qualcuno ha sbagliato qualcosa** in queste elezioni, no? Non è che **il mio credo** politico sia così variato negli ultimi 3 anni...  
   
 Che tristezza svegliarsi una mattina e ritrovarsi **a sinistra**...  
 Che mondo, gente, **che mondo**!  

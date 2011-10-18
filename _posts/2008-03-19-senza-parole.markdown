@@ -1,25 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Senza parole
 meta: {}
-
 tags: 
-- barbarie
-- boycot olimpics
-- caos
-- censura
-- china
-- cina
-- digital-freedom
-- distruzione
-- free tibet
-- fuck mao
-- morte
-- murder
-- omicidio
-- revolt
-- rivolta
-- tibet
+- weird
 ---
 <center>
 <img src='http://www.lastknight.com/download//free_tibet.jpg' alt='free_tibet.jpg' />

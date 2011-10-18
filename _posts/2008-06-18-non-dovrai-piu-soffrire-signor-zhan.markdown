@@ -1,14 +1,10 @@
 --- 
 layout: post
+status: ok
 title: "Non dovrai più soffrire, Sig. Zhang"
 meta: {}
 tags: 
-- censura
-- cina
 - digital-freedom
-- figuziato
-- "libertà"
-- zhang
 ---
 <img src="http://www.lastknight.com/download//r261332_1089542.jpg" alt="" title="r261332_1089542" width="500" height="333" class="aligncenter size-full wp-image-743" />  
   

@@ -18,8 +18,6 @@
 # This code is licensed under MIT License
 require 'rubygems'
 require 'hpricot'
-
-
 module DownmarkIt
 	# TODO: Add nested unordered lists inside ordered list and vice versa support
 	def self.to_markdown(html)
@@ -118,7 +116,6 @@ module DownmarkIt
 				ol.swap("#{ol.inner_html}")
 			end
 		end
-
 		# lines
 		(raw /"p").each do |p|
 			if p.name == "p"

@@ -1,10 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Sabato a Verona parlo di Wordpress a "Linux e la Sicurezza Personale III"
 meta: {}
 tags: 
 - about-me
-- security
+- talk
 ---
 <a href="http://www.flickr.com/photos/35034351734@N01/46572573/" title="Matt done WordPress style" target="_blank"><img src="http://farm1.static.flickr.com/25/46572573_a37d7792b5.jpg" alt="Matt done WordPress style" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nc/2.0/" title="Attribution-NonCommercial License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/35034351734@N01/46572573/" title="niallkennedy" target="_blank">niallkennedy</a></small>  

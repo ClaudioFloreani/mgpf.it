@@ -1,12 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Casini, l'unica cosa che vi aspetta
 meta: {}
 tags: 
-- cartelloni
-- about-me
-- paul the wine guy
-- udc
+- awesome
 ---
 Che dire? Io adoro [PTWG](http://www.paulthewineguy.com/post/97605415/ptwg-presenta-generatore-di-cartelloni-delludc)...  
   

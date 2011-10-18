@@ -2,15 +2,9 @@
 layout: post
 title: "Facebook: alcuni dettagli da non sottovalutare"
 meta: 
-  wordbooker_options: "a:9:{s:18:\"wordbook_noncename\";s:10:\"db1573ee12\";s:18:\"wordbook_page_post\";s:15:\"131388540210117\";s:18:\"wordbook_orandpage\";s:1:\"1\";s:23:\"wordbook_default_author\";s:1:\"1\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:26:\"wordbooker_publish_default\";s:2:\"on\";s:18:\"wordbook_attribute\";s:7:\"%title%\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";}"
-  _edit_last: "1"
-  WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
 tags: 
 - digital-freedom
-- facebook
-- featured
-- privacy
-- Sicurezza e Privacy
+- social-media
 ---
 Esistono alcuni side-effects derivanti dall'uso (e dal non uso) di Facebook dei quali si parla poco pur essendo sotto gli occhi di tutti: potenziali rischi per la riservatezza di chi non è iscritto al social network, impostazioni sulla privacy un po' "ambigue" ed effetti collaterali in cui potreste incorrere rifiutando un' amicizia.  
   

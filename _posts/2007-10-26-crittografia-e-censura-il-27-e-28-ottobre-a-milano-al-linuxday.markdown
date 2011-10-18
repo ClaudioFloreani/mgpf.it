@@ -2,10 +2,7 @@
 layout: post
 title: Crittografia e Censura il 27 e 28 Ottobre a Milano al LinuxDay
 meta: 
-  aktt_tweeted: "1"
-  autometa: linuxday linux permetterci fratelli chiediamo brenna openlabs registratevi
 tags: 
-- censura
 - about-me
 - digital-freedom
 - security
@@ -23,7 +20,6 @@ Se vi interessa passare Sabato parlerò di:
 Descrizione: La configurazione giuridica e tecnologica delle intercettazioni ha subito negli ultimi anni tali e tante innovazioni e modi?che da rappresentare in ambito sociale una svolta epocale.  
     La delicata e importante funzione delle intercettazioni in uno stato di diritto si è trovata e fronteggiare scenari in cui sempre più spesso ad una rinnovata spinta tecnologica alla possibilità di intercettazione non è corrisposta una altrettanto massiva
 ed estensiva regolarizzazione normativa.  
-
 Mentre Domenica si chiacchiererà di:  
   
 >  **Domenica 28 Ottobre**: Ore 14:00  

@@ -1,9 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Di Rom, Rumeni e Romania
 meta: {}
 tags: 
-- about-me
+- awesome
 ---
 Spettacolare articolo di SedNonSatiata (la ragazza ci sa fare, lo avevo detto...) che con link e [un post veramente fatto](http://sednonsatiata.wordpress.com/2008/04/14/di-xenofobia-et-cetera/) bene  getta un po' di luce **sulla Romania** sfatando un po' di luoghi comuni.  
   
@@ -27,11 +28,9 @@ Un altro appunto importante: dopo la <strong>caduta della dittatura</strong> in 
   
 Quindi <strong>non banalizziamo, non generalizziamo, non parliamo di cose che non conosciamo.</strong><br>
 E nel caso, <strong>un viaggio in Romania non sarebbe da scartare</strong>: ci sono dei posti davvero splendidi.<br>
-
 (E lo sapevate che a <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=ovidiu&amp;jsv=107&amp;sll=37.0625,-95.677068&amp;sspn=48.019527,82.265625&amp;ie=UTF8&amp;ll=45.943511,24.741211&amp;spn=5.309237,10.283203&amp;z=7">Ovidiu</a> cè la tomba di Ovidio?)  
   
 P.S. Lo sapete, vero, che <a href="http://it.wikipedia.org/wiki/Romania">i rumeni non sono slavi, ma latini</a>?
-
 </blockquote>  
   
 Credo che siano questi i **post interessanti** per capire un poco di più la multiculturalità...  

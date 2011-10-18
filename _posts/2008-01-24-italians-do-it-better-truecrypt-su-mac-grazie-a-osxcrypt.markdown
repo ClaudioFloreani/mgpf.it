@@ -1,8 +1,10 @@
 --- 
 layout: post
+status: ok
 title: "Italians Do It Better: Truecrypt su MAC grazie a OsxCrypt"
 meta: {}
 tags: 
+- about-me
 - paranoia
 - security
 ---

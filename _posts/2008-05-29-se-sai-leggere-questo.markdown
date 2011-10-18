@@ -1,11 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Se sai leggere questo...
 meta: {}
 tags: 
-- Cazzate
-- geek
-- about-me
+- awesome
 ---
 Quanta verità:  
   

@@ -5,7 +5,6 @@ meta:
   _edit_last: "1"
   _wp_page_template: default
 tags: []
-
 type: page
 ---
 Mi chiamo Matteo G.P. Flora (ed il G.P. sta per Giovanni Paolo) e sono figlio del 1978 e Amministratore Unico e Socio Fondatore della società di Innovazione The Fool s.r.l., insieme a Massimo Giacomini, mio partner in questa avventura e molto più che investitore.  

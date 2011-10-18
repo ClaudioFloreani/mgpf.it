@@ -1,10 +1,9 @@
 --- 
 layout: post
+status: ok
 title: "LastKnight è tornato"
 meta: {}
 tags: 
-- io
-- lastknight
 - about-me
 ---
 Avrete notato un cambio direzionale, ancora una volta, nell'impostazione del Blog dalla giornata di oggi.  

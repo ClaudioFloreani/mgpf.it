@@ -1,21 +1,18 @@
 --- 
 layout: post
+status: ok
 title: In morte di Sorella Eluana
 meta: {}
 tags: 
-- alimentazione assistita
-- digital-freedom
-- eluana
-- eutanasia
-- about-me
-- orientalia4all
+- awesome
+- politica
+- hope
 ---
 <a href="http://www.flickr.com/photos/13582064@N00/2598075659/" title="Unquenched thirst" target="_blank"><img src="http://farm4.static.flickr.com/3210/2598075659_2978bd2b47.jpg" alt="Unquenched thirst" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/13582064@N00/2598075659/" title="HAMED MASOUMI" target="_blank">HAMED MASOUMI</a></small>
-
 Come vedete negli utlimi tempi non seguo un gran che la Blogosfera e, ancora meno commento notizie, fatti, e **blossip** (*neologismo di mia invenzione per Blog Gossip), ma stavolta farò una eccezione...  
   
-Ho letto [un post][1] dell'amica [Enrica][1], che personalmente stimo tantissimo e di cui seguo i feed da più di un annetto, e mi sono sentito prendere dallo sconforto. Sconforto perchè, ancora una volta, chiunque combatta per un ideale viene preso per "attention whore" e per "maniaco della celebrità", sconforto perchè tante persone commentano sui commenti di commentatori che hanno commentato commenti di commentari. In ultima analisi a nessuno frega alcunchè della realtà dei fatti, ma solo del commento di terza generazione.  
+Ho letto [un post][1] dell'amica [Enrica][1], che personalmente stimo tantissimo e di cui seguo i feed da più di un annetto, e mi sono sentito prendere dallo sconforto. Sconforto perché, ancora una volta, chiunque combatta per un ideale viene preso per "attention whore" e per "maniaco della celebrità", sconforto perché tante persone commentano sui commenti di commentatori che hanno commentato commenti di commentari. In ultima analisi a nessuno frega alcunchè della realtà dei fatti, ma solo del commento di terza generazione.  
   
 Ecco il post:
 > A fronte di tutte le polemiche sulla sorte della povera Eluana, sinceramente io non ho capito perché la famiglia, o meglio il padre, se secondo lui si fa un favore alla figlia interrompendole l'alimentazione forzata (cosa di cui in linea generale dubito perché ho visto gli effetti disastranti della disidratazione, se pure negli animali), dicevo non ho capito perché non ha staccato lui stesso i vari macchinari che la tengono in vita.  

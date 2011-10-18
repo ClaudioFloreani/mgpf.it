@@ -1,8 +1,8 @@
 --- 
 layout: post
+status: ok
 title: "Sul Punto Informatico le mie tre vulnerabilità"
 meta: {}
-
 tags: 
 - hacking
 - security

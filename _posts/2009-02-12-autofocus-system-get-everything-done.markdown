@@ -1,13 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Autofocus System - Get Everything Done
 meta: 
-  _edit_last: "1"
-  Video: http://www.youtube.com/v/qF1ngJAyD_s
 tags: 
-- GTD
 - lifehacking
-- Zen &amp; Photo
 ---
 > What can you expect from the system?  
 >This is based purely on my own experience of working the system for a number of weeks, but what I have found is as follows:  
@@ -17,5 +14,5 @@ tags:
 E dopo aver provato centinaia di metodi di efficienza personale diamo un'occhiata anche all'<a href='http://www.markforster.net/autofocus-system/'>Autofocus System</a>.  
 Maggiori informazioni sulla sua efficacia quando l'avrò utilizzato un po' e farò ritorno dalla Moldova...  
   
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/qF1ngJAyD_s&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/qF1ngJAyD_s&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
+{% youtube qF1ngJAyD_s %}  
 				 

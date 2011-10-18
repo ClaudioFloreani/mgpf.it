@@ -1,12 +1,9 @@
 --- 
 layout: post
-title: Llastknight's Blogfest 2009, sartoni style
+status: ok
+title: Lastknight's Blogfest 2009, sartoni style
 meta: {}
 tags: 
-- blogfest
-- luca sartoni
-- macchianera
-- matteo flora
 - about-me
 ---
 <a href="http://www.flickr.com/photos/21925196@N08/3439303881/" title="hei" target="_blank"><img src="http://farm4.static.flickr.com/2425/3982959019_3d4dde174c.jpg" alt="hei" border="0" /></a>  

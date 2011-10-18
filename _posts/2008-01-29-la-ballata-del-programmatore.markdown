@@ -1,17 +1,12 @@
 --- 
 layout: post
+status: ok
 title: La ballata del programmatore...
 meta: 
-  enclosure: |-
-    http://www.derelitti.com/files/inno_del_programmatore.mp3
-    5650100
-    audio/mpeg
-  autometa: "canzone programmatore de andrè"
 tags: 
-- about-me
+- awesome
 ---
 ![Il Programmatore](/download/programmatore.jpg)
-
 [Questi ragazzi](http://www.derelitti.com/ballata_del_programmatore/) sono dei geni. Punto. Davvero...  
   
 >  testo:[Enrico Colombini](http://www.erix.it)  
@@ -19,7 +14,6 @@ tags:
 >  cori/arrangiamento: [Marco Di Francesco](http://www.myspace.com/difra)  
   
 Cliccato [qui](http://www.derelitti.com/files/inno_del_programmatore.mp3) se la volete scaricare.  
-
 E il testo, dal "Pescatore" di Fabrizio De Andrè è uno spettacolo di per sè:
   
 >  All'ombra dell'ultimo sole  
@@ -67,5 +61,4 @@ E il testo, dal "Pescatore" di Fabrizio De Andrè è uno spettacolo di per sè:
 >  tra le sue braccia un manuale  
 >  sognando il mare tropicale  
   
-
 Ora basta che mi sto rotolando... ;) 

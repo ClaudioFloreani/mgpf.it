@@ -13,14 +13,12 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-74632-8']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
   </head>
   <body>
     <header>
@@ -40,81 +38,58 @@
 <blockquote>
   <p>Daniele Minotti ne fa un&rsquo;altra delle sue e le statistiche mi dicono, come anche un SMS rivelatore, che <strong>mi cita sul suo articolo</strong> su <a href="http://punto-informatico.it/p.aspx?i=2031873">Punto Informatico</a> del 4 Luglio&hellip;<br />
 Che dire? <strong>Grazie mille</strong> e se non lo avete ancora fatto correte a vedere l&rsquo;<a href="http://punto-informatico.it/p.aspx?i=2031873">articolo in questione</a> o il suo blog&hellip;</p>
-
   <p><strong>Ma non dimenticate di leggere l&rsquo;articolo che il Punto informatico non ha avuto <a href="http://www.lastknight.com/2007/07/03/dio-e-cattivo-e-censura-i-siti/">il coraggio di linkare</a> : <a href="http://www.lastknight.com/2007/07/03/dio-e-cattivo-e-censura-i-siti/">DIO è cattivo e censura i siti</a></strong>&hellip;</p>
 </blockquote>
-
 <p>Facciamo un po&rsquo; di chiarezza, visto che me lo chiedono, sulle <strong>TRE tipologie di censura</strong> attive oggi come oggi in Italia&hellip;<br />
   
 Ne ho già ampiamente parlato al mio spech ad InfoSecurity 2007, ma non tutti l&rsquo;hanno seguito e non tutti hanno visto <a href="http://www.lastknight.com/2007/03/03/eludere-i-controlli-di-polizia-il-video-completo/">il filmato</a> della presentazione.  </p>
-
 <p>La prima e più &ldquo;antica&rdquo; è la <strong>Censura AAMS</strong>, decretata dalla Finanziaria 2006, e quindi primo caso di CENSURA da parte <strong>del GOVERNO</strong>, non del Parlamento.<br />
 Viene introdotta per volere dell&rsquo;Amministrazione Autonoma dei Monopoli di Stato per <a href="http://www.lastknight.com/2006/02/13/censura-11-dopo-sky-offline-i-siti-di-gioco-di-azzardo/">contrastare il gioco d&rsquo;azzardo
 oltrefrontiera</a> che non paga il dazio <em>(scusate, intendevo dire le
 concessioni)</em> all Repubblica delle Banane <em>(scusate, volevo dire Italia)</em>.<br />
 Un po&rsquo; come se per andare a giocare al Casinò a Lugano
 dovessi pagare qualcosa alla frontiera o se il Casinò di Chamonix dovesse <strong>pagare una gabella</strong> annuale all&rsquo;Italia per consentire agli Italiani di giocare nelle proprie sale.  </p>
-
 <p>Comunque per essere precisi e se volete recuperarla in giro Finanziaria 2006, Capo III (Disposizioni in materia di accertamento e contrasto all&rsquo;evasione e all&rsquo;elusione fiscale) art. 29 comma 5.</p>
-
 <p>Il meccanismo di blocco si attua secondo le seguenti modalità:  </p>
-
 <ul>
   <li>Esiste una lista da implementare pubblica</li>
   <li>Il Provider scarica pubblicamente e implementa lista</li>
   <li>Si blocca a livello del DNS</li>
 </ul>
-
 <p>Ovviamente OpenDNS è mio amico.  </p>
-
 <p>La <strong>Censura AntiPedopornografia</strong> (Volgarmente detta <strong>Decreto Gentiloni</strong>, pubblicato in
 Gazzetta Ufficiale il 29 Gennaio 2007) stabilisce DUE livelli di blocco
 differenti, che per comodità chiamerò PEDO1 e PEDO 2</p>
-
 <p>PEDO 1:
 *  Esiste una lista PRIVATA emanata dal CENTRO, che altri non è che il Centro nazionale per il contrasto della pedopornografia istituito ai sensi dell&rsquo;art. 14-bis della legge 3 agosto 1998, n. 269, come modificata dalla legge 6 febbraio 2006, n. 38.
 *  Il provider riceve tramite canali fidati la lista
 *  Blocco a livello DNS come la lista AAMS</p>
-
 <p>In aggiunta a questa abbiamo la modalità PEDO 2:
 *  Esiste una lista PRIVATA emanata dal CENTRO (vedi sopra)
 *  Il provider riceve tramite canali fidati la lista
 *  Blocco a LIVELLO DI IP degli IP indicati</p>
-
 <p>Il blocco a livello IP è piuttosto recente se si pensa che l&rsquo;Art 8, comma 1 sottocomma a e b recitano che:</p>
-
 <blockquote>
   <p>a) entro 90 giorni dalla pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del presente decreto, gli strumenti di filtraggio necessari ad inibire l?accesso ai siti identificati mediante il nome a dominio così come previsto dall&rsquo;articolo 4;<br />
 b) entro 150 giorni dalla pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del presente decreto, gli strumenti di filtraggio necessari ad inibire l&rsquo;accesso ai siti identificati anche mediante l&rsquo;indirizzo IP così come previsto dall&rsquo;articolo 4.</p>
 </blockquote>
-
 <p>Oltretutto il cosiddetto Decreto Gentiloni appioppa al fantomatico
 Centro una <strong>serie di poteri a dir poco inquietanti</strong>, tra cui il controllo
 delle transazioni finanziarie di persone arbitrarie&hellip;</p>
-
 <p>Inoltre i blocchi devono garantire che (Art. 5, comma 5, sottocomma c)</p>
-
 <blockquote>
   <p>c)  escludere che i fornitori di connettività alla rete Internet siano autorizzati, ai fini del presente decreto e salvo i casi espressamente previsti dalle leggi vigenti, al trattamento dei dati relativi agli accessi effettuati dai singoli utenti.</p>
 </blockquote>
-
 <p>In altre parole <strong>non è vero</strong> che i tentativi di accesso alle risorse bloccate siano anonimi e che i provider non possano loggarli, è solamente vero che <strong>debbono essere preventivamente autorizzati</strong>. Bella forza&hellip;</p>
-
 <p>Se questo non vi ha fatto abbastanza girare i cosiddetti, offro un&rsquo;altra importante perla di saggezza che colgo sempre l&rsquo;occasione di citare: quella della Legge 6 febbraio 2006, n. 38, <strong>Decreto Prestigiacomo</strong> che istituisce il reato di PedoPornografia Virtuale come da:</p>
-
 <blockquote>
   <p>Art. 600-quater.1. (Pornografia virtuale). Le disposizioni [&hellip;] si applicano anche quando il materiale pornografico rappresenta immagini virtuali realizzate utilizzando immagini di minori degli anni diciotto o parti di esse, ma la pena e&rsquo; diminuita di un terzo.?</p>
 </blockquote>
-
 <p>That&rsquo;s all folks ecco alcune delle chicche che hanno a che fare con una
 Censura di Regime che ci porta dritti dritti ai livelli della Libertà di
 Stampa dell&rsquo;Angola&hellip;  </p>
-
 <p>Che ne dite?<br />
 Per approfondimenti vi rimando al mio intervento a Infosecurity 2007.</p>
-
-
-
 <h2>Articoli (forse) correlati</h2>
 <ul>
   
@@ -129,7 +104,6 @@ Per approfondimenti vi rimando al mio intervento a Infosecurity 2007.</p>
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
   
 </ul>
-
 <h2>Articoli recenti</h2>
 <ul class="posts small">
 	
@@ -144,7 +118,6 @@ Per approfondimenti vi rimando al mio intervento a Infosecurity 2007.</p>
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
 	
 </ul>
-
 <time class="signoff" datetime="2007-07-02">
   02/07/2007 con tag:
 	
@@ -154,7 +127,6 @@ Per approfondimenti vi rimando al mio intervento a Infosecurity 2007.</p>
 	
 </time>
 </article>
-
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'mgpf';
@@ -165,7 +137,6 @@ Per approfondimenti vi rimando al mio intervento a Infosecurity 2007.</p>
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-
       <footer id="footer">
         
         <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">

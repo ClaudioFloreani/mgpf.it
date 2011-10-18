@@ -1,13 +1,11 @@
 --- 
 layout: post
+status: ok
 title: BeppeGrillo e WP-Cache...
 meta: {}
 tags: 
-- beppegrillo
 - about-me
-- mediaset
-- security- slashdot
-- youtube
+- forensics
 ---
 Ok, sono in Home Page di [BeppeGrillo.it](http://www.beppegrillo.it/)...  
   

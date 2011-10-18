@@ -1,17 +1,14 @@
 --- 
 layout: post
+status: ok
 title: Wordpress e SQLite...
 meta: {}
 tags: 
-- dal
-- data abstraztion layer
-- oracle
-- security- sqlite
-- wordpress
+- develop
 ---
 La mia domanda a Matt durante l'iWordCampo verteva sulla possibilità di integrare in Wordpress un meccanismo di DAL (Data Abstraction Layer) in modo da supportare differenti basi dati (come Oracle o Postgress o anche il _male_ comunemente dello MSSQL) o addirittura SQLite.  
   
-Già, perchè SQLite offrirebbe la possibilità di avere un "database su singolo file" che, se la cache di Wordpress come dice Matt è a buon punto, potrebbe eliminare definitivamente la necessità di avere un DBMS in fase di installazione.  
+Già, perché SQLite offrirebbe la possibilità di avere un "database su singolo file" che, se la cache di Wordpress come dice Matt è a buon punto, potrebbe eliminare definitivamente la necessità di avere un DBMS in fase di installazione.  
   
 Ovvio, con enormi vantaggi in fatto di semplicità di installazione...  
   

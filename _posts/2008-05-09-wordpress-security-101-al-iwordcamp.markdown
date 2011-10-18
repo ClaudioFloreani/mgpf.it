@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Wordpress Security 101 al iWordCamp
 meta: {}
 tags: 

@@ -1,13 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Manuale di Compiuter Phorensics (parte I)
 meta: {}
 tags: 
-- digital forensics
-- forensic
-- porkensic
-- recensione
-- security
+- forensics
+- weird
 ---
 <a href="http://www.flickr.com/photos/59463761@N00/616649762/" title="F*@king monitors!" target="_blank"><img src="http://farm2.static.flickr.com/1121/616649762_9f8ac3dad1.jpg" alt="F*@king monitors!" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" title="Attribution-NonCommercial-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/59463761@N00/616649762/" title="tractorpirate" target="_blank">tractorpirate</a></small>  
@@ -49,8 +47,6 @@ E da quando TrueCrypt ha una header distintiva come tipo di File? E, soprattutto
 COntinuo ad avere le mier riserve... ma forse forse fossi in un lettore lascerei perdere e comprerei il [manuale edito da Apogeo][3] di Andrea "Pila" Ghirardini...  
   
  
-
-
 [1]: http://linux.maruhn.com/sec/sdd.html
 [2]: http://dcfldd.sourceforge.net/
 [3]: http://www.apogeonline.com/libri/88-503-2593-2/scheda

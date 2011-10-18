@@ -1,11 +1,13 @@
 --- 
 layout: post
+status: ok
 title: Di false profezie e della Rete Anonima
 meta: 
-  _edit_last: "1"
-  _wp_old_slug: provaci-ancora-enzo
 tags: 
 - about-me
+- digital-freedom
+- privacy
+- ip
 ---
 Tanto per andare in Full Disclosure devo accennare che io ed Enzo Mazza abbiamo un po' di acredini trascorse. Forse perché soleva forze [darmi del buffone][1] o forse perché è arrivato a gamba tesa da dandomi in una telefonata di fuoco alla direzione una serie di aggettivi poco lusinghieri con un cliente che si è trovato in imbarazzo a spiegare che non ero un "pirata" ma un consulente tecnico e che quindi avevo tutti i diritti di [difendere The Pirate Bay][2].  
 No, così, giusto perché lo sappiate... :)  

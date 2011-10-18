@@ -1,11 +1,13 @@
 --- 
 layout: post
+status: ok
 title: Bobby McFerrin hacks your brain
 meta: {}
 tags: 
-- about-me
+- awesome
+- lifehacking
 ---
-<object width="500" height="300"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=5732745&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=5732745&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always"  width="500" height="300"></embed></object>
+{% vimeo 5732745 %}
 
 Viene da [qui](http://www.boingboing.net/2009/08/01/bobby-mcferrin-hacks.html) e credo questo di [Bobby McFarrin][1] che sia l'esempio formale più spettacolare che abbia mai visto del perché sia tanto difficile programmare una macchina utilizzando sistemi di decisione neuronale e quanto siamo invece, noi macchine umane, degli esseri meravigliosi e pieni di stupore... 
   

@@ -1,16 +1,14 @@
 --- 
 layout: post
+status: ok
 title: Ruby, Autoclick e barare a BlogStar DeathMatch
 meta: 
-  aktt_tweeted: "1"
-  autometa: paulthewineguy deathmatch celebrity blogstar barare truccare barato hacker
 tags: 
 - security
 ---
-> Se arrivate qui dal link di [Celebrity Deathmatch](http://paulthewineguy.prohosts.org/) è perchè [Paul The Wine Guy](http://www.paulthewineguy.com/) ha preso mail il Report di cui sotto.
+> Se arrivate qui dal link di [Celebrity Deathmatch](http://paulthewineguy.prohosts.org/) è perché [Paul The Wine Guy](http://www.paulthewineguy.com/) ha preso mail il Report di cui sotto.
 > Nessun problema... Mettetevi comodi, divertitevi a capire il meccanismo, ed andate in giro a cercare come pazzi a cercare altre vulnerabilità!
 > **Full Disclosure**, we believe in it!
-
 Qui tutti **sembrano sconvolti** all'idea che qualcuno abbia "acarato" il [Blogstar Deathmatch](http://paulthewineguy.prohosts.org/) dei blogger proposto da [Paul The Wine Guy](http://www.paulthewineguy.com/), ma in realtà non credo proprio vi sia la necessità di **acarare** proprio nulla...  
   
 Vediamo un secondo...  
@@ -18,8 +16,6 @@ L'applicazione **consente** il voto **una volta ogni minuto** da singolo IP. E' 
   
 Seguire le regole di altro tipo è IMPOSSIBILE, **non essendoci** regole in tutto il sito.  
 Devo cliccare una delle due frecce e lo posso cliccare una volta al minuto per singolo IP. Il che significa che posso fare **60 x 24 = 1440** voti da singolo IP. Moltiplicato per il numero di IP che riesco ad avere.  
-
-
   
 Ma cliccare a mano è scomodo e da nessuna parte mi dice che non posso cliccare automaticamente. Quindi mi attrezzo del fido Mac, del fido Ruby e dopo un "sudo gem install safariwatir" scrivo un paio di righe in Ruby:  
   
@@ -27,12 +23,9 @@ Ma cliccare a mano è scomodo e da nessuna parte mi dice che non posso cliccare 
 [ruby]
 require 'rubygems'
 require 'safariwatir'
-
 startUrl = "http://paulthewineguy.prohosts.org/"
-
 b = Watir::Safari.new
 b.speed = :fast
-
 (1..1000).each do |x|
   begin
     sleep 60

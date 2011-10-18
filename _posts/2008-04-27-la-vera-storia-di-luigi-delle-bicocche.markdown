@@ -1,16 +1,13 @@
 --- 
 layout: post
+status: ok
 title: La vera storia di Luigi delle Bicocche
 meta: {}
 tags: 
-- caparezza
-- digital-freedom
-- massimo rispetto
-- rispetto
-- sono un eroe
+- awesome
 ---
 Signori, fate largo.  
-Passa Caparezza. Abbassate gli occhi. Chinate il capo. E toglietevi il cappello, perchè passa l'**Artista**.  
+Passa Caparezza. Abbassate gli occhi. Chinate il capo. E toglietevi il cappello, perché passa l'**Artista**.  
   
 Questa che vado a raccontarvi è la vera storia di Luigi delle Bicocche, **eroe contemporaneo** a cui noi tutti dobbiamo la nostra libertà.  
   

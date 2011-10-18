@@ -12,5 +12,4 @@ Un po' di siti consigliati da Matteo (*beta*):
 <li><a href="http://www.harrymaugans.com/2007/03/18/tutorial-ajax-made-easy/">Tutorial: AJAX Made Easy</a><br>Una splendida introduzione alle basi di Ajax</li>
 <li><a href="http://taossa.com/index.php/2007/02/08/same-origin-policy/">Same-Origin Policy Part 1: Why we're stuck with things like XSS and XSRF/CSRF</a><br>Una ottima introduzione alle politiche di Same Origin e alle problematiche di sicurezza e di evasion correlate</li>
 </ul>
-
 **P.S.**: Ditemi se ritenete la cosa interessante e potrei aggiornare con i link in pianta stabile il Blog... Ogni, ad esempio, 10 link o similia... 

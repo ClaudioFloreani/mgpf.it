@@ -6,12 +6,10 @@ meta:
   _wp_page_template: default
   autometa: ""
 tags: []
-
 type: page
 ---
 Se volete essere **aggiornati sulle ultime novità** di LastKnight Dot Com è **sufficiente iscriversi** compilando il form che trovate qui sotto.  
 I vostri indirizzi **verranno custoditi gelosamente** e secondo le policy espresse nella pagina di [Informativa alla Privacy](/privacy)!  
-
 <div id="mc_signup_container"><a name="mc_signup_form"></a><form method="post" action="/#mc_signup_form" id="mc_signup_form"><fieldset class="mc_custom_border"><legend>Daily Lastknight</legend><input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html"/><div class="updated" id="mc_message"></div><div class="mc_merge_var"><label for="mc_mv_EMAIL" class="mc_var_label">Indirizzo Mail</label><input type="text" size="18" value="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input"/></div><div class="mc_merge_var"><label for="mc_mv_FNAME" class="mc_var_label">Nome</label><input type="text" size="18" value="" name="mc_mv_FNAME" id="mc_mv_FNAME" class="mc_input"/></div><div class="mc_merge_var"><label for="mc_mv_LNAME" class="mc_var_label">Cognome</label><input type="text" size="18" value="" name="mc_mv_LNAME" id="mc_mv_LNAME" class="mc_input"/></div><div class="mc_signup_submit"><input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Iscrizione" class="button"/>
 </div><div id="mc_unsub_link" align="center"><a href="http://list-manage.com/unsubscribe/?u=7e6c4b86b20b9fa1fa57d4c5c&amp;id=be5f56af59" target="_blank">unsubscribe from list</a></div><br/><div id="mc_display_rewards" align="center">powered by <a href="http://www.mailchimp.com/affiliates/?aid=7e6c4b86b20b9fa1fa57d4c5c&amp;afl=1">MailChimp</a>!</div></fieldset></form></div>
   

@@ -13,14 +13,12 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-74632-8']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
   </head>
   <body>
     <header>
@@ -38,68 +36,47 @@
       <h2 id="intro">Vulnerabilit� XSS dei siti facenti capo a Poste Italiane</h2>
 <article class="post">
 <p>Vulnerabilità XSS dei siti facenti capo a Poste Italiane</p>
-
 <p>La procedura di Log-In di Poste.it e dei domini ad esso correlati (tra cui bancopostaonline.poste.it) presenta problematiche che consentono un attacco di XSS (Cross Site Scripting) per il dirottamento degli utenti verso dominio di terze parti</p>
-
 <h2 id="advisor-id">Advisor ID</h2>
 <p>LKID010</p>
-
 <h2 id="data-di-rilascio">Data di Rilascio</h2>
 <p>2005-03-23</p>
-
 <h2 id="verifica-advisor">Verifica Advisor</h2>
 <p>http://lastknight.com/attacco-xss-poste-italiane/</p>
-
 <h2 id="criticit">Criticità</h2>
 <p>Medio-Alta (possibilità di raggiro degli utenti)</p>
-
 <h2 id="location">Location</h2>
 <p>Da remoto</p>
-
 <h2 id="impatto">Impatto</h2>
 <p>Dirottamento arbitrario utenti registrati</p>
-
 <h2 id="siti-coinvolti">Siti Coinvolti</h2>
-
 <ul>
   <li><a href="http://www.poste.it">http://www.poste.it</a></li>
   <li><a href="https://registrazioneimprese.poste.it">https://registrazioneimprese.poste.it</a></li>
   <li><a href="https://registrazione-pa.poste.it/registrazione/web">https://registrazione-pa.poste.it/registrazione/web</a></li>
   <li><a href="https://bancopostaonline.poste.it">https://bancopostaonline.poste.it</a></li>
 </ul>
-
 <h2 id="half-disclosure">Half Disclosure</h2>
 <p>La procedura unificata di accesso che gestisce in modo unificato l&rsquo;intero palco servizi Web di Poste Italiane (Bancopostaonline.poste.it, www.poste.it , registrazioneimprese.poste.it, registrazione-pa.poste.it) è stata scoperta positiva alla rilevazione di una problematica di sicurezza che consente ad un utente malintenzionato di dirottare l&rsquo;utente del servizio in modo arbitrario, sottraendolo al contollo del sito web certificante la navigazione e trasportandolo ad un sito arbitrario.  </p>
-
-
-
 <p>Questa problematica, benchè non determini in alcun modo l&rsquo;esposizione diretta di informazioni in merito agli attuali fruitori dei servizi di Poste Italiane, possiede un grado di pericolosità medio-alto per la possibilità da parte di utenti malintenzionati di sfruttare la vulnerabilità per perpetrare efficaci attacchi di Phishing. Il reinidirzzamento effettuate le procedure di autentificazione, infatti, portebbe ad esempio trasferire l&rsquo;ignaro utente che riceve una mail contraffatta ad un sito web creato per sottrarre informazioni relative a codici di accesso, password e/o informazioni riservate.<br />
 La vulnerabilità, individuata da <strong>Matteo G.P. Flora</strong>, esperto di sicurezza informatica Milanese, è stata segnalata a Poste Italiane unitamente ai dettagli completi sulla riproducibilità e sulle implementazioni necessarie risolvere la vulnerabilità.  </p>
-
 <h2 id="full-disclosure">Full Disclosure</h2>
 <p>Consegnata a Poste.it</p>
-
 <h2 id="proof-of-concept">Proof Of Concept</h2>
 <p>Consegnata a Poste.it</p>
-
 <h2 id="soluzioni">Soluzioni</h2>
 <p>Consegnata a Poste.it</p>
-
 <h2 id="time-frame">Time Frame</h2>
 <p>2003-03-21: Individuazione della Vulnerabilità
 2003-03-22: Segnalazione della vulnerabilità a Poste.it
 2003-03-23: Invio a Poste Italiane del FUL DISCLOSURE della Vulnerabilità
 2003-03-23: Comunicazione alla stampa dell&rsquo;HALF DISCLOSURE
 &hellip;</p>
-
 <h1 id="versione-stampabile">Versione Stampabile</h1>
 <p>Disponibile <a href="">QUI</a></p>
-
 <h1 id="informazioni-su-matteo-gp-flora">Informazioni su Matteo G.P. Flora</h1>
 <p>Matteo G.P. Flora è Direttore IT di ALVillage S.r.l., titolare della ditta di sicurezza LKProject e Responsabile della Provincia di Milano di AIP (Associazione Informatici Professionisti). Da tempo si occupa di sicurezza in ambito ICT, è autore di articoli di successo e Consulente della Procura della Repubblica di Milano, dei Nuclei speciali della Guardia di Finanza e di numerose delle prestigiose aziende nei TOP10 italiani.
 Il suo sito web è raggiungibile all&rsquo;indirizzo Lastknight.com </p>
-
-
 <h2>Articoli (forse) correlati</h2>
 <ul>
   
@@ -114,7 +91,6 @@ Il suo sito web è raggiungibile all&rsquo;indirizzo Lastknight.com </p>
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
   
 </ul>
-
 <h2>Articoli recenti</h2>
 <ul class="posts small">
 	
@@ -129,13 +105,11 @@ Il suo sito web è raggiungibile all&rsquo;indirizzo Lastknight.com </p>
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
 	
 </ul>
-
 <time class="signoff" datetime="2005-06-25">
   25/06/2005 con tag:
 	
 </time>
 </article>
-
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'mgpf';
@@ -146,7 +120,6 @@ Il suo sito web è raggiungibile all&rsquo;indirizzo Lastknight.com </p>
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-
       <footer id="footer">
         
         <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">

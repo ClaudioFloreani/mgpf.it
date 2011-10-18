@@ -13,14 +13,12 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-74632-8']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
   </head>
   <body>
     <header>
@@ -39,37 +37,25 @@
 <article class="post">
 <p>Dopo la <a href="http://www.lastknight.com/2007/03/27/liberoit-e-xss-pericolo-credenziali/">vulnerabilità di Rosario Valotta</a> che avevo segnalato è ora di proporre la mia vulnerabilità <strong>personale</strong> ;)<br />
 Con un <a href="http://www.lastknight.com/xss-libero">Advisory</a> su <a href="http://www.securityfocus.com/archive/1/464048/30/0/threaded">BugTraq</a> e su <a href="http://seclists.org/fulldisclosure/2007/Mar/0492.html">Full-Disclosure</a> (e ovviamente all&rsquo;Abuse di Libero.it) la <strong>Proof Of Concept</strong> di una pagina costruita per:  </p>
-
 <ul>
   <li>Mostrare il <strong>Cookie</strong> dell&rsquo;utente</li>
   <li>Mostrare un <strong>testo</strong> in alert evadendo i controlli degli apici</li>
   <li>Effettuare <strong>un redirect ad una pagina arbitraria</strong>  </li>
 </ul>
-
 <p>Ed ecco un paio di immagini della realizzazione pratica:  </p>
-
 <ul>
   <li><a href="/download/20070328_xss1.jpg">Immagine 1</a>: mostro il cookie</li>
   <li><a href="/download/20070328_xss2.jpg">Immagine 2</a>: Mi preparo a redirigere l&rsquo;utente  </li>
 </ul>
-
 <p>La vulnerabilità è presente (ma non è la sola) nella pagina di redazione del profilo e consente di inserire un qualunque codice Javascript con l&rsquo;unica limitazione della impossibilità di <strong>usare apici</strong>.<br />
 Ma l&rsquo;evasione di questi filtri è sinceramente una manovra <strong>tanto semplice quanto comune</strong>&hellip;  </p>
-
 <p>Sino a che Libero non eliminerà la pagina incriminata è possibile vedere gli effetti <a href="http://digiland.libero.it/profilo.phtml?nick=XssForFun&amp;top=1">QUI</a>e comunque nelle immagini presenti in questo Post.  </p>
-
 <p>E prima che qualcuno dica che l&rsquo;XSS <strong>non è pericoloso</strong>, come ovviamente hanno sostenuto gli incaricati della PR di Libero, faccio solamente notare le potenzialità di Phishing e di Session Riding che so per certo qualcuno sta valutando ;)  </p>
-
 <p>E nei prossimi giorni sembra proprio che verranno pubblicate svariate altre vulnerabilità sull&rsquo;argomento Libero.it&hellip;  </p>
-
 <p>Sarebbe piacevole ricevere contatti dallo <strong>Staff del Portale</strong> per poter coordinare i lavori, ma a parte il Call Center non <strong>risponde mai nessuno</strong> di tecnico&hellip;<br />
 Ben disponibile a <strong>dare una mano</strong>, se possibile, ma per ora l&rsquo;unica <strong>dimostrazione effettiva</strong> è che l&rsquo;episodio precedente non è né isolato né tanto meno unico&hellip;</p>
-
 <p><strong>UPDATE:</strong> Sembra che nella mattinata del 29 il problema da me segnalato sia stato risolto e che quindi il link della POC non sia più funzionante.  Per chi non è riuscito a dare un&rsquo;occhiata qui di seguito il filmato che mostra il funzionamento della POC.  </p>
-
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/PMWlCK09C-U" /><param name="wmode" value="transparent" /><embed src="http://www.youtube.com/v/PMWlCK09C-U" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350" /></object>
-
-
 <h2>Articoli (forse) correlati</h2>
 <ul>
   
@@ -84,7 +70,6 @@ Ben disponibile a <strong>dare una mano</strong>, se possibile, ma per ora l&rsq
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
   
 </ul>
-
 <h2>Articoli recenti</h2>
 <ul class="posts small">
 	
@@ -99,7 +84,6 @@ Ben disponibile a <strong>dare una mano</strong>, se possibile, ma per ora l&rsq
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
 	
 </ul>
-
 <time class="signoff" datetime="2007-03-28">
   28/03/2007 con tag:
 	
@@ -109,7 +93,6 @@ Ben disponibile a <strong>dare una mano</strong>, se possibile, ma per ora l&rsq
 	
 </time>
 </article>
-
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'mgpf';
@@ -120,7 +103,6 @@ Ben disponibile a <strong>dare una mano</strong>, se possibile, ma per ora l&rsq
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-
       <footer id="footer">
         
         <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">

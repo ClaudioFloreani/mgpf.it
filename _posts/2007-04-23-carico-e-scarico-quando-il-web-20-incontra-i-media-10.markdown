@@ -21,7 +21,6 @@ La [pagina di registrazione](http://caricoscarico.neonetwork.it/login.asp) per l
 Peccherò di arroganza ma **popolo del Web 2.0, avanti**!  
   
 Per maggiori informazioni su UGC e Web 2.0:  
-
 *  La [voce di Wikipedia](http://it.wikipedia.org/wiki/Web_2.0) relativa al [Web 2.0](http://it.wikipedia.org/wiki/Web_2.0).
 *  Il [Saggio di Openarea](http://www.openarea.net/Web2.0.pdf) scaricabile in PDF
 *  L'[articolo di Tim O'Rielly](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html) che ha dato vita al termine Web 2.0

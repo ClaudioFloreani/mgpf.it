@@ -16,15 +16,11 @@ Irrimediabilmente, lo abbiamo fatto tutti, si sarà trovato di fronte alle diffe
 I primi due programmi richiedono, ovviamente, un **costante lavoro** di followup e di aggiornamento, oltre ad un preciso monitoraggio e soprattutto una precisa **strategia** di pubblicazione. Sono perfetti per i siti web *"a tema"* o per chi scrive un singolo post con altissimo ranking proprio per promuovere un determinato prodotto o servizio.  
 I servizi di Review hanno la particolarità di essere percepiti da molti *(in genere io sono uno di questi)* come una sorta di **imbroglio** verso i propri lettori, anche se si tratta di una review con tanto di disclaimer della cosa.  
   
-
-
 Questo processo fa in modo che la stragrande maggioranza dei blogger (e non solo) siano **irrimediabilente legati** alla piattaforma di AdSense che, nel bene e nel male, da la possibilità di avere **piccoli guadagni** con una difficoltà di utilizzo prossima allo zero e sorpattutto senza alcun tipo di necessita di followup.  
-
 Certo, questo si riduce, nella realtà dei fatti, ad avere una revenue di modestissima entità, che raramente supera i 30 cents per click e che porta non già ad un guadagno vero e proprio ma ad una sorta di compensazione delle spese sostenute per la gestione del sito web e dei costi fissi come possono essere hosting, tempi di restyle e poc'altro.  
   
   
 #Troppo piccoli per camminare da soli  
-
 La cosa da tenere presente in questa mia piccola analisi  che Google non guadagna MAI 30 centesimi a click, ma una cifra nettamente superiore che per definizione fa si che possano rilasciare **"le briciole"** al publisher. La quota richiesta, infatti, ad un inserzionista per singolo click supera **di gran lunga **quella pagata all'utente, talvolta sfiorano le 10 volte nette il controvalore ricevuto.  
   
 Ma, ovviamente, nessuno di noi piccoli blogger è in grado *(salvo rarità)* di generare abbastanza traffico per essere **un bersaglio appetibile **per gli inserzionisti, una realtà, cioè, in grado di **vendere direttamente **pubblicità e di generare utili "saltando" il ruolo di prezzolato intermediario di Google.  
@@ -76,7 +72,6 @@ Già. Gli utili di TUTTO IL NETWORK sono divisi **solo ed esclusivamente per CPC
 Alla gestione della piattaforma va **il 10% del volume** di affari. Che significa che la piattaforma per i primi mesi sarò in **ultraperdita** :). Questo viene incontro all'**Assioma 3.**
 * **Introduciamo l'Advertising Broker**  
 Introduciamo una figura che **sarà responsabile** delle vendite dell'INTERO network e che verrà **pagata a percentuale**. Secondo **Assioma 5** questo darà la possibilità al publisher di non doversi preoccupare di nulla e secondo** Assioma 3** se il 10% del volume è dato al Gestore il Broker non potrà guadagnare più del 20% del fatturato. Questo lascia il **60% netto** dei guadagni in mano all'inserzionista.
-
 Ma nella pratica, come funziona il **CoopAds** *(se è un meme va reiterato!)*?  
   
 Facciamo un esempio concreto: LastKnight.com decide di **aderire al Network** e mette a disposizione una serie di **spazi banner**. Il Network gli rilascia un **codice univoco** da accludere alle pagine per il tracciameno e LastKnight è in grado di **monitorare** le sue conversioni in tempo reale.  
@@ -97,11 +92,9 @@ E che dire di LastKnight.com? Beh, a fronte di una vendita di CPC che alla fina 
 Ma in tutta questa scena l'attore che sembra guadagnare di più sembra proprio essere il **Broker**. Chi ci garantisce che il Broker non venda la nostra pubblicità a qualcuno per una **cifra ridicola** e si intaschi magari una **lauta "mancia"** dall'inserzionista che in questo modo ha avuto un vantaggio d'eccezione?  
   
 Semplice: il Broker è **ELETTO** trimestralmente.
-
 Alla fine del trimestre** altri Broker** hanno la possibilità di **proporsi** con un programma per il trimestre e non è certo il Network che sceglie il nuovo broker ma, invece, i **singoli soci**, ciascuno per la sua **quota societaria**. Quota Societaria!?!? Sì, poiché** ciascuno voterà** con un numero di voti pari alla somma dei click generati nel trimestre precedente.  
 Ciascun inserzionista, infatti, conta nel Network tanto quanti sono** i click che riesce a produrre** ed è quindi corretto che in un contesto <s>democratico</s> meritocratico **ciascuno voti** a seconda di quanto è utile alla collettività stessa.
 Il Gestore del Network, in questo caso, ha un potere di voto pari** al 10% dei voti complessivi**. In altre parole, facendo ancora due conti:
-
 * Nel trimestre il network ha generato** 35.000 clicks**. I voti totali saranno quindi** 35.000 più 7.500** del Gestore del Network, per un totale di **42.500** voti.
 * LastKnight.com ha generato **20 click** il primo mese, ma **700** il secondo e **600** il terzo. Potrà quindi votare con **1.320** voti effettivi.  
   
@@ -135,13 +128,10 @@ E poi dopo** 4 settimane dalla partenza** del Network si può valutare quante **
 **Credete che possa funzionare?**  
 Un OpenAds server è già montato e funzionante, attendo da voi **tutti commenti**, proposte, suggerimenti, insulti e/o **adesioni**.  
 Idealmente la sperimentazione partirà **Giovedì 1 Novembre 2007** e terminerà **Venerdì 30 Novembre 2007**. Nel frattempo siete invitati a contattarmi se volete **partecipare** e/o **proporvi** come Broker. In quest'ultimo caso preparate** una scheda dettagliata** che possa servire da indicazione ai "soci" per le votazioni, che si effettueranno, idealmente, **prima del 15 di Novembre** per dare modo al Broker di lavorare durante le festività natalizie.
-
 Che dire di altro?  
 **Stay tuned** e se volete saltare sulla barca di questa impresa (o dare una mano), fatevi vivi (alla pagina contatti) e, se raccoglieremo abbastanza adesione, partiremo col progetto.  
   
 Altrimenti rimarrà solamente un **esercizio di stile** =]  
-
-
 [1]: http://www.zanox.it
 [2]: http://www.tradedoubler.it
 [3]: http://www.adbrite.com

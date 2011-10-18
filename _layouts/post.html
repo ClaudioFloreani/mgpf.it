@@ -4,9 +4,7 @@ layout: default
 <h2 id="intro">{{ page.title }}</h2>
 <article class="post">
 {{ content }}
-
 {% include related.html %}
-
 <time class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
   {{ page.date | date: "%d/%m/%Y" }} con tag:
 	{% for tag in page.tags %}
@@ -14,5 +12,4 @@ layout: default
 	{% endfor %}
 </time>
 </article>
-
 {% include comments.html %}

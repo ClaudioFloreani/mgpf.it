@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Il vero spot Apple
 meta: 
 tags: 

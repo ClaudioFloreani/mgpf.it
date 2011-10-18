@@ -1,10 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Intervista su ISACARoma
 meta: {}
 tags: 
 - about-me
-- security
+- talk
 ---
 ![Intervista di ISACA a Matteo Flora](http://www.lastknight.com//download/20061017_isaca.jpg)
 Il [capitolo romano](http://www.isacaroma.it/html/newsletter/node/300) della notissima ISACA [pubblica](http://www.isacaroma.it/html/newsletter/node/300) oggi una **[intervista](http://www.isacaroma.it/html/newsletter/node/300) con il sottoscritto** in merito agli scottanti argomenti della **Sicurezza Informatica**, ad OPSI e alle future **minacce alla sicurezza** che la IT Society dovrà affrontare nei prossimi anni.  

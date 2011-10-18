@@ -1,13 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Come 10-digit uccideranno la Privacy
 meta: {}
 tags: 
-- 10-digit
 - digital-freedom
-- localizzazione
 - privacy
-- rintracciamento
 ---
 Se riflettiamo un secondo è effettivamente vero che 10-digit di informazioni non sono veramente un traguardo irraggiungibile ma anzi...  
   

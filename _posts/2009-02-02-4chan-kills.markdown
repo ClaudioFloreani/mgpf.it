@@ -1,9 +1,11 @@
 --- 
 layout: post
+status: ok
 title: 4chan kills...
 meta: {}
 tags: 
 - digital-freedom
+- weird
 ---
 <img src="http://www.lastknight.com/download//2009/02/jokela-school-shooter-294x300.jpg" alt="jokela-school-shooter" title="jokela-school-shooter" width="294" height="300" class="aligncenter size-medium wp-image-1278" />    
   
@@ -16,6 +18,4 @@ E se volete tenere gli high-score c'è chi [lo ha già fatto][3].
 [1]: http://en.wikipedia.org/wiki/Jokela_school_shooting  
 [2]: http://4chan.org  
 [3]: http://www.spreekillers.org/  
-
-
  

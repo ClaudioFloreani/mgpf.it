@@ -12,7 +12,6 @@ tags:
 Guardando molto bene il panorama dei Macro Virus e deigli ultimi Worm in circolazione, mi chiedo quando avremo il .NET Framework installato sul 90% circa delle macchine Wintel in circolazione... Perchè principalmente TEMO quel giorno...  
 Lasciatemi spiegare... Attualmente il più distruttivo dei Virus è in grado di fare discreti danni sia dal punto di vista della propagazione, sia da quello della raccolta di informazioni. Oltretutto, alcuni dei peggiori virus passati alla storia erano (e sono) scritti in VBS, linguaggio non particolarmente potente e di dubbie capacità di integrazione con le API di sistema.  
 Ma un virus .NET, soprattutto in visione di un futuro non troppo lontano in cui Windows Scripting Host (WSH) verrà rimpiazzato da C#/VB.NET, ha sicuramente le carte in regola per divenire facilmente LETALE. Ecco il perché in una serie di ragioni:
-
 * .NET è embeddabile nei documenti di Microsoft OfficeX (si, esiste il problema della firma, ma una firma "fake" o un buffer overflow sfruttabile si trova)
 * .NET possiede tutte le primitive per la posta elettronica.
 * .NET è in grado di aprire socket (FTP, HTTP, SSH, POP3, IMAP e chi più ne ha più ne metta (DDOS o Port Scanning) 
@@ -21,5 +20,4 @@ Ma un virus .NET, soprattutto in visione di un futuro non troppo lontano in cui 
 * .NET ha la vera e concreta possibilità di essere MultiPiattaforma (per lo meno PocketPC/SmartPhone/Wintel) 
 * .NET, tramite Reflection, ha la completa possibilità di decompilazione/ricompilazione necessaria al Polimorfismo e al Metamorfismo * .NET funziona egregiamente in multithreading 
 * .NET è (o sarà) integrato al sistema operativo, ed eseguibile da linea di comando (al contrario di Java)... 
-
 Brrr...

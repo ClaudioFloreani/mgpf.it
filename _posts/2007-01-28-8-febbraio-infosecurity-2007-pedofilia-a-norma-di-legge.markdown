@@ -17,14 +17,12 @@ In altre parole, per quanti lo richiedevano, probabilmete il video sarà qualche
   
 Nel frattempo fervono da parte mia tutti gli **ultimi ritocchi** delle varie screencast che proietterò durante il seminario e mi imbatto anche in **pezzi di cronaca** favolosi da incorporare...  
 Mi riferisco innanzitutto alle dichiarazioni del nostro incompetente (e anche un poco saccente) **Ministro Fioroni** che in una intervista rilascia le seguenti profetiche parole:
-
 > "Intendo tutelare i minori dallaccesso a tutto ciò che possa danneggiare la loro formazione e il loro sviluppo [...] Una regolamentazione è un prerequisito di civiltà e spero che lItalia per una volta possa diventare di esempio". Nel corso dell'intervista il Ministro spiega che al fine di garantire la libertà dei minori è giusto filtrare i contenuti sulla rete, **così come fanno a Pechino**.  
   
 Bravo ministro! Come se ora come ora la legislazione tutelasse i minori!  
 Venga l'8 e le farò capire come la vostra smania di legiferare sotto effetto guttalax ha creato tali e tali ossimori legislativi da fare accapponare la pelle...  
   
 E quindi, a grande richiesta, nella conferenza dell'8 si parlerà anche dei seguenti argomenti:
-
 * "Ricrearsi" sessualmente di una minorenne non è reato ma Dio vi scampi dal fotografarla
 * L'onanismo è pericoloso de fatto da minorenne: come farsi una foto e passare la pubertà in carcere
 * La pedopornografia e le distribuzioni "live": come visitare a norma di legge siti pedopornografici  

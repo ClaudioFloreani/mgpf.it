@@ -1,22 +1,11 @@
 --- 
 layout: post
+status: ok
 title: "(in)sicurezza: Forzate le serrature elettroniche di Honda, Fiat, Toyota, Volvo, Volkswagen..."
 meta: {}
 tags: 
-- antifurto
-- antifurto Fiat
-- antifurto Honda
-- antifurto Toyota
-- antifurto Volkswagen
-- antifurto Volvo
-- about-me
-- forzare antifurto
-- security
----
-Consueta anteprima della mia rubrica sul Punto Informatico.  
-  
+- hacking
 ---  
-  
 Credo che sia ormai chiara a tutti la mia insana passione per le frasi latine, ma questa settimana l'unica che mi senta di poter citare è la solita "[vox clamantis in deserto][1]".  
 Chi parla di sicurezza informatica, infatti, si ritrova spesso e volentieri di fronte alla condizione di Zarathustra che parla ignorato. Marco Calamari chiama queste persone i "Lavoratori di Sisifo", inneggiando alla mitica figura che porta una pietra sulla cima di un monte per poi vederla irrimediabilmente tornare a valle e dover riprendere dal principio.  
   

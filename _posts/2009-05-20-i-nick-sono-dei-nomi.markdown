@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: I nick sono dei nomi
 meta: {}
 tags: 
@@ -12,7 +13,7 @@ E così quando [Wittgenstein][1] pubblica un [post][1] con nick vari ed eventual
   
 > Il piano è rigoroso. Appena finita la messa in onda si aspetta che sia messo online su BitTorrent il file da scaricare. La squadra è composta da sei persone che stanno in contatto su Skype e commentano già in diretta (stasera puntata loffia): si divideranno i 42 minuti in blocchi di sette per ciascuno. **MetalMarco** si è preso gli ultimi sette. Tra di loro cè anche il supervisor, quello che farà la revisione finale di tutto il testo. Riconosco altri nomi noti: **Curzio Campodimaggio**, **TutorGirl**, **LucasCorso**.  
   
-Un paio di colpetti su Skype ed ecci i risultati:  
+Un paio di colpetti su Skype ed ecco i risultati:  
   
 <img src="http://www.lastknight.com/download//2009/05/profile_001-500x300.jpg" alt="profile_001" title="profile_001" width="500" height="300" class="aligncenter size-medium wp-image-1487" />  
   

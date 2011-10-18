@@ -46,7 +46,6 @@ Id be all right
 Because I believe  
 That after were gone  
 The spirit carries on  
-
 **"Open your eyes, Nicholas.**  
 **"AAAH!**  
    

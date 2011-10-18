@@ -1,11 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Un'Ira(n) di Dio
 meta: {}
 tags: 
-- censorship
-- about-me
-- sorshipiran
+- digital-freedom
 ---
 Un [paio di post][1] [estremamente interessanti][2]  
   

@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: "Perchè Vitrociset e CNAIPIC contano, e molto"
 meta: 
 tags: 
@@ -10,14 +11,11 @@ Ok, siamo tutti abituati a vedere LulzSec che viola qualunque cosa abbia all'int
 <a href="http://xkcd.com/932/"><img src="http://matteoflora.com/wp-content/uploads/2011/08/cia.png" alt="" title="cia" width="578" height="263" class="aligncenter size-full wp-image-199" /></a>
   
 Il fatto che quasi nessuno sappia cosa siano CNAIPIC e Vitrociset non è un motivo sufficiente per lasciare correre. Inutile che AnonIta ritratti qualunque coinvolgimento se dopo qualche ora pubblica contenuti provenienti proprio da CNAIPIC: durante un defacciamento del [blog di AnonIta](http://anonops-ita.blogspot.com/) peraltro un anonimo defacciatore incolla brani di chat che dimostrano il coinvolgimento del gruppo italiano:
-
 > 13:23   Divi avevamo detto di non essere in possesso dei dati del cnaipic  
 > 13:23 Divi e il giorno dopo che succede?  
 > 13:23 mendax se ho avccesso come admin non ci vuole un cazzo a cacciare tutti e scrivere  
 > 13:23 Divi ne pubblichiamo altir 200 mb  
-
 <a href="http://matteoflora.com/wp-content/uploads/2011/08/evil181-e1312184866334.png"><img src="http://matteoflora.com/wp-content/uploads/2011/08/evil181-e1312184866334.png" alt="" title="evil18" width="639" height="567" class="aligncenter size-full wp-image-204" /></a>
-
 Ma a parte il gioco delle responsabilità, che credo stia movimentando un piccolo esercito di comparti di polizia, ritorniamo per un secondo a Vitrociset. Nell'attacco a Vitrociset sono state pubblicate credenziali di accesso di tutti i dipendenti (e credo consulenti), Le medesime credenziali di accesso che probabilmente costituiscono il lasciapassare anche alle reti che Vitrociset amministra sul territorio. E quali sarebbero?  
   
 Nulla di particolare, se si fanno un paio di ricerche:  
@@ -25,7 +23,6 @@ Nulla di particolare, se si fanno un paio di ricerche:
 >  "destinata ad avere uno strascico giudiziario la vicenda della Enterprise digital architects (Eda), l' ex spin off della Ericsson passata nelle mani degli hedge fund e quindi messa in liquidazione. La società romana di servizi informatici e di tlc è dal gennaio scorso affittata alla **Vitrociset** e il contratto scadrà il 31 dicembre. Eda è arrivata a contare 400 dipendenti e, tra l' altro, _gestisce la rete interforze che copre tutta l' Italia e collega i principali ministeri come pure le più sperdute caserme dei Carabinieri_." ([fonte](http://archiviostorico.corriere.it/2008/ottobre/24/sovrapprezzo_del_curatore_non_giu_mo_0_081024017.shtml)).  
   
 <a href="http://matteoflora.com/wp-content/uploads/2011/08/Sc25lgf-e1312196693312.jpg"><img src="http://matteoflora.com/wp-content/uploads/2011/08/Sc25lgf-e1312196693312.jpg" alt="" title="Sc25lgf" width="640" height="346" class="aligncenter size-full wp-image-218" /></a>
-
 A conferma vi è anche un comunicato stampa di Vitrociset che recita:  
   
 > «in riferimento ai recenti fatti di cronaca». In esso viene precisato che Vitrociset «non intende vendere alcun ramo di azienda, né tantomeno la **Rete Interpolizie** entrata nel perimetro aziendale nel 2009 ». Si tratterebbe, prosegue il comunicato, di un asset strategico dell’azienda su cui sono stati fatti ingenti investimenti. ([fonte](http://www.corrierecomunicazioni.it/news/84148/vitrociset_la_rete_interpolizie_non_in_vendita))  
@@ -41,7 +38,6 @@ Ma non è ancora finito: per capire la portata dell'attacco a Vitrociset è impo
 A quando un bell'archivio online contenenti le liste passeggeri, gli spostamenti di materiali, o l'architettura interna dei sistemi di controllo aereo?  
   
 E gli echi non sono ancora finiti se è vero che in mezzo mondo i documenti trapelati dal CNAIPIC stanno creando grossi problemi diplomatici: il fatto che il CNAIPIC spiasse forse straniere non è stato, in effetti, molto gradito:
-
 > It appears that Italian National Police servers were recently hacked by a group of international hackers calling itself Anonymous Hackers for Antisec Operation. On July 26, the group published over eight gigabytes of hacked CNAIPIC documents on various subjects, ranging from reports on Egypt’s Ministry of Transportation to information about the Vietnam Oil and Gas Group (PetroVietnam). Among the documents are reports that seem to point to systematic intelligence-gathering operations by CNAIPIC against Russia’s government-owned energy and defense industries. Some of the information contained in the reports appears to have been stolen from the embassy of India in Moscow, probably through cyberespionage. ([fonte](http://inteldaily.com/2011/07/computer-hacking-reveals-italian-spying-on-russia-india/))  
   
 Da italiano questa cosa mi preoccupa un poco. Da bravo cittadino che paga le tasse per un servizio mi sgomenta un poco.  
@@ -51,7 +47,6 @@ Ed ora aspettiamo gli archivi per vedere cos'altro si nasconde, ammesso che mai 
   
 ## I leak VITROCISET
 Credo che ci sia ancora (per ora funzionante) il link alle info leakate qui:
-
 * Vitrociset: <http://pastebin.com/6mVSf9AU>
 * Vitrociset Altra versione trovata con Search: <http://pastebin.com/Y8LFUyWk>
   

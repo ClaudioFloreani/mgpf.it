@@ -1,13 +1,13 @@
 --- 
 layout: post
+status: ok
 title: "Nhibernate: una guida per autostoppisti"
 meta: {}
 tags: 
 - develop
 ---
 Da qualche giorno sto iniziando ad utilizzare piottosto pesantemente Nhibernate, framework che implementa l'**Object Relational Mapping** (OR/M) in modo diretto in .NET.  
-Non è mio scopo illustrare perchè proprio **Nhibernate** invece di altri sistemi disponibili, ma solamente fornire qualche indicazione su un po' di link che mi hanno decisamente semplificato la vita:
-
+Non è mio scopo illustrare perché proprio **Nhibernate** invece di altri sistemi disponibili, ma solamente fornire qualche indicazione su un po' di link che mi hanno decisamente semplificato la vita:
 * [Quick start guide](http://wiki.nhibernate.org/display/NH/Quick+Start+Guide) su Nhibernate.org  
     Fornisce una **introduzione veramente basilare** per chi non ha mai sentito parlare di OR/M e similia.  
 * [La documentazione Ufficiale](http://nhibernate.sourceforge.net/nh-docs/en/html/chunk/)  
@@ -26,5 +26,4 @@ Non è mio scopo illustrare perchè proprio **Nhibernate** invece di altri siste
    Forse il più completo ed illuminante esempio per iniziare da zero ad utilizzare Nhibernate.
 * [Retrieve Data using NH](http://breaman.net/index.php?p=48) della serie di Breaman  
    Esempi di retrieve di singolo oggetto o di collezioni.  
-
 Buon divertimento! 

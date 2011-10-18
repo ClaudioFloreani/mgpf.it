@@ -1,19 +1,14 @@
 --- 
 layout: post
+status: ok
 title: Piero Fassino, il nuovo Blog... e qualche problema...
 meta: {}
-
 tags: 
-- blog
-- cannocchiale
-- digital-freedom
-- fassino
 - hacking
-- security- sito web
+- weird
 ---
 <a href="http://www.flickr.com/photos/7588729@N03/2288769937/" title="" target="_blank"><img src="http://farm3.static.flickr.com/2386/2288769937_37348e23b1.jpg" alt="" border="0" /></a>  
 <small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/Samuel Judge/" title="Samuel Judge" target="_blank">Samuel Judge</a></small>
-
 No, **non voglio**.  
 Oddio, non che [Fassino](http://www.pierofassino.it) mi stia simpatico, per la cartià di Dio, ma il problema è un altro...  
   

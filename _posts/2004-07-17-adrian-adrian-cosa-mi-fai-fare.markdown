@@ -16,7 +16,6 @@ Si, perché il suo quesito (<i>Dato un array di N numeri interi, array, con N - 
 Scherzi a parte il quesito SEMBRA banale, ma la sua soluzione per quanto ci si sforzi non lo è per niente. Sentiti complimenti al genio di Flavio che mi ha tenuto al PC per le scorse 2 ore a capire come fare X senza fare X...  
   
 Come sempre accade mi sono concentrato sulla domanda. E ho diviso il problema in 3 fasi:  
-
 * Iterare nell'Array SENZA iterare
 * Controllare gli elementi senza IF
 * Determinare se un numero è pari senza IF 

@@ -1,14 +1,10 @@
 --- 
 layout: post
+status: ok
 title: "C'è qualcuno di Fineco?"
 meta: {}
 tags: 
-- banca
-- banca fineco
-- conto fineco
-- fineco
-- fineco bank
-- about-me
+- weird
 ---
 Possibile che aprire un **** di conto corrente serva UN MESE?  
   

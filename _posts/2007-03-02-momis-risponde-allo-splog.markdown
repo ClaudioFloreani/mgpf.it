@@ -9,7 +9,6 @@ tags:
 La vicenda dello Splog (spam di commenti a blog) di Momis in cui accennavo nel [post di ieri](http://www.lastknight.com/2007/03/01/momisit-gli-spammer-italiani-di-wordpress/) sembra aver avuto qualche ritorno.  
   
 Come dicevo nel post infatti **ero stato contattato** dai vertici della MOMIS per una risposta ufficiale ed eccola a voi integralmente come preannunciato e come richiesto dalla stessa MOMIS :
-
 > *Egregio Dr Flora,*  
 >  
 > *come da contattti telefonici intercorsi in data odierna Le riporto di seguito la spiegazione dellaccaduto che Le chiedo di voler pubblicare in risposta alla vostra azione:*  

@@ -4,7 +4,6 @@ title: Parodia a Casa LastKnight
 meta: {}
 tags: 
 - about-me
-- security
 ---
 <img src='http://www.lastknight.com/download//20080107_parodia.jpg' alt='20080107_parodia.jpg' />
   
@@ -14,7 +13,7 @@ Che dire, che stia **diventando famoso**? per la carità di Dio , speriamo di no
   
 Comuque fossi in voi [vedrei il filmato][2]. Sono due minuti devastanti! 
   
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/0X6D7u_W1bE&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/0X6D7u_W1bE&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>
+{% youtube 0X6D7u_W1bE %}
 
 [1]: http://blogaprogetto.wordpress.com/2008/02/06/love-knight/
 [2]: http://it.intruders.tv/Weblob-07-02-2008_a58.html 

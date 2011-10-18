@@ -1,16 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Basiglio? Il paese dei ricchi. Di soldi, non di cuore.
 meta: {}
 tags: 
-- basiglio
-- censura
-- digital-freedom
-- disegno
-- mobbing
-- paranoia
-- "povertà"
-- razzismo
+- weird
 ---
 Mi raccomando, per la carità di Dio!  
 Se siete poveri **non andate assolutamente ad abitare a Basiglio**. Potreste essere indiziati per una caz*ata e la vostra vita sconvolta da una compagna di classe troppo ricca per avere un cervello:  

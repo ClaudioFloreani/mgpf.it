@@ -1,10 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Quello che mi dicono ultimamente spesso...
 meta: {}
 tags: 
 - about-me
-- Zen &amp; Photo
 ---
 <a href="http://www.facebook.com/photo.php?pid=1851089&id=502992052" class="tt-facebook-photo tt-facebook-medium"><img src="http://photos-b.ak.fbcdn.net/photos-ak-snc1/v1631/119/51/502992052/s502992052_1851089_9279.jpg" alt="" border="0" /></a><a href="http://www.facebook.com/photo.php?pid=1851133&id=502992052" class="tt-facebook-photo tt-facebook-medium"><img src="http://photos-f.ak.fbcdn.net/photos-ak-snc1/v1631/119/51/502992052/s502992052_1851133_7647.jpg" alt="" border="0" /></a><a href="http://www.facebook.com/photo.php?pid=1840137&id=502992052" class="tt-facebook-photo tt-facebook-medium"><img src="http://photos-b.ll.facebook.com/photos-ll-snc1/v1631/119/51/502992052/s502992052_1840137_6683.jpg" alt="" border="0" /></a><a href="http://www.facebook.com/photo.php?pid=1835147&id=502992052" class="tt-facebook-photo tt-facebook-medium"><img src="http://photos-d.ak.fbcdn.net/photos-ak-snc1/v1631/119/51/502992052/s502992052_1835147_579.jpg" alt="Mamma" border="0" /></a>  
     

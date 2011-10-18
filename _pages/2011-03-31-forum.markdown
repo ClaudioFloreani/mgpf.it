@@ -15,8 +15,6 @@ meta:
   _wp_jd_target: ""
   _wp_jd_url: ""
 tags: []
-
 type: page
 status: draft
 ---
-

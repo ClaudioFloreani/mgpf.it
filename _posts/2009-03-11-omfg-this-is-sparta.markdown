@@ -1,12 +1,10 @@
 --- 
 layout: post
+status: ok
 title: OMFG this is Sparta
 meta: {}
 tags: 
-- Cazzate
-- fun
-- about-me
-- sparta
+- weird
 ---
 ...no comment...  
   

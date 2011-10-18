@@ -6,11 +6,9 @@ meta:
   _wp_page_template: default
   image: ""
 tags: []
-
 type: page
 ---
 # Ecco il Grande fratello Google: ci scheda per la pubblicità
-
 Gli identikit conservati un anno e mezzo in 450mila server. Chi va in rete viene inseguito da inserzioni dedicate. Esiste un'operazione per disattivare il tracciamento ma è a carico dell'utente. Gusti, orientamenti sessuali e religiosi.  
 L'articolo completo è disponibile [su Repubblica Online](http://www.repubblica.it/tecnologia/2010/08/13/news/google_spia-6257171/) e qui di seguito la videointervista completa pubblicata su Repubblica TV.  
   
@@ -35,7 +33,6 @@ Sorry for the poor English :)
 # Hackers: Santi Criminali  
   
 Una introduzione all'Etica della Disclosure e alle problematiche correlate.  
-
 <object width="535" height="401"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=752259&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=c9ff23&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=752259&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=c9ff23&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="535" height="401"></embed></object>  
   
 # Eludere i Controlli di Polizia - Matteo Flora InfoSecurity 2007

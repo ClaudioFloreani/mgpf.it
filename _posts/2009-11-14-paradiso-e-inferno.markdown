@@ -1,16 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Paradiso e Inferno
 meta: {}
 tags: 
-- inferno
-- io
-- Lo Zen e l'arte dell'IO
-- about-me
-- paradiso
-- rishi
-- samurai
-- zen
+- lifehacking
 ---
 > Un samurai grande e grosso va da un saggio e gli dice: parlami della natura del paradiso e dellinferno.  
 >  

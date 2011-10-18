@@ -1,10 +1,10 @@
 --- 
 layout: post
+status: ok
 title: La sicurezza non esiste
 meta: {}
-
 tags: 
-- security- Sicurezza e Privacy
+- hacking
 ---
 <img src='http://www.lastknight.com/download/20080107.jpg' alt='20080107.jpg' />
   
@@ -15,8 +15,7 @@ Innanzitutto Hyperon è l'unica persona che conosco che **usa windows**, lo fa *
    
 E lì arriva **il Macigno** che *cito a memoria*:  
   
-> La sicurezza non esiste. Non esiste perché i Computer, già da come sono stati pensati da Turing, non sono sicuri.  
-> un documento è un programma ed un programma è un sistema operativo e viceversa. Per essere sicuri dovrebbe essere sicuro ogni singolo livello: dall'hardware al sistema operativo al programma al documento.  
+> La sicurezza non esiste. Non esiste perché i Computer, già da come sono stati pensati da Turing, non sono sicuri. Un documento è un programma ed un programma è un sistema operativo e viceversa. Per essere sicuri dovrebbe essere sicuro ogni singolo livello: dall'hardware al sistema operativo al programma al documento.  
   
 Se ci pensate, la cosa spaventevole è che **ha perfettamente ragione**.  
 Ed hai voglia a parlare di Trusted Computing o piattaforme sicure: la sicurezza non esiste e non può esistere finché ogni **parte del sistema** non è sicura.  

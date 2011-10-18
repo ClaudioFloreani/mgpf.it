@@ -1,8 +1,8 @@
 --- 
 layout: post
+status: ok
 title: Yahhwwnn siamo un po' lenti stamattina...
 meta: {}
-
 tags: 
 - about-me
 ---

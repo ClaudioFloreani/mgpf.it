@@ -1,21 +1,16 @@
 --- 
 layout: post
+status: ok
 title: Un Corso in Paranoia
 meta: 
-  _edit_last: "1"
-  WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
 tags: 
-- antiprofilazione
 - digital-freedom
 - paranoia
-- privacy
-- profilazione
-- tracciamento
 ---
 <a href="http://www.flickr.com/photos/58865620@N00/4608082992/" title="troubled? a little" target="_blank"><img src="http://farm4.static.flickr.com/3351/4608082992_01f5fee7fd.jpg" alt="troubled? a little" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by-nd/2.0/" title="Attribution-NoDerivs License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/58865620@N00/4608082992/" title="Dawn Ashley" target="_blank">Dawn Ashley</a></small>
 
-<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/UFewgNUjbmg&hl=en_US&fs=1&rel=0&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/UFewgNUjbmg&hl=en_US&fs=1&rel=0&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>  
+{% youtube UFewgNUjbmg %}
     
 Che io sia paranoico &egrave; una grande verit&agrave;, ma come [dice qualcuno ][1] &quot;Paranoia is a Virtue&quot;.  
   

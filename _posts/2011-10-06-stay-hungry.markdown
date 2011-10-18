@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Stay hungry, stay foolish
 meta: 
 tags: 
@@ -7,5 +8,4 @@ tags:
 - awesome
 ---
 {% youtube oObxNDYyZPs %}
-
 Ciao Steve.

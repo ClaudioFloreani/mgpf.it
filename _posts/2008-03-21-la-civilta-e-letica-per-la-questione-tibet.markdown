@@ -1,14 +1,10 @@
 --- 
 layout: post
+status: ok
 title: "La Civiltà e l'Etica per la questione Tibet"
 meta: {}
-
 tags: 
-- "civiltà"
 - digital-freedom
-- etica
-- massacro
-- tibet
 ---
 <a href="http://www.flickr.com/photos/81742845@N00/2339485199/" title="" target="_blank"><img src="http://farm4.static.flickr.com/3231/2339485199_443153e087.jpg" alt="" border="0" /></a>  
 <small><a href="http://www.photodropper.com/creative-commons/" title="creative commons" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo_dropper//images/cc.gif" alt="Creative Commons License" border="0" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/people/luce_eee/" title="luce_eee" target="_blank">luce_eee</a></small>  
@@ -28,5 +24,4 @@ Ricevo con **preghiera di diffusione** e stavolta volentieri diffondo uno scritt
 > Questa è lagonia di ciò che dovremmo e potremmo rappresentare, per il mondo intero: una civiltà avanzata, retta da valori che non si inchinano costantemente agli interessi di parte, ma capace di mostrare unità dintenti almeno in quei rari momenti nei quali è in gioco la sua stessa dignità; perché non è dignitoso voltarsi per non vedere chi agonizza nellisolamento; non esiste dignità nel non saper tendere la mano a chi invoca aiuto, schiacciato da unideologia oscura e aggressiva.  
 > E tutto ciò non è riferibile solo allEtica cristiana, poiché esiste unEtica umana che prescinde dalle fedi e dalle convinzioni religiose, e dovrebbe rappresentare anche la bandiera di un umanesimo laico, giacché laicità non significa certo assenza di un cuore e mancanza di valori profondi.  
 > È luomo e la sua stessa essenza  in ultima analisi  che è posto al vaglio dalla vita, messo alla prova nei momenti che contano. Di fronte a questo grande bivio, abbiamo sbagliato spesso strada e, ancora oggi, stiamo per mancare lopportunità di mostrare che la civiltà occidentale può rappresentare un faro per tutto il mondo.  
-
  

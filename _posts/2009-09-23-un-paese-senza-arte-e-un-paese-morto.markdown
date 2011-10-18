@@ -1,21 +1,11 @@
 --- 
 layout: post
+status: ok
 title: "Un paese senza Arte è un paese morto"
 meta: {}
 tags: 
-- arte
-- bernardo bertolucci
-- bonomi
-- DaringToDo
-- festival del libro
-- festival della letteratura
-- giacomini
-- letteratura di viaggio
-- about-me
-- mg-art
-- mgart
-- piazza duomo
-- settimana della moda
+- awesome
+- hope
 ---
 **DISCLAIMER**: *DaringToDo, il circuito DaringToDo, la Casa D'Arte Mg-Art e la Testata Giornalistica fanno parte della stessa holding, la Giacomini Investimenti, a cui fa capo The Fool. Così, giusto per sapere che parlo di fratelli in casa e non di semplici sconosciuti.*  
   
@@ -34,7 +24,6 @@ Qualche link, così per darvi un'idea:
 * o il quasi sconosiuto [Museo Virtuale dell'IRAQ](http://www.daringtodo.com/lang/it/2009/09/21/dal-museo-delliraq-al-dvd-della-roma-imperiale-larcheologia-virtuale-firmata-cnr-intriga-il-mondo/).  
 * O anche solo [Wahrol](http://www.daringtodo.com/lang/it/2009/09/21/warhol-in-the-city-a-perugia-un-tributo-che-anima-la-citta/) a Preugia, se passate in zona  
 * e quattro chiacchiere con [Ezio Alovisi](http://www.daringtodo.com/lang/it/2009/09/21/ezio-alovisi-io-piero-ciampi-e-gli-altri/) e [Jovanotti](http://www.daringtodo.com/lang/it/2009/05/08/lorenzo-jovanottiquellex-scapestrato-che-piace-alle-mamme-e-corteggia-la-letteratura), [Moni Ovadia](http://www.daringtodo.com/lang/it/2009/06/19/moni-ovadia-la-verita-e-finzione-teatrale/), [Diego Cugia](http://www.daringtodo.com/lang/it/2009/05/18/diego-cugia-quando-il-demone-del-gioco-diventa-parola/).
-
 Vi ho convinto abbastanza da iniziare a seguire il sito DaringToDo.com ?  
   
 Avviciniamoci, che ne dite? 

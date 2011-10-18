@@ -20,7 +20,6 @@ Ma perché, mi chiedo, per talune persone Google deve essere solo ed esclusivame
   
 A queste persone mi piacerebbe forzare la lettura di "La Minaccia Fantasma" del caro Vecna o anche solamente invitarle al mio prossimo intervento ad E-Privacy 2007 dal titolo Googletistic ...  
 Nel frattempo sembra che il fenomeno sia ben più diffuso della mia povera umile e **sfigata** (*come dice il buon commentatore*) persona, come dimostrano tra gli altri:  
-
   * [IT Enquirer](http://it.theinquirer.net/2007/02/google_mi_ha_buttato_fuori_da.html)
   * [The LastMinute Blog](http://www.thelastminuteblog.com/2007/04/19/gmail-account-lockdown-boo-google/)
   * [Drums 'n Wistles](http://drumsnwhistles.com/2006/07/11/daily-google-update/)  

@@ -1,16 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Hitler e Google
 meta: {}
 tags: 
-- bigbrother
-- censorship
 - digital-freedom
-- google
-- grandefratello
-- hitler
 - privacy
-- security
+- parania
 ---
 Mi fanno notare che la frase del CEO di Google:  
   

@@ -1,13 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Quando bucano Twitter e la vagina dentata...
 meta: {}
 tags: 
-- censura
-- digital-freedom
-- about-me
-- paranoia
-- security
+- hacking
+- social-media
 ---
 La **[vagina dentata][1]** di Britney Spears è ora una realà storica, visto che è lei stessa a farne una dichiarazione ufficiale via Twitter:  
   

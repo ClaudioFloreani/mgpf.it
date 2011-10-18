@@ -1,13 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Abbiate. Molta. Paura. MITM-SSL
 meta: 
-  _edit_last: "1"
-  _aioseop_keywords: ssl, mitm, man in the middle
 tags: 
-- man in the middle
-- mitm
-- security- ssl
+- hacking
 ---
 Brr.  
   

@@ -1,14 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Bisogna essere deficienti forte...
 meta: {}
 tags: 
-- darwin awards
-- fotocamere
-- about-me
-- repubblica.it
-- seggi elettorali
-- web2.0
+- weird
 ---
 ...per andarsene al seggio e FOTOGRAFARE...  
   

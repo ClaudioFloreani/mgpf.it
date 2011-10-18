@@ -1,9 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Cazzaro senior!
 meta: {}
 tags: 
-- The Fool
+- weird
 ---
 > Bla bla bla bla questo è più cazzaro di tutti!  
   

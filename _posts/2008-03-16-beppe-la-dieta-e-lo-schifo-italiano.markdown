@@ -1,17 +1,11 @@
 --- 
 layout: post
+status: ok
 title: Beppe, la Dieta e lo schifo italiano
 meta: {}
-
 tags: 
-- astensione
-- destra
-- digital-freedom
-- orgoglio italiano
-- Politica
-- rifiuto
-- sinistra
-- vergogna di essere italiano
+- weird
+- politica
 ---
 [Beppe][1] è un **amico di vecchia data** e una persona che **stimo tantissimo**, da sempre.  
 L'ho incontrato in tempi non sospetti mentre lavoravo ad <s>Al Village</s> era ancora Tisifone e mi ha insegnato in un periodo in cui ero fatto solamente di tracotanza ed entusiasmi giovanili **come si fa a gestire i progetti con un sorriso**, come gestire tutto con **pacatezza, riflessione** e sempre in modo **cordiale e tranquillo**. In tutto.  
@@ -29,7 +23,6 @@ Voglio sentirmi orgoglioso della mia patria, della mia identità nazionale, dell
   
 Ma le elezioni sono arrivate **troppo presto**, Non è ancora tempo e non sono riuscito a muovermi come avrei voluto.  
 Ve ne chiedo scusa, scuse pubbliche a tutti. Per la prossima volta sarò pronto, **lo prometto**.  
-
 E per questa, mi chiedete voi?  
 Non posso fare altro che [concordare con Beppe][2] ed arrivare alle medesime sue conclusioni:  
   
@@ -47,5 +40,4 @@ Non posso fare altro che [concordare con Beppe][2] ed arrivare alle medesime sue
 [1]: http://www.bragiu.net/
 [2]: http://www.bragiu.net/index.php/2008/03/11/la-dieta/
 [3]: http://www.cyphersec.com/?p=268
-
  

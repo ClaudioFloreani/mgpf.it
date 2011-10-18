@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: OSXCrypt sul Punto Informatico
 meta: {}
 tags: 
@@ -11,5 +12,4 @@ tags:
 Il PuntoInformatico ha [scritto una bella recensione](http://www.pidownload.it/p.aspx?is=2179579) di OsxCrypt.  
   
 Grazie!
-
  

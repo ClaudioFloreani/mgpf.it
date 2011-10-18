@@ -1,24 +1,19 @@
 --- 
 layout: post
+status: ok
 title: Facciamo frittelle, non innovazione. E chissene della Privacy!
 meta: {}
 tags: 
-- articoli
 - digital-freedom
-- fooldns
-- Garante
-- innovazione
-- italia
-- Politica
-- privacy
-- tecnologia
-- The Fool
+- the-fool
+- about-me
+- startup
 ---
 A volte la vita è strana. come ad esempio la giornata di oggi, ricca di soddisfazioni e di incontri dal passato verso potenziale new business e di persone veramente piacevoli, competenti ed attive.  
   
 Poi ovviamente arriva anche il rovescio della medaglia e quindi una nota manifestazione europea di Innovazione ci dice, riferito alla [nostra società][1] e ad uno dei servizi, permetteteci, italianamente parlando [più innovativi dell'anno][2] *(non sono apprezzamenti sulla implementazione o la realizzazione, visto che ogni scarrafone... ma solo sull'IDEA)*, dicevo che la società incaricata della organizzazione ci dice che:  
   
-> Abbiamo esaminato attentamente il prodotto che ci ha proposto, ma purtroppo non lo riteniamo in linea con i temi trattati allinterno della manifestazione.  
+> Abbiamo esaminato attentamente il prodotto che ci ha proposto, ma purtroppo non lo riteniamo in linea con i temi trattati all'interno della manifestazione.  
   
 Ora, ho spiegato in modo abbastanza preciso e puntuale *(i ragazzi si stavano sbellicando leggendo la mail)* un paio di cosette sul servizio e su come teoricamente intendo l'innovazione, quindi non vi dico ancora il risultato. Ma da bravo italiano la prima cosa che mi è venuta in mente è stata che se avessi preso il telefono e chiamato un paio dei Partner della manifestazione che conosco bene le cose si sarebbero magicamente risolte.  
   
@@ -49,7 +44,6 @@ E ci ricompreremo lo stato che abbiamo venduto alla Svezia o agli Stati Uniti. C
 E non so voi, io con l'indifferenza ho una cambiale sempre aperta. Aiutatemi, aiutateci, aiutiamoci a pagarla e riappropriarci dell'ITALIA.  
   
 P.S. La Newsletter è stata resettata ed è di nuovo attiva. Iscrivetevi se vi pare.
-
 [1]: http://thefool.it
 [2]: http://fooldns.com
 [3]: http://www.i-dome.com/flash-news/pagina.phtml?_id_articolo=12719-Oltre-400-segnalazioni-al-Garante-della-Privacy.html 

@@ -1,17 +1,16 @@
 --- 
 layout: post
+status: ok
 title: Maledetti Professori Satanisti della Sapienza
 meta: {}
 tags: 
 - digital-freedom
 ---
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/Va533YjJ84I&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Va533YjJ84I&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
+{% youtube Va533YjJ84I %} 
   
 Già, se le critiche a Dio, alla Chiesa Cattolica e a Gesù Cristo sono facili e veloci, le critiche a Radio Maria sembrano invece ancora più semplici...  
 Fautore dei successivi pezzi di "pura poesia" è il fantomatico Padre Livio che imparerete ad amare come portatore della Verità.  
-
 Ma cos'è, un covo di **cerebrolesi** o semplicemente una frequenza per l'esortazione dell'ignoranza, della violenza e dell'**oscurantismo medioevale**? Una chicca su tutti:
-
 >Io non mi posso sbagliare.  
   
 E ancora, per non essere da meno:  

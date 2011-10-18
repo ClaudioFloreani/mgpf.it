@@ -1,9 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Le news della settimana....
 meta: {}
 tags: 
-- about-me
+- awesome
 ---
 Ancora una volta, se siete a corto di cose da leggere.... ;)  
   

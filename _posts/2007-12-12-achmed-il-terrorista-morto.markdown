@@ -3,10 +3,9 @@ layout: post
 title: Achmed, il terrorista morto
 meta: {}
 tags: 
-- digital-freedom
-- security
+- awesome
 ---
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/G-M2N9lbme4&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/G-M2N9lbme4&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>  
+{% youtube G-M2N9lbme4 %}  
   
 Voi fate un po' come credete, ma io sono almeno 9 minuti che rischio di capitombolare dalla sedia dal ridere.  
 C'è da riflettere come la definizione di "satira" sia differente nel nostro paese ed in USA. E qui da noi hanno ancora una volta [censurato Luttazzi][1] per qualche battuta su Ferrara.  
@@ -20,8 +19,7 @@ E tornano in mente un paio di citazioni:
 > *(B.Franklin)*  
   
 E anche:
-
-> "....non condivido le tue idee, ma mi batterò fino alla morte perchè tu possa continuare ad esprimerle...."  
+> "....non condivido le tue idee, ma mi batterò fino alla morte perché tu possa continuare ad esprimerle...."  
 > *(Voltaire)*  
   
 E come direbbe l'amico Melica: Estote parati!

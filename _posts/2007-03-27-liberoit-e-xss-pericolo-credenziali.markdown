@@ -8,7 +8,6 @@ tags:
 ---
 ![Libero XSS](http://www.lastknight.com//download/20070327_libero.thumbnail.jpg)
 >  **Aggiornamento:** Una serie di riflessioni sulle dichiarazioni di Libero in merito al bug sono raccolte [QUI](http://www.lastknight.com/2007/03/28/ancora-su-liberoit/)  
-
 Che di italiani in gamba nel panorama mondiale della **web security** ce ne fossero molti non è sicuramente una novità (basti pensare alla Owasp Testing Guide e a profili come Alberto Revelli, Giorgio Fedon, Stefano Di Paola, Matteo Meucci...) ma leggere comunque su Full-Disclosure una segnalazione di XSS su un portale italiano fa comunque impressione...  
   
 Questa volta l'artefice della scoperta è l'italianissimo [Rosario Valotta](mailto:rosario.valotta_at_gmail.com) che in poche righe [delinea nel suo report](http://seclists.org/fulldisclosure/2007/Mar/0457.html) uno scenario che è il **sogno del phisher di tutto il mondo**. In tre semplici passi abbiamo la possibilità di **rubare le credenziali** di qualunque utente della **Community di Libero**:  

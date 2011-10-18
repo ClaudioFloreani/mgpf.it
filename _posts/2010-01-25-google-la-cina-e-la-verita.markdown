@@ -1,15 +1,11 @@
 --- 
 layout: post
-title: "Google, la Cina e la verità: Do No Evil un paio di mar\xC3\xB2ni\xE2\x80\xA6"
+status: ok
+title: "Google, la Cina e la verità: Do No Evil un paio di maròni"
 meta: 
-  wordbooker_options: "a:8:{s:23:\"wordbook_default_author\";s:1:\"0\";s:29:\"wordbook_republish_time_frame\";s:2:\"10\";s:18:\"wordbook_attribute\";s:31:\"Posted a new post on their blog\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:18:\"wordbook_orandpage\";s:1:\"2\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:18:\"wordbook_page_post\";s:4:\"-100\";}"
-  _edit_last: "1"
 tags: 
-- china
-- cina
-- google
-- intercettazione
-- security
+- digital-freedom
+- paranoia
 ---
 <a href="http://www.lastknight.com/download//2010/01/t1larg.schneier.google.afpgi_.jpg"><img src="http://www.lastknight.com/download//2010/01/t1larg.schneier.google.afpgi_-533x300.jpg" alt="" title="t1larg.schneier.google.afpgi" width="533" height="300" class="aligncenter size-medium wp-image-1812" /></a>  
   
@@ -34,7 +30,6 @@ UPDATE: Mi segnalano come estremamente interessante anche [questo articolo corre
   
 > Drummond said that the hackers never got into Gmail accounts via the Google hack, but they did manage to get some "account information (such as the date the account was created) and subject line."  
 > That's because they apparently were able to access a system used to help Google comply with search warrants by providing data on Google users, said a source familiar with the situation, who spoke on condition of anonymity because he was not authorized to speak with the press.
-
 
 [1]: http://tech.slashdot.org/story/10/01/24/1518213/Surveillance-Backdoor-Enabled-Chinese-Gmail-Attack
 [2]: http://www.cnn.com/2010/OPINION/01/23/schneier.google.hacking/index.html

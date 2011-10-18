@@ -1,12 +1,12 @@
 --- 
 layout: post
+status: ok
 title: The Fool al WordCamp 2009!
 meta: {}
 tags: 
-- barcamp
-- The Fool
+- about-me
+- talk
 - the-fool
-- wordcamp
 ---
 Se volete incontrarci di persona o chiacchierare su FoolDns Community e Business di persona, domani e Sabato sarò al [WordCamp 2009][1].  
   

@@ -1,9 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Storie di Sala Macchina
 meta: {}
 tags: 
-- security
+- awesome
 ---
 Mi ero dimenticato [quanto amassi quest'uomo][1]:  
   

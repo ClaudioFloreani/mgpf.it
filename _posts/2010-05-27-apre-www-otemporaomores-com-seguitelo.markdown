@@ -1,17 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Apre www.OTemporaOMores.com, seguitelo!
 meta: 
-  _edit_last: "1"
-  WP-Ellie: a:1:{s:12:"remove_thumb";s:0:"";}
 tags: 
-- blog
-- legge
 - about-me
-- mores
-- omores
-- otempora
-- personali
 ---
 <a href="http://www.lastknight.com/download//2010/05/OTempora.png"><img src="http://www.lastknight.com/download//2010/05/OTempora-414x300.png" alt="" title="OTempora" width="414" height="300" class="aligncenter size-medium wp-image-1974" /></a>  
   
@@ -22,8 +15,7 @@ Questa volta è il momento di OTemporaOMores che, sono sicuro, se siete cultori 
 > Il mio centimetro di libertà.  
 > Libertà di poter dire quello che penso, di commentare senza costrizioni o compromessi. Ai compromessi dedico fin troppe ore delle mie giornate e fin troppe giornate della mia vita; ora basta.  
 > Per questo mi regalo lanonimato e spero che vorrete perdonarmelo.  
-> Un po perchè non nascondo di temere piccole o grandi ritorsioni dai miei pari nello Studio dove lavoro. Un po to protect the innocent perchè il disonore di alcuni (che inevitabilmente, lo so, trasuderà a volte dai miei post) non insozzi tutti.  
+> Un po perché non nascondo di temere piccole o grandi ritorsioni dai miei pari nello Studio dove lavoro. Un po to protect the innocent perché il disonore di alcuni (che inevitabilmente, lo so, trasuderà a volte dai miei post) non insozzi tutti.  
   
 Così dice nel [primo post][1]. Direi sicuramente da seguire :)  
-
 [1]: http://otemporaomores.com/2010/05/the-very-last-inch-of-us/ 

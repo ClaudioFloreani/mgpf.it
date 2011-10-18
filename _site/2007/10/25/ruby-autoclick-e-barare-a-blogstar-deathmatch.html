@@ -13,14 +13,12 @@
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-74632-8']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
   </head>
   <body>
     <header>
@@ -38,32 +36,22 @@
       <h2 id="intro">Ruby, Autoclick e barare a BlogStar DeathMatch</h2>
 <article class="post">
 <blockquote>
-  <p>Se arrivate qui dal link di <a href="http://paulthewineguy.prohosts.org/">Celebrity Deathmatch</a> è perchè <a href="http://www.paulthewineguy.com/">Paul The Wine Guy</a> ha preso mail il Report di cui sotto.
+  <p>Se arrivate qui dal link di <a href="http://paulthewineguy.prohosts.org/">Celebrity Deathmatch</a> è perché <a href="http://www.paulthewineguy.com/">Paul The Wine Guy</a> ha preso mail il Report di cui sotto.
 Nessun problema&hellip; Mettetevi comodi, divertitevi a capire il meccanismo, ed andate in giro a cercare come pazzi a cercare altre vulnerabilità!
 <strong>Full Disclosure</strong>, we believe in it!</p>
 </blockquote>
-
 <p>Qui tutti <strong>sembrano sconvolti</strong> all&rsquo;idea che qualcuno abbia &ldquo;acarato&rdquo; il <a href="http://paulthewineguy.prohosts.org/">Blogstar Deathmatch</a> dei blogger proposto da <a href="http://www.paulthewineguy.com/">Paul The Wine Guy</a>, ma in realtà non credo proprio vi sia la necessità di <strong>acarare</strong> proprio nulla&hellip;  </p>
-
 <p>Vediamo un secondo&hellip;<br />
 L&rsquo;applicazione <strong>consente</strong> il voto <strong>una volta ogni minuto</strong> da singolo IP. E&rsquo; una scelta che <strong>io</strong> reputo non corretta a prescindere, ma è la regola del gioco. Lo dice anche una scrittina che appare in bella vista dicendo <strong>&ldquo;Puoi votare nuovamente tra 1 minuto da adesso.&rdquo;</strong>.  </p>
-
 <p>Seguire le regole di altro tipo è IMPOSSIBILE, <strong>non essendoci</strong> regole in tutto il sito.<br />
 Devo cliccare una delle due frecce e lo posso cliccare una volta al minuto per singolo IP. Il che significa che posso fare <strong>60 x 24 = 1440</strong> voti da singolo IP. Moltiplicato per il numero di IP che riesco ad avere.  </p>
-
-
-
 <p>Ma cliccare a mano è scomodo e da nessuna parte mi dice che non posso cliccare automaticamente. Quindi mi attrezzo del fido Mac, del fido Ruby e dopo un &ldquo;sudo gem install safariwatir&rdquo; scrivo un paio di righe in Ruby:  </p>
-
 <p>[ruby]
 require &lsquo;rubygems&rsquo;
 require &lsquo;safariwatir&rsquo;</p>
-
 <p>startUrl = &ldquo;http://paulthewineguy.prohosts.org/&rdquo;</p>
-
 <p>b = Watir::Safari.new
 b.speed = :fast</p>
-
 <p>(1..1000).each do |x|
   begin
     sleep 60
@@ -78,25 +66,17 @@ b.speed = :fast</p>
   end
 end
 [/ruby] </p>
-
 <p>Ho <em>&ldquo;barato&rdquo;</em>? Certo che no!<br />
 Innanzitutto non sono uno dei concorrenti, in secondo logo lo script ha generato 13/15 click su oltre 90, e <strong>SOPRATTUTTO</strong> da nessuna parte esiste il divieto** dell&rsquo;utilizzo di sistemi automatici. Mai in tutto il sito. E quindi ciò che non è vietato è consentito senza &ldquo;intrusione informatica&rdquo; e/o &ldquo;accesso abusivo&rdquo; e/o &ldquo;sovversione del sistema&rdquo;. E qui il sistema non l&rsquo;abbiamo visto nemmeno di striscio: abbiamo fatto cliccare da Watir. FullStop.  </p>
-
 <p>La soluzione? Abbastanza semplice in teoria: <strong>bloccare il numero massimo di click</strong> possibili da singolo IP.  </p>
-
 <p>Sfortunatamente però il problema non è risolvibile agilmente perché con semplici meccanismo di rotor-proxy (meta proxy che cambia IP ad ogni richiesta prendendoli da una serie predefinita) potrei avere un <strong>sostenuto numero di IP</strong> a disposizione.  </p>
-
 <p>E a chi dice che <em>&ldquo;in questo modo ho rovinato il gioco&rdquo;</em> chiedo come fanno a sapere che il gioco non fosse già rovinato precedentemente. Come fanno a sapere che sino ad oggi nessuno l&rsquo;abbia mai usato.<br />
 <strong>Full Disclosure</strong>, we believe in it. Solo divulgando il problema si è certi della risoluzione.  </p>
-
 <p>Quindi? Quindi all&rsquo;amico  <a href="http://www.paulthewineguy.com/">Paul The Wine Guy</a> non mi rimane che suggerire un qualunque <strong>meccanismo di captcha</strong> per evitare il click automatico. Facile, semplice e sicuro.<br />
 E magari <strong>scrivere da qualche</strong> parte a scanso di equivoci che <strong>non sono ammessi link automatici</strong>, tutelandosi così anche in futuro, per lo meno &ldquo;moralmente&rdquo;. <em>(NOTA: lo ha fatto&hellip;)</em> 
 E se serve una mano per implementare il captcha sono qui, la do volentieri. :)  </p>
-
 <p>Oltre a questo forse solo evitare <a href="http://twitter.com/PaulTheWineGuy/statuses/360252742">i commenti</a> sul <strong>celodurismo</strong> del sottoscritto&hellip; <br />
 Non sono ancora Bossi e, soprattutto, dopo tutti i reminder &ldquo;enlarge your p3n1s&rdquo; che mi arrivano in mail potrebbero venirmi dei complessi :) </p>
-
-
 <h2>Articoli (forse) correlati</h2>
 <ul>
   
@@ -111,7 +91,6 @@ Non sono ancora Bossi e, soprattutto, dopo tutti i reminder &ldquo;enlarge your 
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a></li>
   
 </ul>
-
 <h2>Articoli recenti</h2>
 <ul class="posts small">
 	
@@ -126,7 +105,6 @@ Non sono ancora Bossi e, soprattutto, dopo tutti i reminder &ldquo;enlarge your 
     <li><a href="/2011/08/05/ci-vediamo-al-chaos-communication-camp.html">Ci vediamo al Chaos Communication Camp</a> <i>05/08/2011</i></li>
 	
 </ul>
-
 <time class="signoff" datetime="2007-10-25">
   25/10/2007 con tag:
 	
@@ -134,7 +112,6 @@ Non sono ancora Bossi e, soprattutto, dopo tutti i reminder &ldquo;enlarge your 
 	
 </time>
 </article>
-
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'mgpf';
@@ -145,7 +122,6 @@ Non sono ancora Bossi e, soprattutto, dopo tutti i reminder &ldquo;enlarge your 
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-
       <footer id="footer">
         
         <img style="position:fixed;z-index:1000;bottom:10px;left:10px" src="/images/mgpf.png">

@@ -9,5 +9,4 @@ Gli amici Giovanni Battista *"GiBi"* Gallus, e Francesco Paolo *"Kikko"* Micozzi
 Il talk riguarderà:
 >  ...l'attuale tendenza alla compressione della libertà in Rete, sotto un duplice aspetto: da un lato i problemi legati alla circolazione dei materiali protetti da diritto d'autore, e dall'altro l'introduzione di obblighi di identificazione e di conservazione dei dati (il cd. Decreto Pisanu) e gli obblighi di filtraggio, previsti da recenti modifiche normative.  
 > Si affronteranno inoltre le problematiche connesse al Trusted Computing, anche con riguardo alla limitazione dei diritti degli utenti in Rete, ed ai possibili risvolti sul software libero.  
-
 Bloggofili di LastKnight.com unitevi se vi trovate in quel della meravigliosa isola, e a GBG Kikko il mio migliore "*in bocca al lupo*"! 

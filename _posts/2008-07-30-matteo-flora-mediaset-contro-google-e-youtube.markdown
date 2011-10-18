@@ -6,9 +6,7 @@ tags:
 - about-me
 - digital-freedom
 - forensic
-- about-me
-- paranoia
-- security
+- ip
 ---
 Inutile nascondere l'evidenza:  
   
@@ -39,16 +37,13 @@ E il link a [Reuters](http://uk.reuters.com/article/governmentFilingsNews/idUKL0
   
 La divulgazione del nome del consulente è stata autorizzata e per ulteriori informazioni potete rivolgervi allo Studio legale coinvolto o direttamente alla Società.  
   
-*P.S.: Fate i bravi con i commenti. Per tre ragioni: uno perchè OVVIAMENTE non posso rispondere e/o rilasciare dichiarazioni, due perchè il discorso è da vedersi in ottica di forensics, non di politica e tre perchè in questo caso sono costretto a cassare i commenti al vetriolo... Thanx  
+*P.S.: Fate i bravi con i commenti. Per tre ragioni: uno perché OVVIAMENTE non posso rispondere e/o rilasciare dichiarazioni, due perché il discorso è da vedersi in ottica di forensics, non di politica e tre perché in questo caso sono costretto a cassare i commenti al vetriolo... Thanx  
   
 UPDATE: La gente inizia a vedere la luna dietro al dito, se quello che scrivono [qui](http://digitaldaily.allthingsd.com/20080730/youtube-to-mediaset-spa-va-allinferno/) si diffondesse almeno un pelo... Gli ultimi due paragrafi, per lo meno...  
   
 <div class="notice">
 Avviso pre commenti caustici: Leggete la <A href="http://www.lastknight.com/2008/08/04/the-very-big-faq-of-mediaset-vs-youtube/">la FAQ</A> relativa. Thanx ;)
 </div>  
-
-
-
 <H1>THE VERY BIG FAQ</h1>    
   
 Credo che sia ora di rassettare la casetta del Blog e tirare qualche somma sul tenore dei commenti dell'ultima settimana.  
@@ -57,7 +52,6 @@ Così, giusto per evitare di continuare a cassare commenti con insulti personali
 Premesso che il **contenuto** della relazione è coperto dalla massima confidenzialità, come tutti i miei lavori, per l'intera durata del processo e/o sino a quando il cliente non richiederà la confidenzialità, e premesso ovviamente che devo attenermi alle indicazioni fornite ed evitare **dichiarazioni di merito** sulla questione, credo che vi sia spazio per una **breve faq**.  
   
 <h2>Ti sei venduto a Mediaset, brutto #$%& figlio di #$%&!</h2>  
-
 *(varianti: allo PsicoNano, al Potere, al Soldo, a chi ha rubato le frequenze di Rete4)!*  
   
 Mediaset potrebbe aver commesso centinaia di nefandezze, ma se voglio comportarmi da professionista devo vedere il tutto nell'ottica del mio incarico: quello di Perito nell'ambito dell'accertamento delle Infrazioni al Diritto di CopyRight.  
@@ -108,16 +102,15 @@ E' anche stata una delle cose più complesse che abbia mai fatto. E sono felice 
    
 Come questo non è successo nel caso di Google vs. Viacom dubito fortemente che accada per Google vs. Mediaset.  
 E' l'approccio che va cambiato per ottenere il successo o il fallimento di YouTube.  
-YouTube non deve, IMHO, avere successo perchè ospita filmati di Mediaset, RAI, La7 o Foo, non deve essere il surrogato online della televisione, ma funzionare come ottica collaborativa e di differenti media. Deve dare la possibilità a ciascuno di esprimersi e uplodare contenuto Originale.  
+YouTube non deve, IMHO, avere successo perché ospita filmati di Mediaset, RAI, La7 o Foo, non deve essere il surrogato online della televisione, ma funzionare come ottica collaborativa e di differenti media. Deve dare la possibilità a ciascuno di esprimersi e uplodare contenuto Originale.  
 E forse fareste meglio a vedere ben bene il Regolamento di Utilizzo di YouTube per scoprire strane cose.  
   
 <h2>Tu odi Google e YouTube?</h2>  
   
 No, ma [mi fido poco](http://www.google-watch.org/bigbro.html) e non [mi piacciono certi atteggiamenti](http://www.motherjones.com/news/feature/2006/11/google.html) e [certe considerazioni](http://www.wired.com/wired/archive/11.01/google_pr.html).  
-Oltretutto alla luce di [certi fatti](http://www.zapboom.com/content/view/114823/Can_Activists_Trust_YouTube.html) mi sembra stupido ritenere YouTube il baluardo [della controinformazione](http://www.mideastyouth.com/2007/12/03/is-youtube-feeding-the-regional-crackdown-on-cyber-activists/): è la Rete stessa il baluardo e non un servizio come Vimeo, DailyMotion o YouTube stesso. Anche perchè ci sono cose che [andrebbero sapute](http://www.cnn.com/2007/WORLD/meast/11/29/youtube.activist/index.html) su YouTube stesso...   
+Oltretutto alla luce di [certi fatti](http://www.zapboom.com/content/view/114823/Can_Activists_Trust_YouTube.html) mi sembra stupido ritenere YouTube il baluardo [della controinformazione](http://www.mideastyouth.com/2007/12/03/is-youtube-feeding-the-regional-crackdown-on-cyber-activists/): è la Rete stessa il baluardo e non un servizio come Vimeo, DailyMotion o YouTube stesso. Anche perché ci sono cose che [andrebbero sapute](http://www.cnn.com/2007/WORLD/meast/11/29/youtube.activist/index.html) su YouTube stesso...   
    
   
 **Bene, ora, AL MIO SEGNALE, SCATENTATE L'INFERNO!!**  
-
   
    

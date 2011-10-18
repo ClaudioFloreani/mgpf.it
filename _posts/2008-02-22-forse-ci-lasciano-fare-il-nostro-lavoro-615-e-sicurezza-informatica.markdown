@@ -1,14 +1,9 @@
 --- 
 layout: post
+status: ok
 title: "Forse ci lasciano fare il nostro lavoro: 615 e Sicurezza Informatica"
 meta: {}
-
 tags: 
-- 613-quinques
-- convenzione di Budapest
-- digital-freedom
-- folena
-- reati informatici
 - security
 ---
 Sembra che alla fine ci stiamo arrivando ed è grazie a [Pietro Folena](http://www.pietrofolena.net/blog/?p=304) e non solo che in Commissione e passata una modifica al [ddl C. 2807](http://www.senato.it/leg/15/BGT/Schede/Ddliter/28556.htm) sui ciber crimini (ratifica della Convenzione di Budapest).  
@@ -25,5 +20,3 @@ Come dice il sempre illuminante (in certi argomenti, non ti **montare la testa**
   
 Che dire?  
 Probabilmente potrò **continuare a fare quello che faccio** con un po' meno paura... :)  
-  
-[tag]folena, 613-quinques, reati informatici, convenzione di Budapest[/tag] 

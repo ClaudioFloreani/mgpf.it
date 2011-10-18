@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: Two languages Wordpress havoc
 meta: {}
 tags: 

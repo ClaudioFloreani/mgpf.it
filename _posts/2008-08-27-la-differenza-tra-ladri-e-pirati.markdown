@@ -1,17 +1,11 @@
 --- 
 layout: post
+status: ok
 title: La differenza tra Ladri e Pirati
 meta: {}
 tags: 
-- censura
 - digital-freedom
-- firto digitale
-- furto
-- about-me
-- pirateria
-- pirateria digitale
-- security- the pirate bay
-- tpb
+- ip
 ---
 Trovo [questa](http://i28.tinypic.com/2m7xd85.jpg) immagine abbastanza suggestiva e, digitalmente parlando, tremendamente efficace per spiegare la differenza tra **Pirateria** e **Furto**.  
 Tanto da ricrearne una versione in italiano che trovate qui sotto e che, se volete, potete diffondere a piene mani:  

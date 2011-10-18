@@ -1,19 +1,16 @@
 module Jekyll
-
   class TagIndex < Page    
     def initialize(site, base, dir, tag)
       @site = site
       @base = base
       @dir = dir
       @name = 'index.html'
-
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
       self.data['tag'] = tag
       self.data['title'] = "Archivio del tag &ldquo;"+tag+"&rdquo;"
     end
   end
-
   class TagGenerator < Generator
     safe true
     
@@ -33,5 +30,4 @@ module Jekyll
       site.pages << index
     end
   end
-
 end

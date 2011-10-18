@@ -15,7 +15,6 @@ module Jekyll
 layout: post
 title: #{row[0]}
 ---
-
           HEADER
           f.puts row[2]
         end

@@ -1,13 +1,12 @@
 --- 
 layout: post
+status: ok
 title: Il lato B di Beppe Grillo
 meta: {}
 tags: 
 - digital-freedom
-- disinformazione
-- grillo
 - paranoia
-- Politica
+- politica
 ---
 [Alessandro](http://blogaprogetto.wordpress.com/2008/01/28/beppe-grillo-e/) ogni tanto è un **po' ciacalone** e le sue gigionerie si sentono.  
 Ma [altre volte](http://blogaprogetto.wordpress.com/2008/01/28/beppe-grillo-e/) dice cose che secondo me valgono la pena di essere lette.  
@@ -27,6 +26,6 @@ E così via ad intessere relazioni **tra Grillo e Telecom**.
   
 Ma non finisce qui e si cita anche il famoso post di [Piero Ricca](http://www.pieroricca.org/2008/01/04/25-aprile/).  
   
-Non dico che sono daccordo. non dico che è la mia opinione. Vi dico solo che, secondo me, vale la pena di leggere.   
+Non dico che sono d'accordo. non dico che è la mia opinione. Vi dico solo che, secondo me, vale la pena di leggere.   
   
 Estote Parati.   

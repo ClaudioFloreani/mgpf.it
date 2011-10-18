@@ -11,10 +11,7 @@ Cosa è andato storto? Beh, semplicemente da Gennaio ad oggi LastKnight.com è s
   
 Non che sia un problema enorme, sia chiaro, d'altronde mi avevano già **bloccato per eccessivo utilizzo di banda banda** in occasioni precedenti e cancellato file in modo randomico più di una volta, ma la prendevo come un piccolo balzello da pagare per avere quel contatto umano a cui attribuivo tante importanza.  
   
-
-
 Poi, ieri, all'ennesimo offline ho finalmente fatto la sfuriata che avrei dovuto fare mesi or sono e mi sono ritrovato basito a leggere la risposta di **Pavel Ushakov**, *Managing Director* proprio di LivingDot che recitava:
-
 > Hello,  
 > Thank you for your email. Please note that you are on a shared hosting platform, and if uptime is so critical to you, you should be on a cluster, paying $1,500/month, not $15.95/month. In addition, please review our terms and conditions you've agreed to when signing-up for the account.  
 > Have a good day.  

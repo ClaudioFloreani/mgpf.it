@@ -1,5 +1,6 @@
 --- 
 layout: post
+status: ok
 title: L'acaro suona sempre due volte...
 meta: {}
 tags: 
@@ -9,7 +10,6 @@ tags:
 <center>
 <img src="/download/acarus.jpg">
 </center>
-
 Come da [invito a farsi avanti](http://www.lastknight.com/2008/01/29/di-nuovo-hackerato/) del mio post sull['owning di Lastknight.com](http://www.lastknight.com/2008/01/29/di-nuovo-hackerato/) ecco la risposta del nostro amico:  
                                                                                                                                                                                                                                                                  
 > Delivered-To: mf@matteoflora.com  

@@ -1,17 +1,16 @@
 --- 
 layout: post
+status: ok
 title: Lo strumento musicale che fa impazzire i suonatori
 meta: 
-  _edit_last: "1"
-  _wp_page_template: default
 tags: 
-- about-me
+- awesome
 ---
 Pazzia e depressione. Suicidio. Demenza. Manie di persecuzione.  
   
 Tutto questo ha portato dai tempi di Mozart a impedire l'utilizzo delle armoniche a vetro. E sì che l'evocatività degli oggetti è impressionante:    
   
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/eQemvyyJ--g&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/eQemvyyJ--g&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
+{% youtube eQemvyyJ--g %}  
   
 Perchè tutto questo?  
 La risposta è probabilmente semplice. Il vetro, conteneva altissime quantità di piombo e lo stesso piombo era utilizzato per le bordature.  

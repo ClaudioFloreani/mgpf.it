@@ -1,11 +1,10 @@
 --- 
 layout: post
+status: ok
 title: Che fate stasera?
 meta: {}
 tags: 
-- aperitivo
 - about-me
-- milano
 ---
 Se siete a Milano e non sapete che fare qui si è organizzato un <b><a href="http://bloggersmilano.pbwiki.com/Aperitivo-il-25-Aprile">aperitivo piu' cena</a></b> a Milano.  
   

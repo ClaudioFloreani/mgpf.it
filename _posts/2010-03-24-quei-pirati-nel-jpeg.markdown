@@ -1,9 +1,8 @@
 --- 
 layout: post
+status: ok
 title: Quei pirati nel JPEG
 meta: 
-  wordbooker_options: "a:8:{s:23:\"wordbook_default_author\";s:1:\"0\";s:29:\"wordbook_republish_time_frame\";s:2:\"10\";s:18:\"wordbook_attribute\";s:31:\"Posted a new post on their blog\";s:29:\"wordbooker_status_update_text\";s:35:\": New blog post :  %title% - %link%\";s:19:\"wordbook_actionlink\";s:3:\"300\";s:18:\"wordbook_orandpage\";s:1:\"2\";s:23:\"wordbook_extract_length\";s:3:\"256\";s:18:\"wordbook_page_post\";s:4:\"-100\";}"
-  _edit_last: "1"
 tags: 
 - digital-freedom
 ---
@@ -35,6 +34,5 @@ Comunque sono sempre in attesa di vedere quando verranno bloccati tutti i domini
 * www.thepiratebay.nu
 * www.thepiratebay.org
 * www.thepiratebay.se
-
 [1]: http://punto-informatico.it/2839860/PI/News/italia-un-altra-baia-sotto-sequestro.aspx
 [2]: http://labaia.net/ 

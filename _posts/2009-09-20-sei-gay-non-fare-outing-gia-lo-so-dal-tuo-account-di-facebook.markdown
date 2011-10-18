@@ -1,17 +1,16 @@
 --- 
 layout: post
+status: ok
 title: "Sei Gay? Non fare outing. Già lo so dal tuo account di Facebook."
 meta: {}
 tags: 
 - digital-freedom
-- facebook
-- gay
-- profiling
-- social network
+- social-media
+- paranoia
 ---
 *(ndt. Mi dicono che si scriva "outing" quando è sputtanamento da parte di terzi, leggasi lo stimato Boffo, e "coming out" quando l'annuncio è volontario. Sorry, ignoranza mia...)*
 
-Ci sono cose che l'umano medio italiota, quello con l'account su Facebook perchè "fa figo" non riuscirà mai a capire.  
+Ci sono cose che l'umano medio italiota, quello con l'account su Facebook perché "fa figo" non riuscirà mai a capire.  
 Che sia chiaro, io non sono intollerante verso le minoranze ma, semmai, dannatamente intollerante verso le maggioranze che compongono il 98% degli italiani. Per me bisognerebbe tornare all'oligarchia *(effettivamente parlando all'aristocrazia, ma decidendo io l'"aristos" del caso sarebbe complesso)*.  
   
 Sei gay? Lo so già, non hai bisogno di fare outing.  
@@ -31,5 +30,4 @@ Mettiamola in questo modo: tu mi dici solamente dati apparentemente innocui come
 Quindi? Quindi le informazioni più marginali ed apparentemente innocenti possono trasformarsi, nell'epoca dell'informazione aggregata digitale, in mine sul tuo percorso. E non ci puoi fare niente se non una cosa: saperlo.  
   
 P.S.: Mi dicono dalla regia che ho anticipato di svariate ore lo [Zambardino Nazionale](http://zambardino.blogautore.repubblica.it/2009/09/21/al-mit-hanno-inventato-il-gaydar-ma-forse-e-un-incubo/) e ne sono ben fiero ;)  
-
 [1]: http://www.boston.com/bostonglobe/ideas/articles/2009/09/20/project_gaydar_an_mit_experiment_raises_new_questions_about_online_privacy/?page=full 
