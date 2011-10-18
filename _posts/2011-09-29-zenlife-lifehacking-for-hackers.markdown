@@ -1,7 +1,7 @@
 --- 
 layout: post
 status: ok
-title: "ZenLife - LifeHacking for Hackers"
+title: ZenLife - LifeHacking for Hackers
 meta: 
 tags: 
 - about-me
@@ -15,8 +15,10 @@ Non sono un medico, non sono uno psicologo e soprattutto non sono un docente di 
   
 Eccovi l'oretta e mezza di video:  
   
-<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/EaIG46nClqs?hd=1" frameborder="0"></iframe>
+{% youtube EaIG46nClqs %}
+
 Ed ecco le Slide pubblicate a vostra disposizione:  
+
 <object id="__sse9469430" width="640" height="400"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=matteoflora-zenlifelifehackingforhackers-110929045129-phpapp02&stripped_title=matteo-flora-zen-life-lifehacking-for-hackers&userName=lastknight" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse9469430" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=matteoflora-zenlifelifehackingforhackers-110929045129-phpapp02&stripped_title=matteo-flora-zen-life-lifehacking-for-hackers&userName=lastknight" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="400"></embed></object>
 Inoltre ecco una bibliografia parziale della presentazione:  
   
@@ -36,6 +38,8 @@ Inoltre ecco una bibliografia parziale della presentazione:
 * Jason Fried, David Heinemeier Hansson - Getting Real 
 * Richard Bandler, John Grinder - La Struttura della Magia
 * Richard Bandler, Owen Fitzpatrick - PNL è Libertà
+
 ZenLife è un progetto in divenire e spero di riuscire ad integrarlo di volta in volta rimuovendo eventuali castronerie (ce ne saranno molte) e aggiungendo di volta in volta contenuti che mi segnalerete.
 Fatemi sapere, ci tengo molto.
+
 [1]: http://endsummercamp.org
