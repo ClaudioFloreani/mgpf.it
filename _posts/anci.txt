@@ -1,0 +1,48 @@
+Gent.mi,
+
+	mi scuso per il ritardo nella risposta ma sono stati giorni di trasferta con connessioni salutarie (e ancor più saltuari momenti per scrivere). Tenevo a rispondere personalmente alle perplessità sia per completezza che per "introduction", visto che non sono riuscito a venire all'incontro passato.
+
+Volevo fare una breve premessa: i miei trascorsi come Direttore dell'Osservatorio Italiano Privacy e Sicurezza IT ed il mio seggio consuntivo presso il Garante in quella carica hanno portato a disegnare l'architetture di FoolDNS in modo da essere "compliant by design" con le direttive imposte.
+La scelta del DNS non è stata nè casuale nè dettata da opportunità, ma il risultato di una approfondita analisi che tenesse in conto:
+
+* Le differenti topologie delle reti aziendali presenti
+* La soluzione più adattabile ai diffferenti sistemi operativi
+* La soluzione che desse maggiori garanzie di affidabilità sul profilo compliance
+* La soluzione che fosse più veloce ed immediata nella configurazione e nel Deploy
+
+All'epoca della creazione (2008) The Fool aveva la disponibilità di tecnologia per il proxying e lo SPI (stateful packet inspection), ma dopo una analisi di fattibilità la scelta è ricaduta sulla tecnologia DNS. Perchè?
+Se è vero che il domain based filtering offre una minore precisione di catalogazione, l'utilizzo del DNS offre una serie di maggiori garanzie:
+
+* La compatibilità: il protocollo DNS è uno dei pochi ad essere standard su tutte le piattaforme (anche MS non ha ricreato lo standard!). Con poche varianti (ad esempio Active Directory, che de facto è DNS) è implementabile in qualunque contesto;
+
+* Anonimo per definizione: L'utilizzo di un DNS sentrale consente di anonimizzare le richieste direttamente via NAT, sincerando l'impossibilità pratica (nono teorica) di rintracciare le connessioni;
+
+* Unico servizio già SAAS: il concetto di ricorsività dei DNS fa si che un QUALUNQUE topologia di rete e configurazione sia SEMPRE e COMUNQUE possibile installare FoolDNS. Non solo: già ad ora i servizi DNS delle aziende non sono MAI erogti direttmente. Anche se presente un DNS interno, la risoluzione deve comunque avvenire ad un certo punto della catena ricorsivamente sul dns del PROVIDER o del CARRIER. A questo livello della catena si introduce FoolDNS.
+
+Venendo ai casi pratici e omettendo i problemi di caching (che può essere disattivata), l'utilizzo di FoolDNS diviene con questi prerequisiti possibile in qualunque contesto: qualora l'azienda abbia DNS interni per la risoluzione di domini interni (ActiveDirectory o altro) è sufficiente risalire "a monte" della configurazione ed impostare la macchina stessa che gestisce tale DNS per risolvere FoolDNS. Prendendo un caso pratico, se in una azienda si ha una installazione di ActiveDirectory, il DNS impostato sulle macchine sarà quello di AD (a cui verrà azzerata la cache), mentre FoolDNS sarò installato direttamente sull'ActiveDirectory stesso.
+
+Stessa cosa per appliance di Proxying/Masquerading/Natting aziendale: dove i client debbano per forza portare la configurazione di DNS che punta a tale appliance, l'appliance stessa ad un certo punto del suo percorso di rete imposterà i DNS del provider. A quel punto entra FoolDNS.
+
+Nello stesso troncone di rete sta (di norma) l'ENFORCING delle regole di utilizzo di FoolDNS: è il firewall interno, infatti, che imposta un paio di regole per il redirect di QUALUNQUE connessione TCP/UDP sulla prta 53 direttamente sulle macchine di FoolDNS, de facto obbligando anche le macchine che utilizzino altri DNS in modo forzato a sottoporsi al monitoraggio. Tale configurazione è particolarmente utile per (ad esempio) gli utenti che possono modificare le poprie configurazioni di rete e/o i server presenti in azienda su cui non si ha controllo.
+
+Tale configurazione è inoltre comodissima anche per grandi realtà o provider: con la gestione di una unica regola possono essere monitorati centinaia di migliaia di subscrivers. Inoltre si può proporre servizi a tutta la customer base in modo veloce e semplice.
+
+Per particolari situazioni (in genere legate alla riservatezza dei dati DNS), FoolDNS si può anche installare presso il cliente in modalità di forwarder interno. In questa configurazione una o più macchine virtuali sono presenti all'interno dell'azienda per gestire policy particolari e/o memorizzazione locale dei dati. E' la configurazione in essere presso il Senato e alcune Amministrazioni pubbliche locali, oltre che quella di piccoli provider che rivendono i servizi ai propri clienti direttamente.
+
+Spero che questa mail sia stata sufficientemente esaustiva.  
+ 
+Per arrivare ala problematica precisa lascio la parola ad Emanuele, engineer responsbile, ma in linea di principio la soluzione potrebbe essere:
+
+* FoolDNS configurata "a monte" dell'attuale configurazione (appliance?);
+* Macchina virtuale in context con installazione dedicata in caso di failover;
+
+Detto questo lascio la parola e spero di aver dato un inquadramento specifico per una serie di punti fondamentali nell'architettura di base e nella filosofia alla base.
+
+Un cordiale saluto.
+
+M. 
+
+
+
+
+

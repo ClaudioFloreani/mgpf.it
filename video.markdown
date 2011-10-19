@@ -38,7 +38,7 @@ Una introduzione all'Etica della Disclosure e alle problematiche correlate.
   
 L'ormai storico video della Conferenza tenuta ad InfoSecurity 2007 e che tratta le tematiche della Censura Web, dei metodi di aggiramento ed elusione dei controlli e delle idiosincrasie delle normative italiane contro PedoPornografia e Terrorismo.  
   
-<embed id=VideoPlayback src=http://video.google.com/googleplayer.swf?docid=-8260069796878992303&hl=en&fs=true style=width:640px;height:480px allowFullScreen=true allowScriptAccess=always type=application/x-shockwave-flash> </embed>  
+<embed id=VideoPlayback src=http://video.google.com/googleplayer.swf?docid=-8260069796878992303&hl=en&fs=true style=width:640px;height:480px type=application/x-shockwave-flash> </embed>  
   
 ## La prima apparizione di FoolDNS  
   

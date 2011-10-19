@@ -3,12 +3,34 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2011-10-19T08:42:09+02:00</updated>
+ <updated>2011-10-19T16:56:09+02:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>Google e ONG - Perché non usare Google?</title>
+   <link href="http://mgpf.it/2011/10/19/google-e-ong-perche-non-usare-google.html"/>
+   <updated>2011-10-19T00:00:00+02:00</updated>
+   <id>http://mgpf.it/2011/10/19/google-e-ong-perche-non-usare-google</id>
+   <content type="html">&lt;p&gt;Che [Google Applications for Domains][gad] sia una estrema comodità è indubbio. La comodità di avere account aziendali configurati, mail personali, documenti condivisi e tra poco magari anche un Google Drive, peraltro in modo totalmente gratuito è sicuramente di una attrattiva unica.
+Il servizio di Google, peraltro, è veloce, incredibilmente fluente, tecnologicamente innovativo e ad un livello tecnologico che è ineguagliato (per lo meno per GMail) nel mondo. Quindi un affare. Forse.  &lt;/p&gt;
+
+&lt;p&gt;I problemi di Google risiedono altrove, nei grigi di quel &amp;ldquo;do no evil&amp;rdquo; che è ben differente da &amp;ldquo;do good&amp;rdquo;. Prevede solamente di non agire espressamente in modalità &amp;ldquo;evil&amp;rdquo;, cattiva. E&amp;rsquo; la differenza che c&amp;rsquo;è tra &amp;ldquo;io non ho sparato a quel bambino -&amp;gt; do no evil&amp;rdquo; e &amp;ldquo;io ho difeso quel bambino -&amp;gt; do good&amp;rdquo;. L&amp;rsquo;atteggiamento di Google nelle questioni umanitarie e di giustizia sociale pare essere quello del &amp;ldquo;mi giro da un&amp;rsquo;altra parte, voi fate quello che volete&amp;rdquo;.  &lt;/p&gt;
+
+&lt;p&gt;Quando qualche tempo fa partecipai ad un incontro, sotto il cappelino di Telefono Arcobaleno, dedicato a Google Grants e al lobbying delle ONG a patecipare gratuitamente al programma di utilizzo di Google Applications for Domain, abbi una interessante conversazione pubblica con il buon &lt;strong&gt;Marco Pancini&lt;/strong&gt; allora (e forse anche adesso) &lt;em&gt;responsabile affari istituzionali&lt;/em&gt; di Google in Italia a cui chiesi quali garanzie offriva Google alle ONG per la loro tutela e per la tutela dei dati anche confidenziali che la mail conteneva. Se infatti per il signor Mario Rossi probabilmente la mail non ha un valore estremo di segretezza, una ONG che si trovi ad operare in un contesto di rischio sociale o di rischio paese potrebbe avere ben altri contenuti da tutelare: si pensi ad esempio ai &lt;em&gt;nomi di fonti&lt;/em&gt; magari ostili ad un determinato regime, o ancora a &lt;em&gt;gole profonde&lt;/em&gt; per azioni di public whistleblowing alla WikiLeaks.&lt;br /&gt;
+La sua risposta evasiva, non certo per colpa sua ne sono convinto, e mi aveva preoccupato. La risposta era stata quella standard &amp;ldquo;Google rispetta la legge ed i diritti dei cittadini&amp;rdquo;. Ancora una volta [neolingua e bispensiero][neolingua] direbbe il buon Marco Calamari rifacendosi ai termini del romanzo *1984&lt;/p&gt;
+
+&lt;p&gt;[gad]: 
+[neolingua]&lt;/p&gt;
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>Ho guardato un'alba e mi son chiesto: come fa a non esistere Dio?</title>
@@ -253,29 +275,6 @@ Ora, però, essere sfondati &lt;a href=&quot;http://anon-news.blogspot.com/2011/
 
 &lt;p&gt;Amici di Vitrociset, se serve una mano conosco un paio di persone da consigliarvi. Trovate i recapiti alla pagina &lt;a href=&quot;http://www.matteoflora.com/contatti&quot;&gt;contatti&lt;/a&gt;&amp;hellip;  &lt;/p&gt;
 
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Gli utenti IE? Un branco di minorati mentali...</title>
-   <link href="http://mgpf.it/2011/08/02/gli-utenti-ie-branco-minorati-mentali.html"/>
-   <updated>2011-08-02T00:00:00+02:00</updated>
-   <id>http://mgpf.it/2011/08/02/gli-utenti-ie-branco-minorati-mentali</id>
-   <content type="html">&lt;p&gt;Non lo dico io, ma un [prestigioso studio][1] che ha messo a confronto i test sul quoziente intellettivo di utenti comparandoli con il browser e la versione utilizzata.
-&amp;gt; The results: People who use Opera are most likely brainiacs; those who prefer Firefox, Chrome, Safari, or Camino are, while not exactly Einstein, still smarter than your average bear; and those who use any flavor of Internet Explorer probably could not find their mouse with both hands and need help tying their shoes.&lt;br /&gt;
-&amp;gt; According to AptiQuant, &lt;strong&gt;IQs for IE users ranged from barely above 80&lt;/strong&gt; (for IE6) to about 95 (for IE8); the IQ of your average schmoe is 100. Even &lt;strong&gt;the smartest IE users are most likely dumber on average than somebody you happened to run into at Wal-Mart&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Se volete leggere il documento completo trovate [qui la versione PDF][2] completa.&lt;br /&gt;
-Ora mi aspetto veramente l&amp;rsquo;ondata di Flame, soprattutto se dico che &amp;ldquo;comunque sia me lo aspettavo&amp;rdquo;&amp;hellip; :)  &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;ok, ok, scherzavo!&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;P.S. Assolutamente grandioso [pare fosse un hoax][2]. Non ho visto nessuno che si sia scandalizzato&amp;hellip; Che strano&amp;hellip; ;)&lt;/strong&gt;
-[1]: http://www.infoworld.com/t/cringely/just-how-stupid-are-internet-explorer-users-168610
-[2]: http://www.bbc.co.uk/news/technology-14389430&lt;/p&gt;
 </content>
    <author>
      <name>Matteo Flora</name>
