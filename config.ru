@@ -64,6 +64,7 @@ use Rack::TryStatic,
       r301 '/chi-sono', '/chisono.html'
       r301 '/rss', '/atom.xml'
       r301 '/feed', '/atom.xml'
+      r301 '/feed/rss', '/atom.xml'
       r301 '/feed/', '/atom.xml'
       # r302 '/wiki/Greg_Jastrab', '/greg'
       # r301 %r{(\w+)_\w+}, '/$1'
