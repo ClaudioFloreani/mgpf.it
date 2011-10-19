@@ -15,6 +15,9 @@ use Rack::TryStatic,
 
     # Legacy files redirection
     use Rack::Rewrite do
+      r301 %r{.*}, 'http://mgpf.it$&', :if => Proc.new {|rack_env|
+          rack_env['SERVER_NAME'] != 'mgpf.it' && ENV['RACK_ENV'] == 'production'
+      } # Force single domain
       r301 %r{^/(.*)/$}, '/$1' # trailing slash
       r301 '/chi-sono', '/chisono.html'
       r301 '/rss', '/atom.xml'
