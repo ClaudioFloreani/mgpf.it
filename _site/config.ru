@@ -15,12 +15,13 @@ use Rack::TryStatic,
 
     # Legacy files redirection
     use Rack::Rewrite do
+      r301 %r{^/(.*)/$}, '/$1' # trailing slash
       r301 '/chi-sono', '/chisono.html'
       r301 '/rss', '/atom.xml'
       r301 '/feed', '/atom.xml'
       r301 '/feed/', '/atom.xml'
       # r302 '/wiki/Greg_Jastrab', '/greg'
-      # r301 %r{/wiki/(\w+)_\w+}, '/$1'
+      # r301 %r{(\w+)_\w+}, '/$1'
     end
     
     run lambda { |env|
