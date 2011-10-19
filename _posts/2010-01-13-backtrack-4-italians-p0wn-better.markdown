@@ -8,7 +8,7 @@ tags:
 ---
 Squillo di trombe e rullo di tamburi il buon [Emanuele "emgent" Gentili][1] mi fa cortesemente notare l'uscita di BackTrack 4 Final, la distribuzione di pentesting tutta italiana nel cuore ed internazionale nello scopo e nella diffusione!
 
-<a href="http://www.lastknight.com/download//2010/01/bt4-fireworks-1.png"><img src="http://www.lastknight.com/download//2010/01/bt4-fireworks-1.png" alt="" title="bt4-fireworks-1" width="482" height="337" class="aligncenter size-full wp-image-1806" /></a>  
+<a href="http://fast.mgpf.it//2010/01/bt4-fireworks-1.png"><img src="http://fast.mgpf.it//2010/01/bt4-fireworks-1.png" alt="" title="bt4-fireworks-1" width="482" height="337" class="aligncenter size-full wp-image-1806" /></a>  
   
 Dalla pagina del [sito ufficiale][3] cito testualmente:  
   

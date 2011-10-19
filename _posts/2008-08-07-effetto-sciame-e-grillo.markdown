@@ -8,7 +8,7 @@ tags:
 - forensic
 - digital-freedom
 ---
-![Anonymous](http://www.lastknight.com/download/2008/08/anonymousbecause-240x300.jpg)
+![Anonymous](http://fast.mgpf.it/2008/08/anonymousbecause-240x300.jpg)
   
 Mi chiedevo come mai di botto fossero finiti i commenti... Dopo averne avuto quasi trecento al giorno sembrava strano...  
 Sono andato a controllare e non trovavo una ragione precisa...  

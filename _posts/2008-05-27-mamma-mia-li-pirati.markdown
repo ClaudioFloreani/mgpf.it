@@ -12,6 +12,6 @@ La pirateria, nel  mondo, ha subito nello scorso anno un [clamoroso +20%](http:/
   
 E non credo sia merito della **Disney**.  
   
-<img src="http://www.lastknight.com/download//pirates-large_673762a.gif" alt="" title="pirates-large_673762a" width="500" height="363" class="aligncenter size-full wp-image-723" />  
+<img src="http://fast.mgpf.it//pirates-large_673762a.gif" alt="" title="pirates-large_673762a" width="500" height="363" class="aligncenter size-full wp-image-723" />  
   
  

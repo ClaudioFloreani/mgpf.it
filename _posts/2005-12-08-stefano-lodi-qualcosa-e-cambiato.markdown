@@ -7,7 +7,7 @@ tags:
 - about-me
 ---
 No, non mi sono sposato, non sono diventato buddhista, non ho nemmeno preso i voti di sacerdozio o smesso di tessere trame. 
-![Lodi Stefano - Qualcosa è Cambiato](/download/thumb-20051208_lodi.gif "Stefano Lodi - Qualcosa è Cambiato") "Qualcosa è cambiato" non si riferisce a me, ma al titolo di un **meraviglioso volume** in poesia scritto da un caro amico, un compagno dei giorni di gioventù a cui devo molto e che moltissimo ha influenzato, con il suo gusto poetico e con la sua visione della vita un poco lugubre ma sempre meravigliosamente propensa a vedere i particolari poetici di qualunque cosa. 
+![Lodi Stefano - Qualcosa è Cambiato](http://fast.mgpf.it/thumb-20051208_lodi.gif "Stefano Lodi - Qualcosa è Cambiato") "Qualcosa è cambiato" non si riferisce a me, ma al titolo di un **meraviglioso volume** in poesia scritto da un caro amico, un compagno dei giorni di gioventù a cui devo molto e che moltissimo ha influenzato, con il suo gusto poetico e con la sua visione della vita un poco lugubre ma sempre meravigliosamente propensa a vedere i particolari poetici di qualunque cosa. 
 Stefano Lodi mi ha insegnato **la metrica**. E non sottovalutate cosa questo significhi per un programmatore. 
 Per Stefano (nickname LoSt) la metrica è tutto. Anche nella vita di tutti i giorni, ed inizia il volume proprio con:
 >Il verso libero *mi dà fastidio*, 

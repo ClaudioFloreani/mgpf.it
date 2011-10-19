@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - privacy
 ---
-![Il tuo indirizzo è stato reperito su internet](/download/20061012_spam.jpg)
+![Il tuo indirizzo è stato reperito su internet](http://fast.mgpf.it/20061012_spam.jpg)
 Quanto spam ricevete in questi giorni? E soprattutto quanto di questo **riporta la fatidica** frase "**il vostro indirizzo è stato reperito da elenchi pubblici"**?  
 Vi siete mai chiesti se questo atteggiamento **è legittimo** o meno?  
 Proprio da una mail dell'amico [Domenico](http://www.alcooland.it/) scopro che **non molti conoscono** i provvedimenti del Garante per la Privacy che sono stati pubblicati nel corso degli anni.  

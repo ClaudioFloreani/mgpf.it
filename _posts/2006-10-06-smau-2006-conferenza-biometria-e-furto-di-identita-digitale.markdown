@@ -17,6 +17,6 @@ Giusto due righe per ricordare che domani, Sabato 7 Ottobre, si terrà in SMAU i
 > **Posti disponibili:** 17  
 
 Eccovi un paio di slide come "teaser":   
-![Biometria 1](/download/20060930%20-%20Matteo%20Flora%20-%20Biometria.002-small.jpg)  
-![Biometria 2](/download/20060930%20-%20Matteo%20Flora%20-%20Biometria.035-small.jpg)  
+![Biometria 1](http://fast.mgpf.it/20060930%20-%20Matteo%20Flora%20-%20Biometria.002-small.jpg)  
+![Biometria 2](http://fast.mgpf.it/20060930%20-%20Matteo%20Flora%20-%20Biometria.035-small.jpg)  
  

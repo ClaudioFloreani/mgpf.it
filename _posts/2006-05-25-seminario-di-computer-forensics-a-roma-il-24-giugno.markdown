@@ -8,7 +8,7 @@ tags:
 - forensic
 - talk
 ---
-![Computer Forensics Roma 2006](/download/20060525_forensics.jpg)
+![Computer Forensics Roma 2006](http://fast.mgpf.it/20060525_forensics.jpg)
 Rieccomi dopo la [prima edizione a Milano](http://www.lastknight.com/2006/03/21/milano-12-maggio-seminario-di-introduzione-alla-computer-forensics/) a riproporre il  [Seminario di introduzione alla Computer Forensics](http://www.lkproject.com/0624_seminario_forensics.htm) in **una data Romana**, soprattutto in virtù delle numerose domande di partecipazione da parte degli informatici del paese del sole =]. 
 Il **24 Giugno 2006** a **Roma** organizzo la data romana dell'**Introduzione alla Computer Forensics** che ho presentato in prima data il 12 Maggio e che ha ricevulto un considerevole consenso, oltre a molti [felici partecipanti](http://www.lastknight.com/2006/05/16/post-evento-corso-di-forensics-del-12-maggio/).  
 Il prezzo della giornata è fissato a **.240,00 + IVA** e come al solito sono disponibili facilitazioni per i soci AIP/ITCS e per gli appartenenti alle Forze dell'Ordine (*prezzo scontato .195,00 + IVA*).  

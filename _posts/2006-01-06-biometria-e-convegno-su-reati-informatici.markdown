@@ -6,7 +6,7 @@ tags:
 - about-me
 - talk
 ---
-![Reati Informatici e attività di Indagine](/download/20060106_banner.gif)Giusto un commento, in ritardissimo, per annunciare che avrò l'onere e l'onore di <b>partecipare come relatore</b> al convegno "Reati Informatici e attività di Indagine" che si svolgerà a Varenna il prossimo 20 Gennaio 2006 promosso dal Circolo dei Giuristi Telematici e con la collaborazione dell'Unione Avvocati Europei, di Penale.it, del Centro Studi di Diritto Penale Europeo e del Consolato Generale di Svizzera. 
+![Reati Informatici e attività di Indagine](http://fast.mgpf.it/20060106_banner.gif)Giusto un commento, in ritardissimo, per annunciare che avrò l'onere e l'onore di <b>partecipare come relatore</b> al convegno "Reati Informatici e attività di Indagine" che si svolgerà a Varenna il prossimo 20 Gennaio 2006 promosso dal Circolo dei Giuristi Telematici e con la collaborazione dell'Unione Avvocati Europei, di Penale.it, del Centro Studi di Diritto Penale Europeo e del Consolato Generale di Svizzera. 
 Sul [sito web](http://www.convegnovarenna.giuristitelematici.it/) sono reperibili ulteriori informazioni ed è possibile scaricare una [esaustiva brochure](http://www.convegnovarenna.giuristitelematici.it/prenota/PIEGHEVOLECONVEGNO.pdf)  (pdf) informativa.
 Il mio intervento si intitolerà <b>"Biometria e furto di identità digitale: case study"</b> e qui di seguito ne riporto l'abstract:
 <blockquote>

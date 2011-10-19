@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - hacking
 ---
-![Digg and HDDVD](http://www.lastknight.com/download/digg.png)
+![Digg and HDDVD](http://fast.mgpf.it/digg.png)
 > **Per chi arriva da ZioBudda:** C'è stata [qualche lamentela](http://www.lastknight.com/2007/05/02/digg-il-web-20-la-community-e-09-f9-11-02-9d-74-e3-5b-d8-41-56-c5-63-56-88-c0/#comment-53106) da parte di un paio di lettori su presunti plagi di questo post che sinceramente non me la sento di confermare. Ne scrive proprio ZioBudda in una [news](http://www.ziobudda.net/punto_informatico_ancora_e_come_sempre_a_copiare_dai_blogger) a cui Paolo De Andreis ha risposto [qui nei commenti](http://www.ziobudda.net/punto_informatico_ancora_e_come_sempre_a_copiare_dai_blogger).  
 Gli articoli citati sono [qui](http://punto-informatico.it/p.aspx?id=1972328&r=PI) e [qui](http://cavallette.autistici.org/2007/05/438) e nei [commenti](http://www.lastknight.com/2007/05/02/digg-il-web-20-la-community-e-09-f9-11-02-9d-74-e3-5b-d8-41-56-c5-63-56-88-c0/#comment-53106) a questo post potete trovare altre informazioni, come pure le mie risposte... Grazie per la visita e dite pure la vostra...
 Ci sono un'infinità di aziende italiane che si stanno **riempiendo la bocca** con il termine "Web 2.0" e che organizzano a torto o a ragione seminari su seminari parlando di questa o quella tecnologia...  

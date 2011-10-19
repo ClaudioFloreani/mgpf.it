@@ -8,7 +8,7 @@ tags:
 - security
 - talk
 ---
-![Censura](http://www.lastknight.com/download/banner_censura.png)
+![Censura](http://fast.mgpf.it/banner_censura.png)
 Finalmente dopo svariati giorni di attesa **sono aperte le iscrizioni** alla [Conferenza dell'8 Febbraio](http://www.lastknight.com/2007/01/18/8-febbraio-infosecurity-2007-come-eludere-i-controlli-di-polizia/) da me tanto sponsorizzata.  
 Il link dell'evento è disponibile su [questa pagina](http://www.infosecurity.it/it/infosecurity.aspx?ID_Portale=Z6skuJTSHr%2fjF7janL35RA%3d%3d&ID_Pagina=fF%2b7etXTY34nfmtRTL8Shw%3d%3d&ID_MenuLvl1=mllS8ehP3VwfAOVCVR5ckw%3d%3d&ID_MenuLvl2=fF%2b7etXTY34nfmtRTL8Shw%3d%3d&ID_MenuLvl3=fPsJu6gF%2blBE8LaUGEMYLw%3d%3d&Lang=l51VDVQfL9BdevTm%2fsJx0Q%3d%3d&ID_Evento=5kv64ADy%2b0VjBeLMF0PzAA%3d%3d&ExtControl=FQQ52p7AGBUZth0l9Qw6MSOcqIebAeaBYiSFezT6eKEvZkQfILymgy7truUG7ii4) del sito ufficiale, mentre sulle pagine di Sikurezza.org è possibile richiedere, salvo esaurimento, i [biglietti omaggio](http://www.sikurezza.org/wiki/Risorse/Infosecurity07) (siate parsimoniosi, ve ne prego) per l'ingresso ad uno dei tre giorni.  
   

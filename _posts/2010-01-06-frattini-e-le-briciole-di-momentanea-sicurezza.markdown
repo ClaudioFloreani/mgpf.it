@@ -8,7 +8,7 @@ tags:
 - privacy
 - paranoia
 ---
-<a href="http://www.lastknight.com/download//2010/01/445px-Franklin-Benjamin-LOC.jpg"><img src="http://www.lastknight.com/download//2010/01/445px-Franklin-Benjamin-LOC.jpg" alt="" title="445px-Franklin-Benjamin-LOC" width="445" height="599" class="aligncenter size-full wp-image-1761" /></a>  
+<a href="http://fast.mgpf.it//2010/01/445px-Franklin-Benjamin-LOC.jpg"><img src="http://fast.mgpf.it//2010/01/445px-Franklin-Benjamin-LOC.jpg" alt="" title="445px-Franklin-Benjamin-LOC" width="445" height="599" class="aligncenter size-full wp-image-1761" /></a>  
   
 Che Frattini non sia forse il [maggiore conoscitore del web e della scienza][1] lo sappiamo da anni, ma sinceramente le sue affermazioni [qui][2] mi fanno pensare:  
 > Secondo il capo della diplomazia italiana i body scanner, pur costituendo "un sacrificio" alla privacy dei passeggeri, tutelano "il diritto alla sicurezza, che è precondizione di tutte le libertà"  

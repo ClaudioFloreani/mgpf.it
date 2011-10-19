@@ -13,6 +13,6 @@ Il torrent è scaricabile [online in una serie di siti](http://thepiratebay.org/
   
 Ma la cosa più buffa è che il sedicente pirata informatico si è dimenticato di rimuovere le [intestazioni Exif](http://www.ush.it/2006/05/30/exif-phun) *(Attenzione, precedente link NSFW!)*...  
   
-<img src='http://www.lastknight.com/download//20070717_potterexif.png' alt='20070717_potterexif.png' />
+<img src='http://fast.mgpf.it//20070717_potterexif.png' alt='20070717_potterexif.png' />
   
 Speriamo siano magnanimi quando recupereranno la macchina digitale...  

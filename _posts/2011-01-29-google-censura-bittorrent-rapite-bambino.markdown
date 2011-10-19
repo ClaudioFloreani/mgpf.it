@@ -10,7 +10,7 @@ tags:
 Da qualche giorno, forse lo sapete, Google censura la parola "bittorrent". Non solo questo, ma anche e soprattutto "how to tor".  
 Non è la prima parola censurata. Ci sono anche tutte quelle su Scientology. E quelle sul Falung Dafa.  
   
-<a href="http://matteoflora.com/wp-content/uploads/2011/01/Google-Censorship-Graphic-01.jpg"><img src="http://matteoflora.com/wp-content/uploads/2011/01/Google-Censorship-Graphic-01.jpg" alt="" title="Google-Censorship-Graphic-01" width="600" height="2000" class="aligncenter size-full wp-image-131" /></a>  
+<a href="http://fast.mgpf.it/2011/01/Google-Censorship-Graphic-01.jpg"><img src="http://fast.mgpf.it/2011/01/Google-Censorship-Graphic-01.jpg" alt="" title="Google-Censorship-Graphic-01" width="600" height="2000" class="aligncenter size-full wp-image-131" /></a>  
 Interessante i commenti [della rete][1]. E queste frasi sparse:
 
 > Google won't autocomplete searches for "bittorrent," but if you are interesting in learning how to kidnap someone, make meth, build a bomb, cheat on your taxes, or shoplift, they will happily autocomplete your search for you.

@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - hope
 ---
-![Vale](http://www.lastknight.com/download/avatarprova.jpg)
+![Vale](http://fast.mgpf.it/avatarprova.jpg)
 [Valeria][1] E' una ragazza dolcissima. Davvero.  
 La [leggevo][1] anche prima di conscerla di persona e mi hanno sempre affascinato la sua **raffinta pacatezza**, la sua ferrea e adamantina **forza di volontà** e la **dolcezza che sa dare** alle piccole cose di tutti i giorni...  
   
@@ -15,7 +15,7 @@ Non è stata per ora molto fortunata nella ricerca, quindi ci riprova e non vedo
   
 Se riusciste a passare parola in quel di Torino mi fareste veramente un grande favore, che ricambierei sicuramente alla prima occasione. Mi date e le date una mano?  
   
-<img src="http://www.lastknight.com/download//annuncio.jpg" alt="" title="annuncio" width="206" height="186" class="aligncenter size-full wp-image-710" />
+<img src="http://fast.mgpf.it//annuncio.jpg" alt="" title="annuncio" width="206" height="186" class="aligncenter size-full wp-image-710" />
   
 Grazie mille.  
  

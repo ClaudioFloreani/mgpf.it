@@ -8,7 +8,7 @@ tags:
 - security
 ---
 <center>
-<img src="/download/acarus.jpg">
+<img src="http//fast.mgpf.it/acarus.jpg">
 </center>
 Come da [invito a farsi avanti](http://www.lastknight.com/2008/01/29/di-nuovo-hackerato/) del mio post sull['owning di Lastknight.com](http://www.lastknight.com/2008/01/29/di-nuovo-hackerato/) ecco la risposta del nostro amico:  
                                                                                                                                                                                                                                                                  

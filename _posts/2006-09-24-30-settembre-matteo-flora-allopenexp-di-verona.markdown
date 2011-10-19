@@ -6,7 +6,7 @@ tags:
 - about-me
 - talk
 ---
-![OpenExp Verona](http://www.lastknight.com//download/20060923_openexp.png)Come da titolo vi informo che nella giornata del **30 Settembre** sarò a Verona su invito del comitato organizzatore dell'OpenExp, la kermesse di Open Source che vedrà affiancarsi alle **maggiore realtà italiane** oltre **100 speech** di argomenti legati alla **sicurezza** informatica, alle tematiche dello **sviluppo** in ambito open source ed a quelle della penetrazione dei software OSS all'interno della **Publica Amministrazione**.  
+![OpenExp Verona](http://fast.mgpf.it/20060923_openexp.png)Come da titolo vi informo che nella giornata del **30 Settembre** sarò a Verona su invito del comitato organizzatore dell'OpenExp, la kermesse di Open Source che vedrà affiancarsi alle **maggiore realtà italiane** oltre **100 speech** di argomenti legati alla **sicurezza** informatica, alle tematiche dello **sviluppo** in ambito open source ed a quelle della penetrazione dei software OSS all'interno della **Publica Amministrazione**.  
 Durante la giornata presenterò **due speech**:  
  *  *"Spyware, dalla parte dell'Attaccante"* (ore 15:45/16:45)
  *  *"Crittografia: Sopravvivere In Uno Stato Di Polizia"* (ore  17:00/18:00)  

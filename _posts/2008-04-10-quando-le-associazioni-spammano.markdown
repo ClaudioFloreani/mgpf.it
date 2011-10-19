@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - weird
 ---
-![Spam](http://www.lastknight.com//download/20061012_spam.jpg)
+![Spam](http://fast.mgpf.it/20061012_spam.jpg)
 Al limite del **basito** dopo l'incontro di [Trani][1] mi ritrovo nella casella mail dello spam proveniente direttamente da **una associazione che ha partecipato** che per ben due volte nella giornata mi informa di iniziative che per quanto lodevoli **non mi interessano e soprattutto non voglio avere nella posta di lavoro**.  
 Piccato e alquanto **incredulo** mando una mail all'organizzazione chiedendo di **essere rimosso** e, soprattutto, di piantarla con questo **spam da quattro soldi**.  
   

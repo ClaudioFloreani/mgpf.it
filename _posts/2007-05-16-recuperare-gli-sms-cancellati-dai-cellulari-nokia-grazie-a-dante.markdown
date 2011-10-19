@@ -6,7 +6,7 @@ tags:
 - forensic
 - security
 ---
-![Nokia e SMS cancellati](http://www.lastknight.com/download//20070516_nokia.gif)
+![Nokia e SMS cancellati](http://fast.mgpf.it//20070516_nokia.gif)
 E' proprio una di quelle scoperte **destinate a fare scalpore** quella del buon Davide "Dante" Del Vecchio, che con una mail su **BugTraq** e **SecurityFocus** pubblica il risultato di una **imperfezione dei sistemi Nokia** destinata ad avere pesanti ripercussioni non solamente sul panorama della sicurezza informatica, ma anche e soprattutto su quello della **Computer Forensics**.  
   
 Dante, infatti, è riuscito mediante l'utilizzo della Suite di Nokia a **recuperare i messaggi SMS cancellati** sul terminale sino ad un anno prima e miracolosamente **presenti ancora sul device**.  

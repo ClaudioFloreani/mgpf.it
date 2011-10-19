@@ -7,12 +7,12 @@ tags:
 - digital-freedom
 - paranoia
 ---
-![Un ferito del G8](http://www.lastknight.com/download//20070509_g8.gif)
+![Un ferito del G8](http://fast.mgpf.it//20070509_g8.gif)
 E' passata così, volando basso basso e senza alcuna risonanza la sentenza di condanna allo stato italiano per i fatti di Genova.  
   
 La prima condanna nei **confronti del Ministero dell'Interno** per le **illecite violenze** dei poliziotti è arrivata nei giorni scorsi, a sei anni dal G8 genovese.  E' infatti del **4 Maggio** la decisione del giudice **Angela Latella** che presso il tribunale di Genova ha dato ragione a **Marina Spaccini**, pediatra cinquantenne di origine triestina, pacifista.  
 Alle due del pomeriggio del 20 luglio, era il 2001, venne **pestata a sangue** in via Assarotti. Partecipava alla manifestazione della Rete Lilliput, era tra quelli che alzava in alto le mani dipinte di bianco urlando: "**Non violenza!**".
-![La foto che ritrae l'accusatrice](http://www.lastknight.com/download//20070509_g82.jpg)
+![La foto che ritrae l'accusatrice](http://fast.mgpf.it//20070509_g82.jpg)
 Gli agenti ed i loro superiori avrebbero raccontato che stavano **dando la caccia ad un gruppo di Black Bloc**, che c'era una gran confusione e qualcuno tirava contro di loro le molotov, che non era possibile distinguere tra "buoni" e "cattivi": **bugie** smascherate nel corso del processo, come sottolineato dal giudice.  
 Dal momento che quegli agenti, come in buona parte degli episodi legati al vertice, non sono stati identificati e sono spesso stati coperti da un pesante velo di omertà, Angela Latella ha deciso di **condannare il Ministero dell'Interno**. La cifra che verrà pagata a Marina Spaccini non è certo clamorosa - cinquemila euro tra invalidità, danni morali ed esistenziali - , ma il punto è evidentemente un altro. E le parole del giudice non lasciano scampo ad altre interpretazioni:  
 > Se risulta chiaramente che la Spaccini sia stata oggetto di un **atto di violenza** da parte di un appartenente alle forze di polizia non si può neppure porre in dubbio che non si sia trattato né di un'iniziativa isolata, di un qualche autonomo eccesso da parte di qualche agente, né di un fatale inconveniente durante una legittima operazione di polizia volta e riportare l'ordine pubblico gravemente messo in pericolo.  

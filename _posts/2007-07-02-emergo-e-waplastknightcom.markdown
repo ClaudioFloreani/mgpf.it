@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - about-me
 ---
-![http://www.lastknight.com/download/20070701_wap.png](http://www.lastknight.com/download/20070701_wap.thumbnail.png)
+![http://fast.mgpf.it/20070701_wap.png](http://fast.mgpf.it/20070701_wap.thumbnail.png)
 Rieccomi e grazie per i messaggi che mi domandavano dove fossi finito :)  
   
 Periodo piuttosto denso di accordi, lavoro e progetti, periodo non particolarmente invece agevole per il mio Blogging :)  

@@ -6,7 +6,7 @@ tags:
 - digital-freedom
 - paranoia
 ---
-<a href="http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg"><img src="http://www.lastknight.com/download//2010/12/2962194797_06b1dc08ac.jpg" alt="" title="2962194797_06b1dc08ac" width="500" height="333" class="aligncenter size-full wp-image-2309" /></a>
+<a href="http://fast.mgpf.it//2010/12/2962194797_06b1dc08ac.jpg"><img src="http://fast.mgpf.it//2010/12/2962194797_06b1dc08ac.jpg" alt="" title="2962194797_06b1dc08ac" width="500" height="333" class="aligncenter size-full wp-image-2309" /></a>
   
 Incredibilmente combatto contro la mia proverbiale pigrizia nello scrivere su questo Blog perché c'è qualcosa di interessante da dire.  
 No, non parlo di Wikileaks **(ma se vi interessa la cosa questo Sabato sarò a Salerno [ad una conferenza][conf] sul tema)**, ma di [una mail][link] passata sulla Mailing List interna del progetto OpenBSD. Una mail assoutamente inquietante a firma nientemeno di [Theo de Raadt][theo], fondatore e leader di OpenBsd.  

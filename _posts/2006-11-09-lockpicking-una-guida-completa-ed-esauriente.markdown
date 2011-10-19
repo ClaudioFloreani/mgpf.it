@@ -9,7 +9,7 @@ tags:
 - forensic
 - security
 ---
-![Attrezzi Scasso](/download/20061109_lockpicking.jpg)  
+![Attrezzi Scasso](http://fast.mgpf.it/20061109_lockpicking.jpg)  
   
 Non è la **prima volta** che mi [occupo di LockPicking](/2006/09/06/lockpicking-larte-dello-scasso-nella-sicurezza/) e di **attrezzi da scasso**, ma mai prima d'ora ho visto una** guida così completa** e soprattutto **semplice** da intuire e utilizzare.  
 [LockSport International](http://locksport.com) ha pubblicato la prima versione della [LSI Guide](http://locksport.com/home/index.php?entry=entry061027-222056) disponibile per il download diretto.  

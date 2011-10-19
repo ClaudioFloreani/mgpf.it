@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - hacking
 ---
-![Chiavette USB e Social Engineering](http://www.lastknight.com//download/20060609_Usb.jpg)
+![Chiavette USB e Social Engineering](http://fast.mgpf.it/20060609_Usb.jpg)
 La **nuova frontiera del Social Engineering**, dopo la [barretta di cioccolato](http://news.bbc.co.uk/1/hi/technology/3639679.stm) e le telefonate spacciandosi per belle ragazze sembra essere diventata quello status symbol del Geek moderno che è la **chiavetta USB**.  
 Come testare, infatti, la **sicurezza di una nota società di credito**? Beh, gli auditor incaricati da un noto nome americano hanno pensato di utilizzare un trucco semplice ma al tempo stesso **geniale**; durante la notte hanno** disseminato nei dintorni dell'edificio** principale della struttura da sottoporre a auditing una **serie di vecchie chiavette USB** appositamente preparate.  
 Le chiavette contenevano interessanti documenti, oltre a immagini, testi ed ovviamente **un troyan appositamente preparato** per spedire password ed informazioni riservate agli Auditor stessi.  

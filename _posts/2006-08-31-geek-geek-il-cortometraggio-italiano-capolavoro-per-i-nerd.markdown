@@ -7,7 +7,7 @@ tags:
 - awesome
 - weird
 ---
-[![Geek Geek](http://www.lastknight.com//download/20060831_geekgeek.gif)](http://www.geek-geek.com) Una settimana, per molti la prima lavorativa, che sta per finire e che voglio chiudere con la segnalazione: **dissacrante, irriverente**, grottesco e suprattutto **indegnamente e devastantemente divertente** ecco il cortometraggio autoprodotto da due Bloggers italiani che ironizza sul Blogger italiano e che **fotografa una generazione** come Clerks fece a suo tempo.  
+[![Geek Geek](http://fast.mgpf.it/20060831_geekgeek.gif)](http://www.geek-geek.com) Una settimana, per molti la prima lavorativa, che sta per finire e che voglio chiudere con la segnalazione: **dissacrante, irriverente**, grottesco e suprattutto **indegnamente e devastantemente divertente** ecco il cortometraggio autoprodotto da due Bloggers italiani che ironizza sul Blogger italiano e che **fotografa una generazione** come Clerks fece a suo tempo.  
 Semplicemente imperdibile...  
 Il cortometraggio in questione si chiama [Geek Geek](http://www.geek-geek.com) ed è, per citare il sito stesso:
 > un corto(medio)metraggio goliardico/grottesco sulla &#8220;vita&#8221; di due geeks, che sperano di guadagnare tramite un sito di vendita di t-shirts online.

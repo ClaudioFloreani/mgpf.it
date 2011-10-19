@@ -6,7 +6,7 @@ tags:
 - about-me
 - talk
 ---
-![Convegno Orvieto](/download/20070427_orvieto.jpg)
+![Convegno Orvieto](http://fast.mgpf.it/20070427_orvieto.jpg)
 Per ci si ritrovasse in zona Orvieto segnalo un interessante convegno a cui parteciperò come relatore.  
 **Sabato 28 Aprile** sarò infatti ad **Orvieto** con l'amico Fabio Pietrosanti a presentare un intervento dal titolo "**Privacy e Sicurezza: Errori, orrori ed implementazioni**" e che verterà sugli errori implementativi e le leggende metropolitane che costellano la redazione del **fantomatico DPS** e soprattutto l'attuazione delle misure di cui all'All.B del Dlgs 193/2003.  
 Con Fabio **analizzaremo degli scenari** in cui le misure di sicurezza, benché correttamente implementate secondo la normativa vigente, risultano non solo **completamente inutili** ma anzi spesso più insicure della stessa inazione.  

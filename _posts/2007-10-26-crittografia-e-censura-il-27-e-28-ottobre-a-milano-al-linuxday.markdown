@@ -7,7 +7,7 @@ tags:
 - about-me
 - talk
 ---
-![LinuxDay 2007 Matteo Flora](http://www.lastknight.com/download/20071026_linuxday.png)
+![LinuxDay 2007 Matteo Flora](http://fast.mgpf.it/20071026_linuxday.png)
 Anche quest'anno l'Associazione Culturale OpenLabs organizza il [Linux Day](http://linuxday.openlabs.it) con diverse novita'.  
 Il **27 e il 28 ottobre 2007** si terranno due giornate dedicate alla presentazione di **Linux e il Software Libero** (vedi il programma)presso lo Spazio Teatro 89 ed il Circolo Ugo Brenna in [via Fratelli Zoia 89](http://linuxday.openlabs.it/?q=/dove).  
   

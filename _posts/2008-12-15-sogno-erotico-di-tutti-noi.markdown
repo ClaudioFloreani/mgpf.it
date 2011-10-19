@@ -21,6 +21,6 @@ Peccato.
   
 **ADDENDUM**  
   
-<img src="http://www.lastknight.com/download//2008/12/trolls.jpg" alt="trolls" title="trolls" width="506" height="460" class="aligncenter size-full wp-image-1211" />  
+<img src="http://fast.mgpf.it//2008/12/trolls.jpg" alt="trolls" title="trolls" width="506" height="460" class="aligncenter size-full wp-image-1211" />  
   
  

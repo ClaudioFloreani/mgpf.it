@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - awesome
 ---
-<a href="http://daringtodo.com"><img src="http://www.lastknight.com/download//2008/11/daring_001-481x300.jpg" alt="" title="daring_001" width="481" height="300" class="aligncenter size-medium wp-image-1164" /></a>
+<a href="http://daringtodo.com"><img src="http://fast.mgpf.it//2008/11/daring_001-481x300.jpg" alt="" title="daring_001" width="481" height="300" class="aligncenter size-medium wp-image-1164" /></a>
   
 Credo che ormai si sia capito come The Fool e FoolDns siano rosicando spazi sempre maggiori nel mio tempo che soleva essere parzialmente libero :)  
 Ma il **progetto è ben più ampio** e ricopre anche ambiti quale l'**arte**, l'innovazione e **le metodologie** che stiamo seguendo nel portare avanti questa nuova visione di fare business.  
@@ -26,7 +26,7 @@ E questo non significa, beninteso, agire senza aver calcolato la strategia: sign
 Neell'ambito di questa filosofia ci piacerebbe incontrare persone che la pensano come noi, persone che vogliano **innovare nella vita di tutti i giorni** e che vogliano vedere nell'ethical business la via da seguire.  
 Persone che vogliano **innovare come arte** e che capiscano quanto l'arte e le scienze umane siano parte della vita e del benessere di tante realtà. E l'arte si nasconde [nei posti più impensati](http://www.flickr.com/photos/alighieridante/2008894510/) *(grazie [Dante](http://alighieri.org) :P)*.  
   
-<a href="http://www.facebook.com/group.php?gid=98739020516"><img src="http://www.lastknight.com/download//2008/11/daring_002-481x300.jpg" alt="" title="daring_002" width="481" height="300" class="aligncenter size-medium wp-image-1165" /></a>
+<a href="http://www.facebook.com/group.php?gid=98739020516"><img src="http://fast.mgpf.it//2008/11/daring_002-481x300.jpg" alt="" title="daring_002" width="481" height="300" class="aligncenter size-medium wp-image-1165" /></a>
   
 E così nasce il [Gruppo di Facebook][1] di DaringToDo e, a brevissimo, anche il primo evento organizzato a Milano (sarà il 19 Novembre) per mettere a confronto le varie realtà e per mettersi tutti a confronto, per imparare qualcosa sull'Arte come metodo di vita e iniziare ad introdurla nella nostra vita di tutti i giorni.  
   

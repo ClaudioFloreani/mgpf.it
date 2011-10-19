@@ -7,7 +7,7 @@ tags:
 - paranoia
 - security
 ---
-![Perchè non si possono portare liquidi in volo](http://www.lastknight.com//download/No-Liquid_news_1.jpg)
+![Perchè non si possono portare liquidi in volo](http://fast.mgpf.it/No-Liquid_news_1.jpg)
 Se siete stati ultimamente in aeroporto vi sarete sicuramente meravigliati delle nuove misure di sicurezza che obbligano a **non portare a bordo alcun tipo di sostanza liquida**. Sicuramente lo avrete preso come l'ennesimo **attacco alla libertà personale** e vi sarete chiesti il motivo per cui ci si ostini a proibire qualunque cosa, come se tutti viaggiassero con della *nitroglicerina*.  
   
 Vi sorprenderà quindi forse sapere che il motivo di tanta "paranoia" **non è la nitroglicerina** (troppo instabile per essere trasportata e troppo facilmente rilevabile) ma una nuova serie di composti e di esplosivi che prendono il nome di **"esplosivi binari"** e di cui il [Fixor](http://www.fixor.com) è probabilmente il capostipite generazionale.  Sono composti da **due componenti**: l'uno in polvere, facilmente camuffabile da cipria o ombretto e l'altro **liquido** (per l'appunto) che devono essere miscelati per ottenere un composto differente, attualmente non intercettabile da meccanismi di rilevazione e scansione e di potenza detonate devastante.  

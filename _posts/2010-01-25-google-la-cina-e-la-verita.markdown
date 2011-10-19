@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - paranoia
 ---
-<a href="http://www.lastknight.com/download//2010/01/t1larg.schneier.google.afpgi_.jpg"><img src="http://www.lastknight.com/download//2010/01/t1larg.schneier.google.afpgi_-533x300.jpg" alt="" title="t1larg.schneier.google.afpgi" width="533" height="300" class="aligncenter size-medium wp-image-1812" /></a>  
+<a href="http://fast.mgpf.it//2010/01/t1larg.schneier.google.afpgi_.jpg"><img src="http://fast.mgpf.it//2010/01/t1larg.schneier.google.afpgi_-533x300.jpg" alt="" title="t1larg.schneier.google.afpgi" width="533" height="300" class="aligncenter size-medium wp-image-1812" /></a>  
   
 Che io sia smaliziato rispetto alle diverse affermazioni che Google suole fare sulla Libertà Online è noto e stranoto.  
 Non mi sono pronunciato sul loro ritirarsi dal mercato Cinese quando dalla rete apparivano migliaia di messaggi a supporto di questa "grande vena di umanità", di questo "anelito alla correttezza", di questo "grandioso passo verso la libertà".  

@@ -8,7 +8,7 @@ tags:
 - paranoia
 - security
 ---
-![Foto Notebook](/download/20070316_furto_notebook.gif)
+![Foto Notebook](http://fast.mgpf.it/20070316_furto_notebook.gif)
 Continuo per ricerche collegate al lavoro lavoro ad addentrarmi nei reami del **furto organizzato** e delle tecniche "*underground*". E dopo gli articoli [sul lockpicking](http://www.lastknight.com/2006/11/09/lockpicking-una-guida-completa-ed-esauriente/) pubblicati qualche [settimana fa](http://www.lastknight.com/2006/11/09/lockpicking-una-guida-completa-ed-esauriente/) ecco l'ennesima notizia destinata a [fare rabbrividire](http://www.lastknight.com/2006/12/29/perche-non-si-possono-pertare-liquidi-in-volo-gli-esplosivi-binari/) chi lascia **computer portatili**, telefonini e **navigatori satellitari** in auto, magari anche ben celati in posti non visibili.  
   
 Lo scenario è **semplice** e tristemente noto se non a tutti sicuramente a molti.  
@@ -22,7 +22,7 @@ E qui si sprecano i tentativi di spiegarsi la cosa: forse avevo lasciato in sosp
 Magari, semplicemente, lo **hanno RILEVATO con apposite apparecchiature**.  
 Sì, è possibile. Anche **da spento**.  
   
-![NLJD](/download/20070316_notebook_rubati.jpg)
+![NLJD](http://fast.mgpf.it/20070316_notebook_rubati.jpg)
 La tecnologia alla base dello strumento che hanno usato per individuare il vostro bel portatile si chiama NLJD, acronimo con il significato di "non linear junction detector". E' una apparecchiatura che illumina una piccola regione con un segnale RF ad alta frequenza. Ogni device che presenta connessioni non lineari rettificherà il segnale, riemettendo delle armoniche che l'apparecchiatura **è in grado di rilevare**.  
 L'apparecchiatura, infatti, dispone oltre che dell'emettitore di un **sensibilissimo ricevitore** che capta le armoniche e le mostra a display.  
 Per i curiosi che desiderano approfondire i dettagli tecnici una ottima scheda è disponibile sul sito di TSCM.  

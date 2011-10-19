@@ -38,7 +38,7 @@ Potete invitare amici, conoscenti, insegnanti, colleghi a fare tante cose:
 * Potete indicare alla redazione [eventi, notizie, occasioni di arte](mailto:redazione@daringtodo.com);
 * ...oppure (e, anzi, **comunque**) potete [ricevere la newsletter di DaringToDo](http://www.daringtodo.com/wp-login.php?action=register) e ricevere anche il CD di cui sotto (marketing 1.0).  
 * Potete anche solo, se sono dei maniaci di Facebook, inviatarli ad [aggiungere la fan page](http://www.facebook.com/profile.php?id=1843558042&ref=search&sid=502992052.3798166155..1) di DaringToDo. O a fare la stessa cosa con [la pagina Twitter](http://twitter.com/daringtodo).  
-<a href="http://www.daringtodo.com/wp-login.php?action=register"><img src="http://www.lastknight.com/download//2010/04/cd3d-540x293.jpg" alt="Il CD con i contenuti di DaringToDo 2009" title="Il CD di DaringToDo" width="540" height="293" class="aligncenter size-medium wp-image-1952" /></a>
+<a href="http://www.daringtodo.com/wp-login.php?action=register"><img src="http://fast.mgpf.it//2010/04/cd3d-540x293.jpg" alt="Il CD con i contenuti di DaringToDo 2009" title="Il CD di DaringToDo" width="540" height="293" class="aligncenter size-medium wp-image-1952" /></a>
     
 Potete anche, se veramente vi sta a cuore l'argomento, mandare una mail e scrivere due righe, soprattutto alle Scuole ed agli Enti che conoscete:  
   

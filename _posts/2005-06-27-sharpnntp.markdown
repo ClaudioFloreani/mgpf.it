@@ -44,7 +44,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESS OR IMPLIED
 WARRANTIES, INCLUDING (BUT NOT LIMITED TO) THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  
 IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,INCIDENTAL,SPECIAL,EXEMPLARY OR CONSEQUENTIAL DAMAGES INCLUDING (BUT NOT LIMITED TO) PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, LOSS OF USE, DATA OR PROFITS; OR BUSINESS INTERRUPTION HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE  
 ##Download
-You can download version 1.0 and all the documentation from following link: [SharpNNTP_10.zip](/download/SharpNNTP_10.zip), remembering what stated into the License. Remember it is a LIB, so you have to do an "Add Reference" from Visual Studio... :)
+You can download version 1.0 and all the documentation from following link: [SharpNNTP_10.zip](http://fast.mgpf.it/SharpNNTP_10.zip), remembering what stated into the License. Remember it is a LIB, so you have to do an "Add Reference" from Visual Studio... :)
 Into the pakage you will find:
 *  */bin/sharpNNTP.dll* : MS compiled Library
 *   */bin/sharpNNTPmono.dll* : Mono 0.30.0 compiled Library

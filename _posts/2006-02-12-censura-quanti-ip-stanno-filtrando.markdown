@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - digital-freedom
 ---
-[![Sequestro](/download/thumb-20060212_gdf.jpg)](/download/20060212_gdf.jpg)
+[![Sequestro](http://fast.mgpf.it/thumb-20060212_gdf.jpg)](http://fast.mgpf.it/20060212_gdf.jpg)
 Ne ho già parlato marginalmente nell'artcolo [riguardante tor](/tor/) e citando il bell'[articolo di PuntoInformatico](http://punto-informatico.it/p.asp?i=57671&r=PI), ma la questione **rimane ancora aperta e scottante**.  
 Se è vero che alcuni IP che trasmettevano streaming dal sito Calciolibero.com ora sottoposto a sequestro preventivo **sono stati oscurati**, quanti altri IP sono attualmente in BlackList?
 Già, perché un sito sottoposto a sequestro riporta una **bella scritta** distintiva (vedi [CalcioLibero](http://www.calciolibero.com)), ma un IP filtrato **semplicemente sparisce dalla rete**, dissolto nel nulla di un "*no route to host*" silenziosamente e **senza lasciare tracce**. Non si tappa la bocca alla voce scomoda, ma **si spara direttamente senza notifica**, nella totale **omertà telematica** e di opinione pubblica. Una **bella esecuzione sommaria** con annesso occultamento di cadavere.

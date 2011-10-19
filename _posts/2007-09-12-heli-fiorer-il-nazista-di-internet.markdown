@@ -8,7 +8,7 @@ tags:
 - paranoia
 - security
 ---
-![Fratini l'Hitler d'Italia](http://www.lastknight.com/download/20070912_furer.jpg)
+![Fratini l'Hitler d'Italia](http://fast.mgpf.it/20070912_furer.jpg)
 **Berlino, Maggio 1933.**  
 I nazisti **devastano le case editrici** che pubblicano volumi contro la "morale e l'ideologia" del Reich. Ma **non è il primo passo**, a dire la verità.  Infatti già dal Dicembre del 1932 viene pubblicato **l'elenco dei volumi** che non possono essere pubblicati, di cui non è consentita la vendita. Da lì in poi, ovviamente, il percorso è in discesa e dalla proibizione della vendita (che comunque era stata scavalcata dalla diffusione privata) si passa **alla punizione e distruzione della fonte**.  
   

@@ -10,7 +10,7 @@ Su repubblicaTv di oggi un [filmato interessantissimo][1] su un problema di E-Ba
   
 Ma se controlliamo più attentamente **il censore** di RepubblicaTv che si è premurato di schermare nomi utenti etc si è dimenticato un piccolo dettaglio:  
   
-<center><img src='http://www.lastknight.com/download//darkphiber.jpg' alt='darkphiber.jpg' /><center>  
+<center><img src='http://fast.mgpf.it//darkphiber.jpg' alt='darkphiber.jpg' /><center>  
   
 Oooops...  
 Sembra che il signor [DarkPhiber][2] sia la persona in questione, di cui possiamo vedere la [pagina di dettagli][2] ed anche i vari [feedback][3].  

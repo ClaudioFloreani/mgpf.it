@@ -6,7 +6,7 @@ tags:
 - hacking
 - security
 ---
-![Libero XSS](http://www.lastknight.com//download/20070327_libero.thumbnail.jpg)
+![Libero XSS](http://fast.mgpf.it/20070327_libero.thumbnail.jpg)
 >  **Aggiornamento:** Una serie di riflessioni sulle dichiarazioni di Libero in merito al bug sono raccolte [QUI](http://www.lastknight.com/2007/03/28/ancora-su-liberoit/)  
 Che di italiani in gamba nel panorama mondiale della **web security** ce ne fossero molti non è sicuramente una novità (basti pensare alla Owasp Testing Guide e a profili come Alberto Revelli, Giorgio Fedon, Stefano Di Paola, Matteo Meucci...) ma leggere comunque su Full-Disclosure una segnalazione di XSS su un portale italiano fa comunque impressione...  
   

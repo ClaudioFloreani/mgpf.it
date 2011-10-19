@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - hacking
 ---
-<img src='http://www.lastknight.com/download/20080107.jpg' alt='20080107.jpg' />
+<img src='http://fast.mgpf.it/20080107.jpg' alt='20080107.jpg' />
   
 Se ho già detto altrove che una chiacchierata con Vecna può **aprirti la mente** *(o precipitarti nel più profondo abisso di paranoia =])* devi dire che vi sono anche altri soggetti che possono illuminarti con un discorso di pochi minuti...  
     

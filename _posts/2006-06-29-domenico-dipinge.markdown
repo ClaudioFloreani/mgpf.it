@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - awesome
 ---
-![Domenico Dipinge...](http://www.lastknight.com/download/20060629_Domenico.thumbnail.jpg)
+![Domenico Dipinge...](http://fast.mgpf.it/20060629_Domenico.thumbnail.jpg)
 [Domenico](http://www.domenicosorrenti.com) **dipinge**.  
 Tutto il resto è contorno...  
 ricercare una tematica o un filo conduttore è arduo e **probabilmente sterile**.  

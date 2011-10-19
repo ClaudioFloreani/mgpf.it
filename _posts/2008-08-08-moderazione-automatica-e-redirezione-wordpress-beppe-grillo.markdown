@@ -12,14 +12,14 @@ Direi che ora che lo sciame dei grillini è passato posso tornare alla moderazio
 E forse è anche ora che spieghi come ha funzionato la moderazione in questi giorni.  
 No, non eticamente, ma semplicemente da un punto di vista tecnico...
   
-<img src="http://www.lastknight.com/download/2008/08/moderazione.jpg" alt="" title="moderazione" class="aligncenter size-full wp-image-914" border=1 /> 
+<img src="http://fast.mgpf.it/2008/08/moderazione.jpg" alt="" title="moderazione" class="aligncenter size-full wp-image-914" border=1 /> 
   
 Il tutto si è sviluppato in due diversi accorgimenti tecnici: l'utilizzo di dei **filtri built in** e l'utilizzo di **.htaccess**.  
   
 I filtri sono comodi per evitare di LEGGERE per ore messaggi contenenti insulti o non attinenti alla conversazione. Quando arrivano qualche centinaia di commenti all'ora è necessario (se come il sottoscritto si fa altro nella vita) trovare un modo per arginarli senza leggere.  
 Da bravo informatico (e quindi uomo pigro), la soluzione è stata quella di stendere una serie di parole chiave e fare fare il lavoro ai filtri automatici presenti in Wordpress alla voce Settings > Discussion.  
   
-<img src="http://www.lastknight.com/download/2008/08/moderazione2.jpg" alt="" title="moderazione" class="aligncenter size-full wp-image-914" border=1 /> 
+<img src="http://fast.mgpf.it/2008/08/moderazione2.jpg" alt="" title="moderazione" class="aligncenter size-full wp-image-914" border=1 /> 
   
 Certo, in questo modo probabilmente ho preso anche commenti legittimi, ma una buona serie sono stati bloccati. Non li ho nemmeno letti, dopo una prima mezz'ora guardando che non vi fossero TROPPI falsi positivi.  
 Ogni oretta o due passavo per di qui e cancellavo i commenti marcati come SPAM. Fine dei giochi.  
@@ -31,7 +31,7 @@ Non che sia, tra l'altro, una tecnica nuova: nel mondo è stata spesso usata ed 
   
 Implementare con Wordpress anche questa parte è decisamente semplice: basta editare il file .htaccess nella root del sito web ed aggiungere qualche riga:  
   
-<img src="http://www.lastknight.com/download/2008/08/moderazione3.jpg" alt="" title="moderazione" class="aligncenter size-full wp-image-914" width=520 border=1  /> 
+<img src="http://fast.mgpf.it/2008/08/moderazione3.jpg" alt="" title="moderazione" class="aligncenter size-full wp-image-914" width=520 border=1  /> 
   
 La tradizione della rete proporrebbe di reindirizzare a Goatse, ma mi sono trattenuto (e se siete deboli di stomaco non andate a cercare su Google cosa sia :P).  
 Gli utenti più determinati sono arrivati lo stesso, con una breve ricerca su Google. Ma sono convinto di essermi eliminato buona parte dello stress a priori :)  

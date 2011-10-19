@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - digital-freedom
 ---
-![Questa è una città](/download/20060525_questaeunacitta.gif)
+![Questa è una città](http://fast.mgpf.it/20060525_questaeunacitta.gif)
 Che Milano **sia una città** non è nulla di nuovo. Lo sappiamo dai tempi di Mediolanum e della "*Milano da bere*". No, la novità non sta nel fatto che Milano **sia una città**, ma nel fatto che qualcuno se ne accorga, che qualcuno cioè inizia a considerarla non come pedina sullo scacchiere di **elezioni politiche**, non come lauta **fonte di introiti** e di **potere**, ma primariamente come **una città**.  
 
 > Milano non è più una città, è un pezzo di terra con su delle costruzioni, è un pezzo di mondo abitato da persone singole che non hanno relazioni fra loro, è un brutto contenitore di storie difficili.

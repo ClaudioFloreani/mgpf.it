@@ -5,7 +5,7 @@ meta:
 tags:
 - digital-freedom
 ---
-[![TOR:Guida all'anonimato in rete in 30 secondi](http://www.lastknight.com/download/tor_banner.png)](http://www.lastknight.com/tor/)
+[![TOR:Guida all'anonimato in rete in 30 secondi](http://fast.mgpf.it/tor_banner.png)](http://www.lastknight.com/tor/)
 Certo non se lo aspettavano i **garantisti del Web** come il sottoscritto, ma alla fine la **doccia fredda** è arrivata anche per noi.  
 L'Italia oggi possiede ufficialmente le tecnologie di<strong> censura online</strong> con blocco degli IP, in modo non dissimile (anche politicamente) alla censura di <strong>regime dei paesi dittatoriali</strong> come Cina e Corea.  
 La notizia è passata in sordina ed è stata ripresa in modo serio e puntuale dal [Punto-Informatico](http://punto-informatico.it/p.asp?i=57671&r=PI) che in un [recente articolo](http://punto-informatico.it/p.asp?i=57671&r=PI) recita:
@@ -32,25 +32,25 @@ Vediamo come procedere alla installazione, configurazione ed utilizzo.
 
 #Passo 1, scaricare TorPark
 TorPark è disponibile come archivio ZIP da scaricare dal [sito web di riferimento](http://www.freehaven.net/~arrakis/) in **tutte le lingue** per cui esiste una versione di Firefox. La **versione italiana** è disponibile direttamente a [questo indirizzo](http://www.freehaven.net/~arrakis/release/torpark_italian.zip).
-[![TOR](/download/thumb-20060205_tor_1.jpg)](http://www.lastknight.com/download/20060205_tor_1.jpg)<br><br>
+[![TOR](http://fast.mgpf.it/thumb-20060205_tor_1.jpg)](http://fast.mgpf.it/20060205_tor_1.jpg)<br><br>
 Una volta scaricato il pacchetto possiamo procedere con le verifiche pre-installazione.
 
 #Passo 2, controllo dell'attuale IP
 Al fine di verificare la corretta installazone di TorPark e la effettiva disponibilità dell'anonimato utilizziamo il nostro Web Browser preferito (Firefox, ovviamente) e visitiamo il sito [WhatIsMyIp](http://www.whatismyip.com).  
 Qui è possibile visionare **il nostro IP** in chiaro. Ripetendo la stessa operazione con il navigatore web incluso in TorPark controlleremo l'effettiva variazione dell'IP, sintomo dell'utilizzo degli '*onion routers*' e non di una connessione diretta.
-[![TOR](/download/thumb-20060205_tor_2.jpg)](http://www.lastknight.com/download/20060205_tor_2.jpg)
+[![TOR](http://fast.mgpf.it/thumb-20060205_tor_2.jpg)](http://fast.mgpf.it/20060205_tor_2.jpg)
 Annotiamoci questo IP per confrontarlo poi con quello ottenuto mediante la navigazione tramite Tor.
 
 #Passo 3, installazione
 PortableFirefox è nato per essere **eseguito direttamente senza alcuna necessità di installazione**. E' configurato per rispettare le path relative in cui si trova e per essere "autosufficiente" in tutte le sue componenti.  
 Per installare TorPark, quindi, l'unica operazione necessaria è quella di **decomprimere l'archivio ZIP** scaricato in una directory a nostra scelta o, meglio ancora, su di una **chiave usb** in modo da consentirci direttamente sia di avere un ambiente di navigazione *non tracciabile* in alcuna posizione del nostro disco fisso, sia di avere a disposizione il nostro *sistema anonimo* in **qualunque luogo ne abbiamo la necessità** (università, Internet Point, casa di amici, luogo di lavoro, etc...).
-[![TOR](/download/thumb-20060205_tor_3.jpg)](http://www.lastknight.com/download/20060205_tor_3.jpg) 
+[![TOR](http://fast.mgpf.it/thumb-20060205_tor_3.jpg)](http://fast.mgpf.it/20060205_tor_3.jpg) 
 A questo punto siamo pronti per iniziare ad utilizzare TorPark.
 
 #Passo 4, avvio ed utilizzo
 Avviamo PortableFirefox e Tor in contemporanea facendo click su "**Torpark.exe**" ed avendo cura di aver salvato qualunque informazione sui siti dei navigatori (Explorer e Firefox) aperti in questo momento. TorPark, infatti, per evitare confusione tra gli ambienti anonimi o meno **"uccide" i programmi di navigazione aperti** al momento della sua esecuzione, così da essere l'unica applicazione di navigazione web attiva in quel momento.  
 Dalla consueta interfaccia di FireFox navighiamo ancora una volta sul sito  [WhatIsMyIp](http://www.whatismyip.com) per constatare l'effettiva variazione.  
-[![TOR](/download/thumb-20060205_tor_4.jpg)](http://www.lastknight.com/download/20060205_tor_4.jpg)  <br><br>
+[![TOR](http://fast.mgpf.it/thumb-20060205_tor_4.jpg)](http://fast.mgpf.it/20060205_tor_4.jpg)  <br><br>
 Da questo momento **qualunque sito da noi visitato sarà soggetto ad anonimizzazione**.
 > **Una piccola chiosa** all'utilizzo di TorPark : il sistema è nato per garantire anonimato in operazioni che lo richiedono.<br>
 > *Non è nato per commettere azioni illegali* di alcun tipo, ma solamente per non lasciare tracce in luoghi pubblici o in computer di cui non conosciamo scopi o politiche di sicurezza. **In alcun modo deve essere utilizzato per fini illeciti** (e *per cortesia lasciatemi aggiungere che declino ogni tipo di responsabilità in questo caso!*).<br>
@@ -58,7 +58,7 @@ Da questo momento **qualunque sito da noi visitato sarà soggetto ad anonimizzaz
 
 #Passo 5, chiusura programma e eliminazione dati
 Al termine dell'utilizzo del navigatore sicuro di TorPark chiudiamo Firefox e **ricordiamoci di cancellare** Cookies ed informazioni assortite dall'apposita interfaccia che apparirà.
-[![TOR](/download/thumb-20060205_tor_5.jpg)](http://www.lastknight.com/download/20060205_tor_5.jpg)  <br><br>
+[![TOR](http://fast.mgpf.it/thumb-20060205_tor_5.jpg)](http://fast.mgpf.it/20060205_tor_5.jpg)  <br><br>
 E' inoltre necessario eseguire il programma "**TorKill.exe**" per "uccidere" i processi Server di Tor che *rimarrebbero altrimenti attivi* sulla macchina ospite.  
 Se abbiamo installato (come è sano) TorPark su una chiave USB ricordiamoci di **non lasciarla nel computer ospite** (sì, parlo per esperienza personale... =]).
 
@@ -70,7 +70,7 @@ Tor è attualmente il **sistema a largo utilizzo più avanzato** e completo per 
 A grande richiesta ecco il codice per mostrare il banner di questo articolo su un qualunque sito web:
 <code lang="html">
 <a href="http://www.lastknight.com/tor/">
-  <img src="http://www.lastknight.com/download/tor_banner.png"
+  <img src="http://fast.mgpf.it/tor_banner.png"
       alt="TOR:Guida all'anonimato in rete in 30 secondi"/>
 </a>
 </code> 

@@ -8,7 +8,7 @@ tags:
 - hope
 ---
 Essere [sfondati una volta][1] può sicuramente accadere, checchè se ne pensi. Già [cercare di vandalizzare la pagina di Wikipedia][2] che parla dell'accesso abusivo non è proprio un gran che...
-<a href="http://matteoflora.com/2011/08/vitrociset-sfondata-di-nuovo/ce5z0/" rel="attachment wp-att-235"><img src="http://matteoflora.com/wp-content/uploads/2011/08/CE5z0-640x631.png" alt="" title="CE5z0" width="640" height="631" class="aligncenter size-medium wp-image-235" /></a>
+<a href="http://matteoflora.com/2011/08/vitrociset-sfondata-di-nuovo/ce5z0/" rel="attachment wp-att-235"><img src="http://fast.mgpf.it/2011/08/CE5z0-640x631.png" alt="" title="CE5z0" width="640" height="631" class="aligncenter size-medium wp-image-235" /></a>
 Ora, però, essere sfondati [la seconda volta][3] meno di 6 ore dopo essere stati fermi per tre giorni a "incrementare la sicurezza" inizia ad essere un po' più particolare...  
   
 Certo non aiutano le [affermazioni del comunicato][3]:

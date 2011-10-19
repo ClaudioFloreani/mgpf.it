@@ -8,7 +8,7 @@ tags:
 - about-me
 - talk
 ---
-![OWASP Logo](http://www.lastknight.com//download/20070213_owasp.gif)
+![OWASP Logo](http://fast.mgpf.it/20070213_owasp.gif)
 Inizia in sordina la mail di Matteo Meucci (che dirige il chapter OWASP Italy) sulla lista OWASP, ma è una delle comunicazioni che **non capita tutti i giorni** di ascoltare:
 > Hi all,  
 > thank for your great feedback!

@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - paranoia
 ---
-![Non imbavagliate la ricerca!](/download/20060317_Imbavagliata.jpg)  
+![Non imbavagliate la ricerca!](http://fast.mgpf.it/20060317_Imbavagliata.jpg)  
 Non sono avvezzo a fare politica nel Blog salvo, come si è visto, quando si parla di Censura e delle sue conseguenze.  
 Fa <strong>ribrezzo ed orrore</strong>, però, la notizia del sequestro del microscopio a scansione ambientale ai ricercatori [Antonietta Gatti](http://europa.eu.int/information_society/istevent/2004/cf/viewpeopledetail.cfm?people_id=3509) (leggete [qui](http://www.osservatoriobalcani.org/article/articleview/3723/1/150/)) e Stefano Montanari, rei di avere scoperto senza ombra di dubbio gli effetti devastanti sull'organismo umano degli inceneritori e delle [nanoparticelle](http://www.beppegrillo.it/2005/05/le_nanoparticel.html).  
 Leggo su [Beppe Grillo](http://www.beppegrillo.it/2006/03/la_ricerca_imba.html) :

@@ -7,7 +7,7 @@ tags:
 - about-me
 - talk
 ---
-<a href="http://www.lastknight.com/download//2008/12/locandina.jpg"><img src="http://www.lastknight.com/download//2008/12/locandina.jpg" alt="locandina" title="locandina" width="523" height="740" class="aligncenter size-full wp-image-1229" /></a>  
+<a href="http://fast.mgpf.it//2008/12/locandina.jpg"><img src="http://fast.mgpf.it//2008/12/locandina.jpg" alt="locandina" title="locandina" width="523" height="740" class="aligncenter size-full wp-image-1229" /></a>  
     
 >Venerdì 19 dicembre 2008 (stasera) dalle ore 19:30 alle ore 21:30, presso il locale CLIFF  Via G. Ferrari 10, Milano (zona stazione Garibaldi c.so Como) si terrà  un importante Aperitivo Informatico a tema Web e Privacy.  
 >  

@@ -6,7 +6,7 @@ meta:
 tags: 
 - awesome
 ---
-![Il Programmatore](/download/programmatore.jpg)
+![Il Programmatore](http://fast.mgpf.it/programmatore.jpg)
 [Questi ragazzi](http://www.derelitti.com/ballata_del_programmatore/) sono dei geni. Punto. Davvero...  
   
 >  testo:[Enrico Colombini](http://www.erix.it)  

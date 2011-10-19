@@ -8,7 +8,7 @@ tags:
 - paranoia
 - the-fool
 ---
-<a href="http://www.lastknight.com/download//2010/09/fdns.png"><img src="http://www.lastknight.com/download//2010/09/fdns-540x246.png" alt="" title="fdns" width="540" height="246" class="aligncenter size-medium wp-image-2181" /></a>  
+<a href="http://fast.mgpf.it//2010/09/fdns.png"><img src="http://fast.mgpf.it//2010/09/fdns-540x246.png" alt="" title="fdns" width="540" height="246" class="aligncenter size-medium wp-image-2181" /></a>  
   
 Visto che il tempo per scrivere su questo Blog si fa sempre più ridotto colgo l'occasione per ripostare una lunga missiva indirizzata da HackMeeting sul tema di FoolDNS Community, dell Profilazione Online e dei nuovi sviluppi della rete anche facenti capo alla pubblicazione della comoda API di profilazione [EverCookie](http://samy.pl/evercookie/). Al fine del posting su Lastknight ho un po' redatto alcuni contenuti ed un po' rimodificato il testo. L'originale è comunuque disponibile negli archivi online della Mailing List di hackMeeting.  
   

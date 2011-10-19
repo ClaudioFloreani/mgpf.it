@@ -6,7 +6,7 @@ tags:
 - the-fool
 - business
 ---
-<a href="http://www.lastknight.com/download//2009/02/fooldns.jpg"><img src="http://www.lastknight.com/download//2009/02/fooldns.jpg" alt="fooldns" title="fooldns" width="281" height="227" class="alignleft size-full wp-image-1354" /></a>
+<a href="http://fast.mgpf.it//2009/02/fooldns.jpg"><img src="http://fast.mgpf.it//2009/02/fooldns.jpg" alt="fooldns" title="fooldns" width="281" height="227" class="alignleft size-full wp-image-1354" /></a>
 Nelle ultime ore avrete assistito ad un regime censorio pesantissimo di FoolDns... Non vi preoccupate, non è la NUOVA normalità ma un effetto collaterale di un aggiornamento per cui ci servirà una vostra mano...  
   
 Siamo passati, nottetempo, da una lista di circa 1500 domini ad una di

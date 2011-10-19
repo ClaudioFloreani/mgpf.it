@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - paranoia
 ---
-![](http://www.lastknight.com/download/screencast_001.thumbnail.jpg)
+![](http://fast.mgpf.it/screencast_001.thumbnail.jpg)
 Non credo che i ragazzi di Autistici e, nella fattispecie quelli di loro che gestiscono NoBlogs.org, sarebbero **felici** di sapere la **mia ammirazione per i loro servizi**. Non so nemmeno se sanno che spesso nei miei talk sulla Censura **consiglio vivamente** di [finanziare il progetto](http://www.autistici.org/it/join/donate.html), ma poco importa. Sono dei **fanatici** e soprattutto dei **rivoluzionari del web**.  
 Sono gente che si preoccupa di **dare servizi etici** ed eticamente corretti *(certo, se concordate con la loro etica)*.  
   

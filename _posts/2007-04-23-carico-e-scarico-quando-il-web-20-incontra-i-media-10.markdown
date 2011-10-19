@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - security
 ---
-![Carico e Scarico](/download/20070423_caricoscarico1.thumbnail.jpg)
+![Carico e Scarico](http://fast.mgpf.it/20070423_caricoscarico1.thumbnail.jpg)
 Come sapete Lastknight.com ha anche la funziona di **incubatore** di nuove idee e progetti, soprattutto quando qualcuno mi chiede cosa ne penso di talune iniziative.  
 Non possedendo una televisione mi sembra sempre difficile commentare show televisivi, ma stavolta ho fatto uno strappo alla regola e mi sono guardato uno strano programma su AllMusic.tv: [Carico e Scarico](http://www.allmusic.tv/allmusic/caricoscarico).  
   

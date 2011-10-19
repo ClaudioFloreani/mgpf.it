@@ -9,7 +9,7 @@ tags:
 ---
 Ok, sono in Home Page di [BeppeGrillo.it](http://www.beppegrillo.it/)...  
   
-<img src="http://www.lastknight.com/download/2008/08/beppegrillo.jpg" alt="" title="beppegrillo" width="499" height="447" class="aligncenter size-full wp-image-858" />
+<img src="http://fast.mgpf.it/2008/08/beppegrillo.jpg" alt="" title="beppegrillo" width="499" height="447" class="aligncenter size-full wp-image-858" />
   
 Ora vediamo se [WP-Cache](http://ocaoimh.ie/wp-super-cache/) funziona...  
 Se trovate il sito Off-Line sapere chi mi ha [slashdottato](http://en.wikipedia.org/wiki/Slashdot_effect)... :)  

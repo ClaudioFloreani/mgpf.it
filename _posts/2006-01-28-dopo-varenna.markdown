@@ -6,7 +6,7 @@ tags:
 - about-me
 - talk
 ---
-![Il mio intervento](/download/20050128_varenna.jpg)  
+![Il mio intervento](http://fast.mgpf.it/20050128_varenna.jpg)  
 <br>
 Di ritorno dal Convegno di Varenna devo assolutamente esprimere i miei apprezzamenti alla **cortesia e professionalità** degli ottimi organizzatori (l'Avv. Francesca Rusconi ed il carissimo amico Avv. Antonino Attanasio) oltre che manifestare il mio apprezzamento per l'indubbia levatura degli oratori (*me escluso =]*) convocati dal Circolo dei Giuristi Telematici. 
   

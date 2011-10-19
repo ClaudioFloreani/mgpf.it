@@ -7,7 +7,7 @@ tags:
 - about-me
 - talk
 ---
-![Registratore Digitale](/download/20060222_rec.jpg)
+![Registratore Digitale](http://fast.mgpf.it/20060222_rec.jpg)
 Silenzio stampa dovuto alla mia presenza come **chairman**, oltre che relatore sulle tecnologie RFID in ambito sanitario, al **Congresso di EPR** (Electronic Patient Record) a Milano, di cui seguiranno sicuramente news più estensive e la preparazione per il [convegno](http://www.lastknight.com/2006/02/15/verona-24-febbraio-2006-privacy-ovvero-come-vincere-la-paura-del-31-marzo/) di Venerdì su Privacy e Sicurezza...  
 Una nota per informare il pubblico leggente (siete in oltre **300 [iscritti](http://www.lastknight.com/subscribe.php)** alla [mailinglist](http://www.lastknight.com/subscribe.php)... **grazie!**) che ho finalmente avuto il tempo di acquistare un [registratore digitale](http://www.olympusamerica.com/cpg_section/product.asp?product=1171) (per la precisione un Olympus [WS-200S](http://www.olympusamerica.com/cpg_section/product.asp?product=1171)).  
 Perchè vi può interessare? Semplice, perché significa che da oggi ogni volta che sarà possibile le mie conferenze diventeranno **Enhanced Podcasts** con **Slide e Video** a corredo, proprio come foste presenti nella realtà...  

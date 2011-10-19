@@ -6,7 +6,7 @@ tags:
 - digital-freedom
 - paranoia
 ---
-[![Lascite chi i bambini](http://www.lastknight.com//download/20070201_lasciate.jpg)](http://www.wumingfoundation.com/backpages.zip)
+[![Lascite chi i bambini](http://fast.mgpf.it/20070201_lasciate.jpg)](http://www.wumingfoundation.com/backpages.zip)
 Mentre continuo a studiare e ristudiare il fenomeno della Pedofilia e Pedopornografia in Italia, dopo i consensi e le varie riflessioni della Conferenza dell'8 Febbraio, mi imbatto nel **Libro che Non Esiste**.  
 Come fa un libro a non esistere?  
   

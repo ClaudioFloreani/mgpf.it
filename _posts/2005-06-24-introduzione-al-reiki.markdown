@@ -6,7 +6,7 @@ meta:
 tags:
 - lifehacking
 ---
-![Reiki](/download/thumb-reiki_ideogram.jpg)Il **Reiki** (pronunciato Reichi) è il nome associato ad un **sistema filosofico di crescita interiore** ed **un'arte di guarigione** mediante imposizione delle mani e riequilibrio del campo energetico personale sviluppato nei primi anni del 1900 dal Maestro **Mikau Usui** in Giappone.  
+![Reiki](http://fast.mgpf.it/thumb-reiki_ideogram.jpg)Il **Reiki** (pronunciato Reichi) è il nome associato ad un **sistema filosofico di crescita interiore** ed **un'arte di guarigione** mediante imposizione delle mani e riequilibrio del campo energetico personale sviluppato nei primi anni del 1900 dal Maestro **Mikau Usui** in Giappone.  
 Il Reiki è tramandato da maestro a discepolo in linea diretta.  
 Il parola Reiki è composta dall'unione di due parole giapponesi: "rei", con il significato di "*Universale*" e "*Ki*" che denota **l'energia che caratterizza la vita**, in un concetto affine a quello di "prana" indiano, di "chi" cinese e di "orgone" secondo Wilhem Reich.  
 Il termine "Reiki" denota contemporaneamente l'energia in sè e le tecniche del sistema sviluppato dal Maestro Usui.  

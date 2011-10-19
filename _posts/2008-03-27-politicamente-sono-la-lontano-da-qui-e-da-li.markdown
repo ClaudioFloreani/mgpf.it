@@ -8,7 +8,7 @@ tags:
 - politics
 ---
 <center>
-<img src='http://www.lastknight.com/download//lk_politica.jpg' alt='lk_politica.jpg' />
+<img src='http://fast.mgpf.it//lk_politica.jpg' alt='lk_politica.jpg' />
 </center>  
   
 L'ho [detto e ridetto][1] che quest'anno io [non voterò][1] e che **non voterò** perché per me l'**unica posizione** a cui possono aspirare i politici dei due schieramenti è la forca...  

@@ -16,7 +16,7 @@ Mmm... Forse non è troppo diplomatico... Diciamo allora, citando Pila nel [suo 
 Come vedete lui è molto più **politically correct**...
   
 <center>
-<img src="http://www.lastknight.com/download/winner_iisfa_cybercop_2008.jpg" border=1>
+<img src="http://fast.mgpf.it/winner_iisfa_cybercop_2008.jpg" border=1>
 </center>
   
 *(Nella foto da sinistra a destra: Gerardo Costabile, Matteo Flora, Andrea Ghirardini, Davide Gabrini, Alessandro Clementi, Giuseppe Mazzaraco)*  

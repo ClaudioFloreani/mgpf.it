@@ -8,7 +8,7 @@ tags:
 - paranoia
 - security
 ---
-![Italians Do It Better](http://www.lastknight.com/download/italiansdoitbetter.jpg)
+![Italians Do It Better](http://fast.mgpf.it/italiansdoitbetter.jpg)
 E' vero, siamo un paese di Bamboccioni. Ci lamentiamo sempre, siamo sempre scontenti e siamo pasticcioni. **A volte**.  
   
 Già, perché diamine, quando ci muoviamo siamo irrefrenabili. Quando ci muoviamo, noi Italiani (con la maiuscola, prego) facciamo gli **spettacoli più impensati**.  

@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - digital-freedom
 ---
-<img src="http://www.lastknight.com/download//r261332_1089542.jpg" alt="" title="r261332_1089542" width="500" height="333" class="aligncenter size-full wp-image-743" />  
+<img src="http://fast.mgpf.it//r261332_1089542.jpg" alt="" title="r261332_1089542" width="500" height="333" class="aligncenter size-full wp-image-743" />  
   
 Si chiamava Mr. Zhang.  
 Era un perseguitato politico che aveva cercato rifugio in Australia dopo essere stato torturato. Da quella cina tanto amica che ospita le Olimpiadi.  

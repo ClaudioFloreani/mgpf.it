@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - about-me
 ---
-![Philarmonica](/download/20050901.jpg)
+![Philarmonica](http://fast.mgpf.it/20050901.jpg)
 E dopo mille fatiche ecco finlamente online, anche se solamente in versione beta, Philarmonica, la mia ultima creazione.  
 Philarmonica  è un portale di annunci che si propone come punto di incontro tra <strong>musicisti </strong>e <strong>orchestre </strong>di tutto il mondo.  
 Secondo il principio del puro servizio Philarmonica propone gli annunci in <strong>forma gratuita</strong> sia nella inserzione che nella ricerca e visione, oltre a fornire nel corso dei prossimi mesi servizi a valore aggiunto quali la <strong>notifica via mail delle novità</strong> o delle parole chiave richieste. Attualmente in fase alpha è anche l'erogazione dei contenuti come <strong>feed RSS</strong>...

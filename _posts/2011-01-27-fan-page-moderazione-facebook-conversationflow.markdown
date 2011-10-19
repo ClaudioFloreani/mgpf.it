@@ -11,7 +11,7 @@ E dopo un po' di preamboli torniamo a parlare di lavoro.
   
 Qualche mese fa, con The Fool abbiamo lanciato un servizio, [ConversationFlow][1]. Il sistema nativo consentiva alle aziende di usufruire di un servizio/prodotto per moderare le FanPage di Facebook.  
 ll sistema è nato rendere possibile la gestione massiva di pagine ad altissimo traffico o la gestione di molteplici pagine simultanee, un compito che diviene, per determinati volumi, assolutamente impossibile per qualunque squadra di incaricati, per quanto bene addestrati, senza [adeguata tecnologia][1].
-<a href="http://conversationflow.com"><img src="http://matteoflora.com/wp-content/uploads/2011/01/img_newsletter-1-e1296147264908.jpg" alt="ConversationFlow Facebook moderazione" title="ConversationFlow Facebook moderazione" width="599" height="644" class="aligncenter size-full wp-image-127" /></a>
+<a href="http://conversationflow.com"><img src="http://fast.mgpf.it/2011/01/img_newsletter-1-e1296147264908.jpg" alt="ConversationFlow Facebook moderazione" title="ConversationFlow Facebook moderazione" width="599" height="644" class="aligncenter size-full wp-image-127" /></a>
 Mediante [ConversationFlow][1] è possibile:  
 
 * **moderare** in modo massivo **migliaia di commenti/ora** 

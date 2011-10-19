@@ -5,11 +5,11 @@ title: Censura-ML
 meta: {}
 tags: []
 ---
-[![Censura in Italia](http://www.lastknight.com/download/banner_censura.png)](http://www.lastknight.com/censura/)
+[![Censura in Italia](http://fast.mgpf.it/banner_censura.png)](http://www.lastknight.com/censura/)
 I casi degli ultimi tempi di Coolstreaming.us e di Calciolibero.com , oltre che l'oscuramento di oltre 500 siti web che fanno riferimento al gioco d'azzardo hanno messo in luce in modo eclatante le **problematiche italiane per quanto riguarda la censura**.  
 In particolare il velo **di indifferenza e di incompletezza** dietro alle informazioni fornite dalla stampa italiana, oltre ai grossolani errori del "giornalismo sensazionalista", hanno sempre più sottolineato la necessità della **sistematizzazione organica** delle competenze al fine di ottenere un chiaro quadro normativo e filosofico del **fenomeno censorio italiano**.  
 Per fare fronte a queste necessità LastknightDotCom promuove la nascita della **mailing list Censura-ML**, volta a fornire una agorà telematica per la discussione tra persone con gli skill più variegati ed eterogeneri, dall'**underground** ai **tecnici**, dai **legali** alle **forze dell'ordine** sino agli **attivisti** e alla **magistratura**. Una piazza tranquilla (*moderata*) e super-partes dove **discutere** la problematica e trovare gli spazi per poter approfondire **le tematiche**, **i progetti** e **le iniziative** legate alla libertà di parola e di stampa particolarmente (ma non esclusivamente) sul suolo italiano.
-[![Censura in Italia](http://www.lastknight.com/download/censura.png)](mailto:censura-subscribe@lastknight.com)
+[![Censura in Italia](http://fast.mgpf.it/censura.png)](mailto:censura-subscribe@lastknight.com)
 
 ##Quali argomenti trattare?
 * **Anonimato** Web
@@ -28,4 +28,4 @@ Per fare fronte a queste necessità LastknightDotCom promuove la nascita della *
 * Attivisti della **Libertà Digitale**
 ##Come partecipare?
 Per **iscriversi** mandare una mail a [censura-subscribe@lastknight.com](mailto:censura-subscribe@lastknight.com) mentre l'archivio dei post precedenti è disponibile agli utenti registrati qui.
-[![Censura in Italia](http://www.lastknight.com/download/censura.png)](mailto:censura-subscribe@lastknight.com) 
+[![Censura in Italia](http://fast.mgpf.it/censura.png)](mailto:censura-subscribe@lastknight.com) 

@@ -55,6 +55,6 @@ Per qualunque altra informazioni sentitevi pure liberi di contattarmi. Per qualu
 **LinkedIn** : [http://www.linkedin.com/in/matteoflora]  
 **Twitter** : [@lastknight](http://twitter.com/lastknight)  
 **cellulare**: tre quattro sette - nove sei sette sei 430  
-**PGP 0xF3B6BC10**:  Fingerprint [DEB0 8096 7178 1DBE E9CE  A04A BD1E 29B0 F3B6 BC10](http://www.lastknight.com/download/pgpkey.asc)  
+**PGP 0xF3B6BC10**:  Fingerprint [DEB0 8096 7178 1DBE E9CE  A04A BD1E 29B0 F3B6 BC10](http://fast.mgpf.it/pgpkey.asc)  
   
 [1]: http://thefool.it

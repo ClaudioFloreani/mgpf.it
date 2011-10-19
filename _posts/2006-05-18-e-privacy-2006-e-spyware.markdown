@@ -8,7 +8,7 @@ tags:
 - digital-freedom
 - talk
 ---
-![E-Provacy 2006](/download/20060516_pe2006small.thumbnail.png)
+![E-Provacy 2006](http://fast.mgpf.it/20060516_pe2006small.thumbnail.png)
 Giusto una breve nota per segnalare che sarò presente in qualità di **relatore** alla celeberrima manifestazione [E-Privacy 2006](http://e-privacy.firenze.linux.it/) organizzata dal [Progetto Wiston Smith](http://e-privacy.firenze.linux.it/pws/index.html) e dall'amico Marco Calamari. Il mio intervento è previsto per le ore **12.30 del 19 Maggio 2006**.  
 In quella sede parlerò di Spyware con il seguente abstract:
 <blockquote>

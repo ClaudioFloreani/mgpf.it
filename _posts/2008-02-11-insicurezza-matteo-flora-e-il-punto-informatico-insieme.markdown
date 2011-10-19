@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - hacking
 ---
-![](http://www.lastknight.com/download//20080111.jpg)
+![](http://fast.mgpf.it//20080111.jpg)
 Avrei dovuto parlarne prima, anche e soprattutto visto che [qualcuno][1] aveva già "svelato" la novità, ma i tempi di redazione e la parvenza di voler avere una vita umana nel weekend mi hanno portato a scrivere solamente ora.  
   
 Sono sul PuntoInformatico. E non solamente citato [come][2] è [già successo][3] in molte [altre occasioni][4], ma con una [rubrica tutta mia][5] che vi accompagnerà settimanalmente il **lunedi** e dal titolo di **"(in)sicurezza"**.  

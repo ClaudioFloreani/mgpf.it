@@ -8,7 +8,7 @@ tags:
 - security
 - awesome
 ---
-![Claudio Agosti Hacker](http://www.lastknight.com/download/20070523_matrix1.jpg)
+![Claudio Agosti Hacker](http://fast.mgpf.it/20070523_matrix1.jpg)
 Non ho mai fatto mistero della mia immensa stima verso Claudio "Vecna" Agosti e verso le idee che riesce a creare da un qualunque argomento, ma mai prima d'ora ho avuto la netta sensazione di vedere il **vero profilo psicologico di un hacker**. 
   
 Chi è un hacker? Una persona che percepisce la **realtà come differente**, che non si conforma a quello che è il sentire comune e che trova **itinerari psicologici ed attuativi differenti** all'interno di quello che il sentire comune può vedere come una sistematizzazione finale di un argomento.  

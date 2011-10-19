@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - digital-freedom
 ---
-![LogFile](/download/20061107_log.thumbnail.jpg)
+![LogFile](http://fast.mgpf.it/20061107_log.thumbnail.jpg)
 In uno stato sempre più vicino al **controllo globale** ed alla totale distruzione della Privacy Web fa piacere leggere l'articolo di [Slashdot](http://yro.slashdot.org/article.pl?sid=06/11/06/2313251&from=rss) che ci racconta di come il **colosso tedesco T-Mobile** sia stato obbligato a prevedere la **cancellazione dei Log di IP** di navigazione dei propri clienti qualora questi lo richiedano semplicemente.  
   
 > After the district court and the regional court, now the Supreme court decided that T-Online has **no right to store the IP-logs without a legal reason**. This ruling can be considered as a huge breakthrough, and it is good to see that at least **some countries still value privacy**.

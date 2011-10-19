@@ -8,7 +8,7 @@ tags:
 - forensic
 - ip
 ---
-  <img src="http://www.lastknight.com/download//2008/10/magritte_pipe-429x300.jpg" alt="" title="magritte_pipe" width="429" height="300" class="aligncenter size-medium wp-image-1082" />
+  <img src="http://fast.mgpf.it//2008/10/magritte_pipe-429x300.jpg" alt="" title="magritte_pipe" width="429" height="300" class="aligncenter size-medium wp-image-1082" />
   
 Ed ecco, a distanza di qualche giorno, le [motivazioni del dissequestro][1] di ThePirateBay ad opera, ricordo in via strettamente autocelebrativa, di [GB Gallus, Francesco Micozzi ed il sottoscritto](http://www.lastknight.com/2008/09/26/the-pirate-bay-dissequestro-perizia-matteo-flora/) umile servo vostro.  
   

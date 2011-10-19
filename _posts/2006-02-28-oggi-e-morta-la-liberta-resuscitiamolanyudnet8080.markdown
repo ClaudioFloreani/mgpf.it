@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - digital-freedom
 ---
-[![Censura in Italia](http://www.lastknight.com/download/banner_censura.png)](http://www.lastknight.com/censura/)
+[![Censura in Italia](http://fast.mgpf.it/banner_censura.png)](http://www.lastknight.com/censura/)
 Oggi in sordina, senza che nessuno ne parli, senza che sia possibile dire nulla o fare nulla, oggi compianta dai suoi cari **è morta la libertà in italia**.
 Ne danno il triste annuncio i **pochi fautori della causa** e **spiriti liberi** che in queste settimane hanno tentato di opporsi a **questo scempio** e a questa ignominia, che ci porta ancora più in basso nelle libertà al cittadino di stati come la Cina, l'Arabia Saudita e il Vietnam.
 Su [Punto-Informatico](http://punto-informatico.it/p.asp?i=58081&r=PI) di oggi [Gilberto Mondi](mailto:mondi@deandreis.it) scrive:

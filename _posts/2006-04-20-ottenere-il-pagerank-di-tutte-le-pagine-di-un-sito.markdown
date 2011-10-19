@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - seo
 ---
-[![Visual PageRank](/download/20060420_pagerank.thumbnail.jpg)](/download/20060420_pagerank.jpg)
+[![Visual PageRank](http://fast.mgpf.it/20060420_pagerank.thumbnail.jpg)](http://fast.mgpf.it/20060420_pagerank.jpg)
 Come vi sarete probabilmente accorti dal taglio degli articoli pubblicati ultimamente sono tornato a lavorare a quella **strana branca della sicurezza** informatica che è il SEO .  
 Mentre **preparo un corso** che sarà tenuto in svariate città europee in varie date a partire dal mese di Luglio mi imbatto ricercando in tool veramente utili e particolari.  
   

@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - paranoia
 ---
-[![Censura in Italia](http://www.lastknight.com/download/banner_censura.png)](http://www.lastknight.com/category/liberta-digitale/)
+[![Censura in Italia](http://fast.mgpf.it/banner_censura.png)](http://www.lastknight.com/category/liberta-digitale/)
 Inversione di rotta e "*illuminazione sulla via di Damasco*" per **Nicola Clivio**, GIP del Tribunale di Milano che nella mattinata odierna ha **dissequestrato i siti web** oscurati [CalcioLibero](http://www.calciolibero.com) e [Coolstreming](http://www.coolstreaming.it).  
 Il motivo lapalissiano del dissequestro? Dopo una settimana abbondante il <s>PM</s> GIP (grazie Gerardo!) si è accorto finalmente che **il reato non è stato consumato in Italia** ma bensì in Cina. Mirabile intuizione!  
 Le **urla di furore** ed i pianti di Sky, che aveva [denunciato l'accaduto](http://www.lastknight.com/2006/02/12/censura-quanti-ip-stanno-filtrando/), sono ora nell'etere da loro controllato e sicuramente riserveranno qualche altra sorpresa, soprattutto ora che i timori sono **pienamente condivisi da Mediaset e La7**.  

@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - digital-freedom
 ---
-![Call center Scam](/download/20060107_scam.jpg) Avevo già avuto altre **segnalazioni** da un paio di lettori del Blog (*siete moltissimi, lo sapete? Grazie mille!*) ma **stentavo a crederci**.  
+![Call center Scam](http://fast.mgpf.it/20060107_scam.jpg) Avevo già avuto altre **segnalazioni** da un paio di lettori del Blog (*siete moltissimi, lo sapete? Grazie mille!*) ma **stentavo a crederci**.  
 Poi mi arriva una mail dell'amico **Giorgio Fedon**, venuto recentemente alla ribalta per l'articolo su "Subverting Ajax" scritto in coppia con l'amico Stefano Di Paola.  
 Una mail da uno sconosciuto che sottolinea un ipotetico problema è una cosa, ma quando la segnalazione mi arriva direttamente da **un professionista della levatura di Giorgio** il discorso si fa sicuramente differente ed eccomi a segnalarvi non l'**ennesimo tentativo di truffa** (scam) sui generis, ma un **pericoloso precedente** che sicuramente **deve fare riflettere**.  
   

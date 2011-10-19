@@ -9,7 +9,7 @@ tags:
 ---
 La **[vagina dentata][1]** di Britney Spears è ora una realà storica, visto che è lei stessa a farne una dichiarazione ufficiale via Twitter:  
   
-<img src="http://www.lastknight.com/download//2009/01/britneytwitter-533x300.jpg" alt="britneytwitter" title="britneytwitter" width="533" height="300" class="aligncenter size-medium wp-image-1250" />
+<img src="http://fast.mgpf.it//2009/01/britneytwitter-533x300.jpg" alt="britneytwitter" title="britneytwitter" width="533" height="300" class="aligncenter size-medium wp-image-1250" />
   
 Ed è in buona compagnia con gli account bucati di Barak Obama (quello giovane, bello e [abbronzato][3]), CNN & co.  
 Merito di qualcuno di skillato e degno di ammirazione che è riuscito a bucare Twitter :)  

@@ -6,7 +6,7 @@ tags:
 - business
 - the-fool
 ---
-<a href="http://www.lastknight.com/download/2010/03/giacomini.jpg"><img src="http://www.lastknight.com/download/2010/03/giacomini-264x300.jpg" alt="" title="Massimo Giacomini, imprenditore" width="264" height="300" class="aligncenter size-medium wp-image-1897" /></a>  
+<a href="http://fast.mgpf.it/2010/03/giacomini.jpg"><img src="http://fast.mgpf.it/2010/03/giacomini-264x300.jpg" alt="" title="Massimo Giacomini, imprenditore" width="264" height="300" class="aligncenter size-medium wp-image-1897" /></a>  
   
 Visto che molti me lo chiedono ecco qualche info su Massimo Giacomini, socio ed editore di [DaringToDo][1]...  
   

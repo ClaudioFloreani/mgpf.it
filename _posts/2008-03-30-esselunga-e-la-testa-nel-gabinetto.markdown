@@ -18,7 +18,7 @@ La direzione dell'Esselunga non ha fatto dichiarazioni e continua a non farle da
   
 Ecco qui sotto il volantino distribuito stamane:  
   
-<img src='http://www.lastknight.com/download/fidaty.jpg' alt='fidaty.jpg' />
+<img src='http://fast.mgpf.it/fidaty.jpg' alt='fidaty.jpg' />
   
 Che dire? Che sia una **manovra dei sindacati** come dice qualcuno? Non so proprio, ma la **mancanza di dichiarazioni** anche di smentita poco si accorda con una posizione **di innocenza**, non credete?  
   

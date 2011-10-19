@@ -7,7 +7,7 @@ tags:
 - about-me
 - talk
 ---
-![](/download/manifesto_comunicazione_sicurezza.png)
+![](http://fast.mgpf.it/manifesto_comunicazione_sicurezza.png)
 E' con estremo piacere che comunico che nelle giornate del **16 e 17 Novembre 2006** terrò due conferenze a **Firenze** organizzate dal  LILiK, Laboratorio di Informatica Libera del Kollettivo di Ingegneria con il supporto e contributo dell'Università degli Studi di Firenze.  
   
 La mia partecipazione vedrà le seguenti **due conferenze**: "*Crittografia: sopravvivere ad uno 'stato di polizia'*" (che ho presentato ad OpenExp con notevolissimo interesse) ed in tandem con l'amico Alessio Pennasilico una idenita "*Ma l'OpenSource è veramente comunista*?" che tratterò le **radici filosofiche del movimento** e le applicazioni pratiche della filosofia in **ambito aziendale**.  

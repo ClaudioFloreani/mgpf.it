@@ -8,7 +8,7 @@ tags:
 - forensic
 - paranoia
 ---
-<a href="http://www.flickr.com/photos/62223880@N00/361388393/" title="Sunset on Boracay" target="_blank"><img src="http://www.lastknight.com/download//2008/09/361388393_11a5066305.jpg" alt="Sunset on Boracay" border="0" /></a>  
+<a href="http://www.flickr.com/photos/62223880@N00/361388393/" title="Sunset on Boracay" target="_blank"><img src="http://fast.mgpf.it//2008/09/361388393_11a5066305.jpg" alt="Sunset on Boracay" border="0" /></a>  
 <small><a href="http://creativecommons.org/licenses/by/2.0/" title="Attribution License" target="_blank"><img src="http://www.lastknight.com/wp-content/plugins/photo-dropper/images/cc.png" alt="Creative Commons License" border="0" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a href="http://www.flickr.com/photos/62223880@N00/361388393/" title="wili_hybrid" target="_blank">wili_hybrid</a></small>  
   
 Ormai lo sapete. Se sparisco lo faccio per tornare. Nel frattempo molti di voi hanno imparato ad immaginarmi, nel delta in cui sono in fase di eclissi, intento ad escogitare la prossima diavoleria di cui altri di voi parleranno, dall'istante in cui la cosa sarà diffusa. Nel bene o nel male questo è un'altra storia.  
@@ -19,7 +19,7 @@ Credo sia giusto rendere noto e sottolineare come <s>l'intero team</s> il sottos
   
 Fianco a fianco abbiamo affrontato una tre giorni (con un montepremi ore sonno complessivo che tuttora ammonta a 3) di sessioni di skype interminabili, infinite quantità di link scambiati e centinaia di pagine scandagliate, analizzate e spulciate. Ho risposto a quesiti che spaziavano dal Protocollo di comunicazione ai Tracker, dalle analisi di Alexa (e di quanto poco [c'entri con la realtà][4]), passando dai concetti di Seed e per quel "sequestro" che in realtà è una "inibizione" che in realtà ha proprio odore di "censura".  
   
-![ThePirateBay dissequestro](http://www.lastknight.com/download//2008/09/ricorso-tpb-233x300.png)
+![ThePirateBay dissequestro](http://fast.mgpf.it//2008/09/ricorso-tpb-233x300.png)
 Nonostante quindi la caterva di bozze e revisioni accumulate nelle ore, sembra che qualcosa si sia mosso e che, la nostra, non sia stata del tutto una caccia ai mulini a vento. Anzi, il contrario. 
 La risposta, la nostra vittoria, la nostra meta e il nostro scopo è stato il dissequestro. 
 Vi avviso tuttavia che, probabilmente, le cause che hanno portato effettivamente al detto dissequestro poco dipendono dal mio operato. La maggior parte del merito va probabilmente attribuito alla certosina ricerca di cavilli da avvocati che i magistrali Francesco e GB sono riusciti a rintracciare. Voglio comunque sperare che, al di là di tutto, qualcuno, da qualche parte, avesse davvero capito che alcuni tasti sacri, che hanno a che fare con primordiali istinti di libertà, se toccati creano effetti domino poco prevedibili e ancora meno gestibili o monitorabili su vasta scala.  

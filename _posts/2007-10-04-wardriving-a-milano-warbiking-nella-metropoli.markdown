@@ -9,7 +9,7 @@ tags:
 - talk
 - progetti
 ---
-![](http://www.lastknight.com/download/20071003_01.jpg)
+![](http://fast.mgpf.it/20071003_01.jpg)
   
 Avevo promesso già prima di VON di pubblicare qualche risultato del survey cittadino di Milano in bicicletta che avevo effettuato qualche settimana fa. Ho atteso qualche tempo per poter dare il **materiale completo** più qualche chicca del **filmato** dei nodi Open direttametne su Google Earth.  
 Dopo la conferenza a VON assieme a Raoul Chiesa e Alessio Pennasilico mi sono messo tranquillo ed ho elaborato con calma il prodotto finale...  
@@ -29,15 +29,15 @@ Com'è la situazione **dopo 5 anni**? In assenza di dati attendibili l'unico mod
 * Qualche riga di Ruby  
   
 Ecco di seguito il nostro eroe e le sofisticate apparecchiature:   
-![](http://www.lastknight.com/download/20071003_02.jpg)  
+![](http://fast.mgpf.it/20071003_02.jpg)  
   
 Non poteva mancare il **potente mezzo di locomozione** di ovvia estrazione militare:  
   
-![](http://www.lastknight.com/download/20071003_03.jpg)  
+![](http://fast.mgpf.it/20071003_03.jpg)  
   
 E che dire, poi, del tipico **black hat terrorista** di CHIARA derivazione islamica?  
   
-![](http://www.lastknight.com/download/20071003_04.jpg)  
+![](http://fast.mgpf.it/20071003_04.jpg)  
   
 Se poi volete vedere qualche altra fotografia potete dare un occhio su Flickr alla ricerca ["wardriving lastknight"](http://flickr.com/search/?q=lastknight%20wardriving&w=32162872%40N00&m=tags).  
   

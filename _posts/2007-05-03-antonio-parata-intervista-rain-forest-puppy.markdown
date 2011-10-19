@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - hacking
 ---
-[![Rain Forest Puppy](http://www.lastknight.com/download/20070503_rainforest.thumbnail.jpg)](http://www.lastknight.com/download/20070503_rainforest.jpg)
+[![Rain Forest Puppy](http://fast.mgpf.it/20070503_rainforest.thumbnail.jpg)](http://fast.mgpf.it/20070503_rainforest.jpg)
 Uno dei meno conosciuti e **più competenti** siti di hacking e sicurezza italiani, Ush.it, pubblica oggi una [interessantissima intervista a Rain Forest Puppy](http://www.ush.it/2007/05/01/interview-with-rain-forest-puppy/) a nome del conosciuto, italianissimo ed apprezzato [Antonio "S4tan" Parata](http://www.isacaroma.it/html/newsletter/node/282), membro OWASP.  
   
 Ma chi è [Rain Forest Puppy](http://www.wiretrip.net/rfp/)? Beh, basti pensare che è ritenuti da molti il padre della **Web Security** ed è stato il primo divulgatore delle tecniche di **SQL Injection** a livello mondiale.  

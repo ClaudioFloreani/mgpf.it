@@ -10,7 +10,7 @@ tags:
 ---
 Del sequestro di [AntonioMonteleone.it](http://www.antoninomonteleone.it/) ne ha parlato più che a sufficienza il [Punto informatico](http://punto-informatico.it/2314627/PI/News/Sequestrato-un-altro-blog-italiano/p.aspx) ma anche io ieri sera, come il buon [Paolo](http://paolo.evectors.it/italian/2008/06/company-pippo.html) che ne blogga ben prima di me, avevo dato un occhio al sorgente della pagina:  
   
-<img src="http://www.lastknight.com/download//copia_craccata.jpg" alt="" title="copia_craccata" width="435" height="256" class="aligncenter size-full wp-image-734" />  
+<img src="http://fast.mgpf.it//copia_craccata.jpg" alt="" title="copia_craccata" width="435" height="256" class="aligncenter size-full wp-image-734" />  
   
 Per quelli che non conoscono la struttura dei metadati di Word posso spiegare direttamente che:  
   

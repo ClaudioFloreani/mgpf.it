@@ -15,4 +15,4 @@ In altre parole qual'è il motivo di una movimentazione di mercato talmente vast
 Un'analisi tecnica e precisa dei meccanismi e dei soggetti alla base dei più famosi programmi di spyware sul mercato, delle dinamiche commmerciali, del problema visto con gli occhi dell'attaccante. Per capire chi ci cerca di controllarci ed indirizzarci e come con questo gioco accumula denaro e potere.  
 #Download
 E possibile scaricare il file ZIP contenente i materiali dellintervento e le diapositive proiettate.  
-Il file è disponibile qui: [spyware_presentazione.zip](/download/spyware_presentazione.zip) (1200 Kb). 
+Il file è disponibile qui: [spyware_presentazione.zip](http://fast.mgpf.it/spyware_presentazione.zip) (1200 Kb). 

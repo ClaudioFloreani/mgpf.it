@@ -11,7 +11,7 @@ Trovo [questa](http://i28.tinypic.com/2m7xd85.jpg) immagine abbastanza suggestiv
 Tanto da ricrearne una versione in italiano che trovate qui sotto e che, se volete, potete diffondere a piene mani:  
   
 <center>
-<img src="http://www.lastknight.com/download//2008/08/piraterie.jpg" alt="" title="piraterie" width="400" height="400" class="aligncenter size-full wp-image-982" />
+<img src="http://fast.mgpf.it//2008/08/piraterie.jpg" alt="" title="piraterie" width="400" height="400" class="aligncenter size-full wp-image-982" />
 </center>  
   
 Credo che sia **necessario** ribadire taluni concetti digitali quando qualcuno continua ad **abbaiare alla luna** su presunti furti e controfurti, che ne dite?  

@@ -6,7 +6,7 @@ meta:
 tags: 
 - about-me
 ---
-<a href="http://www.lastknight.com/download//2010/06/lk.com_.png"><img src="http://www.lastknight.com/download//2010/06/lk.com_-540x275.png" alt="" title="lk.com" width="540" height="275" class="aligncenter size-medium wp-image-2034" /></a>  
+<a href="http://fast.mgpf.it//2010/06/lk.com_.png"><img src="http://fast.mgpf.it//2010/06/lk.com_-540x275.png" alt="" title="lk.com" width="540" height="275" class="aligncenter size-medium wp-image-2034" /></a>  
   
 E dopo un tot di giorni dietro alla ricerca di un Gruppo di Lavoro, come forse [avevate intuito][1] siamo finalmente giunti alla nuova grafica, anche se qualcosa va sicuramente ancora sistemata.  
   

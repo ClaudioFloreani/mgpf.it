@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - digital-freedom
 ---
-[![Censura in Italia](http://www.lastknight.com/download/banner_censura.png)](http://www.lastknight.com/category/liberta-digitale/)
+[![Censura in Italia](http://fast.mgpf.it/banner_censura.png)](http://www.lastknight.com/category/liberta-digitale/)
 **Detesto avere ragione** ma l'avevo predetto meno di una settimana fa nell'articolo "[Censura 1.0: ma quanti IP stanno filtrando?](http://www.lastknight.com/2006/02/12/censura-quanti-ip-stanno-filtrando/)" e la paura per la censura diventa, dopo l'oscuramento dei siti web di streaming di calcio Sky **una ancora più inquietante attualità**.  
 Talmente grande che la notizia risuona finalmente [sui giornali](http://www.corriere.it/Primo_Piano/Cronache/2006/02_Febbraio/13/giochivietati.shtml).  
 Vincerà la **fazione censorea** dello Stato Italiano che, complice il "[decreto di inibizione dei siti web di gioco d'azzardo](http://www.aams.it/site.php?page=20060213112534421&op=download)"  e dopo l'approvazione di un articolo della Legge finanziaria ora sta procedendo all'oscuramento dei siti?
@@ -27,6 +27,6 @@ Se desiderate invece **linkare all'immagine** della categoria questo è il codic
 <a
 href="http://www.lastknight.com/category/liberta-digitale/">
 <img
-src="http://www.lastknight.com/download/banner_censura.png"
+src="http://fast.mgpf.it/banner_censura.png"
 alt="Censura in Italia" title="" /></a>
 </code> 

@@ -9,7 +9,7 @@ tags:
 - about-me
 ---
 ## La normativa per le WiFi
-![WIFI:La guida](/download/banner_wifi.png)
+![WIFI:La guida](http://fast.mgpf.it/banner_wifi.png)
 Fino al 2001 il riferimento legislativo per l'utilizzo delle apparecchiature operanti nelle bande di frequenza da comunemente dette a banda 2.4 GHz e a banda 5 GHz, utilizzate per la trasmissione wireless LAN, era dato dal DPR 447 del 5 Ottobre 2001. Il decreto stabiliva che tali frequenze potessero essere impiegate solo nell'ambito di LAN ad uso privato, mentre per connettere una WLAN alla rete pubblica occorreva un'autorizzazione generale del Ministero nonché il pagamento di un canone. 
 > **Decreto del Presidente della Repubblica n. 447 del 05 Ottobre 2001** <br>
 > *Regolamento recante disposizioni in materia di licenze individuali e di autorizzazioni generali per i servizi di telecomunicazioni ad uso privato* <br>

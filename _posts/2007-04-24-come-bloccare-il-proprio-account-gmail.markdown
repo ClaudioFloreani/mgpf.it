@@ -5,7 +5,7 @@ meta: {}
 tags: 
 - about-me
 ---
-[![Account Gmail Bloccato](/download/20070424_gmaillock.thumbnail.jpg)](http://www.lastknight.com/download/20070424_gmaillock.jpg)  
+[![Account Gmail Bloccato](http://fast.mgpf.it/20070424_gmaillock.thumbnail.jpg)](http://fast.mgpf.it/20070424_gmaillock.jpg)  
 Se avete deciso come il sottoscritto di lasciare i vostri messaggi su un account di Gmail e di scaricarli, magari anche solo per avere una copia di backup in caso qualcosa vada storto, beh vi consiglio di procedere **con molta cautela**.  
 Potreste infatti a metà dello scaricamento via POP3 trovarvi nella spiacevole condizione di **Account Bloccato** in cui mi trovo io da diverse ore.  
   

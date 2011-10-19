@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - about-me
 ---
-[![New Design](/download/20060419_lastknight.thumbnail.gif)](/download/20060419_lastknight.gif)
+[![New Design](http://fast.mgpf.it/20060419_lastknight.thumbnail.gif)](http://fast.mgpf.it/20060419_lastknight.gif)
 Ho ricevuto qualche mail in questi ultimi giorni che mi chiedevano dove fossi finito. A parte il [silenzio stampa](http://www.lastknight.com/2006/04/06/severgnini-e-silenzio-stampa/) che mi ero auto-imposto ho utilizzato il mio tempo per **ridisegnare completamente**  Lastknight Dot Com in pura **ottica Web 2.0**.  
 Il nuovo design, mutuato da decine di WebLogs di successo, copia pedissequalmente una serie di interessanti funzionalità che ho ritrovato spesso in tutti i siti di **maggior successo**.  
   

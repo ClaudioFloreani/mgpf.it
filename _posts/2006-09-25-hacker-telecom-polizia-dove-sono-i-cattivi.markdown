@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - digital-freedom
 ---
-[![Molly](http://www.lastknight.com/download/20060925_intercetta.jpg)](http://www.girodivite.it/Intercettazioni.html)
+[![Molly](http://fast.mgpf.it/20060925_intercetta.jpg)](http://www.girodivite.it/Intercettazioni.html)
 Ha un effetto **straniante**, per certi versi, il tenore di alcuni articoli pubblicati da eminenti voci nel panorama del Diritto e del Giornalismo italiano in queste ultime settimane. Sembra che, tutto d'un tratto, ci si accorga come d'incanto **di avere malgiudicato** (sic!) un fenomeno che si propaga da anni.  
 Non molto tempo fa discutevo sulla lista di HackMeeting il mio imbarazzo nel dover indicare "*security evangelist*" o "*security manager*" al posto della dicitura Hacker proprio perché alla normale luce del sole l'opinione pubblica tendeva ad **adocchiarmi come un delinquente**, una persona di cui non fidarsi per nulla al mondo, un "**ladro di informazioni**".  
 E a nulla valevano le mie motivazioni, la mia lunga carriera di conferenze e di articoli sulla **SALVAGUARDIA della privacy e delle informazioni**, sulla sopravvivenza ad uno "[stato di polizia](http://www.lastknight.com/2006/09/24/30-settembre-matteo-flora-allopenexp-di-verona/)", sulla "necessità della crittografia" e sull'[onnipresente controllo](http://www.lastknight.com/articoli/tor-anonimato-web-in-30-secondi/). I buoni stavano attenti agli hacker, i cattivi ERANO gli hacker.  
