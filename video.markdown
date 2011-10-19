@@ -5,6 +5,12 @@ meta: {}
 tags:
 - about-me
 ---
+## Matteo Flora su RAI 3
+
+Il mio intervento come ospite in trasmissione nella puntata "Siamo tutti spiati?" dello show televisivo Cominciamo Bene di RAI 3. Registrato il 30 Agosto 2011.  
+  
+{% vimeo 28375512%}
+
 ## Ecco il Grande fratello Google: ci scheda per la pubblicità
 
 Gli identikit conservati un anno e mezzo in 450mila server. Chi va in rete viene inseguito da inserzioni dedicate. Esiste un'operazione per disattivare il tracciamento ma è a carico dell'utente. Gusti, orientamenti sessuali e religiosi.  
