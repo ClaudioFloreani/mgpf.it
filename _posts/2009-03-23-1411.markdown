@@ -8,7 +8,7 @@ tags:
 - forensic
 - paranoia
 ---
-<a href="http://fast.mgpf.it//2009/03/10551088108010821086108jd9.jpg"><img src="http://fast.mgpf.it//2009/03/10551088108010821086108jd9.jpg" alt="10551088108010821086108jd9" title="10551088108010821086108jd9" width="417" height="575" class="aligncenter size-full wp-image-1412" /></a>  
+<a href="http://fast.mgpf.it/2009/03/10551088108010821086108jd9.jpg"><img src="http://fast.mgpf.it/2009/03/10551088108010821086108jd9.jpg" alt="10551088108010821086108jd9" title="10551088108010821086108jd9" width="417" height="575" class="aligncenter size-full wp-image-1412" /></a>  
   
 L'altro ieri parlavo appunto di crittanalisi e citavo la "[crittanalisi termorettale][1]" come nome russo.
 Mi ricordavo come fosse il gergo tecnico russo per quella che invece in inglese è chiamata "[rubber-hose cryptanalysis][2]", definita come:  

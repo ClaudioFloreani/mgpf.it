@@ -10,7 +10,7 @@ tags:
 
 Per chi so fosse perso la [prima puntata][1] del video, mi sono trovato ieri sotto mano una telecamera portatile che servirà per qualche progetto di The Fool e ho pensato bene di usarla per fare qualcosina di prova.  
   
-<img src="http://fast.mgpf.it//2008/10/oregon.gif" alt="" title="oregon" width="300" height="300" class="aligncenter size-full wp-image-1133" />
+<img src="http://fast.mgpf.it/2008/10/oregon.gif" alt="" title="oregon" width="300" height="300" class="aligncenter size-full wp-image-1133" />
   
 La camera è una [Oregon Scientific ATC2K][2], in un primo momento considerata troppo costosa con un pricing di 200 euro, ora molto più abbordabile con un pricing che ad Expert è arrivato a 100 euro.  
 Certo si sente moltissimo l'assenza di uno stabolizzatore di immagine...  

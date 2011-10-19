@@ -15,13 +15,13 @@ E così quando [Wittgenstein][1] pubblica un [post][1] con nick vari ed eventual
   
 Un paio di colpetti su Skype ed ecco i risultati:  
   
-<img src="http://fast.mgpf.it//2009/05/profile_001-500x300.jpg" alt="profile_001" title="profile_001" width="500" height="300" class="aligncenter size-medium wp-image-1487" />  
+<img src="http://fast.mgpf.it/2009/05/profile_001-500x300.jpg" alt="profile_001" title="profile_001" width="500" height="300" class="aligncenter size-medium wp-image-1487" />  
   
-<img src="http://fast.mgpf.it//2009/05/profile_002-500x300.jpg" alt="profile_002" title="profile_002" width="500" height="300" class="aligncenter size-medium wp-image-1488" />  
+<img src="http://fast.mgpf.it/2009/05/profile_002-500x300.jpg" alt="profile_002" title="profile_002" width="500" height="300" class="aligncenter size-medium wp-image-1488" />  
   
-<img src="http://fast.mgpf.it//2009/05/profile_003-500x300.jpg" alt="profile_003" title="profile_003" width="500" height="300" class="aligncenter size-medium wp-image-1489" />  
+<img src="http://fast.mgpf.it/2009/05/profile_003-500x300.jpg" alt="profile_003" title="profile_003" width="500" height="300" class="aligncenter size-medium wp-image-1489" />  
   
-<img src="http://fast.mgpf.it//2009/05/profile_004-500x300.jpg" alt="profile_004" title="profile_004" width="500" height="300" class="aligncenter size-medium wp-image-1490" />
+<img src="http://fast.mgpf.it/2009/05/profile_004-500x300.jpg" alt="profile_004" title="profile_004" width="500" height="300" class="aligncenter size-medium wp-image-1490" />
   
 Un paio di colpetti con Google e sono sicuro che vi divertirete anche voi moltissimo. Alla facciaccia dell'anonimato...  
   

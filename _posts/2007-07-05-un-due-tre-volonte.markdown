@@ -7,7 +7,7 @@ tags:
 - paranoia
 - security
 ---
-![Luca Volontè](http://fast.mgpf.it//20070705_volonta.jpg)
+![Luca Volontè](http://fast.mgpf.it/20070705_volonta.jpg)
 Sembra che l'[incompetente](http://www.luca-volonte.it) più famoso di'Italia in queste ultime ore si ritrovi in condizioni difficili.  
   
 No, non sto parlando del suo **profilo psicologico**, per quello abbiamo **disperato da tempo**, ma del fatto che non solo qualcuno ha creato [un sito web per esprimere i suoi sogni](http://www.lucavolonte.eu/) più proibiti e nascosti, ma soprattutto MolleIndustria [rimette online](http://www.molleindustria.org/operazione-pretofilia.html) il simpatico gioco che il buon Volontone nostrano ha cercato in tutti i modi **di censurare**...  

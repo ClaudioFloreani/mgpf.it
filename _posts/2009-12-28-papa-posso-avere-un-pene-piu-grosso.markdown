@@ -9,7 +9,7 @@ tags:
 ---
 Quando vi chiedete cosa vedono i vostri figli Online forse è giunto il momento di pensare anche a che pubblicità vedono. Quella che segue NON è una immagine manipolata, ma uno screenshot di un utente di Reddit:  
   
-<a href="http://fast.mgpf.it//2009/12/uoJi0.png"><img src="http://fast.mgpf.it//2009/12/uoJi0-353x300.png" alt="" title="Pubblicità sessuale su sito Mattel" width="353" height="300" class="aligncenter size-medium wp-image-1718" /></a>  
+<a href="http://fast.mgpf.it/2009/12/uoJi0.png"><img src="http://fast.mgpf.it/2009/12/uoJi0-353x300.png" alt="" title="Pubblicità sessuale su sito Mattel" width="353" height="300" class="aligncenter size-medium wp-image-1718" /></a>  
   
 Il [messaggio su reddit][1] recita più o meno così:  
   

@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - awesome
 ---
-<img src="http://fast.mgpf.it//2008/11/thumbphp.jpeg" alt="" title="thumbphp" width="500" height="180" class="aligncenter size-full wp-image-1180" />  
+<img src="http://fast.mgpf.it/2008/11/thumbphp.jpeg" alt="" title="thumbphp" width="500" height="180" class="aligncenter size-full wp-image-1180" />  
   
 Vi avevo **promesso eventi all'insegna dell'arte** quando [vi ho invitato ad aderire al gruppo](http://www.lastknight.com/2008/11/13/daringtodo-la-filosofia-del-fare/) su FaceBok di DaringToDo ed ora è arrivato il momento di fare seguire alle parole i fatti.  
   
@@ -36,7 +36,7 @@ Programma:
     Termine previsto dell'opera e commento dell'autore con il Curatore ed il Docente per la condivsione di impressioni.  
 * 22.00 - **Termine serata**  
   
-<a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=via+Tortona,+27,++Milano,+Milano+(Lombardia),+Italy&sll=37.0625,-95.677068&sspn=44.52365,93.164063&ie=UTF8&ll=45.452093,9.165215&spn=0.009679,0.022745&z=16&iwloc=addr"><img src="http://fast.mgpf.it//2008/11/tortona.jpg" alt="" title="tortona" width="500" height="277" class="aligncenter size-full wp-image-1183" /></a>
+<a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=via+Tortona,+27,++Milano,+Milano+(Lombardia),+Italy&sll=37.0625,-95.677068&sspn=44.52365,93.164063&ie=UTF8&ll=45.452093,9.165215&spn=0.009679,0.022745&z=16&iwloc=addr"><img src="http://fast.mgpf.it/2008/11/tortona.jpg" alt="" title="tortona" width="500" height="277" class="aligncenter size-full wp-image-1183" /></a>
   
 Vi potete iscrivere alla serata mandando una mail all'indirizzo <info@thefool.it> oppure direttamente dalla [Pagina di FaceBook dell'evento](http://www.facebook.com/event.php?eid=38772112100).  
   

@@ -10,7 +10,7 @@ leggevo con piacere dell'[intervento di Fullo][1] al [WordCamp][2] di Sabato rel
   
 Personalmente dopo anni di problemi, risolti sa [WpSuperCache][3], dalla compressione dei post in GZip e da un po' di sano buon tweaking manuale oggi mi sono imbattuto in un servizio che reputo estremamente comodo e che prende il nome di [Steadyoffload][4].  
   
-<img src="http://fast.mgpf.it//offload.jpg" alt="" title="offload" width="500" height="255" class="aligncenter size-full wp-image-674" />
+<img src="http://fast.mgpf.it/offload.jpg" alt="" title="offload" width="500" height="255" class="aligncenter size-full wp-image-674" />
   
 Si tratta a tutti gli effetti di un CDN (Content Delivery Network) che uploada automaticamente le immagini e gli attachments del sito web su un server remoto e "scarica" in questo modo il server locale dal traffico in eccesso. Un po' come fa, facendosi pagare profumatamente, [Akamai][5].  
   

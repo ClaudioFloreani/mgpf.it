@@ -7,7 +7,7 @@ tags:
 ---
 Se passate da Via Numa Pompilio stasera e sentite qualcuno che canta a squarciagola di Dream Theatre sono io. E se ho gli occhi pieni di lacrime non preoccupatevi: è normale.  
   
-<a href='http://en.wikipedia.org/wiki/Metropolis_Pt._2:_Scenes_from_a_Memory'><img src="http://fast.mgpf.it//dream_theater_-_metropolis_pt_2-_scenes_from_a_memory.jpg" alt="" title="dream_theater_-_metropolis_pt_2-_scenes_from_a_memory" width="500" height="500" class="aligncenter size-full wp-image-736" /></a>
+<a href='http://en.wikipedia.org/wiki/Metropolis_Pt._2:_Scenes_from_a_Memory'><img src="http://fast.mgpf.it/dream_theater_-_metropolis_pt_2-_scenes_from_a_memory.jpg" alt="" title="dream_theater_-_metropolis_pt_2-_scenes_from_a_memory" width="500" height="500" class="aligncenter size-full wp-image-736" /></a>
   
 Where did we come from?  
 Why are we here?  

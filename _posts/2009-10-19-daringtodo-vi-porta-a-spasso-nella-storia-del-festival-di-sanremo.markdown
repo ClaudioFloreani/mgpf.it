@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - awesome
 ---
-<img src="http://fast.mgpf.it//2009/10/Sanremo0005.jpg" alt="Sanremo0005" title="Sanremo0005" width="520" height="376" class="aligncenter size-full wp-image-1633" />    
+<img src="http://fast.mgpf.it/2009/10/Sanremo0005.jpg" alt="Sanremo0005" title="Sanremo0005" width="520" height="376" class="aligncenter size-full wp-image-1633" />    
   
 Se volete conoscere un po' di curiosità e di retroscena dela Galà della Musica italiana più famoso del mondo, DaringToDo è arrivato al secondo capitolo della saga "Sanremo Story" a cura del competentissimo ospite  
 * [Sanremo History 1951  1953][1]

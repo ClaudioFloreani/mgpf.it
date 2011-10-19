@@ -8,7 +8,7 @@ tags:
 - about-me
 - ip
 ---
-<img src="http://fast.mgpf.it//2009/09/omabacensurato-498x300.jpg" alt="omabacensurato" title="omabacensurato" width="498" height="300" class="aligncenter size-medium wp-image-1604" />  
+<img src="http://fast.mgpf.it/2009/09/omabacensurato-498x300.jpg" alt="omabacensurato" title="omabacensurato" width="498" height="300" class="aligncenter size-medium wp-image-1604" />  
   
 E dopo avermi fatto impazzire tutta la scorsa estate, mentre [blaterava a vanvera][3] su come Youtube fosse **"il baluardo della libertà web"** e come io fossi, in quanto consulente di Mediaset, il **"male della censura online"**, il povero Beppe Grillo si trova a scontrarsi con [la dura verità][4]: a YouTube, come spesso detto, frega assolutamente **zero** della libertà di espressione e come tutte le Corporate insegue solamente la logica del profitto che i suoi investor cercano.  
   

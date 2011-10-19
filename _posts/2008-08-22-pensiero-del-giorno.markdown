@@ -7,7 +7,7 @@ tags:
 - hope
 ---
 <center>
-<img src="http://fast.mgpf.it//2008/08/hesse.jpg" alt="" title="hesse" width="413" height="528" class="aligncenter size-full wp-image-967" /></center>
+<img src="http://fast.mgpf.it/2008/08/hesse.jpg" alt="" title="hesse" width="413" height="528" class="aligncenter size-full wp-image-967" /></center>
   
 > Se odi una persona  
 > Odi qualcosa in lui  

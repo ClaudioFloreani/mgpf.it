@@ -12,11 +12,11 @@ Giuro che non sono stato io :)
   
 La cosa interessante è la tipologia di errori che alterna un Service Unavailable 1.1:  
   
-<a href="http://fast.mgpf.it//2010/03/YouTube-Offline.png"><img src="http://fast.mgpf.it//2010/03/YouTube-Offline-422x300.png" alt="" title="YouTube Offline" width="422" height="300" class="aligncenter size-medium wp-image-1906" /></a>
+<a href="http://fast.mgpf.it/2010/03/YouTube-Offline.png"><img src="http://fast.mgpf.it/2010/03/YouTube-Offline-422x300.png" alt="" title="YouTube Offline" width="422" height="300" class="aligncenter size-medium wp-image-1906" /></a>
   
 A un normale Error 500 dove si evince che il servizio (o uno dei servizi) web è Apache.  
   
-<a href="http://fast.mgpf.it//2010/03/YouTube-Offline-2.png"><img src="http://fast.mgpf.it//2010/03/YouTube-Offline-2-386x300.png" alt="" title="YouTube Offline 2" width="386" height="300" class="aligncenter size-medium wp-image-1907" /></a>
+<a href="http://fast.mgpf.it/2010/03/YouTube-Offline-2.png"><img src="http://fast.mgpf.it/2010/03/YouTube-Offline-2-386x300.png" alt="" title="YouTube Offline 2" width="386" height="300" class="aligncenter size-medium wp-image-1907" /></a>
   
 La pagina esorta a mandare una mail all'Amminsitratore di Sistema, ma credo che lascierò perdere...  
   

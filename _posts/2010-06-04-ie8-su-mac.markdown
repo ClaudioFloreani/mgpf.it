@@ -11,7 +11,7 @@ tags:
 Da tanto tempo non viaggiavo senza FoolDNS Community e mi ero scordato quanto fastidiosi fossero i banner a Full Page. Non tanto per una questione prettamente di grafica, quanto perch&eacute; ostacolano la navigazione.  
   
 E' anche particolare come in un momento storico in cui la profilazione ha raggiunto vette spettacolari di behavioral advertising e geolocation (interessante il dominio hp-geoisp.virgilio.it di Virgilio), sempre sulla pagina di Virgilio, in Home Page, mi sono trovato oggi:
-<a href="http://fast.mgpf.it//2010/06/IE8.png"><img src="http://fast.mgpf.it//2010/06/IE8-493x300.png" alt="" title="IE8" width="493" height="300" class="aligncenter size-medium wp-image-1979" /></a>  
+<a href="http://fast.mgpf.it/2010/06/IE8.png"><img src="http://fast.mgpf.it/2010/06/IE8-493x300.png" alt="" title="IE8" width="493" height="300" class="aligncenter size-medium wp-image-1979" /></a>  
   
 Ora, chi glielo spiega a Microsoft che NON possiedo macchine Windows, navigavo con Firefox Mac e IE8 non è nemmeno scaricabile per Mac? :)  
   
@@ -19,7 +19,7 @@ E se non volete più avere problemi con i banner a Full page vi ricordo che in [
   
 Se poi volete vedere in modo aggregato ed anonimo come navigano le persone che hanno deciso di tutelare la loro privacy vi rimando al portale tutto nuovo di Versus all'indirizzo di [FoolDNS Versus](http://versus.fooldns.com):  
   
-<a href="http://versus.fooldns.com"><img src="http://fast.mgpf.it//2010/06/versus-410x300.png" alt="" title="versus" width="410" height="300" class="aligncenter size-medium wp-image-1981" /></a>
+<a href="http://versus.fooldns.com"><img src="http://fast.mgpf.it/2010/06/versus-410x300.png" alt="" title="versus" width="410" height="300" class="aligncenter size-medium wp-image-1981" /></a>
 Estote parati!  
   
 [1]: http://fooldns.com/community.html

@@ -9,7 +9,7 @@ tags:
 Semplicemente sublime da Banksy.  
   
 <center>
-<img src="http://fast.mgpf.it//banksy2cctvspl_468x443.jpg" alt="" title="Bansky CCTV" width="468" height="443" class="alignleft size-full wp-image-649" />
+<img src="http://fast.mgpf.it/banksy2cctvspl_468x443.jpg" alt="" title="Bansky CCTV" width="468" height="443" class="alignleft size-full wp-image-649" />
 </center>  
   
 Nel caso non fosse chiaro, il bambino, il poliziotto e la scritta sono un Graffito a muro...  

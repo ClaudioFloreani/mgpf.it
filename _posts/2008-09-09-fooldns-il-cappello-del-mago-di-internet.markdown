@@ -10,7 +10,7 @@ tags:
 Inutile stare quieti, visto che Google diffonde già un centinaio di risultati alla voce FoolDns.  
 Ebbene sì, parte un nuovo servizio.  
   
-<a href="http://fast.mgpf.it//2008/09/fool_home.jpg"><img src="http://fast.mgpf.it//2008/09/fool_home.jpg" alt="" title="fool_home" width="500" height="330" class="aligncenter size-full wp-image-1005" /></a>  
+<a href="http://fast.mgpf.it/2008/09/fool_home.jpg"><img src="http://fast.mgpf.it/2008/09/fool_home.jpg" alt="" title="fool_home" width="500" height="330" class="aligncenter size-full wp-image-1005" /></a>  
   
 Fatemi usare un pizzico di testi dalla [home page](http://fooldns.com):  
   

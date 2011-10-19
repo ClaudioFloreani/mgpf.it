@@ -6,7 +6,7 @@ meta:
 tags: 
 - about-me
 ---
-<a href="http://fast.mgpf.it//2010/05/OTempora.png"><img src="http://fast.mgpf.it//2010/05/OTempora-414x300.png" alt="" title="OTempora" width="414" height="300" class="aligncenter size-medium wp-image-1974" /></a>  
+<a href="http://fast.mgpf.it/2010/05/OTempora.png"><img src="http://fast.mgpf.it/2010/05/OTempora-414x300.png" alt="" title="OTempora" width="414" height="300" class="aligncenter size-medium wp-image-1974" /></a>  
   
 Sapete che ogni tanto vi segnalo cose nuove da leggere...  
 Questa volta è il momento di OTemporaOMores che, sono sicuro, se siete cultori del diritto o impenitenti geek non vi deluderà.  

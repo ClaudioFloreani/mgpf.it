@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - weird
 ---
-<img src="http://fast.mgpf.it//2009/02/jokela-school-shooter-294x300.jpg" alt="jokela-school-shooter" title="jokela-school-shooter" width="294" height="300" class="aligncenter size-medium wp-image-1278" />    
+<img src="http://fast.mgpf.it/2009/02/jokela-school-shooter-294x300.jpg" alt="jokela-school-shooter" title="jokela-school-shooter" width="294" height="300" class="aligncenter size-medium wp-image-1278" />    
   
 [Pekka-Eric Auvinen][1]: **Humanity is overrated**.  
   

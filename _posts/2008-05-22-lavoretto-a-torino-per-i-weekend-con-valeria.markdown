@@ -15,7 +15,7 @@ Non è stata per ora molto fortunata nella ricerca, quindi ci riprova e non vedo
   
 Se riusciste a passare parola in quel di Torino mi fareste veramente un grande favore, che ricambierei sicuramente alla prima occasione. Mi date e le date una mano?  
   
-<img src="http://fast.mgpf.it//annuncio.jpg" alt="" title="annuncio" width="206" height="186" class="aligncenter size-full wp-image-710" />
+<img src="http://fast.mgpf.it/annuncio.jpg" alt="" title="annuncio" width="206" height="186" class="aligncenter size-full wp-image-710" />
   
 Grazie mille.  
  

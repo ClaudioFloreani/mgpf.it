@@ -8,7 +8,7 @@ tags:
 - about-me
 - talk
 ---
-<a href="http://fast.mgpf.it//2010/03/header-center-e1267780200270.jpg"><img src="http://fast.mgpf.it//2010/03/header-center-e1267780200270-540x112.jpg" alt="" title="header-center-e1267780200270" width="540" height="112" class="aligncenter size-medium wp-image-1871" /></a>  
+<a href="http://fast.mgpf.it/2010/03/header-center-e1267780200270.jpg"><img src="http://fast.mgpf.it/2010/03/header-center-e1267780200270-540x112.jpg" alt="" title="header-center-e1267780200270" width="540" height="112" class="aligncenter size-medium wp-image-1871" /></a>  
   
 [CAT][4], [Cracca Al Tesoro][4] edizione 2010 si svolgerà *sabato 13 marzo 2010* m Milano, nella zona di Corso Como , con base logistica  presso lATAHotel Executive in Viale Don Luigi Sturzo, 45, vicino alla fermata metro di Porta Garibaldi. Qui trovate la [mappa su googlemaps][1].  
 Sarà a disposizione la sala Mikado dovesi troveranno il desk accoglienza e la Situation Room;  ci troverete lì.

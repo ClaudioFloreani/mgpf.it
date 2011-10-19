@@ -73,11 +73,11 @@ Nothing intresting, so? Almost...
   
 In fact, CONNECTING to <http://pd907d53b.dip0.t-ipconnect.de> gives us a very interesting answer: not only the machine on the other side is a CentOs server, but it seem to run an instance of [FreePBX](http://www.freepbx.org/), a beautiful and most easy to setup OSS Voip PBX:  
   
-<a href="http://fast.mgpf.it//2010/01/caccia_002.jpg"><img src="http://fast.mgpf.it//2010/01/caccia_002-421x300.jpg" alt="" title="caccia_002" width="421" height="300" class="aligncenter size-medium wp-image-1821" /></a>  
+<a href="http://fast.mgpf.it/2010/01/caccia_002.jpg"><img src="http://fast.mgpf.it/2010/01/caccia_002-421x300.jpg" alt="" title="caccia_002" width="421" height="300" class="aligncenter size-medium wp-image-1821" /></a>  
   
 The SysAdm seem to have been a little shaky on the Security part: the Administrative Interface, which normally isn't exposed on the web, is there in clear. We do NOT know the user and password and surely we do NOT want to do _anything illegal_ by trying to force it, but still we are able to take a peek at the Flash Operation Panel, mapping all the phones connected and giving the common name of the single phones [on this page](http://pd907d53b.dip0.t-ipconnect.de/panel/):  
   
-<a href="http://fast.mgpf.it//2010/01/caccia_001.jpg"><img src="http://fast.mgpf.it//2010/01/caccia_001-421x300.jpg" alt="" title="caccia_001" width="421" height="300" class="aligncenter size-medium wp-image-1822" /></a>
+<a href="http://fast.mgpf.it/2010/01/caccia_001.jpg"><img src="http://fast.mgpf.it/2010/01/caccia_001-421x300.jpg" alt="" title="caccia_001" width="421" height="300" class="aligncenter size-medium wp-image-1822" /></a>
   
 Ok, aside from a funny interface to play with (something that we _do not want to do_) what have we got here? Nothing very specific, to be fair, aside from some names:  
   

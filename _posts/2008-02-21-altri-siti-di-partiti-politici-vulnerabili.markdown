@@ -12,22 +12,22 @@ Sito web del [Partito Democratico][2] bucabile? Dopo aver letto il blog di [Robe
   
 Un'oretta a **giochicchiare** *(nulla di stratosferico, sia chiaro)* e troviamo un po' di altre realtà da controllare, tra il **ludico e l'assurdo**...  
   
-<center><a href='http://fast.mgpf.it//xss_radicali.jpg' title='xss_radicali.jpg'><img src='http://fast.mgpf.it//xss_radicali.thumbnail.jpg' alt='xss_radicali.jpg' /></a></center>
+<center><a href='http://fast.mgpf.it/xss_radicali.jpg' title='xss_radicali.jpg'><img src='http://fast.mgpf.it/xss_radicali.thumbnail.jpg' alt='xss_radicali.jpg' /></a></center>
   
 Iniziamo con i [Radicali][4] che sembrano proprio, grazie ad un **xss nella forma più grezza** desiderare ["Paperino al Governo"][4]... Buon per loro, visto che potrebbe essere **meno peggio** di tante altre scelte che abbiamo a disposizione...  
 Oltretutto esistono filtri in ballo che rendono difficile utilizzare javascript nella pagina. Il tutto si riduce quindi a qualcosa di **semplicemente goliardico** da parte di chi dovesse usare la pagina...   
   
-<center><a href='http://fast.mgpf.it//xss_pd.jpg' title='xss_pd.jpg'><img src='http://fast.mgpf.it//xss_pd.thumbnail.jpg' alt='xss_pd.jpg' /></a></center>
+<center><a href='http://fast.mgpf.it/xss_pd.jpg' title='xss_pd.jpg'><img src='http://fast.mgpf.it/xss_pd.thumbnail.jpg' alt='xss_pd.jpg' /></a></center>
   
 Sempre il [Partito Democratico][5] sembra avere ancora enormi problemi anche di url sanitization e richiama fantomatici form quando [appare un apicino strategico][6].... Che dire, tra questo ed il problema [segnalato da Scaccia][3] credo proprio che siano tempi duri per [DOL][7], la società che ha curato la realizzazione e di cui trovate estremi di riferimento alla [pagina del loro sito](http://www.dol.it/contatti/contatti.asp). Potete provare a sentirli in merito alle politiche di **secure coding**...  
   
-<center><a href='http://fast.mgpf.it//xss_udeur.jpg' title='xss_udeur.jpg'><img src='http://fast.mgpf.it//xss_udeur.thumbnail.jpg' alt='xss_udeur.jpg' /></a></center>
+<center><a href='http://fast.mgpf.it/xss_udeur.jpg' title='xss_udeur.jpg'><img src='http://fast.mgpf.it/xss_udeur.thumbnail.jpg' alt='xss_udeur.jpg' /></a></center>
   
 Molto, molto **molto** più pericolose invece le vulnerabilità sul sito dell'[UDEUR][8] che decide di spiegarci con un **esempio da manuale** cosa sia la SQL Injection, riportandone una perfetta implementazione [direttamente nel sito][8]... Che dire?  
 **One Apostrophe to rule them ALL**?!?!?!  
 In questo caso le **voragini di Sicurezza** sembrano da imputare a [Neikos][11], la società di Senigallia che potete contattare a [questi recapiti](http://www.neikos.it/contatti.html).  
   
-<center><a href='http://fast.mgpf.it//xss_rauti.jpg' title='xss_rauti.jpg'><img src='http://fast.mgpf.it//xss_rauti.thumbnail.jpg' alt='xss_rauti.jpg' /></a></center>
+<center><a href='http://fast.mgpf.it/xss_rauti.jpg' title='xss_rauti.jpg'><img src='http://fast.mgpf.it/xss_rauti.thumbnail.jpg' alt='xss_rauti.jpg' /></a></center>
   
 Si potrebbe andare avanti dicendo che anche in casa [Rauti][9] esistono problemi di sql injection, ma probabilmente qui hanno dalla loro il fatto che il sito web è stato fatto da un piccolo studio, quel [Pino Mannarino][10] che pare essere il titolare di [StyleFactory][10].    
   

@@ -8,7 +8,7 @@ tags:
 - talk
 - startup
 ---
-<img src="http://fast.mgpf.it//2009/09/335119351.png" alt="335119351" title="335119351" width="400" height="93" class="aligncenter size-full wp-image-1551" />
+<img src="http://fast.mgpf.it/2009/09/335119351.png" alt="335119351" title="335119351" width="400" height="93" class="aligncenter size-full wp-image-1551" />
   
 Domani io e The Fool saremo al [RomagnaCamp][1].  
   

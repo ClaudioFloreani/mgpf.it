@@ -6,7 +6,7 @@ meta: {}
 tags: 
 - about-me
 ---
-<img src="http://fast.mgpf.it//2009/01/operetta-29-447x300.jpg" alt="operetta-29" title="operetta-29" width="447" height="300" class="aligncenter size-medium wp-image-1274" />  
+<img src="http://fast.mgpf.it/2009/01/operetta-29-447x300.jpg" alt="operetta-29" title="operetta-29" width="447" height="300" class="aligncenter size-medium wp-image-1274" />  
   
 E' morto Mino Reitano, cantautore, cantante, icona di un periodo che io non conosco e che non ho vissuto.  
 Ma stamattina, quando l'ho scoperto in radio, ho versato qualche lacrima per il "mio" Mino Reitano, che ben poco ha a che fare con il personaggio pubblico. Il *mio* "Signor Reitano" era un signore che all'epoca vedevo "anziano" dal punto di vista di un novenne, che veniva a trovarci e che sorrideva sempre: che scherzava, che rideva con un vocione e che mi prendeva in giro.  

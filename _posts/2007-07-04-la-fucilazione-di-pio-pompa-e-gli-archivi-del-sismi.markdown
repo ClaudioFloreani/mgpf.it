@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - security
 ---
-![](http://fast.mgpf.it//20070704_sismi.gif)
+![](http://fast.mgpf.it/20070704_sismi.gif)
 Io rivoglio **la Pena d Morte in Italia**.  
   
 Sino a qualche tempo fa era **ancora in auge**, si intende solamente per i casi di **Alto Tradimento**. Ebbene, io la rivorrei per i **medesimi casi**, vorrei vedere **Pompa fucilato** come nelle migliori scenografie in cui così finiscono i Criminali di Guerra e i Traditori.  

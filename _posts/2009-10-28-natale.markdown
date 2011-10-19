@@ -6,4 +6,4 @@ meta: {}
 tags: 
 - about-me
 ---
-<a href="http://consumerist.com/5378947/christmas-creep-cartoon-from-hallmark-yes-hallmark"><img src="http://fast.mgpf.it//2009/10/zombie-manger-491x500.jpg" alt="zombie-manger-491x500" title="zombie-manger-491x500" width="491" height="500" class="aligncenter size-full wp-image-1640" /></a> 
+<a href="http://consumerist.com/5378947/christmas-creep-cartoon-from-hallmark-yes-hallmark"><img src="http://fast.mgpf.it/2009/10/zombie-manger-491x500.jpg" alt="zombie-manger-491x500" title="zombie-manger-491x500" width="491" height="500" class="aligncenter size-full wp-image-1640" /></a> 

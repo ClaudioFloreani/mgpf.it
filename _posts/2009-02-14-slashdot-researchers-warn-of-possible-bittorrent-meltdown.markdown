@@ -7,7 +7,7 @@ tags:
 - digital-freedom
 - forensic
 ---
-  <a href="http://fast.mgpf.it//2009/02/piratebay1.jpg"><img src="http://fast.mgpf.it//2009/02/piratebay1.jpg" alt="piratebay1" title="piratebay1" width="201" height="195" class="alignleft size-full wp-image-1359" /></a>
+  <a href="http://fast.mgpf.it/2009/02/piratebay1.jpg"><img src="http://fast.mgpf.it/2009/02/piratebay1.jpg" alt="piratebay1" title="piratebay1" width="201" height="195" class="alignleft size-full wp-image-1359" /></a>
 > Researchers at Delft University warn that large parts of the BitTorrent network might collapse if The Pirate Bay is forced to shut down. A large part of the available torrents use The Pirate Bay as tracker, and other available trackers will probably be overloaded if all traffic is shifted there.  
 > TPB is currently using eight server for their trackers. According to the researchers, even trackerless torrents using the DHT protocol will face problems: One bug in a DHT sorting routine ensures that it can only "stumble upon success", meaning torrent downloads will not start in seconds or minutes if Pirate Bay goes down in flames."  
   
