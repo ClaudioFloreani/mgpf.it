@@ -5,8 +5,8 @@ meta: {}
 tags:
 - about-me
 ---
-<div class="post">
 ## Ecco il Grande fratello Google: ci scheda per la pubblicità
+
 Gli identikit conservati un anno e mezzo in 450mila server. Chi va in rete viene inseguito da inserzioni dedicate. Esiste un'operazione per disattivare il tracciamento ma è a carico dell'utente. Gusti, orientamenti sessuali e religiosi.  
 L'articolo completo è disponibile [su Repubblica Online](http://www.repubblica.it/tecnologia/2010/08/13/news/google_spia-6257171/) e qui di seguito la videointervista completa pubblicata su Repubblica TV.  
   
@@ -73,4 +73,5 @@ IntrudersTV mi intervista per FoolDNS nel giorno della presentazione.
 ## FoolDNS 2.0: Introduzione al Servizio Business  
   
 {% youtube 1QUEe9IUlLg %}
+<div class="post">
 </div>
