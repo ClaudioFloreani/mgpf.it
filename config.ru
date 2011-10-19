@@ -3,6 +3,10 @@ require 'rack'
 require 'rack/contrib/try_static'
 require 'rack/rewrite'
 
+def quattrocentoquattro(env)
+  puts "[404] - #{env["REQUEST_URI"]}"
+  File.open('_site/404.html', File::RDONLY)
+end
 
 use Rack::TryStatic, 
     :root => "_site",  # static files root dir
@@ -25,6 +29,6 @@ use Rack::TryStatic,
           'Content-Type'  => 'text/html', 
           'Cache-Control' => 'public, max-age=86400' 
         },
-        File.open('_site/404.html', File::RDONLY)
+        quattrocentoquattro(env)
       ]
     }
