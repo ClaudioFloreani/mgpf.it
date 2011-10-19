@@ -4,6 +4,7 @@ layout: default
 <h2 id="intro">{{ page.title }}</h2>
 <article class="post">
 {{ content }}
+<div class="fb-like" data-href="{{ post.url }}" data-send="true" data-layout="button_count" data-width="100" data-show-faces="false"></div>
 {% include related.html %}
 <time class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
   {{ page.date | date: "%d/%m/%Y" }} con tag:

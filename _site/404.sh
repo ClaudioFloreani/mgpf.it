@@ -1,0 +1,1 @@
+heroku logs -n 500 --source app | grep 404

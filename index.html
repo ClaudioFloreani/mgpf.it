@@ -7,7 +7,7 @@ title: Matteo Flora -  innovatore,  imprenditore e lifehacker
   <div class="post">
   {{ post.content }}
   <p class="signoff">
-    &raquo; {{ post.date | date: "%d/%m/%Y" }} con tag:
+<div class="fb-like" data-href="{{ post.url }}" data-send="true" data-layout="button_count" data-width="100" data-show-faces="false"></div>    &raquo; {{ post.date | date: "%d/%m/%Y" }} con tag:
 		{% for tag in post.tags %}
 			<a href="/tag/{{ tag }}">{{ tag }}</a>
 		{% endfor %}

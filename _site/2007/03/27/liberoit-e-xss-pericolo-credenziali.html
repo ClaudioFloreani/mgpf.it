@@ -11,6 +11,14 @@
     <title>Libero.it e XSS - pericolo credenziali!  &raquo;  Matteo Flora su mgpf.it</title>
   </head>
   <body>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=126301134109996";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     <a href="http://github.com/lastknight/mgpf.it"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" /></a>
 
 
@@ -44,6 +52,7 @@ Oltre al vistoso errore di programmazione che determina la presenza di un XSS ab
 
 <p>Staremo a vedere <strong>i tempi di risposta</strong> per la correzione di questo bug potenzialmente critico per una community numerosa come quella di Libero.it. </p>
 
+<div class="fb-like" data-href="" data-send="true" data-layout="button_count" data-width="100" data-show-faces="false"></div>
 <h2>Articoli (forse) correlati</h2>
 <ul>
   
