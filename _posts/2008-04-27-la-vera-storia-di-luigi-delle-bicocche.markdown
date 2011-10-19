@@ -11,7 +11,7 @@ Passa Caparezza. Abbassate gli occhi. Chinate il capo. E toglietevi il cappello,
   
 Questa che vado a raccontarvi è la vera storia di Luigi delle Bicocche, **eroe contemporaneo** a cui noi tutti dobbiamo la nostra libertà.  
   
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/AlG2Q3HRX1Y&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/AlG2Q3HRX1Y&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>
+{% youtube AlG2Q3HRX1Y %}
   
 > Piacere, Luigi delle Bicocche Sotto il sole faccio il muratore e mi spacco le nocche. Da giovane il mio mito era lattore Dennis Hopper Che in Easy Rider girava il mondo a bordo di un chopper Invece io passo la notte in un bar karaoke, se vuoi mi trovi lì, tentato dal videopoker ma il conto langue e quella macchina vuole il mio sangue ..un soggetto perfetto per Bram Stroker.  
 Tu che ne sai della vita degli operai Io stringo sulle spese e goodbye macellai Non ho salvadanai, da sceicco del Dubai E mi verrebbe da devolvere lotto per mille a SNAI Io sono pane per gli usurai ma li respingo Non faccio l Al Pacino, non mi faccio di pacinko Non gratto, non vinco, non trinco/ nelle sale bingo/ Man mano mi convinco/ che io sono un eroe, perché lotto tutte le ore.  

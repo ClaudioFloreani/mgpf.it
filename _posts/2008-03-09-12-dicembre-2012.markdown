@@ -9,6 +9,8 @@ tags:
 ---
 {% youtube ecTE6lXI-m0 %}
   
-...e [parte seconda](http://it.youtube.com/watch?v=gZUzFYwZlXA&feature=related).  
+...e parte seconda:
+
+{% youtube gZUzFYwZlXA %}
   
  

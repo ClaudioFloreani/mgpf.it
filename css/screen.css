@@ -77,17 +77,13 @@ header h2 {
   float: left;
   margin-right: 10px;
 }
-.fusiontext a, .fusiontext a:hover, .fusiontext a:visited {
-  color: #222;
-  text-decoration: none;
-}
 .post {
   border-bottom: 1px solid #222;
   margin-bottom: 20px;
 }
 .post p {
   font-size: 1.15em;
-  line-height: 1.5em;
+  line-height: 1.7em;
   letter-spacing:0.03em;
   text-align:justify;
 }

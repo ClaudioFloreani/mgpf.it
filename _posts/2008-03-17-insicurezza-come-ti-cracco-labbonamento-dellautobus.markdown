@@ -21,8 +21,8 @@ Già, perché si calcola che le schede con tecnologia Mifare Classic ad oggi imp
   
 E se il clima poteva parere quello di allerta e non di pericolo, a movimentare le acque ci ha pensato nella giornata di mercoledì Bart Jacobs, professore di Sicurezza dell'Informazione presso la Radboud University di Nijmegen, che non solamente ha [dimostrato l'attacco][3], ma si è inoltre prodigato nella publicazione di un interessantissima video dimostrazione, oltre al [paper][3] di rito.  
   
-<object width="535" height="400"><param name="movie" value="http://www.youtube.com/v/NW3RGbQTLhE&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/NW3RGbQTLhE&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="535" height="400"></embed></object>  
-  
+{% youtube NW3RGbQTLhE %}
+
 Nella pratica, la rottura dell'algoritmo di cifratura consente la lettura e la scrittura di contenuti nel dispositivo o su di un omologo. Che non sembrerebbe di per sé molto importante se non si tenesse conto del fatto che l'identificativo memorizzato e cifrato, di fatto autentica il portatore presso il terminale di lettura.  
 Un eventuale utente malintenzionato (che ammetto che in italiano suona molto più buffo dell'inglese "malicious user") ha facoltà quindi di intraprendere una serie di azioni poco gradite al gestore, come ad esempio:  
   

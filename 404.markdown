@@ -1,0 +1,13 @@
+---
+layout: lost
+title: "I got lost!"
+meta: 
+tags: 
+- about-me
+---
+## Mi sono perso!
+Se arrivi a questa pagina il contenuto che cercavi si è perso. **Perdonalo.**  
+Questa piccola pagina mi ha segnalato che il file si è perso e ad un certo numero di segnalazioni probabilmente mi metterò armato di pazienza a cercare cosa non va.  
+Se era davvero importante mandami [una mail](/chisono.html).  
+  
+Grazie mille!
