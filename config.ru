@@ -58,6 +58,7 @@ use Rack::TryStatic,
       r301 '/2011/08/dove-finisce-anonymous-ed-inizia-lulzsec/hackers-com', '/2011/08/04/dove-finisce-anonymous-ed-inizia-lulzsec'
       r301 '/2011/10/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio', '/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio'
       r301 '/articles/', '/archive.html'
+      r301 '/videoblog/', '/video.html'
       r301 '/contatti/', '/chisono.html'
       r301 '/profile/', '/chisono.html'
       r301 %r{^/(.*)/$}, '/$1' # trailing slash
