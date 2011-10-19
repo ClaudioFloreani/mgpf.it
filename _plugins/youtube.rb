@@ -15,7 +15,7 @@ module Jekyll
       @text = text
     end
     def render(context)
-      "<iframe src=\"http://player.vimeo.com/video/#{@text}?\" width=\"640\" height=\"480\" frameborder=\"0\"></iframe><!-- auto vimeo -->"
+      "<iframe src=\"http://player.vimeo.com/video/#{context}?title=0&amp;byline=0&amp;portrait=0\" width=\"640\" height=\"458\" frameborder=\"0\" webkitAllowFullScreen allowFullScreen></iframe><!-- auto youtube -->"
     end
   end
 end
