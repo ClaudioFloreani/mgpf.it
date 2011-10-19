@@ -7,6 +7,6 @@ tags:
 - about-me
 - awesome
 ---
-{% youtube oObxNDYyZPs %}
+{%youtube oObxNDYyZPs%}
 
 Ciao Steve.
