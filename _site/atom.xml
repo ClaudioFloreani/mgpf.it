@@ -3,7 +3,7 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2011-10-19T17:21:18+02:00</updated>
+ <updated>2011-10-19T17:25:18+02:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
@@ -15,7 +15,8 @@
    <link href="http://mgpf.it/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio.html"/>
    <updated>2011-10-07T00:00:00+02:00</updated>
    <id>http://mgpf.it/2011/10/07/ho-guardato-unalba-e-mi-son-chiesto-come-fa-a-non-esistere-dio</id>
-   <content type="html">&lt;p&gt;&amp;lt;iframe src=&amp;rdquo;http://player.vimeo.com/video/29950141 ?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;rdquo; width=&amp;rdquo;640&amp;rdquo; height=&amp;rdquo;458&amp;rdquo; frameborder=&amp;rdquo;0&amp;rdquo; webkitAllowFullScreen allowFullScreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;!-- auto youtube --&gt;&lt;/p&gt;
+   <content type="html">&lt;iframe src=&quot;http://player.vimeo.com/video/29950141 ?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;458&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;!-- auto youtube --&gt;
 </content>
    <author>
      <name>Matteo Flora</name>
