@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://mgpf.it/</loc>
-    <lastmod>2011-10-22T08:04:10+02:00</lastmod>
+    <lastmod>2011-10-22T22:20:57+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://mgpf.it/about.html</loc>
-    <lastmod>2011-10-22T08:04:10+02:00</lastmod>
+    <lastmod>2011-10-22T22:20:57+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://mgpf.it/archive.html</loc>
-    <lastmod>2011-10-22T08:04:10+02:00</lastmod>
+    <lastmod>2011-10-22T22:20:57+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   
+  <url>
+    <loc>http://mgpf.it/2011/10/22/do-your-work-then-step-back.html</loc>
+    <lastmod>2011-10-22T00:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+   </url>
+   
   <url>
     <loc>http://mgpf.it/2011/10/20/islanda-da-sogno.html</loc>
     <lastmod>2011-10-20T00:00:00+02:00</lastmod>
