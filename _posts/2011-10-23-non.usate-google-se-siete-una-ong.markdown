@@ -1,0 +1,45 @@
+--- 
+status: ok
+layout: post
+title: "Do your work, than step back"
+meta: {}
+tags: 
+- google
+- privacy
+---
+Sono sempre molto restio a parlare di Google sul blog, soprattutto perché è noto come le mie opinioni siano di parte.  
+Continuo a pensare che il *"do no evil"* del loro motto sia in realtà una ipocrita dichiarazione che li obbliga solamente a non essere quello che si ritrovano con la pistola in mano nel momento dell'omicidio. Nessuno però li costringe a non guardare dall'altra parte mentre le cose accadono. VI è una profonda diversità etica tra *"do no evil"* e *'do only good'*, rappresentata principalmente dalla possibilità etica di trincerarsi dietro ad un "me lo ha detto lui" non meglio definito. 
+
+Il discorso predata sicuramente questo post: ricordo ancora la data del 10 dicembre del 2009  quando presso ISOLE di Reti in Via del Plebiscito 102 a Roma (esattamente sopra gli uffici del premier) Google organizzò un seminario di formazione all'uso dei servizi di Google riservato alle Associazioni per la tutela dei minori.  A parlare quel giorno Chiara de Servi, Gaetano Gargiulo, e Marco Pancini illustravano *"una serie di esempi pratici dell'utilizzo dei Google tools per potenziare la comunicazione online esterna ed interna delle Associazioni per la tutela dei minori"*.  
+  
+Proprio in quella sede nelle domande finali (partecipavo come consulente di [Telefono Arcobaleno][telarco] ma mia domanda a Pancini era stata abbastanza diretta *"Come vi relazionate con Patriot Act ed Electronic Communications Privacy Act?"*. la risposta del buon Marco Pancini, evasiva come la sua carica sempre lo obbliga a fare, era stata il solito *"Google rispetta la legge degli stati in cui opera"*. Ma, e sottolineo **ma**, si era dimenticato un piccolo dettaglio: la legge in cui opera NON è quella italiana ed europea e, quindi, i diritti di questo lato dell'oceano non hanno valore per il gigante di Mountain View.  
+  
+E, novella cassandra, a distanza di due anni si presenta **ESATTAMENTE il caso che avevo profetizzato**. Un attivista di progetti Open Source per la tutela della riservatezza delle conversazioni online, membro anche del Team di Sviluppo di [TOR](http://torproject.org) , il buon [Jacob Appelbaum][apple] si ritrova tracciato dal Dipartimento di Giustizia **senza alcun ordine di un giudice** e, soprattutto, **senza che all'interessato fosse notificato**. L'ordinanza segreta, datata al gennaio del 2011, chiede a Google di consegnare la lista di tutti gli indirizzi IP collegati all’account Gmail (non il contenuto, anche se sarebbe stato interessante vedere come avrebbe reagito G).  
+  
+Sull'argomento [Il Post][post] offre un approfondito e interessantissimo [articolo][post] pieno di dettagli e di una completa cronistoria che vale sicuramente la pena di [leggere per intero][post].  
+  
+Il Post si limita a considerare i risvolti della vicenda da un punto di vista principalmente legato al mercato americano, chiudendo con la considerazione:
+
+> Nel 2009, Google svelò che in sei mesi il Dipartimento di Giustizia degli Stati Uniti gli aveva chiesto 4.601 volte di accedere ai dati dei suoi utenti, e che il provider aveva dovuto acconsentire nel 94% dei casi.  
+  
+Ma il buon [Mantellini][mante] si sbilancia un po' di più con un post più rivelatore *(grassetto mio)*:
+  
+> Mi corre l’obbligo di segnalarvi che se le autorità americane avessero qualche curiosità sulla vostra casella Gmail, sui vostri contatti epistolari e sulle vostre navigazioni sul web, **Google molto probabilmente acconsentirà a comunicarglieli senza che voi siate nemmeno informati e senza che un magistrato firmi alcunché al riguardo**, come è avvenuto nel caso dell’attivista di Tor e Wikileaks Jacob Appelbaum. Nella seconda metà del 2010 è del resto accaduto 4601 volte, nel 95% dei casi Google ha detto sì alle autorità americane. Ma non solo: **nel medesimo periodo ci sono state 837 richieste analoghe dall’Italia. Nel 60% dei casi Google ha fornito i dati richiesti**.
+
+Due annotazioni, quindi:  
+  
+* Google collabora nel 95% dei casi con le autorità americane, ma solo nel 60% con quelle italiane
+* Se avete le vostre mail su Google sappiate che la tutela italiana (con ordine di un magistrato) non conta nulla e che potreste essere sottoposti a controllo senza che nemmeno lo sappiate
+
+Ora, sono ben conscio del fatto che per me, voi, Mantellini e forse anche il direttore de Il Post questo non costituisca un grandissimo problema, ma la cosa cambia radicalmente **se siete una ONG o una Associazioni Umanitaria** soprattutto una di quelle che si batte per i diritti umani e che si trova a dover gestire, coordinare o anche solo proteggere collaboratori ed informatori. In questo caso sappiate che qualunque azione potreste intraprendere nel mondo sareste soggetti a controllo segreto e senza tutela da parte del Dipartimento di Stato americano. Voi e tutti i vostri collaboratori (e potenzialmente informatori) in tutto il mondo. **Senza tutela di qualunque tipo.**  
+  
+Pensateci, prima di usare di vedere *"una serie di esempi pratici dell'utilizzo dei Google tools per potenziare la comunicazione online esterna ed interna delle Associazioni"* che Google vi propone. Ma pensateci **seriamente**.   
+  
+Ora rimane solo da capire se mi fermeranno alla frontiera, visto che eravamo ambedue random-contributors per il progetto [GlobaLeaks](http://globaleaks.org). Non sarebbe [la prima volta](http://news.cnet.com/8301-27080_3-20023341-245.html) che accade a persone presenti nella sua contact list.  
+  
+Estote Parati.
+
+[telarco]: http://www.telefonoarcobaleno.org/
+[apple]: http://en.wikipedia.org/wiki/Jacob_Appelbaum
+[post]: http://www.ilpost.it/2011/10/10/la-polizia-americana-e-le-caselle-email/
+[mante]: http://www.mantellini.it/?p=15747
