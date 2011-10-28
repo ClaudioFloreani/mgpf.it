@@ -3,12 +3,34 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2011-10-27T16:32:32+02:00</updated>
+ <updated>2011-10-28T20:02:06+02:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>Un mirabolante, futuristico, incredibile marchingegno</title>
+   <link href="http://mgpf.it/2011/10/28/un-mirabolante-incredibile-futuristico-marchingegno.html"/>
+   <updated>2011-10-28T00:00:00+02:00</updated>
+   <id>http://mgpf.it/2011/10/28/un-mirabolante-incredibile-futuristico-marchingegno</id>
+   <content type="html">&lt;p&gt;Come dare torto al buon &lt;a href=&quot;http://www.disma.biz/?p=9565&quot;&gt;Disma&lt;/a&gt; quando si inquieta per il TG2:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vi prego. Un appello. Potete smettere di usare parole tipo diabolico, diavoleria, marchingegno, supertecnologico o espressioni del tipo uscito dal futuroo, per parlare di qualsiasi cosa sia più avanzata di un termosifone di ghisa? Fatelo per me. Vi prego.  (&lt;a href=&quot;http://www.disma.biz/?p=9565&quot;&gt;qui&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Che detto da un giornalista e conduttore radiofonico ha tutta la verve e l&amp;rsquo;autorevolezza del caso.&lt;/p&gt;
+
+&lt;p&gt;Thumbs up!&lt;/p&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>Non usate Google se siete una ONG</title>
@@ -248,30 +270,6 @@ I Blink182 per il lancio del loro nuovo video hanno deciso di far &amp;ldquo;pag
 &lt;p&gt;Che dire? Pari e patta?  &lt;/p&gt;
 
 &lt;p&gt;P.S. Grazie a &lt;strong&gt;Morena Ragone&lt;/strong&gt; per la segnalazione sulla lista del Circolo dei Giuristi Telematici&lt;/p&gt;
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Forensics, Timeline e Python</title>
-   <link href="http://mgpf.it/2011/08/04/tool-di-computer-forensics-opensource-python.html"/>
-   <updated>2011-08-04T00:00:00+02:00</updated>
-   <id>http://mgpf.it/2011/08/04/tool-di-computer-forensics-opensource-python</id>
-   <content type="html">&lt;p&gt;Questa settimana l&amp;rsquo;articolo del &lt;a href=&quot;http://computer-forensics.sans.org/blog/2011/07/29/digital-forensics-case-leads-python-puts-snakes-on-case&quot;&gt;Blog di Computer Forensics di Sans&lt;/a&gt; riporta un enorme numero di tool per la Computer Forensics realizzati in Python. Alcuno sono veramente notevoli:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This week, we feature a number of tools and articles that leverage Python to do the heavy lifting. So, if you&amp;rsquo;re looking for scripts and applications to put the squeeze on some of that work load, this may be the article for you. &lt;em&gt;(&lt;a href=&quot;http://computer-forensics.sans.org/blog/2011/07/29/digital-forensics-case-leads-python-puts-snakes-on-case&quot;&gt;fonte&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Già che siete sul blog consiglio anche l&amp;rsquo;&lt;a href=&quot;http://computer-forensics.sans.org/blog/2011/08/01/ultimate-windows-timelining&quot;&gt;interessante articolo&lt;/a&gt; sul TimeLining di Windows:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;First, a note about the way I personally use timelines. I find them a great way to identify dated tidbits which one might not otherwise realize are associated with activity of interest, once investigation has been focused down to a restricted timeframe. When I do this, I typically extract all timeline data, and then filter it for times of interest to avoid information overload. &lt;em&gt;(&lt;a href=&quot;http://computer-forensics.sans.org/blog/2011/08/01/ultimate-windows-timelining&quot;&gt;fonte&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
 </content>
    <author>
      <name>Matteo Flora</name>
