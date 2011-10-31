@@ -10,7 +10,7 @@ tags:
 
 Era il 2007 quando pubblicavo il mio [articolo][1] sul Wardriving a Milano e realizzavo il filmato qui sotto:
 
-{{youtube 0MMxho6zI48}}
+{% youtube 0MMxho6zI48%}
 
 Il testo completo dell'articolo è disponibile [online][1] negli archivi appena salvati di [lastknight.com][1], insieme alle [slides][2] (effettivamente molto divertenti) ed a un po' di informazioni e fotografie divertenti dell'apparato da [warbiking][1].  
   
