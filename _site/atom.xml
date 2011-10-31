@@ -3,12 +3,59 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2011-10-28T20:02:06+02:00</updated>
+ <updated>2011-10-31T10:10:44+01:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>Un'idea per un Access Point VERAMENTE cattivo</title>
+   <link href="http://mgpf.it/2011/10/30/un-access-point-veramente-cattivo-mitm.html"/>
+   <updated>2011-10-30T00:00:00+02:00</updated>
+   <id>http://mgpf.it/2011/10/30/un-access-point-veramente-cattivo-mitm</id>
+   <content type="html">&lt;p&gt;Era il 2007 quando pubblicavo il mio &lt;a href=&quot;http://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli&quot;&gt;articolo&lt;/a&gt; sul Wardriving a Milano e realizzavo il filmato qui sotto:&lt;/p&gt;
+
+&lt;p&gt;Il testo completo dell&amp;rsquo;articolo è disponibile &lt;a href=&quot;http://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli&quot;&gt;online&lt;/a&gt; negli archivi appena salvati di &lt;a href=&quot;http://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli&quot;&gt;lastknight.com&lt;/a&gt;, insieme alle &lt;a href=&quot;http://www.slideshare.net/lastknight/wardriving-milano&quot;&gt;slides&lt;/a&gt; (effettivamente molto divertenti) ed a un po&amp;rsquo; di informazioni e fotografie divertenti dell&amp;rsquo;apparato da &lt;a href=&quot;http://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli&quot;&gt;warbiking&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;p&gt;In quella sede avevo anche, per gioco, aperto un Access Point libero (dal nome &amp;ldquo;Free Internet&amp;rdquo;) cche non faceva altro che dare connessione sniffando password e metriche sui dati. Per vedere quanta gente si sarebbe loggata. Ed, effettivamente, ve n&amp;rsquo;era stata un bel po&amp;rsquo; :)  &lt;/p&gt;
+
+&lt;p&gt;La mancanza di tempo mi spinge a pubblicare liberamente l&amp;rsquo;idea malvagia (che rimarrà da oggi in poi nel tag &amp;ldquo;&lt;a href=&quot;/tags/evil-ideas&quot;&gt;evil-ideas&lt;/a&gt;&amp;rdquo;) che mi frullava per la testa sperando che qualcuno adotti questa idea orfana di tempo e si diverta come è giusto che sia e come meriterebbe una vision così &lt;em&gt;bastarda&lt;/em&gt; come questa&amp;hellip;  &lt;/p&gt;
+
+&lt;p&gt;La scorsa volta mi sono messo ad aprire un nodo e ad anonimizzare i risultati dell&amp;rsquo;analisi, così per non incappare in scomodissimi problemi legali. Ma è possibile farlo legalmente? Secondo me quasi, ma chiedo aiuto ad un po&amp;rsquo; di amici avvocati per i commenti (aggiungeteli qui in coda) alla metodologia che qui segnalo.  &lt;/p&gt;
+
+&lt;p&gt;In pratica: la scorsa volta &amp;ldquo;ingannavo&amp;rdquo; gli utenti non esplicitando il mio intento. Stavolta vorrei non solamente aprire un accesso point wireless, non solamente chiamarlo &amp;ldquo;Free-Internet&amp;rdquo; come la scorsa volta, ma chiedere direttamente il consenso per:  &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Intercettazione del traffico&lt;/li&gt;
+  &lt;li&gt;Archiviazione delle Password di accesso&lt;/li&gt;
+  &lt;li&gt;Pubblicazione delle Password di accesso su una pagina web&lt;/li&gt;
+  &lt;li&gt;Impersonificazione dell&amp;rsquo;utente e posting di contenuti a nome suo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;IN pratica l&amp;rsquo;idea è quella di utilizzare un sistema basilare di Captive Portal che RICHIEDA ESPLICITAMENTE all&amp;rsquo;utente di approvare, tramite apposizione di &amp;ldquo;firma&amp;rdquo; in forma di riscrittura nome e cognome, un &lt;em&gt;Regolamento di utilizzo&lt;/em&gt; ed esplicitamente richiedere in un secondo passaggio la apporvazione delle eventuali &lt;em&gt;clausole vessatorie&lt;/em&gt;.&lt;br /&gt;
+Il &lt;em&gt;Regolamento di utilizzo&lt;/em&gt; sarebbe pubblicato in una pagina separata con un link &amp;ldquo;leggi il regolamento&amp;rdquo; o in una textarea che non riporti nulla di significativo nelle prime righe. Ma cosa include questo &amp;ldquo;Regolamento di utilizzo*? Beh, un paragrafo come questo:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&amp;ldquo;Mediante l&amp;rsquo;accettazione di questo Regolamento&amp;rdquo; l&amp;rsquo;utente comprende e autiorzza che questa navigazione rappresenta un sistema di testing delle credenziali e dei meccanismi di furto di identità online e &lt;em&gt;non deve per qualunque ragione&lt;/em&gt; essere utilizzata in differenti modalità e/o per la navigazione internet personale o lavorativa.
+Questo servisio rappresenta una proof-of-concept dei pericoli in cui possono intercorrere gli utenti internet incauti ed il solo scopo del servizio è quello di essere utilizzato con account di prova per dimostrare la pericolosità di tali condotte.
+L&amp;rsquo;utente comprende e acconsente che suoi dati di navigazione e le sue credenziali vengano esposti al pubblico e che la sua navigazione sarà soggetta a controllo, manomissione, alterazione. I dati di accesso verranno collezionati e spediti alla pagina www.xxxxx.com e saranno pubblicamente accessibili da chiunque. Inoltre il sistema si collegherà a ogni servizio web di cui recupererà dati sottraendo link, contenuti e pubblicando contenuto casuale in ogni social-network e/o ogni servizio mail di cui rileverà le credenziali.
+L&amp;rsquo;utente dichiara di sollevare da ogni responsabilità i gestori, gli installatori e gli utenti del servizio da ogni responsabilità su danni che potrebbero crearsi dall&amp;rsquo;utilizzo del servizio.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sono veramente curioso di sapere cosa ne pensano avvocati vari e se anche voi, come me, pensate che tutti accetteranno questo Regolamento di utilizzo senza degnarlo di uno sguardo, un po&amp;rsquo; come milioni di italiani facevano per le suonerie in abbonamento.  &lt;/p&gt;
+
+&lt;p&gt;E se veramente lo fate fatemelo sapere :)  &lt;/p&gt;
+
+&lt;p&gt;Estote parati.&lt;/p&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>Un mirabolante, futuristico, incredibile marchingegno</title>
@@ -249,27 +296,6 @@ Vedrò di scrivere qualcosa durante i giorni su qui, sull&amp;rsquo;&lt;a href=&
 
 &lt;p&gt;&lt;em&gt;Accori numeroso&lt;/em&gt; anche tu!  &lt;/p&gt;
 
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Blink182 ed il furto più geniale</title>
-   <link href="http://mgpf.it/2011/08/05/blink182-ed-il-furto-piu-geniale.html"/>
-   <updated>2011-08-05T00:00:00+02:00</updated>
-   <id>http://mgpf.it/2011/08/05/blink182-ed-il-furto-piu-geniale</id>
-   <content type="html">&lt;p&gt;Si parla spesso della pirateria digitale online e dell&amp;rsquo;utilizzo senza permesso di contenuti audiovisivi. L&amp;rsquo;esempio su tutti, non fosse altro per semplici dimensioni di mercato, è sicuramente YouTube, &amp;ldquo;luogo virtuale&amp;rdquo; in cui i filmati che sfruttano abusivamente colonne sonore sono milioni.
-I Blink182 per il lancio del loro nuovo video hanno deciso di far &amp;ldquo;pagare pegno&amp;rdquo; a una serie di video scovati sui Social Network che usavano abusivamente la loro musica&amp;hellip; usandoli abusivamente in un video promozionale!&lt;/p&gt;
-
-&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;http://www.youtube-nocookie.com/embed/eabtzkY_jNs&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;!-- auto youtube --&gt;
-
-&lt;p&gt;Che dire? Pari e patta?  &lt;/p&gt;
-
-&lt;p&gt;P.S. Grazie a &lt;strong&gt;Morena Ragone&lt;/strong&gt; per la segnalazione sulla lista del Circolo dei Giuristi Telematici&lt;/p&gt;
 </content>
    <author>
      <name>Matteo Flora</name>
