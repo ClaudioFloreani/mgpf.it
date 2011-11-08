@@ -3,7 +3,7 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2011-10-31T10:34:08+01:00</updated>
+ <updated>2011-11-08T16:15:41+01:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
@@ -125,6 +125,59 @@ Ma, e sottolineo &lt;strong&gt;ma&lt;/strong&gt;, si era dimenticato un piccolo 
 &lt;p&gt;Ora rimane solo da capire se mi fermeranno alla frontiera, visto che eravamo ambedue random-contributors per il progetto &lt;a href=&quot;http://globaleaks.org&quot;&gt;GlobaLeaks&lt;/a&gt;. Non sarebbe &lt;a href=&quot;http://news.cnet.com/8301-27080_3-20023341-245.html&quot;&gt;la prima volta&lt;/a&gt; che accade a persone presenti nella sua contact list.  &lt;/p&gt;
 
 &lt;p&gt;Estote Parati.&lt;/p&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
+ 
+ <entry>
+   <title>Do not use Google if you are an NGO</title>
+   <link href="http://mgpf.it/2011/10/23/EN-non-usate-google-se-siete-una-ong.html"/>
+   <updated>2011-10-23T00:00:00+02:00</updated>
+   <id>http://mgpf.it/2011/10/23/EN-non-usate-google-se-siete-una-ong</id>
+   <content type="html">&lt;p&gt;I&amp;rsquo;m always very reluctant to talk about Google in the blog, especially since it is known that my views are biased. &lt;/p&gt;
+
+&lt;p&gt;I still think that the &lt;em&gt;&amp;ldquo;do no evil&amp;rdquo; in their motto * is actually a hypocritical statement that obliges them not solely not to be the ones with a gun in their hand at the time of the murder. But no one forces them not to look the other way while things happen. There is a profound ethical difference between *&amp;ldquo;do no evil&amp;rdquo;&lt;/em&gt; and &lt;em&gt;&amp;lsquo;do only good&amp;rsquo;&lt;/em&gt;, represented mainly by the ethical possibility of refuge behind a not better defined &amp;ldquo;he told me&amp;rdquo;.  &lt;/p&gt;
+
+&lt;p&gt;The topic is earlier than this post: I still remember 10 December 2009 when Google organized a training seminar on the use of Google services specifically for Child Protection Associations held at ISOLE, Reti, in Via del Plebiscito 102, Rome (precisely above the Prime Minister&amp;rsquo;s offices).  The speakers were Chiara de Servi, Gaetano Gargiulo and Marco Pancini who illustrated &lt;em&gt;&amp;ldquo;a series of practical examples of the use of Google tools to maximise external and internal online communication of Child Protection Associations&amp;rdquo;&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;On that occasion, my question to Mr. Pancini during the final questions (I participated as a consultant of &lt;a href=&quot;http://www.telefonoarcobaleno.org/&quot;&gt;Telefono Arcobaleno&lt;/a&gt;) was quite straight to the point * &amp;ldquo;How do you relate with the Patriot Act and Electronic Communications Privacy Act?&amp;rdquo;&lt;em&gt;. Marco Pancini&amp;rsquo;s reply was as evasive as his office requires him to do, despite being a good person as well as extremely competent, was the usual &amp;ldquo;Google PR textbook&amp;rdquo;, i.e. *&amp;ldquo;Google complies with the law of the States in which it operates&amp;rdquo;&lt;/em&gt;. Okay, fine.  &lt;/p&gt;
+
+&lt;p&gt;But, and I underline &lt;strong&gt;but&lt;/strong&gt;, he forgot a small detail: the law in which it operates is NOT Italian and European, and therefore, the rights on this side of the ocean have no value for the Mountain View giant.  &lt;/p&gt;
+
+&lt;p&gt;And, &lt;strong&gt;PRECISELY the case which I had prophesied&lt;/strong&gt; as a novel cassandra, occurs after two years. An activist of Open Source projects for the protection of confidentiality of on-line conversations, also a member of the [TOR] Development Team (http://torproject.org), the good &lt;a href=&quot;http://en.wikipedia.org/wiki/Jacob_Appelbaum&quot;&gt;Jacob Appelbaum&lt;/a&gt; is tracked by the Department of Justice &lt;strong&gt;without a judicial order&lt;/strong&gt; and, most importantly, &lt;strong&gt;without the interested person being notified&lt;/strong&gt;. The secret order, dated January 2011, requires Google to hand over the list of all IP addresses connected to the Gmail account (not the content, even though it would have been interesting to see how G would have reacted).  &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ilpost.it/2011/10/10/la-polizia-americana-e-le-caselle-email/&quot;&gt;Il Post&lt;/a&gt; provides a detailed and interesting &lt;a href=&quot;http://www.ilpost.it/2011/10/10/la-polizia-americana-e-le-caselle-email/&quot;&gt;article&lt;/a&gt; full of details and a complete chronology on the topic, that is definitely worth &lt;a href=&quot;http://www.ilpost.it/2011/10/10/la-polizia-americana-e-le-caselle-email/&quot;&gt;reading in full&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;p&gt;The Post merely consider the implications of the story from the point of view, mainly related to the American market, closing with the statement: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In 2009, Google revealed that in six months, the US Justice Department requested access of Google users data 4,601 times, and that the provider had to agree in 94% of cases. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But the good &lt;a href=&quot;http://www.mantellini.it/?p=15747&quot;&gt;Mantellini&lt;/a&gt; takes a slightly more clear stand in a more revealing post &lt;em&gt;(bold highlights are mine)&lt;/em&gt;:  &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I feel obliged to report that if the American authorities had an interest in your Gmail, your correspondence and your Web surfing, Google &lt;strong&gt;will most likely will agree to provide them without informing you and even without a judge signing anything about this&lt;/strong&gt;, as was the case of Tor and Wikileaks activist Jacob Appelbaum. In the second half of 2010 this occurred 4601 times, in 95% of cases Google said yes to the American authorities. But not only: &lt;strong&gt;In the same period there were 837 similar requests from Italy. In 60% of cases, Google provided the requested data&lt;/strong&gt;. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Two comments hence: &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Google works with the American authorities in 95% of cases, but only in 60% with the Italian ones;&lt;/li&gt;
+  &lt;li&gt;If you have your email on Google know that Italian with the American authorities (with a magistrate&amp;rsquo;s order) counts for nothing and that you could be checked even without you knowing it. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now, I&amp;rsquo;m well aware that for me, you, Mantellini and perhaps also the editor of Il Post this is not a huge problem, but it radically changes &lt;strong&gt;if you are an NGO or Humanitarian Association&lt;/strong&gt; particularly one campaigning for human rights and which has to manage, coordinate or even protect informants and collaborators. In this case, know that any actions you may undertake around the world you could be supervised secretly and without protection by the US State Department. You and all your employees (and potentially informants) around the world. &lt;strong&gt;Without protection of any kind.&lt;/strong&gt;  &lt;/p&gt;
+
+&lt;p&gt;Think before you use to see &lt;em&gt;&amp;ldquo;a series of practical examples of Google tools usage to enhance the external and internal on-line communication for Associations&amp;rdquo;&lt;/em&gt; offered by Google. But think about it &lt;strong&gt;seriously&lt;/strong&gt;.  &lt;/p&gt;
+
+&lt;p&gt;Now it remains only to seen whether they shall stop me at the border, since we were both random-contributors in the [GlobaLeaks] project (http://globaleaks.org). It would not be the [first time] (http://news.cnet.com/8301-27080_3-20023341-245.html) this happens to people in his contact list. &lt;/p&gt;
+
+&lt;p&gt;Estote Parati. &lt;/p&gt;
 
 </content>
    <author>
@@ -274,31 +327,6 @@ Fatemi sapere, ci tengo molto.&lt;/p&gt;
 
 &lt;p&gt;Sconvolgente, eh&amp;hellip; E l&amp;rsquo;&lt;a href=&quot;http://ifindkarma.typepad.com/relax/2004/11/ultimately_it_c.html&quot;&gt;intera intervista&lt;/a&gt; è ancora più interessante della singola citazione.&lt;br /&gt;
 E penso esattamente la stessa cosa da anni.&lt;/p&gt;
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Ci vediamo al Chaos Communication Camp</title>
-   <link href="http://mgpf.it/2011/08/05/ci-vediamo-al-chaos-communication-camp.html"/>
-   <updated>2011-08-05T00:00:00+02:00</updated>
-   <id>http://mgpf.it/2011/08/05/ci-vediamo-al-chaos-communication-camp</id>
-   <content type="html">&lt;p&gt;Come quattro anni fa ci troveremo all&amp;rsquo;&lt;a href=&quot;http://events.ccc.de/camp/2011/wiki/Italian_Embassy&quot;&gt;Italian Embassy&lt;/a&gt; del &lt;a href=&quot;http://events.ccc.de/camp/2011/wiki/Italian_Embassy&quot;&gt;Chaos Communication Camp&lt;/a&gt; dal 10 al 14 Agosto 2011 a Finowfurt, Germania, Europa, Pianeta Terra, Via Lattea.&lt;br /&gt;
-Assieme agli altri italiani abbiamo organizzato non solamente la permanenza, ma anche le infrastrutture e probabilmente la logistica (grazie Seba!) di cibazione (oltre che l&amp;rsquo;alcool (grazie tutti e Rebus!), come da brava tradizione).&lt;br /&gt;
-Quest&amp;rsquo;anno grazie ai mille volontari anche uno stupendo logo (grande Rita!), tanti cartelloni, uno spazio con tendone  (grazie Naif!) di 90mq e una serie di amenità varie.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://matteoflora.com/ci-vediamo-a-inowfurt-al-ccc-summer-camp/05082011-001-luca-stefanelli/&quot; rel=&quot;attachment wp-att-271&quot;&gt;&lt;img src=&quot;http://fast.mgpf.it/2011/08/05082011-001-Luca-Stefanelli-640x652.jpg&quot; alt=&quot;&quot; title=&quot;05082011-001-Luca Stefanelli&quot; width=&quot;640&quot; height=&quot;652&quot; class=&quot;aligncenter size-medium wp-image-271&quot; /&gt;&lt;/a&gt;  &lt;/p&gt;
-
-&lt;p&gt;Per informazioni c&amp;rsquo;è la ricchissima &lt;a href=&quot;http://events.ccc.de/camp/2011/wiki/Italian_Embassy&quot;&gt;pagina del Wiki&lt;/a&gt; dell&amp;rsquo;Ambasciata Italiana al CCC.&lt;br /&gt;
-Vedrò di scrivere qualcosa durante i giorni su qui, sull&amp;rsquo;&lt;a href=&quot;http://twitter.com/lastknight/&quot;&gt;account twitter&lt;/a&gt; o su quello Facebook.  &lt;/p&gt;
-
-&lt;p&gt;Sempre che non sia troppo indaffarato a fare fotografie, parlare con la gente o nerdeggiare.  &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Accori numeroso&lt;/em&gt; anche tu!  &lt;/p&gt;
-
 </content>
    <author>
      <name>Matteo Flora</name>

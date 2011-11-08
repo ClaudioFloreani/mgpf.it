@@ -19,6 +19,9 @@ use Rack::TryStatic,
           rack_env['SERVER_NAME'] != 'mgpf.it' && ENV['RACK_ENV'] == 'production'
       } # Force single domain
       
+      # Calendar
+      r301 '/calendario', 'https://www.google.com/calendar/b/0/embed?src=mf@matteoflora.com&ctz=Europe/Rome&gsessionid=OK'
+      # Old Site
       r301 '/2011/03/150/', '/2011/03/17/150'
       r301 '/2011/04/come-cancellarsi-da-123people-com/', '/2011/04/11/come-cancellarsi-da-123people-com'
       r301 '/2011/03/about-elly/', '/2011/03/26/about-elly'
