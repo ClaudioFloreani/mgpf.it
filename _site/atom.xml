@@ -3,12 +3,28 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2011-11-21T12:27:31+01:00</updated>
+ <updated>2011-11-29T21:55:18+01:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>E' ora</title>
+   <link href="http://mgpf.it/2011/11/29/E-ora-lo-splendido-filmato.html"/>
+   <updated>2011-11-29T00:00:00+01:00</updated>
+   <id>http://mgpf.it/2011/11/29/E-ora-lo-splendido-filmato</id>
+   <content type="html">&lt;p&gt;A vote basta poco per dare un&amp;rsquo;idea e per fare capire che i tempi stanno cambiando:&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;http://www.youtube-nocookie.com/embed/_TBd-UCwVAY&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;!-- auto youtube --&gt;
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>Un'idea per un Access Point VERAMENTE cattivo</title>
@@ -310,23 +326,6 @@ Ho cercato di condensare in un&amp;rsquo;oretta e mezza di conversazione la mia 
 &lt;p&gt;ZenLife è un progetto in divenire e spero di riuscire ad integrarlo di volta in volta rimuovendo eventuali castronerie (ce ne saranno molte) e aggiungendo di volta in volta contenuti che mi segnalerete.
 Fatemi sapere, ci tengo molto.&lt;/p&gt;
 
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Non è Complotto, è semplice Stupidità</title>
-   <link href="http://mgpf.it/2011/08/24/non-e-complotto-e-semplice-stupidita.html"/>
-   <updated>2011-08-24T00:00:00+02:00</updated>
-   <id>http://mgpf.it/2011/08/24/non-e-complotto-e-semplice-stupidita</id>
-   <content type="html">&lt;p&gt;Ho trovato qualcun altro che la pensa come me:
-&amp;gt; “When you’re young, you look at television and think, There’s a conspiracy. The networks have conspired to dumb us down. But when you get a little older, you realize that’s not true. The networks are in business to give people exactly what they want. That’s a far more depressing thought. Conspiracy is optimistic! You can shoot the bastards! We can have a revolution! But the networks are really in business to give people what they want. It’s the truth.” &lt;em&gt;(&lt;a href=&quot;http://en.wikiquote.org/wiki/Steve_Jobs&quot;&gt;Steve Jobs&lt;/a&gt; intervista a WIRED magazine February 1996)&lt;/em&gt;  &lt;/p&gt;
-
-&lt;p&gt;Sconvolgente, eh&amp;hellip; E l&amp;rsquo;&lt;a href=&quot;http://ifindkarma.typepad.com/relax/2004/11/ultimately_it_c.html&quot;&gt;intera intervista&lt;/a&gt; è ancora più interessante della singola citazione.&lt;br /&gt;
-E penso esattamente la stessa cosa da anni.&lt;/p&gt;
 </content>
    <author>
      <name>Matteo Flora</name>
