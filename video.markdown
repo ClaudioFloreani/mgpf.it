@@ -45,7 +45,7 @@ Una introduzione all'Etica della Disclosure e alle problematiche correlate.
   
 L'ormai storico video della Conferenza tenuta ad InfoSecurity 2007 e che tratta le tematiche della Censura Web, dei metodi di aggiramento ed elusione dei controlli e delle idiosincrasie delle normative italiane contro PedoPornografia e Terrorismo.  
   
-<embed id=VideoPlayback src=http://video.google.com/googleplayer.swf?docid=-8260069796878992303&hl=en&fs=true style=width:640px;height:480px type=application/x-shockwave-flash> </embed>  
+<embed id=VideoPlayback src=http://video.google.com/googleplayer.swf?docid=-8260069796878992303&hl=en&fs=true style=width:400px;height:326px allowFullScreen=true allowScriptAccess=always type=application/x-shockwave-flash> </embed> 
   
 ## La prima apparizione di FoolDNS  
   
@@ -62,13 +62,13 @@ La prima presentazione del progetto FoolDNS fatta nel lontano 2008. Da allora mo
   
 Il Video di PocaCola dell'intervista doppia mia e di Luca Conti.  
   
-{% youtube vNAh7L3dxf8 %}
+{% youtube vNAh7L3dxf8%}
   
 ## Intervista per Liquida  
   
 La mia intervista per Liquida.  
   
-{% youtube vSZxvSrGdfg %}  
+{% youtube vSZxvSrGdfg%}  
   
 ## Intervista su Intrudes TV per FoolDNS  
   
@@ -78,6 +78,7 @@ IntrudersTV mi intervista per FoolDNS nel giorno della presentazione.
   
 ## FoolDNS 2.0: Introduzione al Servizio Business  
   
-{% youtube 1QUEe9IUlLg %}
+{% youtube 1QUEe9IUlLg%}
+
 <div class="post">
 </div>
