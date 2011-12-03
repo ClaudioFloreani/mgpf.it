@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://mgpf.it/</loc>
-    <lastmod>2011-11-29T22:29:40+01:00</lastmod>
+    <lastmod>2011-12-03T12:12:11+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://mgpf.it/about.html</loc>
-    <lastmod>2011-11-29T22:29:40+01:00</lastmod>
+    <lastmod>2011-12-03T12:12:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://mgpf.it/archive.html</loc>
-    <lastmod>2011-11-29T22:29:40+01:00</lastmod>
+    <lastmod>2011-12-03T12:12:11+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   
+  <url>
+    <loc>http://mgpf.it/2011/12/03/Evento-lavoro-mobile.html</loc>
+    <lastmod>2011-12-03T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+   </url>
+   
   <url>
     <loc>http://mgpf.it/2011/11/29/E-ora-lo-splendido-filmato.html</loc>
     <lastmod>2011-11-29T00:00:00+01:00</lastmod>
