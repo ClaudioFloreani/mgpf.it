@@ -1,7 +1,7 @@
 --- 
 status: ok
 layout: post
-title: "Vuoi essere più prodittivo? Dividi il tuo giorno in tre modalità"
+title: "Vuoi essere più produttivo? Dividi il tuo giorno in tre modalità"
 meta: {}
 tags: 
 - lifehacking
