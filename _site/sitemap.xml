@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://mgpf.it/</loc>
-    <lastmod>2011-12-03T12:18:23+01:00</lastmod>
+    <lastmod>2011-12-05T21:52:49+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://mgpf.it/about.html</loc>
-    <lastmod>2011-12-03T12:18:23+01:00</lastmod>
+    <lastmod>2011-12-05T21:52:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://mgpf.it/archive.html</loc>
-    <lastmod>2011-12-03T12:18:23+01:00</lastmod>
+    <lastmod>2011-12-05T21:52:49+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   
+  <url>
+    <loc>http://mgpf.it/2011/12/05/Dividi-il-tuo-giorno-in-tre-modalita.html</loc>
+    <lastmod>2011-12-05T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+   </url>
+   
   <url>
     <loc>http://mgpf.it/2011/12/03/Evento-lavoro-mobile.html</loc>
     <lastmod>2011-12-03T00:00:00+01:00</lastmod>
