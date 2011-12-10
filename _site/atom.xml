@@ -3,12 +3,32 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2011-12-09T22:03:30+01:00</updated>
+ <updated>2011-12-10T12:54:52+01:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>Italia: tante startup, brutto ecosistema, politici incompetenti</title>
+   <link href="http://mgpf.it/2011/12/10/Italia-tante-startup-brutto-ecosistema-politici-incompetenti.html"/>
+   <updated>2011-12-10T00:00:00+01:00</updated>
+   <id>http://mgpf.it/2011/12/10/Italia-tante-startup-brutto-ecosistema-politici-incompetenti</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;&amp;ldquo;Italy is actually a country with lot of talented human resources, who often unfortunately decide to move abroad to have better opportunities.&lt;br /&gt;
+The country has lot of positive forces in technology but it does not have yet a startup ecosystem able to give support to entrepreneurs and innovating companies. This is mostly due to the high level of incompetency of our political class that ignores completely the digital economy even if it is growing at a pace of 10% per year while the rest of the economy is nearly in recession&amp;rdquo; &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Parole del &lt;a href=&quot;http://www.mobisights.com/2011/12/10/interview-leweb-startup-competition-winner-beintoo-ceo/&quot;&gt;CEO di Beintoo&lt;/a&gt; &lt;em&gt;(gli italiani di Fruit Ninja!)&lt;/em&gt; che ha vinto a LeWeb.&lt;br /&gt;
+Parole &lt;em&gt;sante&lt;/em&gt;, aggiungerei&amp;hellip;&lt;/p&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>Come derubare una banca, raccondata dal ladro</title>
@@ -265,33 +285,6 @@ Ma, e sottolineo &lt;strong&gt;ma&lt;/strong&gt;, si era dimenticato un piccolo 
 
 &lt;p&gt;Estote Parati. &lt;/p&gt;
 
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Do your work, than step back</title>
-   <link href="http://mgpf.it/2011/10/22/do-your-work-then-step-back.html"/>
-   <updated>2011-10-22T00:00:00+02:00</updated>
-   <id>http://mgpf.it/2011/10/22/do-your-work-then-step-back</id>
-   <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;“Fill your bowl to the brim&lt;br /&gt;
-and it will spill.&lt;br /&gt;
-Keep sharpening your knife&lt;br /&gt;
-and it will blunt.&lt;br /&gt;
-Chase after money and security&lt;br /&gt;
-and your heart will never unclench.&lt;br /&gt;
-Care about people’s approval&lt;br /&gt;
-and you will be their prisoner.&lt;br /&gt;
-&lt;strong&gt;Do your work, then step back.&lt;br /&gt;
-The only path to serenity.&lt;/strong&gt;”&lt;br /&gt;
-&lt;em&gt;(Lao Tzu)&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;E ho anche trovato un nuovo feed da seguire per il minimal &lt;a href=&quot;http://minimalmac.com&quot;&gt;MinimalMac&lt;/a&gt;&lt;/p&gt;
 </content>
    <author>
      <name>Matteo Flora</name>
