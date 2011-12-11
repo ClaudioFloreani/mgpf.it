@@ -5,7 +5,7 @@ layout: default
 <article class="post">
 {{ content }}
 <a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-url="http://mgpf.it/{{ page.url }}" data-count="horizontal" data-via="mgpf">&nbsp;</a>
-<a class="facebook-share-button" name="fb_share" type="button_count" share_url="http://mgpf.it/{{ page.url }}?ref=fb-share"></a></li>
+<a class="facebook-share-button" name="fb_share" type="button_count" share_url="http://mgpf.it/{{ page.url }}?ref=fb-share"></a>
 <time class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
   {{ page.date | date: "%d/%m/%Y" }} com i tag:
 	{% for tag in page.tags %}
