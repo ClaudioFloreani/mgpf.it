@@ -1,7 +1,7 @@
 --- 
 status: ok
 layout: post
-title: "Come derubare una banca, raccondata dal ladro"
+title: "Come derubare una banca, raccontata dal ladro"
 meta: {}
 tags: 
 - awesome

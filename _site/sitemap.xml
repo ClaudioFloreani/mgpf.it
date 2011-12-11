@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://mgpf.it/</loc>
-    <lastmod>2011-12-10T12:54:52+01:00</lastmod>
+    <lastmod>2011-12-11T11:14:14+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://mgpf.it/about.html</loc>
-    <lastmod>2011-12-10T12:54:52+01:00</lastmod>
+    <lastmod>2011-12-11T11:14:14+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://mgpf.it/archive.html</loc>
-    <lastmod>2011-12-10T12:54:52+01:00</lastmod>
+    <lastmod>2011-12-11T11:14:14+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   
+  <url>
+    <loc>http://mgpf.it/2011/12/11/E+-se-Londra-fosse-occupata-da-israele.html</loc>
+    <lastmod>2011-12-11T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+   </url>
+   
   <url>
     <loc>http://mgpf.it/2011/12/10/Italia-tante-startup-brutto-ecosistema-politici-incompetenti.html</loc>
     <lastmod>2011-12-10T00:00:00+01:00</lastmod>
