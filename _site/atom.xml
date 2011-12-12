@@ -3,12 +3,35 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2011-12-11T15:07:28+01:00</updated>
+ <updated>2011-12-12T11:59:47+01:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>Russia senza stupore: dalla manifestazione digitale alle DarkNet</title>
+   <link href="http://mgpf.it/2011/12/12/Russia-blocca-comunicazioni-dovrebbe-stupirmi.html"/>
+   <updated>2011-12-12T00:00:00+01:00</updated>
+   <id>http://mgpf.it/2011/12/12/Russia-blocca-comunicazioni-dovrebbe-stupirmi</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Gli organizzatori della manifestazione accusano il Cremlino di aver intenzionalmente intasato la rete cellulare a Mosca, eliminando il blocco solo a protesta finita. L’ennesimo esempio di come il governo russo cerchi di indebolire l’opposizione rendendo difficoltoso l’utilizzo del suo principale strumento per coordinarsi. La scorsa settimana, migliaia di profili su Twitter avevano inviato una enorme quantità di messaggi identici per impedire le comunicazioni tra i manifestanti antigovernativi. E secondo gli oppositori, il sistema sarebbe stato messo in piedi da funzionari governativi. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Non so per quale motivo questa comunicazione, presa da un bell&amp;rsquo;&lt;a href=&quot;http://www.ilpost.it/2011/12/12/la-russia-blocca-internet/&quot;&gt;articolo divulgativo de Il Post&lt;/a&gt; dovrebbe in qualche modo sorprendermi.&lt;br /&gt;
+E&amp;rsquo; chiaro e lampante come al mutare delle modalità di protesta mutino i sistemi di contenumento della manifestazione. Ad un diffondersi dell&amp;rsquo;uso dei Social Media e delle telecomunicazioni come mezzi di protesta è chiaro che la nuova frontiera dei &amp;ldquo;celerini antisommossa&amp;rdquo; è prettamente digitale, con l&amp;rsquo;utilizzo di bot twitter e il jamming delle comunicazioni digitali.&lt;br /&gt;
+Anche per questo diventa sempre più fondamentale, nel mio modo di vedere le cose, la creazione e l&amp;rsquo;adozione di metodi alternativi di diffusione digitale, siano essi basati su stack bluetooth o su altre modalità di covert communication. Da questo punto di vista la creazione di &lt;a href=&quot;http://www.reddit.com/r/darknetplan/comments/mc7g2/what_is_the_darknet_plan_how_do_i_get_involved/&quot;&gt;DarkNet&lt;/a&gt;, perchè di questo stiamo parlando, di &lt;a href=&quot;http://www.reddit.com/r/darknetplan/comments/mc7g2/what_is_the_darknet_plan_how_do_i_get_involved/&quot;&gt;reti nella rete&lt;/a&gt; rappresenta forse l&amp;rsquo;unica modalità di elusione delle barriere protettive.&lt;br /&gt;
+Ma, ancora una volta, è solo un singolo pezzo nella partita tra manifestanti e polizia: se la manifestazione fisica viene bloccata, si passa alla manifestazione digitale. Probabilmente Occupy 2015 sarà, invece, basata sulla diffusione di news su Darknet?&lt;/p&gt;
+
+&lt;p&gt;Estote parati. &lt;/p&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>E se Londra fosse occupata da Israele?</title>
@@ -199,57 +222,6 @@ L&amp;rsquo;utente dichiara di sollevare da ogni responsabilità i gestori, gli 
 &lt;p&gt;Che detto da un giornalista e conduttore radiofonico ha tutta la verve e l&amp;rsquo;autorevolezza del caso.&lt;/p&gt;
 
 &lt;p&gt;Thumbs up!&lt;/p&gt;
-
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Non usate Google se siete una ONG</title>
-   <link href="http://mgpf.it/2011/10/23/non.usate-google-se-siete-una-ong.html"/>
-   <updated>2011-10-23T00:00:00+02:00</updated>
-   <id>http://mgpf.it/2011/10/23/non.usate-google-se-siete-una-ong</id>
-   <content type="html">&lt;p&gt;Sono sempre molto restio a parlare di Google sul blog, soprattutto perché è noto come le mie opinioni siano di parte.&lt;br /&gt;
-Continuo a pensare che il &lt;em&gt;&amp;ldquo;do no evil&amp;rdquo;&lt;/em&gt; del loro motto sia in realtà una ipocrita dichiarazione che li obbliga solamente a non essere quelli che si ritrovano con la pistola in mano nel momento dell&amp;rsquo;omicidio. Nessuno però li costringe a non guardare dall&amp;rsquo;altra parte mentre le cose accadono. Vi è una profonda diversità etica tra &lt;em&gt;&amp;ldquo;do no evil&amp;rdquo;&lt;/em&gt; e &lt;em&gt;&amp;lsquo;do only good&amp;rsquo;&lt;/em&gt;, rappresentata principalmente dalla possibilità etica di trincerarsi dietro ad un &amp;ldquo;me lo ha detto lui&amp;rdquo; non meglio definito. &lt;/p&gt;
-
-&lt;p&gt;Il discorso predata sicuramente questo post: ricordo ancora la data del 10 dicembre del 2009 quando presso ISOLE di Reti in Via del Plebiscito 102 a Roma (esattamente sopra gli uffici del premier) Google organizzò un seminario di formazione all&amp;rsquo;uso dei servizi di Google riservato alle Associazioni per la tutela dei minori.  A parlare quel giorno Chiara de Servi, Gaetano Gargiulo, e Marco Pancini, che illustravano &lt;em&gt;&amp;ldquo;una serie di esempi pratici dell&amp;rsquo;utilizzo dei Google tools per potenziare la comunicazione online esterna ed interna delle Associazioni per la tutela dei minori&amp;rdquo;&lt;/em&gt;.  &lt;/p&gt;
-
-&lt;p&gt;Proprio in quella sede nelle domande finali (partecipavo come consulente di &lt;a href=&quot;http://www.telefonoarcobaleno.org/&quot;&gt;Telefono Arcobaleno&lt;/a&gt;) la mia domanda a Pancini era stata abbastanza diretta &lt;em&gt;&amp;ldquo;Come vi relazionate con Patriot Act ed Electronic Communications Privacy Act?&amp;rdquo;&lt;/em&gt;. La risposta del buon Marco Pancini, evasiva come la sua carica sempre lo obbliga a fare nonostante sia una ottima persona e sia estremamente competente, era stata la solita da &amp;ldquo;manuale delle PR di Google&amp;rdquo; e cioè &lt;em&gt;&amp;ldquo;Google rispetta la legge degli stati in cui opera&amp;rdquo;&lt;/em&gt;. Ok, daccordo.&lt;br /&gt;
-Ma, e sottolineo &lt;strong&gt;ma&lt;/strong&gt;, si era dimenticato un piccolo dettaglio: la legge in cui opera NON è quella italiana ed europea e, quindi, i diritti di questo lato dell&amp;rsquo;oceano non hanno valore per il gigante di Mountain View.  &lt;/p&gt;
-
-&lt;p&gt;E, novella cassandra, a distanza di due anni si presenta &lt;strong&gt;ESATTAMENTE il caso che avevo profetizzato&lt;/strong&gt;. Un attivista di progetti Open Source per la tutela della riservatezza delle conversazioni online, membro anche del Team di Sviluppo di &lt;a href=&quot;http://torproject.org&quot;&gt;TOR&lt;/a&gt; , il buon &lt;a href=&quot;http://en.wikipedia.org/wiki/Jacob_Appelbaum&quot;&gt;Jacob Appelbaum&lt;/a&gt; si ritrova tracciato dal Dipartimento di Giustizia &lt;strong&gt;senza alcun ordine di un giudice&lt;/strong&gt; e, soprattutto, &lt;strong&gt;senza che all&amp;rsquo;interessato fosse notificato&lt;/strong&gt;. L&amp;rsquo;ordinanza segreta, datata al gennaio del 2011, chiede a Google di consegnare la lista di tutti gli indirizzi IP collegati all’account Gmail (non il contenuto, anche se sarebbe stato interessante vedere come avrebbe reagito G).  &lt;/p&gt;
-
-&lt;p&gt;Sull&amp;rsquo;argomento &lt;a href=&quot;http://www.ilpost.it/2011/10/10/la-polizia-americana-e-le-caselle-email/&quot;&gt;Il Post&lt;/a&gt; offre un approfondito e interessantissimo &lt;a href=&quot;http://www.ilpost.it/2011/10/10/la-polizia-americana-e-le-caselle-email/&quot;&gt;articolo&lt;/a&gt; pieno di dettagli e di una completa cronistoria che vale sicuramente la pena di &lt;a href=&quot;http://www.ilpost.it/2011/10/10/la-polizia-americana-e-le-caselle-email/&quot;&gt;leggere per intero&lt;/a&gt;.  &lt;/p&gt;
-
-&lt;p&gt;Il Post si limita a considerare i risvolti della vicenda da un punto di vista principalmente legato al mercato americano, chiudendo con la considerazione:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Nel 2009, Google svelò che in sei mesi il Dipartimento di Giustizia degli Stati Uniti gli aveva chiesto 4.601 volte di accedere ai dati dei suoi utenti, e che il provider aveva dovuto acconsentire nel 94% dei casi.  &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ma il buon &lt;a href=&quot;http://www.mantellini.it/?p=15747&quot;&gt;Mantellini&lt;/a&gt; si sbilancia un po&amp;rsquo; di più con un post più rivelatore &lt;em&gt;(grassetto mio)&lt;/em&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Mi corre l’obbligo di segnalarvi che se le autorità americane avessero qualche curiosità sulla vostra casella Gmail, sui vostri contatti epistolari e sulle vostre navigazioni sul web, &lt;strong&gt;Google molto probabilmente acconsentirà a comunicarglieli senza che voi siate nemmeno informati e senza che un magistrato firmi alcunché al riguardo&lt;/strong&gt;, come è avvenuto nel caso dell’attivista di Tor e Wikileaks Jacob Appelbaum. Nella seconda metà del 2010 è del resto accaduto 4601 volte, nel 95% dei casi Google ha detto sì alle autorità americane. Ma non solo: &lt;strong&gt;nel medesimo periodo ci sono state 837 richieste analoghe dall’Italia. Nel 60% dei casi Google ha fornito i dati richiesti&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Due annotazioni, quindi:  &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Google collabora nel 95% dei casi con le autorità americane, ma solo nel 60% con quelle italiane&lt;/li&gt;
-  &lt;li&gt;Se avete le vostre mail su Google sappiate che la tutela italiana (con ordine di un magistrato) non conta nulla e che potreste essere sottoposti a controllo senza che nemmeno lo sappiate&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ora, sono ben conscio del fatto che per me, voi, Mantellini e forse anche il direttore de Il Post questo non costituisca un grandissimo problema, ma la cosa cambia radicalmente &lt;strong&gt;se siete una ONG o una Associazioni Umanitaria&lt;/strong&gt; soprattutto una di quelle che si batte per i diritti umani e che si trova a dover gestire, coordinare o anche solo proteggere collaboratori ed informatori. In questo caso sappiate che qualunque azione potreste intraprendere nel mondo sareste soggetti a controllo segreto e senza tutela da parte del Dipartimento di Stato americano. Voi e tutti i vostri collaboratori (e potenzialmente informatori) in tutto il mondo. &lt;strong&gt;Senza tutela di qualunque tipo.&lt;/strong&gt;  &lt;/p&gt;
-
-&lt;p&gt;Pensateci, prima di usare di vedere &lt;em&gt;&amp;ldquo;una serie di esempi pratici dell&amp;rsquo;utilizzo dei Google tools per potenziare la comunicazione online esterna ed interna delle Associazioni&amp;rdquo;&lt;/em&gt; che Google vi propone. Ma pensateci &lt;strong&gt;seriamente&lt;/strong&gt;.   &lt;/p&gt;
-
-&lt;p&gt;Ora rimane solo da capire se mi fermeranno alla frontiera, visto che eravamo ambedue random-contributors per il progetto &lt;a href=&quot;http://globaleaks.org&quot;&gt;GlobaLeaks&lt;/a&gt;. Non sarebbe &lt;a href=&quot;http://news.cnet.com/8301-27080_3-20023341-245.html&quot;&gt;la prima volta&lt;/a&gt; che accade a persone presenti nella sua contact list.  &lt;/p&gt;
-
-&lt;p&gt;Estote Parati.&lt;/p&gt;
 
 </content>
    <author>
