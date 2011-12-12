@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://mgpf.it/</loc>
-    <lastmod>2011-12-12T11:59:47+01:00</lastmod>
+    <lastmod>2011-12-12T21:45:33+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://mgpf.it/about.html</loc>
-    <lastmod>2011-12-12T11:59:47+01:00</lastmod>
+    <lastmod>2011-12-12T21:45:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://mgpf.it/archive.html</loc>
-    <lastmod>2011-12-12T11:59:47+01:00</lastmod>
+    <lastmod>2011-12-12T21:45:33+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3305,13 +3305,6 @@
   <url>
     <loc>http://mgpf.it/2007/01/22/roma-modena-brescia-conferenza-malware-con-landesk.html</loc>
     <lastmod>2007-01-22T00:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-   </url>
-   
-  <url>
-    <loc>http://mgpf.it/2007/01/18/melta-toniolo-grande-fratello-e-matteo-flora.html</loc>
-    <lastmod>2007-01-18T00:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
    </url>
