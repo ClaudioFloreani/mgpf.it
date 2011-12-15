@@ -4,8 +4,7 @@ layout: default
 <h2 id="intro">{{ page.title }}</h2>
 <article class="post">
 {{ content }}
-<a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-url="http://mgpf.it/{{ page.url }}" data-count="horizontal" data-via="mgpf">&nbsp;</a>
-<a class="facebook-share-button" name="fb_share" type="button_count" share_url="http://mgpf.it/{{ page.url }}?ref=fb-share"></a>
+<div class="fb-like" data-href="http://mgpf.it/{{ post.url }}"  data-send="true" data-width="640" data-show-faces="false" data-font="lucida grande"></div>
 {% include related.html %}
 <time class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
   {{ page.date | date: "%d/%m/%Y" }} con tag:
