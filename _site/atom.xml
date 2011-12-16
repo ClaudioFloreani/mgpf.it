@@ -3,12 +3,40 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2011-12-15T22:48:07+01:00</updated>
+ <updated>2011-12-16T08:50:02+01:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>Il drone americno? Catturato con spoofing del sistema GPS</title>
+   <link href="http://mgpf.it/2011/12/16/Il-drone-americano-atterrato-hackerando-le-coordinate-gps.html"/>
+   <updated>2011-12-16T00:00:00+01:00</updated>
+   <id>http://mgpf.it/2011/12/16/Il-drone-americano-atterrato-hackerando-le-coordinate-gps</id>
+   <content type="html">&lt;p&gt;Pare che il drone atterrato dagli iraniani &lt;a href=&quot;http://www.theregister.co.uk/2011/12/08/iran_footage_captured_us_spy_drone/&quot;&gt;la scorsa settimana&lt;/a&gt; sia stato catturato manipolando dall&amp;rsquo;esterno il sistema GPS dell&amp;rsquo;apparecchio con lo spoofing delle coordinate, giochetto che ha convinto il drone di trovarsi in suolo amico ed aver completato la missione.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;articolo del &lt;a href=&quot;http://www.csmonitor.com/World/Middle-East/2011/1215/Exclusive-Iran-hijacked-US-drone-says-Iranian-engineer&quot;&gt;Christian Science Monitor&lt;/a&gt; cita un informatore anonimo iraniano, un ingegnere, che pare stia studiando il veicolo (per inciso un &lt;a href=&quot;http://www.airforce-technology.com/projects/rq-170-sentinel/&quot;&gt;RQ-170&lt;/a&gt; Sentinel) che è stato catturato sorvolando il territorio itaniano. A sua detta lo spoofing delle coordinate ha ha consentito di &amp;ldquo;farlo atterrare da solo dove volevamo, senza dover craccare il sistema di comunicazione.&lt;/p&gt;
+
+&lt;p&gt;Che la cosa fosse possibile pare noto &lt;a href=&quot;http://www.homelandsecurity.org/bulletin/Dual%20Benefit/warner_gps_spoofing.html&quot;&gt;almeno dal 2003&lt;/a&gt; titled &lt;a href=&quot;http://www.homelandsecurity.org/bulletin/Dual%20Benefit/warner_gps_spoofing.html&quot;&gt;GPS Spoofing Countermeasures&lt;/a&gt;  e cita proprio come esempio:  &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A more pernicious attack involves feeding the GPS receiver fake GPS signals so that it believes it is located somewhere in space and time that it is not,” the report states. “This &amp;lsquo;spoofing&amp;rsquo; attack is more elegant than jamming because it is surreptitious.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In una recente conf di sicurezza ad Ottobre, inoltre, è apparso un &lt;a href=&quot;http://www.syssec.ethz.ch/research/ccs139-tippenhauer.pdf&quot;&gt;paper (PDF)&lt;/a&gt; con tutti i dettali necessati per implementare il sistema di atterraggio arbitrario. Stando alla voce ufficiale dell&amp;rsquo;esercito americano, ovviamente, si tratterebbe di un mero malfunzionamento, ma resta da capire qualora questa fosse la realtà come mai il drone appare in condizioni quasi perfette (invece che schiantato).&lt;/p&gt;
+
+&lt;p&gt;Certo che gli Iraniani, dopo l&amp;rsquo;affaire Stexnet, pare abbiamo trovato un modo più che dignitoso di rifarsi: catturando il pezzo di tecnologia più avanzato realizzato ad oggi dagli americani. E probabilmente, a breve, clonandolo.&lt;/p&gt;
+
+&lt;p&gt;Estote parati, cyberwar is coming&amp;hellip;&lt;/p&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>CalcioLink, Google, Mediaset: niente di nuovo sotto il sole</title>
@@ -177,56 +205,6 @@ A good way to prevent such insanity is to change the way you think. Try this: &l
 
 &lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;http://www.youtube-nocookie.com/embed/_TBd-UCwVAY&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 &lt;!-- auto youtube --&gt;
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Un'idea per un Access Point VERAMENTE cattivo</title>
-   <link href="http://mgpf.it/2011/10/30/un-access-point-veramente-cattivo-mitm.html"/>
-   <updated>2011-10-30T00:00:00+02:00</updated>
-   <id>http://mgpf.it/2011/10/30/un-access-point-veramente-cattivo-mitm</id>
-   <content type="html">&lt;p&gt;Era il 2007 quando pubblicavo il mio &lt;a href=&quot;http://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli&quot;&gt;articolo&lt;/a&gt; sul Wardriving a Milano e realizzavo il filmato qui sotto:&lt;/p&gt;
-
-&lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;http://www.youtube-nocookie.com/embed/0MMxho6zI48&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;!-- auto youtube --&gt;
-
-&lt;p&gt;Il testo completo dell&amp;rsquo;articolo è disponibile &lt;a href=&quot;http://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli&quot;&gt;online&lt;/a&gt; negli archivi appena salvati di &lt;a href=&quot;http://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli&quot;&gt;lastknight.com&lt;/a&gt;, insieme alle &lt;a href=&quot;http://www.slideshare.net/lastknight/wardriving-milano&quot;&gt;slides&lt;/a&gt; (effettivamente molto divertenti) ed a un po&amp;rsquo; di informazioni e fotografie divertenti dell&amp;rsquo;apparato da &lt;a href=&quot;http://mgpf.it/2007/10/04/wardriving-a-milano-warbiking-nella-metropoli&quot;&gt;warbiking&lt;/a&gt;.  &lt;/p&gt;
-
-&lt;p&gt;In quella sede avevo anche, per gioco, aperto un Access Point libero (dal nome &amp;ldquo;Free Internet&amp;rdquo;) cche non faceva altro che dare connessione sniffando password e metriche sui dati. Per vedere quanta gente si sarebbe loggata. Ed, effettivamente, ve n&amp;rsquo;era stata un bel po&amp;rsquo; :)  &lt;/p&gt;
-
-&lt;p&gt;La mancanza di tempo mi spinge a pubblicare liberamente l&amp;rsquo;idea malvagia (che rimarrà da oggi in poi nel tag &amp;ldquo;&lt;a href=&quot;/tags/evil-ideas&quot;&gt;evil-ideas&lt;/a&gt;&amp;rdquo;) che mi frullava per la testa sperando che qualcuno adotti questa idea orfana di tempo e si diverta come è giusto che sia e come meriterebbe una vision così &lt;em&gt;bastarda&lt;/em&gt; come questa&amp;hellip;  &lt;/p&gt;
-
-&lt;p&gt;La scorsa volta mi sono messo ad aprire un nodo e ad anonimizzare i risultati dell&amp;rsquo;analisi, così per non incappare in scomodissimi problemi legali. Ma è possibile farlo legalmente? Secondo me quasi, ma chiedo aiuto ad un po&amp;rsquo; di amici avvocati per i commenti (aggiungeteli qui in coda) alla metodologia che qui segnalo.  &lt;/p&gt;
-
-&lt;p&gt;In pratica: la scorsa volta &amp;ldquo;ingannavo&amp;rdquo; gli utenti non esplicitando il mio intento. Stavolta vorrei non solamente aprire un accesso point wireless, non solamente chiamarlo &amp;ldquo;Free-Internet&amp;rdquo; come la scorsa volta, ma chiedere direttamente il consenso per:  &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Intercettazione del traffico  &lt;/li&gt;
-  &lt;li&gt;Archiviazione delle Password di accesso  &lt;/li&gt;
-  &lt;li&gt;Pubblicazione delle Password di accesso su una pagina web  &lt;/li&gt;
-  &lt;li&gt;Impersonificazione dell&amp;rsquo;utente e posting di contenuti a nome suo  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;IN pratica l&amp;rsquo;idea è quella di utilizzare un sistema basilare di Captive Portal che RICHIEDA ESPLICITAMENTE all&amp;rsquo;utente di approvare, tramite apposizione di &amp;ldquo;firma&amp;rdquo; in forma di riscrittura nome e cognome, un &lt;em&gt;Regolamento di utilizzo&lt;/em&gt; ed esplicitamente richiedere in un secondo passaggio la approvazione delle eventuali &lt;em&gt;clausole vessatorie&lt;/em&gt;.&lt;br /&gt;
-Il &lt;em&gt;Regolamento di utilizzo&lt;/em&gt; sarebbe pubblicato in una pagina separata con un link &amp;ldquo;leggi il regolamento&amp;rdquo; o in una textarea che non riporti nulla di significativo nelle prime righe. Ma cosa include questo &amp;ldquo;Regolamento di utilizzo*? Beh, un paragrafo come questo:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&amp;ldquo;Mediante l&amp;rsquo;accettazione di questo Regolamento&amp;rdquo; l&amp;rsquo;utente comprende e autiorzza che questa navigazione rappresenta un sistema di testing delle credenziali e dei meccanismi di furto di identità online e &lt;em&gt;non deve per qualunque ragione&lt;/em&gt; essere utilizzata in differenti modalità e/o per la navigazione internet personale o lavorativa.&lt;br /&gt;
-Questo servizio rappresenta una proof-of-concept dei pericoli in cui possono intercorrere gli utenti internet incauti ed il solo scopo del servizio è quello di essere utilizzato con account di prova per dimostrare la pericolosità di tali condotte.&lt;br /&gt;
-L&amp;rsquo;utente comprende e acconsente che suoi dati di navigazione e le sue credenziali vengano esposti al pubblico e che la sua navigazione sarà soggetta a controllo, manomissione, alterazione. I dati di accesso verranno collezionati e spediti alla pagina www.xxxxx.com e saranno pubblicamente accessibili da chiunque. Inoltre il sistema si collegherà a ogni servizio web di cui recupererà dati sottraendo link, contenuti e pubblicando contenuto casuale in ogni social-network e/o ogni servizio mail di cui rileverà le credenziali.&lt;br /&gt;
-L&amp;rsquo;utente dichiara di sollevare da ogni responsabilità i gestori, gli installatori e gli utenti del servizio da ogni responsabilità su danni che potrebbero crearsi dall&amp;rsquo;utilizzo del servizio.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sono veramente curioso di sapere cosa ne pensano avvocati vari e se anche voi, come me, pensate che tutti accetteranno questo Regolamento di utilizzo senza degnarlo di uno sguardo, un po&amp;rsquo; come milioni di italiani facevano per le suonerie in abbonamento.  &lt;/p&gt;
-
-&lt;p&gt;E se veramente lo fate fatemelo sapere :)  &lt;/p&gt;
-
-&lt;p&gt;Estote parati.&lt;/p&gt;
-
 </content>
    <author>
      <name>Matteo Flora</name>
