@@ -1,7 +1,7 @@
 --- 
 status: ok
 layout: post
-title: "Il drone americno? Catturato con spoofing del sistema GPS"
+title: "Il drone americano? Catturato con spoofing del sistema GPS"
 meta: {}
 tags: 
 - forensic
