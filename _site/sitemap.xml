@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://mgpf.it/</loc>
-    <lastmod>2011-12-17T21:58:19+01:00</lastmod>
+    <lastmod>2012-01-01T14:16:31+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://mgpf.it/about.html</loc>
-    <lastmod>2011-12-17T21:58:19+01:00</lastmod>
+    <lastmod>2012-01-01T14:16:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://mgpf.it/archive.html</loc>
-    <lastmod>2011-12-17T21:58:19+01:00</lastmod>
+    <lastmod>2012-01-01T14:16:31+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   
+  <url>
+    <loc>http://mgpf.it/2012/01/01/Il-mio-anno-in-14-libri.html</loc>
+    <lastmod>2012-01-01T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+   </url>
+   
   <url>
     <loc>http://mgpf.it/2011/12/17/Siddharta-si-muove-diritto-verso-la-meta.html</loc>
     <lastmod>2011-12-17T00:00:00+01:00</lastmod>
