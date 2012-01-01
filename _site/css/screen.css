@@ -60,13 +60,12 @@ h3 {
 }
 li {
 	margin-bottom: 5px;
-	font-style: italic;
 }
 p, ul, ol { margin-bottom: 18px; }
 ul, ol {
   margin-left: 2em;
 }
-ul { list-style-type: disc; font-size: 1em; }
+ul { list-style-type: disc; font-size: 0.9em; }
 /* html5 */
 header, footer, nav, article { display: block; }
 header h2 {
