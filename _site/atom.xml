@@ -3,12 +3,34 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2012-01-01T14:33:10+01:00</updated>
+ <updated>2012-01-04T11:01:25+01:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>Un malware cancella i dati: il processo deve andare in appello</title>
+   <link href="http://mgpf.it/2012/01/04/Un-malware-cacella-i-dati-processo-da-rifare.html"/>
+   <updated>2012-01-04T00:00:00+01:00</updated>
+   <id>http://mgpf.it/2012/01/04/Un-malware-cacella-i-dati-processo-da-rifare</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;A convicted murderer has been granted a retrial after a stenographer’s backup record of his trial was apparently destroyed by a malware infection.&lt;br /&gt;
+(&amp;hellip;)
+When the Appeal Court discovered that almost no records of the trial still existed, the judge the struck down the conviction and ordered a retrial. &lt;em&gt;(&lt;a href=&quot;http://news.techworld.com/security/3327502/murder-retrial-ordered-after-court-records-destroyed-by-virus/&quot;&gt;fonte&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Interessante sviluppo per il mondo del crimine informatico: se i record e le trascrizioni del processo si cancellano &amp;ldquo;misteriosamente&amp;rdquo; con un malware che stranamente cancella solo quei dati il processo è da rifare.  &lt;/p&gt;
+
+&lt;p&gt;Nuove prospettive del cybercrimine?  &lt;/p&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>Il mio 2011 in 14 libri</title>
@@ -248,25 +270,6 @@ Parole &lt;em&gt;sante&lt;/em&gt;, aggiungerei&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;Su &lt;a href=&quot;http://www.daringtodo.com/lang/it/2011/12/07/massimo-giacomini-leconomia-e-il-coraggio-di-cambiare/&quot;&gt;DaringToDo&lt;/a&gt; c&amp;rsquo;è un bel contributo del mio socio &lt;a href=&quot;http://www.daringtodo.com/lang/it/2011/12/07/massimo-giacomini-leconomia-e-il-coraggio-di-cambiare/&quot;&gt;Massimo&lt;/a&gt;, editore di &lt;a href=&quot;http://www.daringtodo.com/lang/it/2011/12/07/massimo-giacomini-leconomia-e-il-coraggio-di-cambiare/&quot;&gt;DaringToDo&lt;/a&gt;, assolutamente da leggiucchiare.&lt;br /&gt;
 Altamente consigliato.  &lt;/p&gt;
-
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Vuoi essere più produttivo? Dividi il tuo giorno in tre modalità</title>
-   <link href="http://mgpf.it/2011/12/05/Dividi-il-tuo-giorno-in-tre-modalita.html"/>
-   <updated>2011-12-05T00:00:00+01:00</updated>
-   <id>http://mgpf.it/2011/12/05/Dividi-il-tuo-giorno-in-tre-modalita</id>
-   <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;The loop must be broken.&lt;br /&gt;
-A good way to prevent such insanity is to change the way you think. Try this: &lt;strong&gt;budget your thinking time&lt;/strong&gt;. Rather than letting your mind wander uncontrollably throughout your day, &lt;strong&gt;allocate&lt;/strong&gt; a specific time to &lt;strong&gt;be thinking&lt;/strong&gt;, to &lt;strong&gt;be doing&lt;/strong&gt;, and to &lt;strong&gt;be relaxing&lt;/strong&gt;.  &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Su &lt;a href=&quot;http://thorie.com/blog/reduce-stress-with-3-operational-modes.htm&quot;&gt;http://thorie.com/&lt;/a&gt; c&amp;rsquo;è un bellissimo post dal titolo &amp;ldquo;&lt;a href=&quot;http://thorie.com/blog/reduce-stress-with-3-operational-modes.htm&quot;&gt;Reduce stress with 3 operational modes&lt;/a&gt;&amp;rdquo;  &lt;/p&gt;
 
 </content>
    <author>
