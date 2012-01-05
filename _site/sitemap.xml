@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://mgpf.it/</loc>
-    <lastmod>2012-01-04T11:01:25+01:00</lastmod>
+    <lastmod>2012-01-05T17:20:38+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://mgpf.it/about.html</loc>
-    <lastmod>2012-01-04T11:01:25+01:00</lastmod>
+    <lastmod>2012-01-05T17:20:38+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://mgpf.it/archive.html</loc>
-    <lastmod>2012-01-04T11:01:25+01:00</lastmod>
+    <lastmod>2012-01-05T17:20:38+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   
+  <url>
+    <loc>http://mgpf.it/2012/01/05/Sabato-su-radio-24-matteo-flora-a-2024.html</loc>
+    <lastmod>2012-01-05T00:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+   </url>
+   
   <url>
     <loc>http://mgpf.it/2012/01/04/Un-malware-cacella-i-dati-processo-da-rifare.html</loc>
     <lastmod>2012-01-04T00:00:00+01:00</lastmod>
