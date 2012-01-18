@@ -7,7 +7,7 @@ tags:
 - about-me
 - business
 - talk
-- radio
+- radio24
 ---
 La rivolta araba e il movimento mondiale degli indignados sono solo la punta dell’enorme iceberg della potenza dei Social Media nell’epoca dei nativi digitali. Così, al giorno d’oggi, per una buona strategia di marketing non si può prescindere dal capire quali sono le metodologie e gli strumenti migliori per conoscere, gestire, misurare e analizzare i contenuti generati dagli utenti. Questo significa sapere cosa si intende per **UGC lifecycle management**, un concetto che comprende i reami di *e-Reputation*, *e-Moderation*, *SocialCRM*, *Content Curation* e *IP-Protection*.  
   
