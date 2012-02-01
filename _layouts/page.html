@@ -5,13 +5,13 @@ layout: default
 <article class="post">
 {{ content }}
 <div class="fb-like" data-href="http://mgpf.it/{{ post.url }}"  data-send="true" data-width="640" data-show-faces="false" data-font="lucida grande"></div>
-{% include related.html %}
 <time class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
-  {{ page.date | date: "%d/%m/%Y" }} com i tag:
+  {{ page.date | date: "%d/%m/%Y" }} con i tag:
 	{% for tag in page.tags %}
 		<a href="/tag/{{ tag }}">{{ tag }}</a>
 	{% endfor %}
 </time>
+{% include related.html %}
 </article>
 <div id="disqus_thread"></div>
 {% include comments.html %}

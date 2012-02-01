@@ -4,13 +4,13 @@ layout: default
 <h2 id="intro">{{ page.title }}</h2>
 <article class="post">
 {{ content }}
-<div class="fb-like" data-href="http://mgpf.it/{{ post.url }}"  data-send="true" data-width="640" data-show-faces="false" data-font="lucida grande"></div>
-{% include related.html %}
+<div class="fb-like" data-href="http://mgpf.it/{{ page.url }}"  data-send="true" data-width="640" data-show-faces="false" data-font="lucida grande"></div>
 <time class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
   {{ page.date | date: "%d/%m/%Y" }} con tag:
 	{% for tag in page.tags %}
 		<a href="/tag/{{ tag }}">{{ tag }}</a>
 	{% endfor %}
 </time>
+{% include related.html %}
 </article>
 {% include comments.html %}
