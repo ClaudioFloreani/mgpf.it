@@ -3,7 +3,7 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2012-01-18T17:10:40+01:00</updated>
+ <updated>2012-02-02T00:22:51+01:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
@@ -11,7 +11,27 @@
  </author>
  
  <entry>
-   <title>Sopa E Diritti Dei Produttori Di Contenuti</title>
+   <title>WikiLeaks si sposta su Sealand</title>
+   <link href="http://mgpf.it/2012/02/02/Wikileaks-a-Sealand.html"/>
+   <updated>2012-02-02T00:00:00+01:00</updated>
+   <id>http://mgpf.it/2012/02/02/Wikileaks-a-Sealand</id>
+   <content type="html">&lt;p&gt;Che sia la soluzione definitiva alla persecuzione da parte degli USA? &lt;a href=&quot;http://wikileaks.org&quot;&gt;WikiLeaks&lt;/a&gt; decide di spostare i server su &lt;a href=&quot;http://en.wikipedia.org/wiki/Principality_of_Sealand&quot;&gt;SeaLand&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&amp;ldquo;Julian Assange&amp;rsquo;s investors are in the process of purchasing a boat to move WikiLeaks servers offshore in an attempt to evade prosecution from U.S. law enforcement, FoxNews.com has learned. Multiple sources within the hacker community with knowledge of day-to-day WikiLeaks activities say Assange&amp;rsquo;s financial backers have been working behind the scenes on the logistics of moving the servers to international waters&amp;hellip;”. &lt;em&gt;(link &lt;a href=&quot;http://yro.slashdot.org/story/12/01/31/1615249/wikileaks-to-ship-servers-to-micronation-of-sealand&quot;&gt;qui&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sarebbe un interessantissimo scenario che aprirebbe la rotta (pun intended) alla prima vera guerra nello spazio reale per una questione di cyberspazio.&lt;/p&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
+ 
+ <entry>
+   <title>SOPA: la mia posizione 'controcorrente'</title>
    <link href="http://mgpf.it/2012/01/18/SOPA-e-diritti-dei-produttori-di-contenuti.html"/>
    <updated>2012-01-18T00:00:00+01:00</updated>
    <id>http://mgpf.it/2012/01/18/SOPA-e-diritti-dei-produttori-di-contenuti</id>
@@ -255,26 +275,6 @@ A volte, per capire i problemi, serve &amp;ldquo;metterci nei panni&amp;rdquo; d
 
 &lt;iframe width=&quot;640&quot; height=&quot;480&quot; src=&quot;http://www.youtube-nocookie.com/embed/6UPqyy4_QWM&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 &lt;!-- auto youtube --&gt;
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Italia: tante startup, brutto ecosistema, politici incompetenti</title>
-   <link href="http://mgpf.it/2011/12/10/Italia-tante-startup-brutto-ecosistema-politici-incompetenti.html"/>
-   <updated>2011-12-10T00:00:00+01:00</updated>
-   <id>http://mgpf.it/2011/12/10/Italia-tante-startup-brutto-ecosistema-politici-incompetenti</id>
-   <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;&amp;ldquo;Italy is actually a country with lot of talented human resources, who often unfortunately decide to move abroad to have better opportunities.&lt;br /&gt;
-The country has lot of positive forces in technology but it does not have yet a startup ecosystem able to give support to entrepreneurs and innovating companies. This is mostly due to the high level of incompetency of our political class that ignores completely the digital economy even if it is growing at a pace of 10% per year while the rest of the economy is nearly in recession&amp;rdquo; &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Parole del &lt;a href=&quot;http://www.mobisights.com/2011/12/10/interview-leweb-startup-competition-winner-beintoo-ceo/&quot;&gt;CEO di Beintoo&lt;/a&gt; &lt;em&gt;(gli italiani di Fruit Ninja!)&lt;/em&gt; che ha vinto a LeWeb.&lt;br /&gt;
-Parole &lt;em&gt;sante&lt;/em&gt;, aggiungerei&amp;hellip;&lt;/p&gt;
-
 </content>
    <author>
      <name>Matteo Flora</name>

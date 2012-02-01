@@ -6,6 +6,7 @@ meta: {}
 tags: 
 - censura
 - ip
+- digital-freedom
 ---
 Che sia la soluzione definitiva alla persecuzione da parte degli USA? [WikiLeaks][0] decide di spostare i server su [SeaLand][1]:
 

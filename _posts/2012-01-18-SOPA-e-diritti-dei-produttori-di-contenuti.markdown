@@ -1,7 +1,7 @@
 --- 
 status: ok
 layout: post
-title: "SOPA: la mia posizione "controcorrente""
+title: "SOPA: la mia posizione 'controcorrente'"
 meta: {}
 tags: 
 - about-me
