@@ -3,12 +3,32 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2012-02-02T14:19:19+01:00</updated>
+ <updated>2012-02-06T17:25:06+01:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>GlobaLeaks: Hacker in campo contro i corrotti</title>
+   <link href="http://mgpf.it/2012/02/06/Hacker-in-campo-contro-i-corrotti.html"/>
+   <updated>2012-02-06T00:00:00+01:00</updated>
+   <id>http://mgpf.it/2012/02/06/Hacker-in-campo-contro-i-corrotti</id>
+   <content type="html">&lt;p&gt;Bell&amp;rsquo;approfondimento di Arturo Di Corinto che parla di &lt;a href=&quot;http://globaleaks.org&quot;&gt;GlobaLeaks&lt;/a&gt;, il framework open-source di whistleblowingm dalle pagine di &lt;a href=&quot;http://www.repubblica.it/tecnologia/2012/02/05/news/hacker_anti_corruzione-29393382/&quot;&gt;Repubblica&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&amp;ldquo;Si può dire che GlobaLeaks faccia della trasparenza progettuale la sua miglior difesa. GlobaLeaks è sofware libero e gratuito: &amp;ldquo;Anche tu puoi essere la persona dietro all&amp;rsquo;iniziativa, e chi non si fida può leggersi le valutazioni sulla sicurezza del codice che può trovare online&amp;rdquo;. GlobaLeaks è un progetto indipendente, senza un vertice e senza gerarchie, basato sull&amp;rsquo;autorevolezza degli sviluppatori e la bontà del codice. Ogni persona che vuole contribuire al progetto è ben accetta. Il gruppo di persone che lavora al progetto è formato da professionisti con competenze diverse e distribuite in diversi ambiti: esperti di programmazione, sicurezza, webdesign, grafica, ma anche manager, avvocati e giornalisti. L&amp;rsquo;unica cosa che accomuna queste persone è la forte convinzione che un incremento della trasparenza nel tessuto sociale possa portare ad un miglioramento collettivo. &amp;ldquo;GlobaLeaks é uno strumento di responsabilità civica.&amp;rdquo;”. &lt;em&gt;(link &lt;a href=&quot;http://www.repubblica.it/tecnologia/2012/02/05/news/hacker_anti_corruzione-29393382/&quot;&gt;qui&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bello, in topic, conciso e preciso. Bravo!&lt;/p&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>WikiLeaks si sposta su Sealand</title>
@@ -252,29 +272,6 @@ When the Appeal Court discovered that almost no records of the trial still exist
 &lt;p&gt;E al di la di tanto fantasiose rappresentazioni e interpretazioni, a nessuno è quindi ancora consentito sfruttare contenuti altrui.  &lt;/p&gt;
 
 &lt;p&gt;Nihil sub sole novi.&lt;/p&gt;
-
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Russia senza stupore: dalla manifestazione digitale alle DarkNet</title>
-   <link href="http://mgpf.it/2011/12/12/Russia-blocca-comunicazioni-dovrebbe-stupirmi.html"/>
-   <updated>2011-12-12T00:00:00+01:00</updated>
-   <id>http://mgpf.it/2011/12/12/Russia-blocca-comunicazioni-dovrebbe-stupirmi</id>
-   <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;Gli organizzatori della manifestazione accusano il Cremlino di aver intenzionalmente intasato la rete cellulare a Mosca, eliminando il blocco solo a protesta finita. L’ennesimo esempio di come il governo russo cerchi di indebolire l’opposizione rendendo difficoltoso l’utilizzo del suo principale strumento per coordinarsi. La scorsa settimana, migliaia di profili su Twitter avevano inviato una enorme quantità di messaggi identici per impedire le comunicazioni tra i manifestanti antigovernativi. E secondo gli oppositori, il sistema sarebbe stato messo in piedi da funzionari governativi. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Non so per quale motivo questa comunicazione, presa da un bell&amp;rsquo;&lt;a href=&quot;http://www.ilpost.it/2011/12/12/la-russia-blocca-internet/&quot;&gt;articolo divulgativo de Il Post&lt;/a&gt; dovrebbe in qualche modo sorprendermi.&lt;br /&gt;
-E&amp;rsquo; chiaro e lampante come al mutare delle modalità di protesta mutino i sistemi di contenumento della manifestazione. Ad un diffondersi dell&amp;rsquo;uso dei Social Media e delle telecomunicazioni come mezzi di protesta è chiaro che la nuova frontiera dei &amp;ldquo;celerini antisommossa&amp;rdquo; è prettamente digitale, con l&amp;rsquo;utilizzo di bot twitter e il jamming delle comunicazioni digitali.&lt;br /&gt;
-Anche per questo diventa sempre più fondamentale, nel mio modo di vedere le cose, la creazione e l&amp;rsquo;adozione di metodi alternativi di diffusione digitale, siano essi basati su stack bluetooth o su altre modalità di covert communication. Da questo punto di vista la creazione di &lt;a href=&quot;http://www.reddit.com/r/darknetplan/comments/mc7g2/what_is_the_darknet_plan_how_do_i_get_involved/&quot;&gt;DarkNet&lt;/a&gt;, perchè di questo stiamo parlando, di &lt;a href=&quot;http://www.reddit.com/r/darknetplan/comments/mc7g2/what_is_the_darknet_plan_how_do_i_get_involved/&quot;&gt;reti nella rete&lt;/a&gt; rappresenta forse l&amp;rsquo;unica modalità di elusione delle barriere protettive.&lt;br /&gt;
-Ma, ancora una volta, è solo un singolo pezzo nella partita tra manifestanti e polizia: se la manifestazione fisica viene bloccata, si passa alla manifestazione digitale. Probabilmente Occupy 2015 sarà, invece, basata sulla diffusione di news su Darknet?&lt;/p&gt;
-
-&lt;p&gt;Estote parati. &lt;/p&gt;
 
 </content>
    <author>
