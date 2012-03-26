@@ -18,10 +18,12 @@ Inoltre sono attivo in una serie di side-projects nel mondo delle startup e dell
 
 * Mentor nell'Incubatore romano [Enlabs](http://enlabs.com)
 * Membro del Comitato Scientifico di [OPSI](http://opsi-aip.it)
-* Random Contributor al progetto [GlobaLeaks](http://globaleaks.org)
-* Socio in varie ed eventuale startup
+* Random Contributor al progetto [GlobaLeaks](http://globaleaks.org) e Membro del CD dell'Associazione Hermes
+* Socio e Mentor in varie startup tra cui Agilis e Mindigno
 
-Sono stato (e quando posso sono tuttora) attivo nella divulgazione e potete trovare un po' di video dei miei talk alla [pagina dei video](/video.html).
+Sono stato (e quando posso sono tuttora) attivo nella divulgazione e potete trovare un po' di video dei miei talk alla [pagina dei video](/video.html). Sono anche spesso il consulente in studio della trasmissione di Rete 4 Quarto Grado, dove parlo di Computer Forensics in termini, spero, magari non forbiti ma comprensibili, spiegando come la tecnologia rappresenta oggi la nuova "impronta digitale" dietro a scenari e crimini moderni.  
+  
+Nel 2012 sono stato selezionato dal Governo Americano per partecipare all'International Visitors Leadership Program che seleziona personaggi nel mondo che possono portare maggiore consapevolezza e cooperazione tra gli Stati Uniti ed il Mondo. 
 
 ## Cosa ho fatto
 Fondo [The Fool][1], di cui sono socio e amministratore unico, dopo un trascorso più che decennale di consulenza nella qualifica principale di Security Evangelist e Perito Forense e di Parte, oltre che New Media Consultant. Che detto in parole povere significa:
