@@ -3,12 +3,34 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2012-02-06T17:25:06+01:00</updated>
+ <updated>2012-03-26T23:44:36+02:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>Siti pedofili: metodi stupidi ma estremamente efficienti per nascondere le immagini</title>
+   <link href="http://mgpf.it/2012/03/26/Metodi-stupidi-ma-estremamente-efficienti.html"/>
+   <updated>2012-03-26T00:00:00+02:00</updated>
+   <id>http://mgpf.it/2012/03/26/Metodi-stupidi-ma-estremamente-efficienti</id>
+   <content type="html">&lt;p&gt;Non è detto che i metodi meglio ingegnerizzati e complessi siano sempre i migliori. Alle volte invece sono proprio i metodi più stupidi che hanno un impatto maggiore ed incredibilmente efficiente:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Paedophile criminals are finding new ways to distribute images of child abuse, and hide them from the authorities, according to a new report by the Internet Watch Foundation (IWF).&lt;br /&gt;
+According to the IWF&amp;rsquo;s annual report, some child sexual abuse content is hidden on the web by the trick of displaying different content depending on whether a website is visited via a particular referring website or not. &lt;em&gt;(link &lt;a href=&quot;http://nakedsecurity.sophos.com/2012/03/26/paedophiles-hide-child-abuse-images-online/&quot;&gt;qui&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;L&amp;rsquo;utilizzo degli &lt;a href=&quot;http://en.wikipedia.org/wiki/HTTP_referer&quot;&gt;http referrer&lt;/a&gt; come metodologia di hiding dell&amp;rsquo;informazione pare essere stata rinvenuta in oltre 600 casi, secondo il &lt;a href=&quot;http://www.iwf.org.uk/about-iwf/news/post/321-internet-watch-foundation-report-highlights-new-abuse-of-online-technology&quot;&gt;report dell&amp;rsquo;IWF&lt;/a&gt;.&lt;br /&gt;
+Ed è, se ci pensate, una metodologia dannatamente efficiente.&lt;/p&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>GlobaLeaks: Hacker in campo contro i corrotti</title>
@@ -246,32 +268,6 @@ When the Appeal Court discovered that almost no records of the trial still exist
 &lt;p&gt;Certo che gli Iraniani, dopo l&amp;rsquo;affaire Stexnet, pare abbiamo trovato un modo più che dignitoso di rifarsi: catturando il pezzo di tecnologia più avanzato realizzato ad oggi dagli americani. E probabilmente, a breve, clonandolo.&lt;/p&gt;
 
 &lt;p&gt;Estote parati, cyberwar is coming&amp;hellip;&lt;/p&gt;
-
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>CalcioLink, Google, Mediaset: niente di nuovo sotto il sole</title>
-   <link href="http://mgpf.it/2011/12/15/CalcioLink-Google-Mediaset-niente-di-nuovo-sotto-il-sole.html"/>
-   <updated>2011-12-15T00:00:00+01:00</updated>
-   <id>http://mgpf.it/2011/12/15/CalcioLink-Google-Mediaset-niente-di-nuovo-sotto-il-sole</id>
-   <content type="html">&lt;p&gt;Leggo con un po&amp;rsquo; di stupore le &lt;strong&gt;interpretazioni&lt;/strong&gt; fantasiose che una serie di quotidiani online (e blog) stanno dando all&amp;rsquo;ordinanza CalcioLink, ovvero sia RTI vs. Google: l’ordinanza odierna non modifica affatto  il consolidato orientamento giurisprudenziale dei tribunali di Roma e Milano &lt;em&gt;(Libero.it, RojaDirecta.org, Justin.tv, Veoh.com, Yahoo Italia, LiveTv.ru&amp;hellip;)&lt;/em&gt; in materia di responsabilità dell’hosting provider in relazione a contenuti protetti da copyright.    &lt;/p&gt;
-
-&lt;p&gt;E per un motivo semplicissimo: &lt;a href=&quot;http://googlepolicyeurope.blogspot.com/2011/12/protecting-intermediaries-and-copyright.html&quot;&gt;Google stessa afferma&lt;/a&gt; che il tribunale avrebbe respinto la domanda di RTI &lt;strong&gt;“perché, a seguito di notifica a google, il contenuto che avrebbe violato il diritto d&amp;rsquo;autore era stato rimosso da blogger”&lt;/strong&gt;.  &lt;/p&gt;
-
-&lt;p&gt;In altri termini: la decisione si limita a prendere atto del fatto che dopo la diffida di RTI il contenuto illecitamente utilizzato è stato rimosso.  &lt;/p&gt;
-
-&lt;p&gt;Non c’è nessun &lt;strong&gt;precedente giurisprudenziale innovativo&lt;/strong&gt;, ma semmai la riproposizione che i contenuti protetti da diritto d&amp;rsquo;autore sono tutelati e vanno tutelati anche dagli Hosting Provider: Google stessa ha dovuto, infatti, rimuovere il Blog.  &lt;/p&gt;
-
-&lt;p&gt;Mi suggeriscono (grazie &lt;a href=&quot;http://geekylawyer.wordpress.com/&quot;&gt;Gianluca&lt;/a&gt;) inoltre come il riferimento poi a &lt;em&gt;Sabam/Scarlet&lt;/em&gt; paia capzioso visto che - come ormai sanno anche i sassi - Sabam non ha nulla a che fare con la &lt;strong&gt;responsabilità dell&amp;rsquo;hosting provider&lt;/strong&gt; o - peggio - del content service provider ma con quei soggetti che svolgono attività di mere conduit (sempre per rimanere nell&amp;rsquo;ambito del lessico del D. Lgs. 70/2003), ovvero dei &lt;strong&gt;fornitori di connettività&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;E al di la di tanto fantasiose rappresentazioni e interpretazioni, a nessuno è quindi ancora consentito sfruttare contenuti altrui.  &lt;/p&gt;
-
-&lt;p&gt;Nihil sub sole novi.&lt;/p&gt;
 
 </content>
    <author>
