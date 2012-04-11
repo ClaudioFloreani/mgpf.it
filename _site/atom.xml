@@ -3,12 +3,34 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2012-03-27T00:24:51+02:00</updated>
+ <updated>2012-04-11T23:39:04+02:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title></title>
+   <link href="http://mgpf.it/2012/04/12/In-difesa-di-Riccardo-Luna-SilkRoad-e-TOR.html"/>
+   <updated>2012-04-12T00:00:00+02:00</updated>
+   <id>http://mgpf.it/2012/04/12/In-difesa-di-Riccardo-Luna-SilkRoad-e-TOR</id>
+   <content type="html">&lt;p&gt;[1]: 
+[2]: 
+[3]: 
+[4]: 
+[5]: 
+[6]: 
+[7]: 
+[8]: 
+[9]: 
+[10]: &lt;/p&gt;
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>Siti pedofili: metodi stupidi ma estremamente efficienti per nascondere le immagini</title>
@@ -240,34 +262,6 @@ When the Appeal Court discovered that almost no records of the trial still exist
 &lt;p&gt;A volte trovi comunione di intenti ed affinità elettive dove meno te le aspetti.  &lt;/p&gt;
 
 &lt;p&gt;Welcome to &lt;a href=&quot;http://it.wikipedia.org/wiki/Sincronicit%C3%A0&quot;&gt;Sincronicity&lt;/a&gt;.&lt;/p&gt;
-
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Il drone americano? Catturato con spoofing del sistema GPS</title>
-   <link href="http://mgpf.it/2011/12/16/Il-drone-americano-atterrato-hackerando-le-coordinate-gps.html"/>
-   <updated>2011-12-16T00:00:00+01:00</updated>
-   <id>http://mgpf.it/2011/12/16/Il-drone-americano-atterrato-hackerando-le-coordinate-gps</id>
-   <content type="html">&lt;p&gt;Pare che il drone atterrato dagli iraniani &lt;a href=&quot;http://www.theregister.co.uk/2011/12/08/iran_footage_captured_us_spy_drone/&quot;&gt;la scorsa settimana&lt;/a&gt; sia stato catturato manipolando dall&amp;rsquo;esterno il sistema GPS dell&amp;rsquo;apparecchio con lo spoofing delle coordinate, giochetto che ha convinto il drone di trovarsi in suolo amico ed aver completato la missione.&lt;/p&gt;
-
-&lt;p&gt;L&amp;rsquo;articolo del &lt;a href=&quot;http://www.csmonitor.com/World/Middle-East/2011/1215/Exclusive-Iran-hijacked-US-drone-says-Iranian-engineer&quot;&gt;Christian Science Monitor&lt;/a&gt; cita un informatore anonimo iraniano, un ingegnere, che pare stia studiando il veicolo (per inciso un &lt;a href=&quot;http://www.airforce-technology.com/projects/rq-170-sentinel/&quot;&gt;RQ-170&lt;/a&gt; Sentinel) che è stato catturato sorvolando il territorio itaniano. A sua detta lo spoofing delle coordinate ha ha consentito di &amp;ldquo;farlo atterrare da solo dove volevamo, senza dover craccare il sistema di comunicazione.&lt;/p&gt;
-
-&lt;p&gt;Che la cosa fosse possibile pare noto &lt;a href=&quot;http://www.homelandsecurity.org/bulletin/Dual%20Benefit/warner_gps_spoofing.html&quot;&gt;almeno dal 2003&lt;/a&gt; titled &lt;a href=&quot;http://www.homelandsecurity.org/bulletin/Dual%20Benefit/warner_gps_spoofing.html&quot;&gt;GPS Spoofing Countermeasures&lt;/a&gt;  e cita proprio come esempio:  &lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“A more pernicious attack involves feeding the GPS receiver fake GPS signals so that it believes it is located somewhere in space and time that it is not,” the report states. “This &amp;lsquo;spoofing&amp;rsquo; attack is more elegant than jamming because it is surreptitious.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In una recente conf di sicurezza ad Ottobre, inoltre, è apparso un &lt;a href=&quot;http://www.syssec.ethz.ch/research/ccs139-tippenhauer.pdf&quot;&gt;paper (PDF)&lt;/a&gt; con tutti i dettali necessati per implementare il sistema di atterraggio arbitrario. Stando alla voce ufficiale dell&amp;rsquo;esercito americano, ovviamente, si tratterebbe di un mero malfunzionamento, ma resta da capire qualora questa fosse la realtà come mai il drone appare in condizioni quasi perfette (invece che schiantato).&lt;/p&gt;
-
-&lt;p&gt;Certo che gli Iraniani, dopo l&amp;rsquo;affaire Stexnet, pare abbiamo trovato un modo più che dignitoso di rifarsi: catturando il pezzo di tecnologia più avanzato realizzato ad oggi dagli americani. E probabilmente, a breve, clonandolo.&lt;/p&gt;
-
-&lt;p&gt;Estote parati, cyberwar is coming&amp;hellip;&lt;/p&gt;
 
 </content>
    <author>
