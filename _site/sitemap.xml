@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://mgpf.it/</loc>
-    <lastmod>2012-04-11T23:47:31+02:00</lastmod>
+    <lastmod>2012-04-13T14:10:59+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://mgpf.it/about.html</loc>
-    <lastmod>2012-04-11T23:47:31+02:00</lastmod>
+    <lastmod>2012-04-13T14:10:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>http://mgpf.it/archive.html</loc>
-    <lastmod>2012-04-11T23:47:31+02:00</lastmod>
+    <lastmod>2012-04-13T14:10:59+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   
+  <url>
+    <loc>http://mgpf.it/2012/04/13/Niente-trasparenza-sul-sito-del-Governo.html</loc>
+    <lastmod>2012-04-13T00:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+   </url>
+   
   <url>
     <loc>http://mgpf.it/2012/04/12/In-difesa-di-Riccardo-Luna-SilkRoad-e-TOR.html</loc>
     <lastmod>2012-04-12T00:00:00+02:00</lastmod>

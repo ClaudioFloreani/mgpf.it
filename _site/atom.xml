@@ -3,12 +3,54 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2012-04-11T23:47:31+02:00</updated>
+ <updated>2012-04-13T14:10:59+02:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>Niente trasparenza sul sito di Governo.it</title>
+   <link href="http://mgpf.it/2012/04/13/Niente-trasparenza-sul-sito-del-Governo.html"/>
+   <updated>2012-04-13T00:00:00+02:00</updated>
+   <id>http://mgpf.it/2012/04/13/Niente-trasparenza-sul-sito-del-Governo</id>
+   <content type="html">&lt;p&gt;Non riesco a celare l&amp;rsquo;enorme tristezza dopo che su Facebook &lt;a href=&quot;https://www.facebook.com/val3r10&quot;&gt;qualcuno&lt;/a&gt; mi segnala un peoblema che tanti altri, come il &lt;a href=&quot;http://www.pasteris.it/blog/2010/02/18/i-furbetti-della-trasparenza-e-la-manipolazione-dei-motori-di-ricerca/#.T4gWRmPrpH8&quot;&gt;buon Pasteris&lt;/a&gt; avevano già segnalato&amp;hellip;  &lt;/p&gt;
+
+&lt;p&gt;In pratica: sul sito del Governo il file &lt;a href=&quot;http://www.governo.it/robots.txt&quot;&gt;robots.txt&lt;/a&gt; (se non conoscete a cosa serve potete guardare &lt;a href=&quot;http://it.wikipedia.org/wiki/Robots.txt&quot;&gt;qui&lt;/a&gt;), riporta la seguente dicitura:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;User-agent: *&lt;br /&gt;
+Disallow: /Presidenza/operazione_trasparenza/dirigenti/&lt;br /&gt;
+Disallow: /Presidenza/operazione_trasparenza/consulenti/  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Cosa significa questo file, in apparenza inutile? Semplicemente è una direttiva data ai motori di ricerca (Google in primis) che si legge in questo modo:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Autorizza tutti ad indicizzarmi&lt;br /&gt;
+Non indicizzare NESSUNA delle pagine che riportani i compensi dirigenti&lt;br /&gt;
+Non indicizzare NESSUNA delle pagine che riportani i compensi dirigenti  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In altre parole, ok la trasparenza, ma non troppa, alrimenti rischiamo di morire soffocati da tropp trasparenza.  &lt;/p&gt;
+
+&lt;p&gt;Estote parati.  &lt;/p&gt;
+
+&lt;p&gt;P.S. per ulteriori approfondimenti c&amp;rsquo;è il bel post di &lt;a href=&quot;http://www.pasteris.it/blog/2010/02/18/i-furbetti-della-trasparenza-e-la-manipolazione-dei-motori-di-ricerca/#.T4gWRmPrpH8&quot;&gt;Vittorio Pasteris&lt;/a&gt; che citavo più sopra.  &lt;/p&gt;
+
+&lt;p&gt;[5]: 
+[6]: 
+[7]: 
+[8]: 
+[9]: 
+[10]:&lt;/p&gt;
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>In difesa di Riccardo Luna: da SilkRoad a TOR</title>
@@ -276,28 +318,6 @@ When the Appeal Court discovered that almost no records of the trial still exist
 &lt;/ul&gt;
 
 &lt;p&gt;Welcome to &lt;strong&gt;2012&lt;/strong&gt;. Buon cammino.&lt;/p&gt;
-
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>La determinazione di Siddharta per compiere la magia</title>
-   <link href="http://mgpf.it/2011/12/17/Siddharta-si-muove-diritto-verso-la-meta.html"/>
-   <updated>2011-12-17T00:00:00+01:00</updated>
-   <id>http://mgpf.it/2011/12/17/Siddharta-si-muove-diritto-verso-la-meta</id>
-   <content type="html">&lt;p&gt;Se non leggete il blog di &lt;a href=&quot;http://www.oscardimontigny.it/la-cura-12-la-strategia-della-paura.html&quot;&gt;Oscar di Montigny&lt;/a&gt; vi perdete molto. E non aspettatevi di sentire discorrere del suo ruolo in Mediolanum o di imprenditoria e finanza. Aspettatevi, invece, di lasciarvi affascinare da percorsi di ricerca del sè e di filosofie del mondo interiore. Si &lt;a href=&quot;http://www.oscardimontigny.it/oscar_di_montigny&quot;&gt;descrive da solo&lt;/a&gt; meglio di quanto sia in grado di fare io, e nel &lt;a href=&quot;http://www.oscardimontigny.it/oscar_di_montigny&quot;&gt;post di oggi&lt;/a&gt; ricorda un brano a me molto caro:  &lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Herman Hesse in “Siddharta” fa dire a colui che poi diventerà il Buddha “Se tu getti una pietra nell’acqua, essa si affretta per la via più breve fino al fondo. E così è di Siddharta quando ha una meta, un proposito. Siddharta non fa nulla. Siddharta pensa, aspetta, digiuna, ma passa attraverso le cose del mondo come una pietra attraverso l’acqua, senza far nulla, senza agitarsi: viene scagliato, ed egli si lascia cadere. La sua meta lo tira a sé, poiché egli non conserva nulla nell’anima propria che potrebbe contrastare a questa meta. Questo è ciò che gli stolti chiamano magia, credendo che sia opera dei demoni. &lt;strong&gt;Ognuno può compiere opera di magia, ognuno può raggiungere i propri fini, se sa pensare, se sa aspettare, se sa digiunare.&lt;/strong&gt;”  &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A volte trovi comunione di intenti ed affinità elettive dove meno te le aspetti.  &lt;/p&gt;
-
-&lt;p&gt;Welcome to &lt;a href=&quot;http://it.wikipedia.org/wiki/Sincronicit%C3%A0&quot;&gt;Sincronicity&lt;/a&gt;.&lt;/p&gt;
 
 </content>
    <author>
