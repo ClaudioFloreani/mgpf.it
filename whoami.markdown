@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "About Matteo Flora"
+title: "About: Matteo Flora"
 meta: 
 tags: 
 - about-me
 ---
-## About Matteo
-
 Matteo G.P. Flora is CEO and Founder of [The Fool][1], an italian Technological Startup developing systems and technologies for e-Reputation (Online Reputation Management), e-Moderation (Online UGC & Content Moderation) and IT Protection (DMCA Patrolling, Content Retrieval, Digital Forensics).  
   
 Before founding [The Fool][1], Matteo has been Strategic Consultant in Information Security and Digital, working with clients such as Italian First National Bank, MPS, Walt Disney Interactive, Mediaset, CityGroup, 77Agency, Buongiorno Vitaminic, Glaxxo Smith Kline, ENI. He has participated in projects for Soa, Mg-Art, Todomodo, AstraZeneca, Aktive Reply, Fiat Auto, TodoMondo.  
@@ -31,7 +29,7 @@ He is Technological Consultant for [Telefono Arcobaleno International][2], an in
   
 Digital Rights and Media Activist, member of the Italian Hacking Scene, Matteo is co-founder and contributor of the [GlobaLeaks Project][3], the first open-source WhistleBlowing framework which empowers anyone to easily set up and maintain a secure, anonymous and robust WhistleBlowing Platform. [GlobaLeaks][3] aims to support media organizations, activist groups, corporations and public agencies to implement state-of-the-art WhistleBlowing and Transparency Services through a completely open-source framework.  
   
-Matteo is Board Member in the Italia Computer Professionals Society and member of the technical Committee of the Italian Privacy and Security Observatory.
+Matteo is Board Member in the Italian Computer Professionals Society (AIP) and member of the technical Committee of the Italian Privacy and Security Observatory (OPSI).
 
 Very active in the Italian (Technology) Startup ecosystem, Matteo is Preferred Trainer in H-Farm [Digital Accademia][5], teaching in the prestigious  MasterLab in Digital Economics & Entrepreneurship and is Mentor and Partner in the [EnLabs][4], a Silicon-Valley inspired [Tech Incubator][4] in Rome.  
   
