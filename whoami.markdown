@@ -5,7 +5,7 @@ meta:
 tags: 
 - about-me
 ---
-Matteo G.P. Flora is CEO and Founder of [The Fool][1], an italian Technological Startup developing systems and technologies for e-Reputation (Online Reputation Management), e-Moderation (Online UGC & Content Moderation) and IT Protection (DMCA Patrolling, Content Retrieval, Digital Forensics).  
+Matteo G.P. Flora is Founder and CEO of [The Fool][1], an italian Technological Startup developing systems and technologies for e-Reputation (Online Reputation Management), e-Moderation (Online UGC & Content Moderation) and IT Protection (DMCA Patrolling, Content Retrieval, Digital Forensics).  
   
 Before founding [The Fool][1], Matteo has been Strategic Consultant in Information Security and Digital, working with clients such as Italian First National Bank, MPS, Walt Disney Interactive, Mediaset, CityGroup, 77Agency, Buongiorno Vitaminic, Glaxxo Smith Kline, ENI. He has participated in projects for Soa, Mg-Art, Todomodo, AstraZeneca, Aktive Reply, Fiat Auto, TodoMondo.  
   
