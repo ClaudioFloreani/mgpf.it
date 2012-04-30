@@ -3,12 +3,35 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2012-04-29T21:10:23+00:00</updated>
+ <updated>2012-04-30T02:36:26+00:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
    <email>io@mgpf.it</email>
  </author>
+ 
+ <entry>
+   <title>No a SOPA, sì a CISPA, aka la carica dei paraculi del Web</title>
+   <link href="http://mgpf.it/2012/04/29/No-a-sopa-si-a-cispa-i-paraculi-del-webwq.html"/>
+   <updated>2012-04-29T00:00:00+00:00</updated>
+   <id>http://mgpf.it/2012/04/29/No-a-sopa-si-a-cispa-i-paraculi-del-webwq</id>
+   <content type="html">&lt;p&gt;Mentre mi incammino per gli USA incontrando i vari attori che hanno segnato l&amp;rsquo;iter parlamentare di SOPA e PIPA (ho incontrato lo US Copyright Office, il Department of State, il Department of Homeland Security, lo United States Secret Service, il White House International Security Staff e molti altri che hanno contribuito alla stesura), mi accorgo sempre più della totale e completa ipocrisia che aleggia nel mondo della libertà di espressione online, anche da questo lato dell&amp;rsquo;oceano.  &lt;/p&gt;
+
+&lt;p&gt;Le grandi aziende americane si sono rivoltate con forza lanciando anatemi basati sulla &amp;ldquo;libertà di espressione&amp;rdquo; e la &amp;ldquo;libertà di stampa&amp;rdquo; durante tutta la campagna di SOPA e PIPA, tacciando la legislatura di non venire incontro anche a tutte le esigenze di Privacy dei cittadini. Molto ledevole come comportamento, se non fosse che ora molte delle stesse aziende (tra le altre Microsoft e Facebook) si trovano nell&amp;rsquo;imbarazzante condizione di appoggiare CISPA sugli stessi versanti.  &lt;/p&gt;
+
+&lt;p&gt;Perchè questo? È facilmente detto: mentre SOPA e PIPA avrebbero imposto una serie di vincoli e soprattutti di fardelli sulle società della New Economy (prima fra tutte l&amp;rsquo;obbligo di filtering, come avviene in Italia), CISPA dall&amp;rsquo;altro canto non solamente non richiede alcun tipo di aggiuntivo fardello per le aziende che ne fanno parte ma, al contrario, CISPA non da altro alle compagnie private che una &lt;strong&gt;esenzione&lt;/strong&gt;.  &lt;/p&gt;
+
+&lt;p&gt;Esenzione da cosa? Esenzione totale da qualunque capo di accusa dovessero ricevere per aver consegnato dati personali dei loro utenti ad una forza di polizia, per tutti i casi previsti dalla legge, che è - appare evidente dalla lettura - di maglie discretamente ampie e con poteri nella pratica facilmente piegabili alle necessita&amp;rsquo;.  &lt;/p&gt;
+
+&lt;p&gt;Quindi, non facciamo tanto i pacifisti della domenica e non sbracciamoci molto quando le Big Companies del Web si muovono in direzione di una o dell&amp;rsquo;altra legge: non lo fanno certo per la &amp;ldquo;libertà&amp;rdquo; o per la voglia di essere attive, ma solo ed esclusivamente per il beneficio economico che ne deriva e, in questo caso, per una forte riduzione della responsabilità indotta che sicuramente giova a chi si è visto negli ultimi anni spesso tra incudine e martello tra le richieste degli utenti e quelle delle forze dell&amp;rsquo;ordine.  &lt;/p&gt;
+
+&lt;p&gt;E, che sia chiaro, non mi schiero contro queste società che tentano giustamente di fare i propri interessi ma bensi contro questa &amp;ldquo;paciosita&amp;rdquo; diffusa in cui non si comprende come l&amp;rsquo;appoggio alle manovre previste da SOPA e PIPA non sia dato da una filantropia diffusa, ma da seplici, chiari e banali interessi commerciali.&lt;/p&gt;
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
  
  <entry>
    <title>Me ne vado negli USA (aka IVLP)</title>
@@ -249,28 +272,6 @@ Ed Ã¨, se ci pensate, una metodologia dannatamente efficiente.&lt;/p&gt;
 &lt;p&gt;Qui, nel caso vi interessasse, la &lt;a href=&quot;http://www.thefool.it/2012/01/05/7-gennaio-ore-15-30-su-radio24-matteo-flora-parla-di-socialcrm/&quot;&gt;&amp;ldquo;versione markettara&amp;rdquo; della comunicazione&lt;/a&gt; :)  &lt;/p&gt;
 
 &lt;p&gt;Ditemi &amp;ldquo;in bocca al lupo&amp;rdquo; e, se per caso mi sentite, ditemi le vostre impressioni su come parlo male in Radio :)&lt;/p&gt;
-
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Un malware cancella i dati: il processo deve andare in appello</title>
-   <link href="http://mgpf.it/2012/01/04/Un-malware-cacella-i-dati-processo-da-rifare.html"/>
-   <updated>2012-01-04T00:00:00+00:00</updated>
-   <id>http://mgpf.it/2012/01/04/Un-malware-cacella-i-dati-processo-da-rifare</id>
-   <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;A convicted murderer has been granted a retrial after a stenographerâ€™s backup record of his trial was apparently destroyed by a malware infection.&lt;br /&gt;
-(&amp;hellip;)
-When the Appeal Court discovered that almost no records of the trial still existed, the judge the struck down the conviction and ordered a retrial. &lt;em&gt;(&lt;a href=&quot;http://news.techworld.com/security/3327502/murder-retrial-ordered-after-court-records-destroyed-by-virus/&quot;&gt;fonte&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Interessante sviluppo per il mondo del crimine informatico: se i record e le trascrizioni del processo si cancellano &amp;ldquo;misteriosamente&amp;rdquo; con un malware che stranamente cancella solo quei dati il processo Ã¨ da rifare.  &lt;/p&gt;
-
-&lt;p&gt;Nuove prospettive del cybercrimine?  &lt;/p&gt;
 
 </content>
    <author>
