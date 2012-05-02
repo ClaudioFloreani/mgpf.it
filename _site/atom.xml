@@ -3,7 +3,7 @@
  <title>Matteo Flora</title>
  <link href="http://mgpf.it/atom.xml" rel="self"/>
  <link href="http://mgpf.it/"/>
- <updated>2012-04-30T03:02:45+00:00</updated>
+ <updated>2012-05-02T04:47:53+02:00</updated>
  <id>http://mgpf.it/</id>
  <author>
    <name>Matteo Flora</name>
@@ -11,9 +11,27 @@
  </author>
  
  <entry>
+   <title>Non curiosate negli account Social Media dei dipendenti...</title>
+   <link href="http://mgpf.it/2012/05/01/Non-curiosate-nei-social-dei-dipendenti.html"/>
+   <updated>2012-05-01T00:00:00+02:00</updated>
+   <id>http://mgpf.it/2012/05/01/Non-curiosate-nei-social-dei-dipendenti</id>
+   <content type="html">&lt;p&gt;Interessante &lt;a href=&quot;http://threatpost.com/en_us/blogs/coercing-employees-students-volunteer-account-access-could-soon-be-illegal-043012&quot;&gt;poposta di legge statunitense&lt;/a&gt;:  &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A new bill introduced to the U.S. House of Representatives would make it illegal for employers and other institutions to require Social Media passwords from their employees. The bill, the Social Networking Online Protection Act (SNOPA), would protect current and prospective employees as well as individuals facing disciplinary action against schools, universities, and employers that would otherwise require them to provide user names, passwords, or other access to online content.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</content>
+   <author>
+     <name>Matteo Flora</name>
+     <uri>http://mgpf.it/chisono.html</uri>
+   </author>
+ </entry>
+ 
+ <entry>
    <title>No a SOPA, si` a CISPA, aka la carica dei paraculi del Web</title>
    <link href="http://mgpf.it/2012/04/29/No-a-sopa-si-a-cispa-i-paraculi-del-webwq.html"/>
-   <updated>2012-04-29T00:00:00+00:00</updated>
+   <updated>2012-04-29T00:00:00+02:00</updated>
    <id>http://mgpf.it/2012/04/29/No-a-sopa-si-a-cispa-i-paraculi-del-webwq</id>
    <content type="html">&lt;p&gt;Mentre mi incammino per gli USA incontrando i vari attori che hanno segnato l&amp;rsquo;iter parlamentare di SOPA e PIPA (ho incontrato lo US Copyright Office, il Department of State, il Department of Homeland Security, lo United States Secret Service, il White House International Security Staff e molti altri che hanno contribuito alla stesura), mi accorgo sempre piu&lt;code&gt; della totale e completa ipocrisia che aleggia nel mondo della liberta&lt;/code&gt; di espressione online, anche da questo lato dell&amp;rsquo;oceano.  &lt;/p&gt;
 
@@ -40,7 +58,7 @@ P.P.S. Lo so che gli accenti non vanno. Scrivo dall&amp;rsquo;ipad, in SSH su un
  <entry>
    <title>Me ne vado negli USA (aka IVLP)</title>
    <link href="http://mgpf.it/2012/04/20/Me-ne-vado-negli-usa.html"/>
-   <updated>2012-04-20T00:00:00+00:00</updated>
+   <updated>2012-04-20T00:00:00+02:00</updated>
    <id>http://mgpf.it/2012/04/20/Me-ne-vado-negli-usa</id>
    <content type="html">&lt;p&gt;Domani parto per gli Stati Uniti. Ritornerò in Italia il 13 Maggio dopo tappe a Washington DC, Kansas City, New York, Ans Antonio e San Francisco, ospite del Governo Americano in seno al Programma &lt;a href=&quot;http://exchanges.state.gov/ivlp/&quot;&gt;International Visitor Leadership Program&lt;/a&gt; del Dipartimento di Stato, uno dei due italiani selezionati per il programma di cooperazione internazionale.  &lt;/p&gt;
 
@@ -65,7 +83,7 @@ P.P.S. Lo so che gli accenti non vanno. Scrivo dall&amp;rsquo;ipad, in SSH su un
  <entry>
    <title>Niente trasparenza sul sito di Governo.it</title>
    <link href="http://mgpf.it/2012/04/13/Niente-trasparenza-sul-sito-del-Governo.html"/>
-   <updated>2012-04-13T00:00:00+00:00</updated>
+   <updated>2012-04-13T00:00:00+02:00</updated>
    <id>http://mgpf.it/2012/04/13/Niente-trasparenza-sul-sito-del-Governo</id>
    <content type="html">&lt;p&gt;Non riesco a celare l&amp;rsquo;enorme tristezza dopo che su Facebook &lt;a href=&quot;https://www.facebook.com/val3r10&quot;&gt;qualcuno&lt;/a&gt; mi segnala un peoblema che tanti altri, come il &lt;a href=&quot;http://www.pasteris.it/blog/2010/02/18/i-furbetti-della-trasparenza-e-la-manipolazione-dei-motori-di-ricerca/#.T4gWRmPrpH8&quot;&gt;buon Pasteris&lt;/a&gt; avevano già segnalato&amp;hellip;  &lt;/p&gt;
 
@@ -107,7 +125,7 @@ Non indicizzare NESSUNA delle pagine che riportani i compensi dirigenti  &lt;/p&
  <entry>
    <title>In difesa di Riccardo Luna: da SilkRoad a TOR</title>
    <link href="http://mgpf.it/2012/04/12/In-difesa-di-Riccardo-Luna-SilkRoad-e-TOR.html"/>
-   <updated>2012-04-12T00:00:00+00:00</updated>
+   <updated>2012-04-12T00:00:00+02:00</updated>
    <id>http://mgpf.it/2012/04/12/In-difesa-di-Riccardo-Luna-SilkRoad-e-TOR</id>
    <content type="html">&lt;p&gt;Credo che il sintomo principe del fatto di stare invecchiando sia quello di mal tollerare gli estremismi, di qualunque lato essi siano.&lt;br /&gt;
 Non dissimile anche questa volta l&amp;rsquo;ennesima polemica sull&amp;rsquo;&lt;a href=&quot;http://www.repubblica.it/tecnologia/2012/04/11/news/sesso_droga_e_armi_la_faccia_cattiva_del_web-33089682/?ref=HREC1-10&quot;&gt;Articolo di Riccardo Luna&lt;/a&gt; su Repubblica, un pezzo sicuramente indegnamente titolato e sicuramente non dirompente nelle sue novità, ma ancora più certamente non così da vituperarsi.  &lt;/p&gt;
@@ -165,7 +183,7 @@ Non si protegge un bambino da Internet: gli si insegna a comprenderla ed affront
  <entry>
    <title>Siti pedofili: metodi stupidi ma estremamente efficienti per nascondere le immagini</title>
    <link href="http://mgpf.it/2012/03/26/Metodi-stupidi-ma-estremamente-efficienti.html"/>
-   <updated>2012-03-26T00:00:00+00:00</updated>
+   <updated>2012-03-26T00:00:00+02:00</updated>
    <id>http://mgpf.it/2012/03/26/Metodi-stupidi-ma-estremamente-efficienti</id>
    <content type="html">&lt;p&gt;Non è detto che i metodi meglio ingegnerizzati e complessi siano sempre i migliori. Alle volte invece sono proprio i metodi più stupidi che hanno un impatto maggiore ed incredibilmente efficiente:&lt;/p&gt;
 
@@ -187,7 +205,7 @@ Ed è, se ci pensate, una metodologia dannatamente efficiente.&lt;/p&gt;
  <entry>
    <title>GlobaLeaks: Hacker in campo contro i corrotti</title>
    <link href="http://mgpf.it/2012/02/06/Hacker-in-campo-contro-i-corrotti.html"/>
-   <updated>2012-02-06T00:00:00+00:00</updated>
+   <updated>2012-02-06T00:00:00+01:00</updated>
    <id>http://mgpf.it/2012/02/06/Hacker-in-campo-contro-i-corrotti</id>
    <content type="html">&lt;p&gt;Bell&amp;rsquo;approfondimento di Arturo Di Corinto che parla di &lt;a href=&quot;http://globaleaks.org&quot;&gt;GlobaLeaks&lt;/a&gt;, il framework open-source di whistleblowingm dalle pagine di &lt;a href=&quot;http://www.repubblica.it/tecnologia/2012/02/05/news/hacker_anti_corruzione-29393382/&quot;&gt;Repubblica&lt;/a&gt;:&lt;/p&gt;
 
@@ -207,7 +225,7 @@ Ed è, se ci pensate, una metodologia dannatamente efficiente.&lt;/p&gt;
  <entry>
    <title>WikiLeaks si sposta su Sealand</title>
    <link href="http://mgpf.it/2012/02/02/Wikileaks-a-Sealand.html"/>
-   <updated>2012-02-02T00:00:00+00:00</updated>
+   <updated>2012-02-02T00:00:00+01:00</updated>
    <id>http://mgpf.it/2012/02/02/Wikileaks-a-Sealand</id>
    <content type="html">&lt;p&gt;Che sia la soluzione definitiva alla persecuzione da parte degli USA? &lt;a href=&quot;http://wikileaks.org&quot;&gt;WikiLeaks&lt;/a&gt; decide di spostare i server su &lt;a href=&quot;http://en.wikipedia.org/wiki/Principality_of_Sealand&quot;&gt;SeaLand&lt;/a&gt;:&lt;/p&gt;
 
@@ -227,7 +245,7 @@ Ed è, se ci pensate, una metodologia dannatamente efficiente.&lt;/p&gt;
  <entry>
    <title>Google Maps: 500.000 euro di multa in Francia</title>
    <link href="http://mgpf.it/2012/02/02/Google-Maps-Francia-Antitrust.html"/>
-   <updated>2012-02-02T00:00:00+00:00</updated>
+   <updated>2012-02-02T00:00:00+01:00</updated>
    <id>http://mgpf.it/2012/02/02/Google-Maps-Francia-Antitrust</id>
    <content type="html">&lt;p&gt;La Francia, con una sentenza storica condanna Google France al pagamento di una multa di 500.000 euro per aver reso disponibile &amp;ldquo;gratuitamente&amp;rdquo; la piattaforma Google Maps:&lt;/p&gt;
 
@@ -247,35 +265,13 @@ Ed è, se ci pensate, una metodologia dannatamente efficiente.&lt;/p&gt;
  <entry>
    <title>SOPA: la mia posizione 'controcorrente'</title>
    <link href="http://mgpf.it/2012/01/18/SOPA-e-diritti-dei-produttori-di-contenuti.html"/>
-   <updated>2012-01-18T00:00:00+00:00</updated>
+   <updated>2012-01-18T00:00:00+01:00</updated>
    <id>http://mgpf.it/2012/01/18/SOPA-e-diritti-dei-produttori-di-contenuti</id>
    <content type="html">&lt;p&gt;Ecco la mia posizione su &lt;a href=&quot;http://datamanager.it/news/sopa/sopa-il-web-si-censura-protesta&quot;&gt;DataManager&lt;/a&gt; di oggi:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Matteo G.P. Flora, CEO e Fondatore di The Fool srl, società leader italiana per il controllo e la tutela dei contenuti online, anche se con alcuni distinguo lascia aperto uno spiraglio alla necessità di tutelare i diritti d’autore: “E&amp;rsquo; certo vero che SOPA ha ancora aspetti controversi che vanno chiariti per rispetto della rete tutta, ma comunque sia, ritengo sia indispensabile una legge che tuteli il contenuto originale. E&amp;rsquo; proprio sul contenuto originale e sulla sua creazione che si basa l&amp;rsquo;industria dell&amp;rsquo;intrattenimento e oggi chi investe ingenti capitali per la creazione, non è efficacemente tutelato. Oggi come oggi la tutela dei propri diritti richiede sforzi di controllo, ricerca, segnalazione che sono assolutamente impossibili da sostenere dai piccoli produttori di contenuti e le tecnologie di individuazione automatiche sono assolutamente inadeguate. Chi vive sulla produzione di contenuti professionali oggi come oggi deve mettere in atto una procedura di ricerca su centinaia di domini che lucrano sui propri contenuti senza diritti e in modo completamente fraudolento. Società come la nostra offrono i servizi di ricerca e di takedown (rimozione ndr), sicuramente efficaci ma inavvicinabili per le label indipendenti, lasciate nell&amp;rsquo;oblio della diffusione illegale”.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-</content>
-   <author>
-     <name>Matteo Flora</name>
-     <uri>http://mgpf.it/chisono.html</uri>
-   </author>
- </entry>
- 
- <entry>
-   <title>Sabato: ospite a 2024 con Enrico Pagliarini</title>
-   <link href="http://mgpf.it/2012/01/05/Sabato-su-radio-24-matteo-flora-a-2024.html"/>
-   <updated>2012-01-05T00:00:00+00:00</updated>
-   <id>http://mgpf.it/2012/01/05/Sabato-su-radio-24-matteo-flora-a-2024</id>
-   <content type="html">&lt;p&gt;La rivolta araba e il movimento mondiale degli indignados sono solo la punta dell’enorme iceberg della potenza dei Social Media nell’epoca dei nativi digitali. Così, al giorno d’oggi, per una buona strategia di marketing non si può prescindere dal capire quali sono le metodologie e gli strumenti migliori per conoscere, gestire, misurare e analizzare i contenuti generati dagli utenti. Questo significa sapere cosa si intende per &lt;strong&gt;UGC lifecycle management&lt;/strong&gt;, un concetto che comprende i reami di &lt;em&gt;e-Reputation&lt;/em&gt;, &lt;em&gt;e-Moderation&lt;/em&gt;, &lt;em&gt;SocialCRM&lt;/em&gt;, &lt;em&gt;Content Curation&lt;/em&gt; e &lt;em&gt;IP-Protection&lt;/em&gt;.  &lt;/p&gt;
-
-&lt;p&gt;Ho deciso di accettare l&amp;rsquo;invito a chiacchierarne un poco sabato 7 gennaio a partire dalle ore 15.30 su radio24, la radio de Il Sole 24ore, durante il programma “2024 come le tecnologie ci cambiano la vita” di Enrico Pagliarini. Durante la diretta parlerò di quello che mi domanderà Enrico e della nostra storia in The Fool, oltre che delle tecnologie abilitanti per realizzare un’efficace strategia di comunicazione, reporting, analisi ed intelligence dei Social Media.  &lt;/p&gt;
-
-&lt;p&gt;Per seguire il programma basta sintonizzarsi su &lt;a href=&quot;http://www.radio24.ilsole24ore.com&quot;&gt;radio24&lt;/a&gt; o collegarsi con lo &lt;a href=&quot;http://www.radio24.ilsole24ore.com&quot;&gt;streaming on-line&lt;/a&gt;. Per conoscere la frequenza esatta della vostra provincia, accedere allo streaming e scaricare il podcast &lt;a href=&quot;http://www.radio24.ilsole24ore.com&quot;&gt;visitate il sito&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Qui, nel caso vi interessasse, la &lt;a href=&quot;http://www.thefool.it/2012/01/05/7-gennaio-ore-15-30-su-radio24-matteo-flora-parla-di-socialcrm/&quot;&gt;&amp;ldquo;versione markettara&amp;rdquo; della comunicazione&lt;/a&gt; :)  &lt;/p&gt;
-
-&lt;p&gt;Ditemi &amp;ldquo;in bocca al lupo&amp;rdquo; e, se per caso mi sentite, ditemi le vostre impressioni su come parlo male in Radio :)&lt;/p&gt;
 
 </content>
    <author>
